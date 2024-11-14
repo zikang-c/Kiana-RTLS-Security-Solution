@@ -1,0 +1,378 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:54:33.631
+1,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:54:28.612
+2,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:54:18.583
+3,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:54:08.451
+4,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:53:58.422
+5,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:53:48.300
+6,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:53:38.261
+7,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:53:27.927
+8,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:53:17.894
+9,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:53:07.769
+10,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:52:57.734
+11,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:52:47.708
+12,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46059815,-0.93239386,2019-10-29 15:52:37.674
+13,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:10:39.986
+14,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:10:29.943
+15,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:10:19.811
+16,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:10:09.678
+17,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:09:59.639
+18,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:09:49.512
+19,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:09:39.384
+20,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:09:29.253
+21,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:09:19.224
+22,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:09:09.089
+23,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:08:58.960
+24,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.460447621043606,-0.932436529335964,2019-12-16 14:08:48.834
+25,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:40:40.339
+26,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:38:50.239
+27,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:35:41.422
+28,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:34:23.210
+29,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:34:02.171
+30,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:33:16.528
+31,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:33:03.504
+32,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:32:33.208
+33,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:31:54.108
+34,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:31:46.482
+35,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:31:38.961
+36,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:31:21.912
+37,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:30:48.730
+38,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-18 14:30:26.173
+39,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:30:09.330
+40,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:29:53.486
+41,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:29:47.372
+42,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-18 14:29:25.411
+43,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:29:18.094
+44,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:47.814
+45,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:37.286
+46,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:28:15.827
+47,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:04.999
+48,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:27:56.075
+49,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:27:44.838
+50,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:27:24.883
+51,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:27:17.463
+52,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:27:09.146
+53,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:26:52.498
+54,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:26:43.473
+55,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:26:35.549
+56,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-18 14:26:27.930
+57,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:26:09.383
+58,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:25:59.855
+59,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:25:10.022
+60,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:24:34.830
+61,80:58:f8:f4:25:8d,62,Alicia Kramer,Corporate Trainer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:24:28.310
+62,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 09:00:11.506
+63,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 09:00:06.402
+64,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:59:56.366
+65,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:59:46.330
+66,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:59:36.004
+67,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:59:25.878
+68,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:59:15.837
+69,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:59:05.798
+70,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:58:55.672
+71,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:58:45.634
+72,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:58:35.302
+73,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:58:25.270
+74,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46078621,-0.93222453,2019-08-29 08:58:15.144
+75,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:59:32.016
+76,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:59:10.354
+77,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:57:42.216
+78,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:57:32.904
+79,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:56:21.398
+80,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:56:17.087
+81,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:55:50.513
+82,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:55:41.692
+83,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:55:30.258
+84,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:55:20.128
+85,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:54:59.368
+86,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:54:41.116
+87,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:54:33.403
+88,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:54:17.150
+89,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:53:35.541
+90,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 16:53:20.899
+91,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:53:17.903
+92,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:52:48.918
+93,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46088060672696,-0.9322253034364016,2019-10-17 16:52:37.485
+94,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:52:20.436
+95,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:52:12.519
+96,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 16:51:49.653
+97,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:51:31.712
+98,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:51:10.646
+99,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:51:01.128
+100,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:50:38.456
+101,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:50:25.931
+102,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:50:14.296
+103,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:49:31.785
+104,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46068874478084,-0.9324070293859744,2019-10-17 16:49:10.930
+105,80:58:f8:fa:62:4b,44,Shane Jones,Laboratory Technician,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:47:30.664
+106,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46051021,-0.93242014,2019-11-05 11:48:04.669
+107,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46039952436673,-0.9326039841577566,2019-11-05 11:47:52.234
+108,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46039952436673,-0.9326039841577566,2019-11-05 11:47:47.221
+109,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:47:38.994
+110,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:47:28.959
+111,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46039952436673,-0.9326039841577566,2019-11-05 11:47:16.623
+112,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:47:08.806
+113,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:46:58.771
+114,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:46:48.338
+115,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:46:38.304
+116,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:46:28.265
+117,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:46:18.142
+118,88:b4:a6:d1:ba:b6,13,Mary Wong,Graphic Designer,3.0,employee,0,51.46038947879725,-0.9327566908777384,2019-11-05 11:46:08.103
+119,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:55:41.950
+120,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:55:36.934
+121,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:55:26.903
+122,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:55:16.785
+123,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:55:06.749
+124,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:54:56.316
+125,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:54:46.284
+126,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:54:36.255
+127,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:54:26.128
+128,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:54:16.104
+129,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:54:05.980
+130,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:53:55.636
+131,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-08-15 08:53:45.608
+132,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:23:23.394
+133,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:23:18.377
+134,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:23:08.255
+135,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:22:57.922
+136,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:22:47.886
+137,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:22:37.759
+138,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:22:27.729
+139,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:22:17.696
+140,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:22:07.567
+141,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:21:57.240
+142,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:21:47.207
+143,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:21:37.087
+144,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-25 12:21:27.053
+145,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:05:50.080
+146,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:05:28.229
+147,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:04:14.463
+148,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:03:48.005
+149,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:03:18.637
+150,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:03:01.293
+151,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:02:51.373
+152,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:02:30.424
+153,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:02:22.608
+154,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:01:55.465
+155,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:01:44.823
+156,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:01:36.006
+157,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:01:17.661
+158,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:00:58.318
+159,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:00:44.190
+160,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:00:37.271
+161,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:00:22.035
+162,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:00:15.825
+163,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-17 15:00:04.811
+164,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:59:52.871
+165,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:59:45.249
+166,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:59:35.829
+167,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:58:51.926
+168,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:58:43.906
+169,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:58:23.361
+170,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:58:06.175
+171,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:57:50.377
+172,80:58:f8:cc:7e:30,54,Jennifer Harrell,Warehouse Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:56:27.692
+173,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:45:34.773
+174,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:44:52.951
+175,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:44:00.902
+176,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:42:03.526
+177,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:39:58.413
+178,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:39:31.640
+179,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 12:39:17.302
+180,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:38:28.168
+181,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:38:08.511
+182,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:37:55.272
+183,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:37:35.118
+184,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:37:17.072
+185,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 12:37:07.546
+186,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:36:40.472
+187,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:36:36.264
+188,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:36:10.585
+189,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:36:04.071
+190,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:35:57.955
+191,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46092792207602,-0.9321763344130416,2019-10-18 12:35:35.995
+192,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 12:35:20.751
+193,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46092792207602,-0.9321763344130416,2019-10-18 12:35:07.613
+194,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:34:58.886
+195,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:34:41.533
+196,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 12:34:38.427
+197,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:34:06.534
+198,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:33:56.812
+199,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 12:33:24.631
+200,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46092792207602,-0.9321763344130416,2019-10-18 12:33:11.988
+201,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:33:08.983
+202,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:32:56.245
+203,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 12:32:39.603
+204,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 12:31:49.059
+205,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:31:11.253
+206,80:58:f8:14:e6:06,34,Miss Heather Smith,UX/UI Designer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:31:03.344
+207,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:53:57.861
+208,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:53:47.832
+209,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:53:37.797
+210,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:53:27.372
+211,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:53:17.246
+212,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:53:07.217
+213,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:52:57.188
+214,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:52:47.157
+215,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:52:37.130
+216,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:52:26.702
+217,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:52:16.572
+218,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460931428072975,-0.9321702964858501,2019-10-03 13:52:06.543
+219,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-03 13:51:56.514
+220,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:11:22.905
+221,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:11:17.893
+222,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:11:07.457
+223,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:10:57.419
+224,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:10:47.388
+225,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:10:37.351
+226,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:10:27.315
+227,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:10:17.292
+228,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:10:06.849
+229,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:09:56.727
+230,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46033603,-0.93223681,2019-11-05 10:09:46.689
+231,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:47:20.226
+232,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:43:34.113
+233,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:43:12.451
+234,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:41:41.905
+235,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:40:39.535
+236,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:39:32.359
+237,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:38:31.489
+238,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-18 14:38:21.860
+239,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:38:18.953
+240,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46061974632147,-0.9322457389767635,2019-10-18 14:38:02.313
+241,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:37:42.752
+242,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:37:23.904
+243,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:37:12.169
+244,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:36:03.589
+245,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460921333345,-0.9323753059353508,2019-10-18 14:35:58.867
+246,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:35:44.326
+247,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-18 14:34:15.189
+248,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:34:00.847
+249,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46061974632147,-0.9322457389767635,2019-10-18 14:33:28.765
+250,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-18 14:33:17.529
+251,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:32:46.749
+252,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 14:32:33.915
+253,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:32:22.683
+254,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-18 14:32:05.635
+255,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:31:58.916
+256,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 14:31:13.388
+257,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:31:01.662
+258,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:30:58.352
+259,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 14:30:49.129
+260,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46061974632147,-0.9322457389767635,2019-10-18 14:30:34.898
+261,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-18 14:30:22.566
+262,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46061974632147,-0.9322457389767635,2019-10-18 14:30:15.346
+263,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46061974632147,-0.9322457389767635,2019-10-18 14:29:56.493
+264,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:29:15.184
+265,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:29:03.556
+266,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:33.776
+267,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:25.154
+268,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:28:07.306
+269,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:27:41.529
+270,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:27:20.073
+271,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:14:37.016
+272,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:14:26.985
+273,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:14:16.861
+274,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:14:06.828
+275,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:13:56.793
+276,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:13:46.664
+277,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:13:36.634
+278,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:13:26.509
+279,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:13:16.478
+280,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:13:06.443
+281,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:12:56.320
+282,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:12:46.282
+283,80:58:f8:a7:eb:9d,77,David Williams,Environmental Consultant,1.0,employee,0,51.46039468682327,-0.9327803079628036,2019-12-06 11:12:36.157
+284,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:53:11.341
+285,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:52:21.614
+286,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:51:38.606
+287,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:51:07.029
+288,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:50:39.050
+289,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:50:29.632
+290,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:50:12.995
+291,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:50:09.077
+292,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:49:56.647
+293,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:49:45.913
+294,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:49:38.692
+295,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:49:27.160
+296,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:49:11.728
+297,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:49:09.112
+298,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:48:55.479
+299,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:48:47.555
+300,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:48:38.329
+301,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:48:29.303
+302,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 09:48:18.571
+303,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:48:06.354
+304,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:47:53.711
+305,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:47:43.381
+306,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:47:34.552
+307,80:58:f8:f2:ff:7a,24,Sean Webster,Copywriter,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:46:46.626
+308,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:12:38.563
+309,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:11:58.578
+310,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-14 10:09:54.187
+311,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:08:40.416
+312,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:08:24.179
+313,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-14 10:07:05.087
+314,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:06:52.157
+315,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:06:42.334
+316,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:05:40.691
+317,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:05:17.831
+318,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:05:07.817
+319,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:04:58.886
+320,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:04:46.659
+321,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:04:34.026
+322,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:04:23.404
+323,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:04:18.491
+324,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:03:42.904
+325,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:03:38.593
+326,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:03:24.263
+327,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:03:14.336
+328,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:02:59.199
+329,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:02:44.763
+330,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-14 10:02:10.988
+331,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:01:59.255
+332,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-14 10:01:45.719
+333,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:01:27.569
+334,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-14 10:01:12.935
+335,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-14 10:01:05.920
+336,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:00:57.898
+337,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:00:43.262
+338,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:00:22.111
+339,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:59:58.153
+340,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:58:54.690
+341,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:57:20.662
+342,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:15:15.071
+343,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:15:09.960
+344,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:14:59.929
+345,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:14:49.900
+346,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:14:39.869
+347,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:14:29.838
+348,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:14:19.806
+349,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:14:09.779
+350,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:13:59.654
+351,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:13:49.623
+352,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:13:39.591
+353,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:13:29.563
+354,80:58:f8:c5:ae:60,47,Dr. Samuel Ray,Copywriter,1.0,employee,0,51.4608408994764,-0.9322042486201748,2019-12-06 13:13:19.529
+355,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46045035593144,-0.9331750957940979,2019-11-06 14:27:50.802
+356,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:27:43.375
+357,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:27:38.263
+358,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:27:28.229
+359,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:27:18.102
+360,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:27:08.065
+361,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:26:57.635
+362,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:26:47.507
+363,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:26:37.474
+364,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:26:27.345
+365,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:26:16.608
+366,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46036470968637,-0.932758858783868,2019-11-06 14:26:06.477
+367,88:b4:a6:c2:61:a5,13,Matthew Hines Jr.,Recruitment Specialist,1.0,employee,0,51.46045035593144,-0.9331750957940979,2019-11-06 14:25:59.255
+368,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:58:00.001
+369,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.460800830916526,-0.9322487072574052,2020-01-17 14:57:59.402
+370,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.46077878049402,-0.9322483557648036,2020-01-17 14:57:44.363
+371,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.4606768884424,-0.9322337373170888,2020-01-17 14:57:29.924
+372,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.460800830916526,-0.9322487072574052,2020-01-17 14:57:09.270
+373,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:56:54.840
+374,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.460861318233114,-0.9323487295384116,2020-01-17 14:56:47.926
+375,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.46078066574239,-0.9322474142791608,2020-01-17 14:56:34.090
+376,60:1d:91:c6:1d:75,9,Tony Lewis,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:56:19.680

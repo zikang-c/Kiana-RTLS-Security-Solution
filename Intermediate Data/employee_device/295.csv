@@ -1,0 +1,371 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:53:11.870
+1,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:53:06.860
+2,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:52:56.738
+3,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:52:46.707
+4,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:52:36.676
+5,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:52:26.653
+6,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:52:16.627
+7,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:52:06.678
+8,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:51:56.576
+9,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:51:46.539
+10,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:51:36.511
+11,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:51:26.480
+12,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46092216982409,-0.932374501858895,2019-12-10 14:51:16.453
+13,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2020-01-17 12:56:17.450
+14,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2020-01-17 12:55:43.726
+15,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2020-01-17 12:55:02.247
+16,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2020-01-17 12:54:42.196
+17,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:05:27.751
+18,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:05:17.628
+19,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:05:07.406
+20,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:04:57.282
+21,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:04:47.062
+22,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:04:36.936
+23,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:04:26.716
+24,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:04:16.589
+25,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:04:06.366
+26,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:03:56.243
+27,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:03:46.120
+28,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46050388051328,-0.932581344920885,2020-01-03 11:03:35.895
+29,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:06:20.850
+30,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:06:17.144
+31,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 12:05:07.047
+32,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:01:47.783
+33,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 12:01:38.251
+34,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:00:23.842
+35,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:00:18.925
+36,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:59:48.436
+37,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:59:38.708
+38,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:58:57.999
+39,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093594144372,-0.9323826287834724,2019-10-18 11:58:49.069
+40,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:58:27.311
+41,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:57:48.700
+42,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:57:24.738
+43,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:57:16.413
+44,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:57:03.878
+45,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:56:54.953
+46,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:56:37.805
+47,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:56:29.182
+48,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:55:46.861
+49,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:55:33.721
+50,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:55:08.349
+51,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:54:59.725
+52,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:54:46.893
+53,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:54:09.486
+54,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:53:58.751
+55,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:52:55.058
+56,80:58:f8:8f:f7:e0,57,Katherine Ibarra,UX/UI Designer,0.0,employee,0,51.460923876810746,-0.9323753645879927,2019-10-18 11:51:55.993
+57,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:05:46.670
+58,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:05:12.989
+59,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:04:19.847
+60,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 14:03:44.456
+61,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:03:18.990
+62,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:03:05.343
+63,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:02:54.311
+64,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:02:41.278
+65,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:02:25.039
+66,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:02:11.809
+67,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 14:02:03.079
+68,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:01:45.939
+69,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:01:39.621
+70,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 14:01:22.982
+71,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:01:14.259
+72,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:01:01.523
+73,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 14:00:53.402
+74,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:00:43.489
+75,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:00:31.751
+76,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 14:00:27.043
+77,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:00:19.422
+78,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 13:59:49.146
+79,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:59:37.121
+80,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 13:59:12.854
+81,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:58:46.582
+82,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:58:35.651
+83,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 13:58:26.625
+84,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:58:14.499
+85,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.460518496421855,-0.9327852672035521,2019-10-15 13:57:34.286
+86,f4:f5:24:c2:76:3b,30,Tonya Barron,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 13:56:35.451
+87,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46084872731484,-0.932363451910704,2020-02-11 16:11:43.321
+88,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:11:35.674
+89,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:11:29.001
+90,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:11:16.860
+91,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:11:04.965
+92,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:10:59.963
+93,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:10:49.112
+94,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:10:39.083
+95,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:10:25.278
+96,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:10:15.750
+97,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:10:06.641
+98,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:09:58.625
+99,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.460855416861605,-0.9323648688922118,2020-02-11 16:09:43.129
+100,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:52:34.182
+101,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:52:29.167
+102,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:52:19.137
+103,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:52:08.610
+104,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:51:58.578
+105,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:51:48.547
+106,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:51:38.516
+107,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:51:28.486
+108,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:51:18.450
+109,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:51:08.018
+110,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:50:57.987
+111,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:50:47.866
+112,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46074648283586,-0.9322546701593812,2019-11-01 15:50:37.836
+113,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:23:54.208
+114,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:22:24.033
+115,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:21:44.613
+116,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:21:19.934
+117,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:21:07.797
+118,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-21 11:20:02.300
+119,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-21 11:19:45.248
+120,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:19:30.500
+121,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:18:49.777
+122,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:18:36.038
+123,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:18:14.178
+124,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:18:08.762
+125,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:17:47.897
+126,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:17:24.526
+127,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:17:17.706
+128,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:17:04.666
+129,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-21 11:16:34.990
+130,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:16:29.664
+131,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:16:10.305
+132,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:15:51.252
+133,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:15:46.534
+134,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-21 11:15:39.616
+135,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:15:18.149
+136,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:15:01.598
+137,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:14:32.607
+138,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:14:29.805
+139,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:14:03.436
+140,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-21 11:13:59.608
+141,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:13:35.137
+142,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:13:25.404
+143,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:13:06.549
+144,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:12:51.501
+145,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:12:46.284
+146,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:12:32.843
+147,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:12:27.726
+148,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:12:04.055
+149,80:58:f8:ec:e6:bc,63,Kelly Ramsey,Research Scientist,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:11:45.398
+150,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.46035601809351,-0.932694109267275,2019-11-05 16:22:31.044
+151,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.46035601809351,-0.932694109267275,2019-11-05 16:22:25.935
+152,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.46035601809351,-0.932694109267275,2019-11-05 16:22:15.899
+153,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:22:07.978
+154,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:21:57.942
+155,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:21:47.906
+156,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.46035601809351,-0.932694109267275,2019-11-05 16:21:35.269
+157,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.46035601809351,-0.932694109267275,2019-11-05 16:21:25.145
+158,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:21:17.715
+159,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:21:07.284
+160,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:20:57.261
+161,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:20:47.223
+162,88:b4:a6:b3:9a:dc,13,Debbie Anderson,Software Engineer,0.0,employee,0,51.460432742117845,-0.9329197346327122,2019-11-05 16:20:37.097
+163,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:42:17.263
+164,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:41:23.425
+165,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:36:33.503
+166,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:36:21.266
+167,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.460583407711866,-0.9323783918076206,2019-10-18 11:36:11.234
+168,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.460583407711866,-0.9323783918076206,2019-10-18 11:34:19.925
+169,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.460779908497,-0.9322265302832734,2019-10-18 11:33:44.923
+170,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:31:34.240
+171,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076273800889,-0.9322423377033328,2019-10-18 11:30:39.484
+172,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076273800889,-0.9322423377033328,2019-10-18 11:29:52.951
+173,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:29:49.537
+174,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:29:34.299
+175,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:29:25.870
+176,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:29:17.147
+177,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076273800889,-0.9322423377033328,2019-10-18 11:28:46.162
+178,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:28:35.231
+179,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:28:26.806
+180,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:27:43.980
+181,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:27:30.345
+182,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:27:27.042
+183,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:26:50.431
+184,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:26:28.066
+185,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:25:47.455
+186,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-18 11:25:18.774
+187,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:22:14.476
+188,80:58:f8:b5:e8:68,26,Kayla Jones,Product Designer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:22:08.760
+189,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:31:34.840
+190,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:31:29.820
+191,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:31:19.793
+192,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:31:09.767
+193,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:30:59.655
+194,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:30:49.627
+195,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:30:39.602
+196,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:30:29.575
+197,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:30:19.550
+198,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:30:09.519
+199,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:29:59.396
+200,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46061700113304,-0.93236312040499,2020-01-14 15:29:49.381
+201,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047804,-0.93266756,2019-12-11 16:15:44.722
+202,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047804,-0.93266756,2019-12-11 16:15:39.607
+203,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047804,-0.93266756,2019-12-11 16:15:29.376
+204,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047804,-0.93266756,2019-12-11 16:15:08.914
+205,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047804,-0.93266756,2019-12-11 16:14:53.571
+206,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047804,-0.93266756,2019-12-11 16:14:48.450
+207,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:53:48.078
+208,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:53:38.042
+209,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:53:27.913
+210,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:53:17.879
+211,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:53:07.751
+212,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:52:57.712
+213,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:52:47.578
+214,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:52:37.545
+215,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:52:27.426
+216,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:52:17.411
+217,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:52:07.359
+218,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46038106,-0.93292202,2019-12-11 13:51:57.231
+219,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:56:26.183
+220,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:56:16.146
+221,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:56:06.016
+222,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:55:55.983
+223,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:55:45.946
+224,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:55:35.913
+225,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:55:25.783
+226,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:55:15.756
+227,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:55:05.720
+228,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:54:55.684
+229,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:54:45.552
+230,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:54:35.523
+231,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46079995422032,-0.9322086208155776,2020-01-09 09:50:36.728
+232,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46079995422032,-0.9322086208155776,2020-01-09 09:50:26.704
+233,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:50:17.384
+234,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:50:07.263
+235,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:49:57.131
+236,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:49:46.998
+237,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:49:36.886
+238,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:49:26.740
+239,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:49:16.619
+240,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:49:06.494
+241,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:48:56.369
+242,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46077483,-0.93232188,2020-01-09 09:48:46.244
+243,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:41:21.874
+244,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:41:16.855
+245,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:41:06.822
+246,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:40:56.790
+247,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:40:46.757
+248,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:40:36.723
+249,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:40:26.680
+250,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:40:16.648
+251,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:40:06.613
+252,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:39:56.579
+253,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:39:46.551
+254,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:39:36.516
+255,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048657840552,-0.9330221826992888,2019-12-11 10:39:26.477
+256,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:16:21.236
+257,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:16:16.127
+258,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:16:06.101
+259,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:15:56.068
+260,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:15:46.035
+261,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:15:36.004
+262,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:15:25.972
+263,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:15:15.936
+264,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:15:05.959
+265,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:14:55.872
+266,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46048424735671,-0.9330249661250036,2019-12-11 10:14:45.836
+267,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.460481494571184,-0.9328664667101164,2019-12-11 10:14:35.802
+268,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.460481494571184,-0.9328664667101164,2019-12-11 10:14:25.768
+269,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:21:06.233
+270,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:18:53.099
+271,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:18:45.874
+272,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:18:34.946
+273,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:18:17.204
+274,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:16:43.856
+275,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:16:34.726
+276,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:16:10.865
+277,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:14:57.683
+278,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:14:43.730
+279,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:14:32.199
+280,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:14:26.381
+281,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042523248204,-0.9330740545847352,2019-10-15 12:13:40.160
+282,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.4604778415471,-0.9330472583365766,2019-10-15 12:13:33.543
+283,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:13:22.711
+284,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:13:17.597
+285,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042820461663,-0.933045228752586,2019-10-15 12:13:04.474
+286,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:12:53.737
+287,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042820461663,-0.933045228752586,2019-10-15 12:12:36.489
+288,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042820461663,-0.933045228752586,2019-10-15 12:12:22.643
+289,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.4604778415471,-0.9330472583365766,2019-10-15 12:12:07.100
+290,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:11:52.561
+291,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042523248204,-0.9330740545847352,2019-10-15 12:11:47.745
+292,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041581799097,-0.9330092186234926,2019-10-15 12:11:31.403
+293,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:11:21.077
+294,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.4604778415471,-0.9330472583365766,2019-10-15 12:11:13.450
+295,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:11:01.325
+296,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042523248204,-0.9330740545847352,2019-10-15 12:10:54.014
+297,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:10:47.992
+298,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041581799097,-0.9330092186234926,2019-10-15 12:10:30.146
+299,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:10:27.241
+300,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042523248204,-0.9330740545847352,2019-10-15 12:10:03.942
+301,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042523248204,-0.9330740545847352,2019-10-15 12:09:51.257
+302,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46042523248204,-0.9330740545847352,2019-10-15 12:09:48.559
+303,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:09:33.506
+304,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:09:24.385
+305,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:09:15.752
+306,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041581799097,-0.9330092186234926,2019-10-15 12:08:56.214
+307,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.4604778415471,-0.9330472583365766,2019-10-15 12:08:44.275
+308,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:07:26.061
+309,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:07:12.830
+310,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:06:06.644
+311,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:11:28.427
+312,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:11:18.296
+313,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:11:07.565
+314,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:10:57.433
+315,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:10:47.310
+316,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:10:37.178
+317,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:10:26.651
+318,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:10:16.518
+319,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:10:05.882
+320,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:09:55.751
+321,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:09:45.622
+322,f4:f5:24:f3:a7:59,134,Mario Escobar,IT Support Specialist,1.0,employee,0,51.46034575,-0.93307374,2019-09-11 12:09:35.495
+323,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:23:25.352
+324,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:23:15.329
+325,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:23:05.303
+326,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:22:55.280
+327,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:22:45.245
+328,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:22:35.223
+329,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:22:25.199
+330,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:22:15.173
+331,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:22:05.177
+332,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:21:55.114
+333,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:21:45.001
+334,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:21:39.988
+335,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 16:21:29.958
+336,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:29:05.741
+337,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:28:55.703
+338,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:28:45.670
+339,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:28:35.634
+340,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:28:25.606
+341,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:28:15.573
+342,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:28:05.550
+343,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:27:55.513
+344,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:27:45.475
+345,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:27:35.440
+346,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:27:25.409
+347,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46048657840552,-0.933022182699289,2019-12-11 08:27:15.377
+348,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:26:25.505
+349,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:26:00.947
+350,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:25:38.281
+351,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:25:27.553
+352,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:25:06.400
+353,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:24:54.964
+354,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:24:45.546
+355,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:24:37.611
+356,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:24:13.750
+357,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-15 10:24:04.029
+358,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:23:45.769
+359,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:23:31.434
+360,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:23:27.921
+361,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-15 10:23:06.661
+362,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:22:58.435
+363,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:22:36.986
+364,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:22:25.546
+365,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:22:02.197
+366,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:21:58.775
+367,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:21:35.102
+368,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-15 10:21:12.368
+369,f4:f5:24:e2:96:48,47,Sally Rodriguez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:18:47.121

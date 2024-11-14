@@ -1,0 +1,205 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:45:38.460
+1,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:43:56.167
+2,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:43:12.044
+3,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:42:05.559
+4,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:41:43.593
+5,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:41:04.609
+6,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:40:48.136
+7,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:40:35.419
+8,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:39:44.863
+9,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 11:39:34.236
+10,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:39:18.294
+11,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:39:03.251
+12,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:38:50.713
+13,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:38:46.498
+14,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 11:38:38.681
+15,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:38:20.622
+16,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 11:38:16.317
+17,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:38:03.096
+18,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:37:46.039
+19,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:37:30.893
+20,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:37:29.891
+21,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:37:19.472
+22,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:37:00.812
+23,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:36:52.888
+24,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 11:36:45.964
+25,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:36:34.243
+26,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:36:26.213
+27,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:36:11.973
+28,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:36:04.461
+29,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 11:35:58.134
+30,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:35:49.409
+31,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:35:23.634
+32,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:34:46.025
+33,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:33:51.687
+34,80:58:f8:5b:1a:3a,35,Paul Carter,Financial Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:32:58.427
+35,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46032161709763,-0.932515936834965,2020-08-18 14:53:50.361
+36,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:53:43.955
+37,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:53:36.682
+38,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:53:27.972
+39,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:53:18.521
+40,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:53:04.718
+41,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:52:53.092
+42,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:52:44.358
+43,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:52:37.834
+44,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:52:27.658
+45,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:52:12.385
+46,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:52:07.310
+47,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46049082294661,-0.93302139880014,2020-08-18 14:51:53.554
+48,34:f6:4b:8a:b4:54,14,Karla Joyce,Customer Service Manager,3.0,employee,0,51.46050361392143,-0.9329783268570424,2020-08-18 14:51:46.973
+49,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46041136,-0.93304454,2019-11-05 12:12:30.681
+50,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46041136,-0.93304454,2019-11-05 12:10:34.322
+51,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-21 13:13:10.782
+52,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.460460284942094,-0.9327647267085444,2019-10-21 13:13:08.970
+53,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46042964839811,-0.93308344972606,2019-10-21 13:12:50.859
+54,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.460460284942094,-0.9327647267085444,2019-10-21 13:12:49.980
+55,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.460460284942094,-0.9327647267085444,2019-10-21 13:12:38.927
+56,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-21 13:12:29.622
+57,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:49:44.160
+58,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:49:36.742
+59,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:49:25.301
+60,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:49:18.989
+61,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:49:06.619
+62,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:48:56.588
+63,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:48:49.981
+64,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:48:39.943
+65,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:48:24.921
+66,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:48:16.374
+67,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:48:08.686
+68,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.46055933178037,-0.932343027822247,2020-02-21 12:47:59.754
+69,80:58:f8:4a:a1:2f,21,Shari Butler,Public Relations Manager,2.0,employee,0,51.460328920026406,-0.932580467235778,2020-02-21 12:47:49.609
+70,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:55:55.612
+71,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:54:36.586
+72,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:54:16.133
+73,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:53:10.849
+74,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:51:56.540
+75,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:50:38.526
+76,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:49:53.994
+77,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:49:08.770
+78,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:48:53.027
+79,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:48:46.509
+80,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:48:28.667
+81,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:48:17.229
+82,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:47:43.939
+83,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:46:54.296
+84,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:46:34.144
+85,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:46:10.473
+86,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:46:08.873
+87,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:45:58.442
+88,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:45:47.306
+89,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:45:33.568
+90,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:45:21.034
+91,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:45:15.514
+92,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:45:08.993
+93,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:44:26.073
+94,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-18 12:44:19.956
+95,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:43:11.767
+96,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:42:39.680
+97,80:58:f8:3a:7c:78,28,Daniel Park,Office Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:42:07.689
+98,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:13:34.954
+99,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:13:20.737
+100,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:13:14.735
+101,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46091324867043,-0.9323763184115944,2020-01-17 15:13:01.676
+102,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:12:54.460
+103,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:12:47.032
+104,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:12:39.232
+105,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46091324867043,-0.9323763184115944,2020-01-17 15:12:26.501
+106,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:12:19.004
+107,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:12:06.477
+108,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094020395727,-0.932184217186848,2020-01-17 15:11:58.731
+109,60:1d:91:bc:8a:3d,12,Amanda Dixon,Customer Service Representative,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:11:43.603
+110,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:19:56.329
+111,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:19:45.900
+112,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:19:35.870
+113,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:19:25.845
+114,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:19:15.715
+115,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:19:05.684
+116,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:18:55.655
+117,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:18:45.225
+118,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:18:35.195
+119,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:18:25.165
+120,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:18:15.035
+121,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:18:05.009
+122,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-11-08 15:17:59.994
+123,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:39:35.812
+124,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:39:25.687
+125,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:39:15.557
+126,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:39:05.528
+127,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:38:55.508
+128,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:38:45.474
+129,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:38:35.043
+130,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:38:25.017
+131,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:38:14.990
+132,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:38:09.973
+133,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:37:59.941
+134,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:37:49.909
+135,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46078621,-0.93222453,2019-08-28 14:37:39.877
+136,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46047804,-0.93266756,2020-01-13 11:26:10.791
+137,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:26:01.141
+138,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:25:56.128
+139,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:25:46.106
+140,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:25:36.101
+141,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:25:26.054
+142,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:25:16.028
+143,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:25:05.915
+144,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:24:55.884
+145,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:24:45.864
+146,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:24:35.832
+147,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:24:25.808
+148,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46049491718871,-0.9329114331199326,2020-01-13 11:24:15.785
+149,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:14:41.929
+150,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:14:29.090
+151,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:12:32.067
+152,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:11:44.862
+153,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:11:07.851
+154,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:09:59.993
+155,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:09:37.518
+156,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:09:10.142
+157,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:08:39.055
+158,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:08:17.801
+159,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 12:07:41.598
+160,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:07:34.081
+161,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 12:07:27.964
+162,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:07:19.844
+163,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:07:05.516
+164,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:06:56.887
+165,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:06:37.929
+166,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:06:21.481
+167,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 12:06:19.278
+168,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:05:37.956
+169,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46090700428274,-0.9323668370340502,2019-10-15 12:05:09.097
+170,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:04:56.661
+171,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:04:33.391
+172,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:04:20.545
+173,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:04:14.227
+174,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:04:09.514
+175,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:03:46.454
+176,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:03:30.608
+177,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:02:43.776
+178,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:02:36.351
+179,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.460918941158,-0.9323865567874808,2019-11-11 16:12:26.003
+180,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.460918941158,-0.9323865567874808,2019-11-11 16:12:15.966
+181,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:12:05.737
+182,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:11:55.706
+183,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:11:45.674
+184,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:11:35.643
+185,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:11:25.310
+186,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:11:15.278
+187,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:11:05.055
+188,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:10:55.020
+189,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:10:45.088
+190,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:10:39.970
+191,80:58:f8:1d:f3:4a,82,Jessica Wright,Operations Manager,1.0,employee,0,51.46093752,-0.93238226,2019-11-11 16:10:29.938
+192,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.4603408474997,-0.9329996845117337,2019-11-05 09:58:18.202
+193,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.460469151883366,-0.9328855382681857,2019-11-05 09:58:03.651
+194,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.460469151883366,-0.9328855382681857,2019-11-05 09:57:58.541
+195,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.460469151883366,-0.9328855382681857,2019-11-05 09:57:43.492
+196,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.460469151883366,-0.9328855382681857,2019-11-05 09:57:38.463
+197,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.460469151883366,-0.9328855382681857,2019-11-05 09:57:28.335
+198,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.460469151883366,-0.9328855382681857,2019-11-05 09:57:17.994
+199,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.46044050833831,-0.9327637255664522,2019-11-05 09:57:02.376
+200,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.4603408474997,-0.9329996845117337,2019-11-05 09:56:56.128
+201,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.4603408474997,-0.9329996845117337,2019-11-05 09:56:46.092
+202,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.4603408474997,-0.9329996845117337,2019-11-05 09:56:35.959
+203,88:b4:a6:01:d7:e2,12,Brendan Dalton,Supply Chain Analyst,1.0,employee,0,51.4603408474997,-0.9329996845117337,2019-11-05 09:56:25.920

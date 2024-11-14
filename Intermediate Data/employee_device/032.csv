@@ -1,0 +1,407 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:11:41.874
+1,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:11:22.437
+2,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:11:04.002
+3,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:10:50.362
+4,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:10:30.121
+5,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:10:29.516
+6,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:10:19.996
+7,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:10:02.776
+8,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:51.029
+9,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:47.519
+10,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:09:30.580
+11,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:20.355
+12,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:16.546
+13,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:09:05.322
+14,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:08:55.197
+15,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:08:44.875
+16,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:08:26.143
+17,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:08:17.824
+18,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:07:31.912
+19,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:07:18.082
+20,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:06:02.625
+21,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:04:18.767
+22,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:15:07.463
+23,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:14:54.642
+24,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:14:11.429
+25,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:14:03.623
+26,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:13:45.268
+27,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:13:26.822
+28,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:13:19.907
+29,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:13:07.889
+30,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:12:50.236
+31,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:12:47.326
+32,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-14 12:12:11.241
+33,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:12:04.436
+34,80:58:f8:12:cf:4a,35,Elizabeth Russell,Data Scientist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:11:59.014
+35,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:16:08.447
+36,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:15:35.267
+37,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:14:52.767
+38,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:14:25.312
+39,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:13:18.258
+40,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:12:02.399
+41,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:11:41.339
+42,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:11:21.695
+43,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:10:52.926
+44,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:10:24.855
+45,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:10:11.424
+46,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:09:56.589
+47,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 17:09:47.869
+48,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:09:37.948
+49,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 17:09:27.922
+50,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:09:00.562
+51,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 17:08:56.954
+52,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:08:48.036
+53,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:08:33.606
+54,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:08:23.992
+55,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:08:11.059
+56,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:07:40.690
+57,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:07:34.673
+58,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:07:29.565
+59,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:07:16.233
+60,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:07:01.295
+61,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 17:06:51.675
+62,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:06:31.519
+63,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:06:12.980
+64,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:06:02.355
+65,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:05:47.316
+66,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:05:14.846
+67,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:04:54.394
+68,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 17:04:43.980
+69,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 17:04:31.742
+70,80:58:f8:fd:cd:24,36,Lauren Rivera,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 17:04:04.680
+71,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:13:37.745
+72,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:13:27.712
+73,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:13:17.677
+74,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:13:07.448
+75,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:12:57.415
+76,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:12:46.980
+77,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:12:36.942
+78,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:12:26.912
+79,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:12:16.883
+80,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:12:06.750
+81,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:11:56.714
+82,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:11:46.293
+83,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:14:07.551
+84,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:13:57.424
+85,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:13:47.293
+86,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:13:37.164
+87,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:13:26.937
+88,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:13:16.811
+89,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:13:06.586
+90,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:12:56.459
+91,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:12:46.428
+92,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:12:36.203
+93,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:12:26.073
+94,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46087481858353,-0.93236534328599,2019-12-10 14:12:15.860
+95,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:45:46.698
+96,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:45:36.228
+97,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:45:28.360
+98,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:45:18.904
+99,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:45:09.459
+100,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:44:55.153
+101,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:44:45.785
+102,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:44:39.012
+103,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:44:27.142
+104,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:44:17.738
+105,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:44:06.305
+106,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:43:56.226
+107,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46045955287349,-0.9329421022144448,2020-02-10 10:43:46.866
+108,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:01:14.781
+109,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:00:55.522
+110,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:55:14.261
+111,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:54:10.680
+112,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:53:59.148
+113,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:53:49.018
+114,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-18 10:53:31.769
+115,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-18 10:53:27.759
+116,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:51:08.257
+117,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:50:59.127
+118,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:50:38.574
+119,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:49:24.069
+120,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-18 10:48:33.424
+121,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:48:03.455
+122,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:47:57.021
+123,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:47:45.287
+124,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:47:20.623
+125,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:47:10.887
+126,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:47:08.282
+127,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:46:52.236
+128,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:46:43.516
+129,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:46:28.575
+130,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:46:16.840
+131,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:45:59.491
+132,80:58:f8:ec:30:50,62,Samuel Baldwin,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:45:49.358
+133,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 17:01:01.755
+134,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:58:50.203
+135,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:58:30.652
+136,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:58:01.674
+137,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:56:30.322
+138,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:56:24.508
+139,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:55:40.993
+140,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:55:34.574
+141,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:55:24.752
+142,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:54:36.722
+143,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:54:26.890
+144,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:54:19.170
+145,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:53:57.009
+146,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:53:48.388
+147,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:53:19.003
+148,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:52:52.329
+149,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:52:49.222
+150,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:52:03.100
+151,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:51:34.819
+152,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:51:22.483
+153,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:51:18.169
+154,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:51:01.222
+155,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:50:52.599
+156,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:50:41.070
+157,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:50:33.251
+158,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:50:21.217
+159,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:50:17.809
+160,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:49:43.620
+161,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:49:39.608
+162,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:49:28.974
+163,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:49:09.219
+164,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:48:53.577
+165,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:48:43.046
+166,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:48:19.486
+167,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:47:25.749
+168,80:58:f8:c5:6f:45,36,David Willis,Data Scientist,1.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:47:17.528
+169,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:46:02.084
+170,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:45:54.559
+171,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:23.273
+172,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:44:12.398
+173,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:48.332
+174,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46048079590269,-0.9329634989139755,2019-10-15 13:43:23.566
+175,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:51.381
+176,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:42:44.163
+177,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:42:38.650
+178,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:42:28.924
+179,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:11.879
+180,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:09.283
+181,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46042516252552,-0.9329351803794684,2019-10-15 13:41:46.003
+182,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46042516252552,-0.9329351803794684,2019-10-15 13:41:30.668
+183,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:41:24.148
+184,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46044025850431,-0.9330108115384612,2019-10-15 13:41:15.831
+185,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:41:06.501
+186,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:40:50.461
+187,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46048079590269,-0.9329634989139755,2019-10-15 13:40:45.147
+188,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:38.027
+189,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:20.682
+190,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:40:14.466
+191,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:40:09.654
+192,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:39:52.812
+193,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46048079590269,-0.9329634989139755,2019-10-15 13:39:42.989
+194,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:39:33.470
+195,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46044025850431,-0.9330108115384612,2019-10-15 13:39:28.663
+196,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:39:14.926
+197,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46042516252552,-0.9329351803794684,2019-10-15 13:39:01.491
+198,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46042516252552,-0.9329351803794684,2019-10-15 13:38:53.570
+199,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46042516252552,-0.9329351803794684,2019-10-15 13:38:31.213
+200,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46043300442277,-0.9330905898811956,2019-10-15 13:38:19.282
+201,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46048079590269,-0.9329634989139755,2019-10-15 13:37:52.918
+202,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:37:23.140
+203,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46042516252552,-0.9329351803794684,2019-10-15 13:37:05.496
+204,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:36:47.950
+205,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:36:19.079
+206,f4:f5:24:d4:88:a8,38,Cheryl Wade,Chief Technology Officer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:35:38.577
+207,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:06:13.244
+208,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:06:08.230
+209,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:05:58.204
+210,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:05:48.176
+211,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:05:38.056
+212,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:05:28.032
+213,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:05:18.003
+214,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:05:07.974
+215,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:04:57.950
+216,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:04:47.922
+217,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:04:37.891
+218,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:04:27.864
+219,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-12-19 10:04:17.746
+220,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:48:52.730
+221,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:48:47.715
+222,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:48:37.379
+223,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:48:27.251
+224,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:48:17.212
+225,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:48:07.076
+226,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:47:57.049
+227,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:47:47.008
+228,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:47:36.577
+229,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:47:26.549
+230,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:47:16.414
+231,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:47:06.377
+232,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-29 10:46:56.345
+233,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:10:06.502
+234,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:08:32.244
+235,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:08:23.718
+236,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:07:06.914
+237,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:06:23.790
+238,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:06:07.753
+239,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.460885940136215,-0.9322219675393032,2019-10-18 15:05:16.310
+240,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:05:07.592
+241,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:04:45.428
+242,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-18 15:04:37.305
+243,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 15:04:09.536
+244,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:03:54.295
+245,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:03:45.269
+246,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 15:03:21.304
+247,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:02:58.344
+248,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:02:15.323
+249,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:54.268
+250,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:30.515
+251,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 15:01:18.581
+252,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-18 15:01:09.351
+253,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 15:00:56.422
+254,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:00:46.427
+255,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 15:00:32.862
+256,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-18 15:00:13.599
+257,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:59:36.908
+258,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-18 14:59:22.273
+259,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 14:59:08.432
+260,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:58:57.704
+261,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.460885940136215,-0.9322219675393032,2019-10-18 14:58:30.631
+262,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:57:59.747
+263,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-18 14:57:49.020
+264,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:57:20.443
+265,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:56:49.154
+266,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:56:15.164
+267,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:56:03.039
+268,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46093359934698,-0.9321725537443616,2019-10-18 14:55:47.187
+269,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:55:19.920
+270,80:58:f8:23:54:06,64,Robert Turner,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:54:39.508
+271,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:06:07.250
+272,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071584787348,-0.932399831446837,2019-10-21 13:05:49.587
+273,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-21 13:05:22.819
+274,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-21 13:05:08.668
+275,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46093784173781,-0.9321681442997592,2019-10-21 13:02:52.947
+276,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46069977227075,-0.932404848025266,2019-10-21 13:02:18.337
+277,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:01:49.748
+278,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46078929198048,-0.9323159950092684,2019-10-21 13:01:27.185
+279,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46090013014891,-0.9321948419087772,2019-10-21 13:01:13.240
+280,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46080123279003,-0.9323120039060648,2019-10-21 13:01:09.623
+281,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:00:57.687
+282,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071584787348,-0.932399831446837,2019-10-21 13:00:45.552
+283,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46089112358039,-0.9322036209594388,2019-10-21 13:00:35.921
+284,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071398374946,-0.9323997249801323,2019-10-21 13:00:15.261
+285,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.4608960004802,-0.932196143293983,2019-10-21 13:00:08.240
+286,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071585228331,-0.9323962692247084,2019-10-21 12:59:51.994
+287,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46069977227075,-0.932404848025266,2019-10-21 12:59:49.285
+288,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46089112358039,-0.9322036209594388,2019-10-21 12:59:38.652
+289,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46093784173781,-0.9321681442997592,2019-10-21 12:59:25.609
+290,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46080123279003,-0.9323120039060648,2019-10-21 12:59:17.090
+291,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.460789154211085,-0.9323182878895632,2019-10-21 12:59:06.251
+292,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.460789154211085,-0.9323182878895632,2019-10-21 12:58:59.629
+293,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46093784173781,-0.9321681442997592,2019-10-21 12:58:41.976
+294,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071585228331,-0.9323962692247084,2019-10-21 12:58:35.767
+295,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46089517042298,-0.9322023878567895,2019-10-21 12:58:23.323
+296,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46070147214354,-0.932404971757058,2019-10-21 12:58:06.967
+297,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46079981633029,-0.9323121965373736,2019-10-21 12:57:54.632
+298,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:57:44.998
+299,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:56:40.009
+300,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:55:20.358
+301,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:17:44.673
+302,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:17:33.397
+303,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:17:28.324
+304,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:17:15.829
+305,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:17:08.086
+306,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:16:59.095
+307,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:16:46.666
+308,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:16:37.649
+309,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:16:27.455
+310,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:16:15.189
+311,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:16:08.444
+312,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:15:59.928
+313,80:58:f8:dc:0f:42,43,Corey Benson,Inventory Clerk,1.0,employee,0,51.46091931533339,-0.9321751684042882,2020-03-02 15:15:46.042
+314,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 12:03:40.600
+315,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:01:32.736
+316,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:01:27.822
+317,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:01:12.981
+318,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:01:08.570
+319,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:58:01.640
+320,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:57:12.600
+321,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:57:05.884
+322,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:56:36.702
+323,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:56:28.078
+324,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:55:59.701
+325,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:55:24.494
+326,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:55:08.351
+327,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:54:46.189
+328,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:54:39.775
+329,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:54:18.413
+330,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:53:52.533
+331,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:53:13.817
+332,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:52:58.170
+333,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:52:24.975
+334,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:52:06.120
+335,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:51:06.254
+336,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:50:59.531
+337,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:50:39.876
+338,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:49:49.039
+339,80:58:f8:79:86:01,26,Jennifer Stephenson,Civil Engineer,1.0,employee,0,51.460918136385565,-0.9323724633164472,2019-10-18 11:49:38.402
+340,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46069360277589,-0.9322795713864704,2019-09-17 13:56:02.096
+341,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46069360277589,-0.9322795713864704,2019-09-17 13:55:57.076
+342,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:55:46.954
+343,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46069360277589,-0.9322795713864704,2019-09-17 13:55:36.919
+344,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46069360277589,-0.9322795713864704,2019-09-17 13:55:26.891
+345,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46069360277589,-0.9322795713864704,2019-09-17 13:55:16.459
+346,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:55:06.436
+347,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:54:56.302
+348,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:54:46.273
+349,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:54:36.243
+350,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:54:26.211
+351,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:54:15.786
+352,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46068126924538,-0.9323112946518002,2019-09-17 13:54:05.659
+353,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 13:18:46.198
+354,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 13:18:26.070
+355,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 13:18:06.012
+356,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 13:17:50.963
+357,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 13:17:15.797
+358,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 13:16:55.738
+359,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:57:26.252
+360,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:57:01.092
+361,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:56:45.856
+362,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:54:29.937
+363,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:52:30.172
+364,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:51:05.684
+365,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:50:39.937
+366,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:50:20.484
+367,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:50:07.262
+368,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:48:58.007
+369,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:48:23.730
+370,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:48:13.505
+371,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:48:07.491
+372,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:47:50.253
+373,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:47:19.887
+374,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-17 11:46:30.478
+375,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:46:21.961
+376,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:45:47.683
+377,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:45:04.298
+378,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-17 11:44:38.244
+379,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:44:23.801
+380,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:44:16.582
+381,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:43:46.613
+382,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:43:30.680
+383,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:43:20.056
+384,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:43:14.642
+385,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:43:03.021
+386,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:42:46.174
+387,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:42:06.404
+388,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:41:42.943
+389,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:41:25.997
+390,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:40:22.754
+391,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:40:13.237
+392,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:40:08.728
+393,80:58:f8:69:89:85,54,Michelle Walker,Logistics Coordinator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:38:51.558
+394,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.460662760923775,-0.9322377397255938,2020-01-14 14:31:44.880
+395,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.460878688918875,-0.9323500911332246,2020-01-14 14:31:39.967
+396,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088109264685,-0.9323507360055572,2020-01-14 14:31:29.942
+397,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 14:31:19.826
+398,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088109264685,-0.9323507360055572,2020-01-14 14:31:09.802
+399,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.460662760923775,-0.9322377397255938,2020-01-14 14:30:59.171
+400,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.460662760923775,-0.9322377397255938,2020-01-14 14:30:49.044
+401,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088109264685,-0.9323507360055572,2020-01-14 14:30:39.717
+402,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.460878688918875,-0.9323500911332246,2020-01-14 14:30:29.598
+403,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 14:30:19.574
+404,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088109264685,-0.9323507360055572,2020-01-14 14:30:09.544
+405,f4:f5:24:37:eb:d4,12,Samuel Henry,Production Worker,3.0,employee,0,51.46088968,-0.93235581,2020-01-14 14:29:59.520

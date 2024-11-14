@@ -1,0 +1,185 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:16:38.416
+1,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:16:03.353
+2,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:15:58.321
+3,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:14:55.883
+4,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:13:21.363
+5,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:13:09.137
+6,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:12:18.634
+7,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46076003352538,-0.9322443895377632,2019-10-14 17:12:06.200
+8,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-14 17:11:45.146
+9,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-14 17:11:21.190
+10,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46058340771186,-0.9323783918076206,2019-10-14 17:11:12.975
+11,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:10:54.137
+12,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-14 17:10:48.010
+13,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-14 17:10:36.383
+14,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:10:11.328
+15,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:10:01.300
+16,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-14 17:09:53.586
+17,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46058340771186,-0.9323783918076206,2019-10-14 17:09:44.362
+18,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46058340771186,-0.9323783918076206,2019-10-14 17:09:37.945
+19,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-14 17:09:29.025
+20,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:09:06.373
+21,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46076003352538,-0.9322443895377632,2019-10-14 17:08:50.142
+22,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46058340771186,-0.9323783918076206,2019-10-14 17:08:49.240
+23,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:08:27.127
+24,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:08:10.256
+25,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:07:48.805
+26,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46058340771186,-0.9323783918076206,2019-10-14 17:07:34.571
+27,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46058340771186,-0.9323783918076206,2019-10-14 17:07:26.461
+28,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46076003352538,-0.9322443895377632,2019-10-14 17:07:14.329
+29,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:07:09.616
+30,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:06:46.458
+31,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:04:40.063
+32,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:02:42.486
+33,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:50:50.003
+34,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:50:09.590
+35,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:47:31.147
+36,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:47:20.928
+37,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:46:04.106
+38,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:45:09.147
+39,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:44:59.819
+40,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:44:27.232
+41,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:39:00.389
+42,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 10:38:59.782
+43,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-18 10:38:32.404
+44,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:37:49.479
+45,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:36:55.020
+46,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-18 10:36:42.588
+47,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:36:36.974
+48,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:36:02.388
+49,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:35:50.746
+50,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46087947356845,-0.9322279681158115,2019-10-18 10:35:19.766
+51,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 10:35:05.016
+52,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:34:55.995
+53,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:33:59.332
+54,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 10:33:46.098
+55,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:33:02.883
+56,80:58:f8:e2:0f:2f,57,Jenny Richardson,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:32:58.561
+57,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:40:22.512
+58,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:34:12.018
+59,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:32:50.187
+60,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:32:36.256
+61,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:31:09.816
+62,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:30:55.476
+63,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:30:48.855
+64,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:30:38.230
+65,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:29:41.775
+66,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:29:19.817
+67,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:28:55.251
+68,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:28:02.414
+69,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:27:36.540
+70,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:27:24.913
+71,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:27:15.979
+72,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:27:06.453
+73,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:26:51.311
+74,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:26:20.830
+75,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:25:57.871
+76,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:25:30.990
+77,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:25:28.485
+78,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:25:04.015
+79,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:24:55.290
+80,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:24:36.739
+81,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:24:24.414
+82,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:23:45.602
+83,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:23:39.485
+84,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:23:19.127
+85,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:23:06.188
+86,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:22:40.816
+87,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:22:36.506
+88,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:22:22.065
+89,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:22:09.935
+90,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:21:42.364
+91,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:21:33.837
+92,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:21:11.981
+93,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:20:09.508
+94,80:58:f8:34:78:cf,38,Sara Gonzalez,Software Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:19:50.053
+95,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.460467645058,-0.932897407717238,2019-11-05 12:18:38.573
+96,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:18:28.342
+97,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:18:18.304
+98,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:18:07.573
+99,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:17:57.537
+100,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.460467645058,-0.932897407717238,2019-11-05 12:17:42.898
+101,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.460467645058,-0.932897407717238,2019-11-05 12:17:37.884
+102,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:17:26.847
+103,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:17:16.814
+104,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:17:06.688
+105,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:16:56.557
+106,88:b4:a6:b8:e9:51,12,Richard Cooley,Chief Technology Officer,3.0,employee,0,51.46034575,-0.93307374,2019-11-05 12:16:46.520
+107,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:04:53.572
+108,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:03:29.171
+109,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:02:08.577
+110,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:00:56.600
+111,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:00:27.324
+112,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:00:16.800
+113,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:59:48.827
+114,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:59:37.301
+115,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:59:22.765
+116,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:59:14.045
+117,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:58:52.787
+118,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:58:35.041
+119,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:58:28.727
+120,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:58:12.792
+121,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:57:50.138
+122,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:57:44.826
+123,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:57:34.799
+124,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:57:25.075
+125,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:57:09.864
+126,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:56:55.704
+127,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:56:32.048
+128,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:56:15.011
+129,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:55:58.567
+130,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:55:38.623
+131,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:55:18.976
+132,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:55:05.936
+133,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:54:39.971
+134,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:54:17.312
+135,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:54:04.005
+136,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:53:57.268
+137,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-14 09:53:11.752
+138,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:52:30.349
+139,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:49:55.428
+140,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:49:19.530
+141,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:45:05.373
+142,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:43:41.380
+143,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:43:22.342
+144,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:42:51.065
+145,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:42:39.638
+146,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:42:00.450
+147,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:41:13.439
+148,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:40:16.621
+149,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:39:56.471
+150,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:39:48.654
+151,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:39:39.837
+152,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:39:18.890
+153,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:39:04.568
+154,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:38:50.027
+155,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:38:42.609
+156,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:38:25.978
+157,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:38:03.930
+158,80:58:f8:f0:af:cf,52,Melissa Hill,Chief Marketing Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:37:59.417
+159,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.460482155315844,-0.932711629460683,2020-01-17 16:25:07.026
+160,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.460482155315844,-0.932711629460683,2020-01-17 16:24:46.316
+161,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.4604745343272,-0.9326958019473138,2020-01-17 16:24:30.980
+162,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.460482155315844,-0.932711629460683,2020-01-17 16:24:10.556
+163,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.460482155315844,-0.932711629460683,2020-01-17 16:23:50.087
+164,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.460482155315844,-0.932711629460683,2020-01-17 16:23:35.043
+165,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.46050869,-0.93299578,2020-01-17 16:23:15.725
+166,60:1d:91:cc:b1:a4,8,Devin Hernandez,,,visitor,0,51.46047804,-0.93266756,2020-01-17 16:23:09.219
+167,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46049219,-0.93303804,2020-01-17 11:15:05.849
+168,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46032705,-0.93232622,2020-01-17 11:14:59.177
+169,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46032869797289,-0.9323333234277966,2020-01-17 11:14:44.056
+170,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46049219,-0.93303804,2020-01-17 11:14:30.504
+171,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46032705,-0.93232622,2020-01-17 11:14:24.271
+172,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46049219,-0.93303804,2020-01-17 11:14:05.060
+173,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46032705,-0.93232622,2020-01-17 11:13:58.842
+174,4c:98:f1:69:26:0c,8,Katherine Scott,,,visitor,0,51.46032869797289,-0.9323333234277966,2020-01-17 11:13:23.655
+175,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46078621,-0.93222453,2020-01-17 11:26:31.320
+176,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46086286186248,-0.9323452726285,2020-01-17 11:26:12.232
+177,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46078621,-0.93222453,2020-01-17 11:26:05.917
+178,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46080488097648,-0.9322617017747824,2020-01-17 11:25:50.878
+179,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46086286186248,-0.9323452726285,2020-01-17 11:25:41.466
+180,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46078621,-0.93222453,2020-01-17 11:25:25.815
+181,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46080488097648,-0.9322617017747824,2020-01-17 11:25:05.695
+182,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.460808305951495,-0.9322593357199944,2020-01-17 11:24:50.643
+183,60:1d:91:e6:bc:51,9,Cheryl Anderson,,,visitor,0,51.46080488097648,-0.9322617017747824,2020-01-17 11:24:35.598

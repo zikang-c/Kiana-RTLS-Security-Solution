@@ -1,0 +1,49 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.4606371,-0.93246087,2019-10-22 09:43:52.044
+1,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.4606371,-0.93246087,2019-10-22 09:43:48.365
+2,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.4606371,-0.93246087,2019-10-22 09:43:39.997
+3,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.46047449824275,-0.9323329008551168,2019-10-22 09:43:29.929
+4,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.46047449824275,-0.9323329008551168,2019-10-22 09:43:18.153
+5,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.4606371,-0.93246087,2019-10-22 09:42:58.846
+6,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.46041432,-0.93228554,2019-10-22 09:42:11.798
+7,24:46:c8:2e:90:8d,8,Sandra Morton,,,visitor,0,51.4606371,-0.93246087,2019-10-22 09:41:51.657
+8,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46065474,-0.93223934,2020-01-17 15:12:47.347
+9,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46077202264111,-0.932226128195674,2020-01-17 15:12:32.051
+10,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:12:12.356
+11,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46077202264111,-0.932226128195674,2020-01-17 15:11:51.718
+12,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46065474,-0.93223934,2020-01-17 15:11:42.123
+13,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:11:36.677
+14,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46077202264111,-0.932226128195674,2020-01-17 15:11:21.664
+15,60:1d:91:64:55:43,8,Shelby Woods,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:11:08.118
+16,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:30:31.559
+17,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:29:11.380
+18,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:28:43.412
+19,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:28:13.939
+20,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:28:05.935
+21,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:27:26.924
+22,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 12:27:08.780
+23,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:26:25.872
+24,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:26:05.340
+25,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:25:56.809
+26,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:25:49.286
+27,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:25:25.728
+28,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 12:25:12.095
+29,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:24:51.149
+30,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:24:43.728
+31,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:24:30.995
+32,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 12:24:29.099
+33,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 12:24:00.123
+34,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:49.489
+35,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:31.751
+36,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:23.125
+37,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:17.038
+38,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:05.790
+39,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:22:45.033
+40,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:22:37.206
+41,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:22:28.485
+42,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:22:03.428
+43,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:21:23.629
+44,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:21:13.106
+45,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:21:02.594
+46,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:19:45.401
+47,80:58:f8:0e:de:c7,32,Allison Jones,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:18:09.278

@@ -1,0 +1,116 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:04:08.047
+1,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:03:54.494
+2,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:03:24.707
+3,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:03:19.897
+4,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:02:56.933
+5,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:02:45.502
+6,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:02:30.060
+7,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:02:28.955
+8,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:02:14.314
+9,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:02:09.805
+10,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:01:58.867
+11,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:01:47.136
+12,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:01:35.799
+13,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:01:29.078
+14,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:01:18.149
+15,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:00:56.896
+16,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:00:42.844
+17,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-15 09:00:39.535
+18,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:00:29.613
+19,80:58:f8:9f:16:36,20,Brian Parker,Marketing Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:00:13.867
+20,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:26:13.615
+21,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:17:10.732
+22,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:17:05.919
+23,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:16:04.062
+24,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:14:26.383
+25,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:14:18.960
+26,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:11:01.928
+27,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:10:55.410
+28,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:10:41.773
+29,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:10:22.218
+30,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:10:17.307
+31,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:10:03.968
+32,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:09:57.453
+33,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:09:47.729
+34,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:09:35.694
+35,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:09:27.675
+36,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:09:03.613
+37,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:08:45.653
+38,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:08:39.633
+39,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:08:24.893
+40,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:08:07.647
+41,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:07:59.427
+42,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:07:40.976
+43,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 12:07:37.869
+44,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:07:11.793
+45,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:06:54.244
+46,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:06:22.555
+47,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:06:18.849
+48,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:05:31.111
+49,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:04:54.208
+50,80:58:f8:9c:0f:ae,31,Amanda Stafford,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:04:49.295
+51,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:18:35.259
+52,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:17:01.118
+53,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:16:00.063
+54,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:15:16.780
+55,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:13:58.883
+56,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:13:38.636
+57,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-14 09:12:37.198
+58,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:12:20.353
+59,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:12:16.946
+60,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:10:50.962
+61,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:10:40.435
+62,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:10:09.567
+63,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:09:50.125
+64,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:09:43.411
+65,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:09:39.599
+66,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:09:29.076
+67,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:09:14.142
+68,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:09:01.045
+69,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:08:57.904
+70,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-14 09:08:46.881
+71,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:08:31.242
+72,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:08:25.230
+73,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:08:13.095
+74,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:08:07.084
+75,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.460860555038366,-0.9322463634344168,2019-10-14 09:07:54.755
+76,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:07:43.931
+77,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:07:13.662
+78,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:07:07.647
+79,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 09:06:58.826
+80,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:06:23.748
+81,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:06:02.408
+82,80:58:f8:f7:5b:7b,32,Margaret Sanchez,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:04:53.943
+83,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:06:03.373
+84,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:05:45.101
+85,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:03:06.692
+86,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:02:49.443
+87,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 13:02:00.001
+88,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:01:44.668
+89,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:01:33.942
+90,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:01:18.095
+91,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:00:50.827
+92,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:00:41.705
+93,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 13:00:37.703
+94,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 13:00:27.066
+95,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:00:05.219
+96,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:59:56.594
+97,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:59:43.248
+98,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 12:59:22.189
+99,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:59:13.562
+100,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 12:59:09.550
+101,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:58:56.517
+102,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:58:40.471
+103,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:58:37.061
+104,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 12:58:23.016
+105,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:58:06.075
+106,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 12:57:57.549
+107,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:57:44.404
+108,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 12:57:38.995
+109,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 12:57:28.763
+110,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:57:17.735
+111,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:57:02.893
+112,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:56:55.181
+113,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:56:47.651
+114,80:58:f8:54:a1:40,32,David Hahn,Maintenance Technician,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:56:17.064

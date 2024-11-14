@@ -1,0 +1,469 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:32:55.169
+1,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:29:38.096
+2,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:29:23.962
+3,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:28:43.669
+4,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:27:26.186
+5,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:26:03.018
+6,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:25:52.263
+7,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:25:40.535
+8,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:25:28.105
+9,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:25:18.484
+10,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:25:08.773
+11,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-14 14:24:59.638
+12,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-14 14:24:42.601
+13,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:24:06.370
+14,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:23:59.596
+15,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-14 14:23:34.630
+16,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:23:25.907
+17,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:23:15.197
+18,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-14 14:23:07.769
+19,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:22:56.944
+20,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:22:45.315
+21,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:22:36.193
+22,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:22:19.158
+23,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:21:53.910
+24,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:21:47.984
+25,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:21:37.955
+26,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:21:22.527
+27,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:20:54.553
+28,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:20:48.940
+29,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:20:37.614
+30,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:20:28.599
+31,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:20:04.638
+32,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:19:51.708
+33,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:19:32.458
+34,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:57:06.344
+35,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:56:56.318
+36,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:56:46.289
+37,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:56:36.256
+38,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:56:25.827
+39,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:56:15.802
+40,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:56:05.772
+41,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:55:55.742
+42,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:55:45.510
+43,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:55:35.476
+44,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:55:25.145
+45,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:55:15.028
+46,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.46050376,-0.93231244,2019-09-17 14:55:04.898
+47,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:52:02.919
+48,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:51:57.898
+49,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:51:47.866
+50,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:51:37.439
+51,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:51:27.412
+52,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:51:17.382
+53,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:51:07.162
+54,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:50:57.133
+55,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:50:47.100
+56,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:50:36.574
+57,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:50:26.543
+58,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:50:16.510
+59,80:58:f8:86:ee:d7,60,Samantha Byrd,Truck Driver,0.0,employee,0,51.460845371020696,-0.9322023891261484,2019-09-16 11:50:06.387
+60,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:41:10.276
+61,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:36:32.337
+62,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:36:15.691
+63,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46093029461555,-0.9321843935147048,2019-10-18 15:35:42.097
+64,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460703154673006,-0.9324017269704102,2019-10-18 15:35:03.699
+65,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460703154673006,-0.9324017269704102,2019-10-18 15:34:58.283
+66,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:34:37.325
+67,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:34:17.771
+68,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460715319433774,-0.9324008009646232,2019-10-18 15:33:42.171
+69,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:33:31.338
+70,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:32:30.275
+71,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46077850441202,-0.9323342692787479,2019-10-18 15:32:11.625
+72,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460703154673006,-0.9324017269704102,2019-10-18 15:31:55.980
+73,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:31:48.568
+74,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46087640991783,-0.9322106379373906,2019-10-18 15:31:30.016
+75,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46093029461555,-0.9321843935147048,2019-10-18 15:31:20.587
+76,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46077850441202,-0.9323342692787479,2019-10-18 15:31:19.890
+77,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460715319433774,-0.9324008009646232,2019-10-18 15:31:06.549
+78,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460701001986166,-0.9324058784635624,2019-10-18 15:30:58.830
+79,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46087640991783,-0.9322106379373906,2019-10-18 15:30:30.249
+80,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46077850441202,-0.9323342692787479,2019-10-18 15:30:26.339
+81,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:30:18.919
+82,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460701001986166,-0.9324058784635624,2019-10-18 15:30:06.083
+83,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460703154673006,-0.9324017269704102,2019-10-18 15:29:42.118
+84,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460715319433774,-0.9324008009646232,2019-10-18 15:29:38.907
+85,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:29:15.643
+86,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460701001986166,-0.9324058784635624,2019-10-18 15:28:59.896
+87,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46087640991783,-0.9322106379373906,2019-10-18 15:28:26.717
+88,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:28:02.450
+89,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46077628914305,-0.9323379728601268,2019-10-18 15:27:56.236
+90,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46087640991783,-0.9322106379373906,2019-10-18 15:27:48.316
+91,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460715319433774,-0.9324008009646232,2019-10-18 15:27:27.253
+92,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:27:09.005
+93,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46093029461555,-0.9321843935147048,2019-10-18 15:26:56.070
+94,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:26:29.695
+95,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.460703154673006,-0.9324017269704102,2019-10-18 15:26:11.645
+96,80:58:f8:0a:b8:a1,37,Amy Johnson,Administrative Assistant,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:25:02.052
+97,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:41:31.059
+98,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:40:14.662
+99,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:40:03.139
+100,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:39:37.542
+101,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:38:13.618
+102,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:38:08.503
+103,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:37:57.575
+104,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460422741075845,-0.9330687539601747,2019-10-15 12:37:12.794
+105,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:37:02.351
+106,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041353034023,-0.9330273440466832,2019-10-15 12:36:48.291
+107,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:36:24.219
+108,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047623101537,-0.9330929187876764,2019-10-15 12:36:18.401
+109,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460422741075845,-0.9330687539601747,2019-10-15 12:36:05.911
+110,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041353034023,-0.9330273440466832,2019-10-15 12:35:50.835
+111,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460424301101995,-0.9330541910717756,2019-10-15 12:35:43.114
+112,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460424301101995,-0.9330541910717756,2019-10-15 12:35:33.801
+113,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:35:28.776
+114,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:35:16.241
+115,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:35:09.324
+116,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041353034023,-0.9330273440466832,2019-10-15 12:34:59.798
+117,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:34:49.475
+118,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460422741075845,-0.9330687539601747,2019-10-15 12:34:36.235
+119,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:34:26.719
+120,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460424301101995,-0.9330541910717756,2019-10-15 12:34:17.591
+121,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:34:02.759
+122,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460422741075845,-0.9330687539601747,2019-10-15 12:33:56.035
+123,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047623101537,-0.9330929187876764,2019-10-15 12:33:49.706
+124,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:33:30.356
+125,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:33:19.323
+126,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:33:08.799
+127,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:32:59.472
+128,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:32:41.830
+129,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:32:39.722
+130,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.460422741075845,-0.9330687539601747,2019-10-15 12:32:28.892
+131,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:32:19.070
+132,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:32:05.930
+133,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047623101537,-0.9330929187876764,2019-10-15 12:31:53.897
+134,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:31:43.767
+135,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:31:02.853
+136,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:28:22.906
+137,f4:f5:24:4b:c6:41,41,Christopher Lopez,Social Media Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:28:13.382
+138,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:54:07.930
+139,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:53:57.806
+140,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:53:47.582
+141,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:53:37.457
+142,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:53:27.331
+143,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:53:17.112
+144,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:53:07.083
+145,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:52:56.868
+146,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:52:46.745
+147,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:52:36.614
+148,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:52:26.489
+149,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-01-22 16:52:16.367
+150,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:14:57.489
+151,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:14:47.359
+152,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:14:37.234
+153,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:14:27.102
+154,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:14:16.981
+155,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:14:06.860
+156,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:13:56.728
+157,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:13:46.509
+158,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:13:36.478
+159,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:13:26.259
+160,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:13:16.131
+161,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4605597612688,-0.932418845383192,2019-12-19 14:13:06.009
+162,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46066374706192,-0.932341479067397,2019-12-19 14:12:59.786
+163,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:32:20.601
+164,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:32:15.585
+165,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:32:05.555
+166,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:31:55.027
+167,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:31:44.997
+168,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:31:39.983
+169,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:31:29.952
+170,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:31:19.826
+171,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:31:09.791
+172,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:30:59.363
+173,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:30:49.335
+174,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:30:39.302
+175,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-04 09:30:29.274
+176,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:13:52.888
+177,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:13:29.422
+178,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:10:22.530
+179,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-21 11:08:54.747
+180,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:08:14.617
+181,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:07:32.692
+182,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-21 11:07:15.744
+183,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:07:01.093
+184,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:06:27.288
+185,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:06:13.450
+186,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:06:02.525
+187,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:05:41.846
+188,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.4606993222075,-0.93240313720475,2019-10-21 11:05:30.911
+189,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:05:21.488
+190,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:05:17.871
+191,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-21 11:05:06.033
+192,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:04:59.218
+193,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:04:22.205
+194,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-21 11:04:18.089
+195,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:04:08.353
+196,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:03:48.694
+197,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:03:35.957
+198,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:03:15.386
+199,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-21 11:03:02.054
+200,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46093242168941,-0.932173337982613,2019-10-21 11:02:50.408
+201,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:02:38.073
+202,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:02:22.122
+203,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:02:12.091
+204,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:02:04.933
+205,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:01:34.375
+206,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 11:01:23.646
+207,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 11:00:54.250
+208,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 10:59:52.953
+209,80:58:f8:92:e9:77,72,Judith Carroll,Research Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 10:59:24.265
+210,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:17:21.065
+211,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:17:00.807
+212,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:15:41.890
+213,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:15:23.042
+214,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:14:59.984
+215,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:14:29.189
+216,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:13:43.153
+217,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:13:10.670
+218,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:12:33.781
+219,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:12:03.308
+220,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46092603423157,-0.9321775915864888,2019-10-18 12:11:54.069
+221,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 12:11:42.639
+222,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:11:32.916
+223,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460699322207496,-0.9324031372047497,2019-10-18 12:10:43.877
+224,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:10:35.760
+225,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:10:26.935
+226,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:10:01.169
+227,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46092603423157,-0.9321775915864888,2019-10-18 12:09:46.826
+228,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 12:09:33.589
+229,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46092603423157,-0.9321775915864888,2019-10-18 12:09:27.671
+230,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:09:13.230
+231,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46086055503835,-0.9322463634344166,2019-10-18 12:09:03.716
+232,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460699322207496,-0.9324031372047497,2019-10-18 12:08:26.998
+233,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46086055503835,-0.9322463634344166,2019-10-18 12:08:19.178
+234,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:08:05.940
+235,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:07:52.703
+236,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 12:07:44.486
+237,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 12:07:17.013
+238,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46092603423157,-0.9321775915864888,2019-10-18 12:07:03.674
+239,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:06:41.811
+240,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:06:33.787
+241,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:06:19.853
+242,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:05:58.291
+243,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46086055503835,-0.9322463634344166,2019-10-18 12:05:24.598
+244,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:05:14.670
+245,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:05:01.934
+246,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:03:07.707
+247,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:02:54.070
+248,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:08:56.875
+249,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:08:46.846
+250,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:08:36.813
+251,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:08:26.785
+252,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:08:16.750
+253,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:08:06.519
+254,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:07:56.184
+255,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:07:46.154
+256,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:07:36.125
+257,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:07:25.999
+258,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:07:15.964
+259,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46093752,-0.93238226,2019-10-10 12:07:05.835
+260,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:45:09.254
+261,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:44:59.221
+262,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:44:49.191
+263,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:44:39.200
+264,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:44:13.591
+265,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:43:58.539
+266,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:43:48.514
+267,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:43:33.463
+268,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:43:28.447
+269,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-10 11:43:18.016
+270,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:43:47.632
+271,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:43:34.026
+272,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:43:28.893
+273,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:43:19.935
+274,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:43:07.033
+275,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:42:57.071
+276,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:42:48.326
+277,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:42:38.230
+278,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:42:28.119
+279,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:42:13.980
+280,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:42:06.248
+281,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:41:56.032
+282,80:58:f8:89:ba:a3,73,Brent James,Chief Technology Officer,0.0,employee,0,51.460893610554216,-0.9322764118907204,2020-02-25 10:41:44.733
+283,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:07:44.665
+284,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:07:36.767
+285,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:07:25.482
+286,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:07:17.737
+287,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:07:09.253
+288,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:06:58.986
+289,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:06:45.258
+290,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:06:35.977
+291,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:06:26.377
+292,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:06:16.959
+293,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:06:05.236
+294,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46089140548629,-0.9323858586643632,2020-02-14 15:05:56.696
+295,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46092604655741,-0.9323849134993116,2020-02-14 15:05:47.266
+296,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:02:15.120
+297,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.460644560920606,-0.93224120135597,2019-10-17 12:01:55.382
+298,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:01:45.053
+299,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:00:59.541
+300,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:00:25.661
+301,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:00:08.541
+302,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:59:42.664
+303,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:59:16.706
+304,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46082691646812,-0.9323588875670062,2019-10-17 11:59:09.400
+305,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46082691646812,-0.9323588875670062,2019-10-17 11:58:51.349
+306,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:58:33.515
+307,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:58:09.471
+308,80:58:f8:05:b7:0e,26,Kevin Casey,Truck Driver,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:57:43.992
+309,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:32:41.148
+310,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:32:36.027
+311,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46050090120284,-0.9329912786940457,2020-01-13 12:32:26.402
+312,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46050090120284,-0.9329912786940457,2020-01-13 12:32:16.293
+313,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46050090120284,-0.9329912786940457,2020-01-13 12:32:06.177
+314,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46050090120284,-0.9329912786940457,2020-01-13 12:31:56.029
+315,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46050090120284,-0.9329912786940457,2020-01-13 12:31:45.905
+316,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46050090120284,-0.9329912786940457,2020-01-13 12:31:35.686
+317,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:31:29.568
+318,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:31:19.339
+319,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:31:09.116
+320,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:30:58.796
+321,60:1d:91:58:bd:28,13,Catherine Wolf,Janitor,3.0,employee,0,51.46048128074589,-0.9327134495375652,2020-01-13 12:30:48.561
+322,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:48:10.004
+323,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:46:43.083
+324,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:45:55.461
+325,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:45:42.421
+326,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:45:19.867
+327,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:44:58.815
+328,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:44:42.175
+329,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:43:40.107
+330,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:43:39.510
+331,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:43:23.670
+332,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46051889583209,-0.9327924598612336,2019-10-15 13:43:12.834
+333,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.460517385080834,-0.9327878693441436,2019-10-15 13:43:01.107
+334,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46051889583209,-0.9327924598612336,2019-10-15 13:42:54.187
+335,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.460517385080834,-0.9327878693441436,2019-10-15 13:42:39.950
+336,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:42:21.603
+337,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:42:05.471
+338,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052106809033,-0.9328624691159844,2019-10-15 13:41:58.939
+339,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46051889583209,-0.9327924598612336,2019-10-15 13:41:26.960
+340,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:41:01.601
+341,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050219562253,-0.9325736133305024,2019-10-15 13:40:54.170
+342,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46051889583209,-0.9327924598612336,2019-10-15 13:40:36.727
+343,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050219562253,-0.9325736133305024,2019-10-15 13:40:21.082
+344,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.460517385080834,-0.9327878693441436,2019-10-15 13:40:16.069
+345,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:40:09.454
+346,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:39:43.694
+347,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052106809033,-0.9328624691159844,2019-10-15 13:39:34.274
+348,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052106809033,-0.9328624691159844,2019-10-15 13:39:23.745
+349,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.460517385080834,-0.9327878693441436,2019-10-15 13:38:53.974
+350,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050219562253,-0.9325736133305024,2019-10-15 13:38:35.524
+351,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:38:14.876
+352,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050219562253,-0.9325736133305024,2019-10-15 13:38:03.760
+353,f4:f5:24:09:bd:b9,32,Scott Gibbs,Recruitment Specialist,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:36:04.239
+354,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-11-11 15:00:10.072
+355,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46092691587656,-0.9321892709362992,2019-11-11 15:00:04.963
+356,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075343917377,-0.93236101697387,2019-11-11 14:59:59.648
+357,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075343917377,-0.93236101697387,2019-11-11 14:59:49.221
+358,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075343917377,-0.93236101697387,2019-11-11 14:59:39.187
+359,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075343917377,-0.93236101697387,2019-11-11 14:59:29.149
+360,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075343917377,-0.93236101697387,2019-11-11 14:59:19.027
+361,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075505077821,-0.9323582348367307,2019-11-11 14:59:08.992
+362,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075505077821,-0.9323582348367307,2019-11-11 14:58:58.963
+363,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075505077821,-0.9323582348367307,2019-11-11 14:58:48.532
+364,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075505077821,-0.9323582348367307,2019-11-11 14:58:38.499
+365,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075505077821,-0.9323582348367307,2019-11-11 14:58:28.376
+366,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46075505077821,-0.9323582348367307,2019-11-11 14:58:18.341
+367,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:33:58.958
+368,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:33:48.931
+369,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:33:38.900
+370,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:33:28.870
+371,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:33:18.840
+372,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:33:08.802
+373,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:32:58.776
+374,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:32:48.746
+375,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:32:38.713
+376,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:32:28.681
+377,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:32:18.654
+378,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460915769221934,-0.9323712669269402,2019-12-06 14:32:08.626
+379,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-06 14:31:58.595
+380,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:51:58.302
+381,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:51:48.277
+382,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:51:38.252
+383,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:51:28.229
+384,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:51:18.202
+385,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:51:08.179
+386,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:50:58.145
+387,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:50:48.120
+388,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:50:38.095
+389,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:50:28.075
+390,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:50:18.042
+391,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 14:50:08.019
+392,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:55:29.140
+393,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:55:18.001
+394,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:55:07.981
+395,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:54:57.952
+396,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:54:47.829
+397,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:54:37.789
+398,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:54:27.457
+399,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:54:17.327
+400,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:54:07.209
+401,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:53:57.175
+402,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:53:47.344
+403,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-11 09:53:31.899
+404,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:07:24.921
+405,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:07:19.905
+406,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:07:09.886
+407,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:06:59.745
+408,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:06:49.717
+409,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:06:39.688
+410,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:06:29.259
+411,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:06:19.228
+412,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46074912507039,-0.9322942324037734,2019-10-10 13:06:09.100
+413,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-22 11:24:21.130
+414,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:24:13.210
+415,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:24:09.800
+416,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:23:59.681
+417,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:23:48.956
+418,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:23:37.130
+419,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:23:26.706
+420,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:23:16.788
+421,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:23:07.462
+422,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:22:58.646
+423,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:22:48.520
+424,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:22:39.500
+425,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46073067445749,-0.9322745344316464,2019-10-22 11:22:27.772
+426,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:39:09.319
+427,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46092727043685,-0.9321822561270738,2020-01-17 14:38:54.286
+428,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:38:33.922
+429,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:38:13.772
+430,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46092727043685,-0.9321822561270738,2020-01-17 14:37:38.393
+431,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:37:23.185
+432,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46051007179148,-0.9327242336061085,2020-01-17 13:40:00.389
+433,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46053380321861,-0.9324301771334804,2020-01-17 13:39:51.775
+434,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46038106,-0.93292202,2020-01-17 13:39:45.157
+435,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46053380321861,-0.9324301771334804,2020-01-17 13:39:36.815
+436,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46053380321861,-0.9324301771334804,2020-01-17 13:39:16.915
+437,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46038106,-0.93292202,2020-01-17 13:39:04.458
+438,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46053380321861,-0.9324301771334804,2020-01-17 13:38:56.435
+439,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46053320031344,-0.932766712254634,2020-01-17 13:38:49.220
+440,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46043554402761,-0.9327790626307872,2020-01-17 13:38:35.178
+441,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.460535318385055,-0.932382297714081,2020-01-17 13:38:21.279
+442,80:58:f8:86:38:21,89,Nancy Ford,Healthcare Administrator,3.0,employee,0,51.46047804,-0.93266756,2020-01-17 13:38:14.660
+443,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:35:07.221
+444,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:32:38.138
+445,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-15 14:32:15.281
+446,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46057838880824,-0.932373125775229,2019-10-15 14:32:05.567
+447,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:31:59.943
+448,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-15 14:31:43.199
+449,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:31:16.730
+450,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-15 14:30:51.159
+451,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46077600603306,-0.9322277690406466,2019-10-15 14:30:47.148
+452,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46057838880824,-0.932373125775229,2019-10-15 14:30:32.617
+453,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46077600603306,-0.9322277690406466,2019-10-15 14:30:29.807
+454,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607574669145,-0.932245081807224,2019-10-15 14:30:18.677
+455,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46057838880824,-0.932373125775229,2019-10-15 14:29:59.630
+456,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46077600603306,-0.9322277690406466,2019-10-15 14:29:36.163
+457,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:29:17.318
+458,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:29:01.771
+459,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607574669145,-0.932245081807224,2019-10-15 14:28:43.319
+460,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-15 14:28:35.702
+461,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607574669145,-0.932245081807224,2019-10-15 14:28:29.285
+462,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:27:48.977
+463,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:27:31.926
+464,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:27:15.192
+465,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:27:00.145
+466,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:26:47.009
+467,80:58:f8:c9:e3:cc,25,Crystal Campbell,Data Engineer,2.0,employee,0,51.4607659158286,-0.9322428029556692,2019-10-15 14:26:23.745

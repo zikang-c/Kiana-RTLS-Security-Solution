@@ -1,0 +1,222 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:45:18.256
+1,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:44:35.842
+2,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:44:00.340
+3,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:43:38.480
+4,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:42:37.720
+5,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:41:02.633
+6,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:40:27.562
+7,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46045695033268,-0.932423751083004,2019-10-18 11:40:16.133
+8,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46079952090137,-0.932579693031714,2019-10-18 11:39:50.760
+9,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46045695033268,-0.932423751083004,2019-10-18 11:39:27.798
+10,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:39:00.920
+11,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:38:53.803
+12,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:38:39.465
+13,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:38:24.021
+14,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:37:45.616
+15,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:37:20.242
+16,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:37:15.325
+17,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:36:28.184
+18,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46079952090137,-0.932579693031714,2019-10-18 11:36:16.751
+19,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.4606163282251,-0.9323143866408922,2019-10-18 11:35:52.886
+20,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:35:43.860
+21,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.4606163282251,-0.9323143866408922,2019-10-18 11:35:20.997
+22,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.460601017017815,-0.9324113127557496,2019-10-18 11:35:07.763
+23,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:34:57.231
+24,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:34:44.997
+25,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.4606163282251,-0.9323143866408922,2019-10-18 11:34:25.943
+26,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.4606163282251,-0.9323143866408922,2019-10-18 11:34:12.902
+27,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:33:47.731
+28,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:33:36.301
+29,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:33:13.333
+30,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:33:00.593
+31,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:32:13.353
+32,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:32:05.634
+33,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46045695033268,-0.932423751083004,2019-10-18 11:31:23.310
+34,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:30:51.120
+35,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:29:27.382
+36,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:28:48.765
+37,80:58:f8:09:7e:30,38,Edgar Cooper,Chief Marketing Officer,3.0,employee,0,51.46044376,-0.93227792,2019-10-18 11:28:39.945
+38,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.46040419,-0.93253306,2020-06-18 09:00:41.656
+39,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 09:00:31.994
+40,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 09:00:26.947
+41,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 09:00:18.436
+42,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 09:00:06.794
+43,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:59:54.618
+44,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:59:49.556
+45,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:59:39.506
+46,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:59:29.442
+47,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:59:17.744
+48,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:59:06.330
+49,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:58:57.695
+50,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.460415893416176,-0.9326025543380896,2020-06-18 08:58:46.171
+51,58:d9:c3:85:39:d4,14,Megan Hickman,Account Executive,3.0,employee,0,51.46049104441165,-0.9330487974359823,2020-06-18 08:58:39.874
+52,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46065474,-0.93223934,2020-01-17 11:58:43.105
+53,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46093326269588,-0.932187612154061,2020-01-17 11:58:22.549
+54,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46065474,-0.93223934,2020-01-17 11:58:16.619
+55,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:58:04.274
+56,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46093173788922,-0.9321692704523332,2020-01-17 11:57:56.944
+57,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46092377338618,-0.9321893745294701,2020-01-17 11:57:41.797
+58,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46092377338618,-0.9321893745294701,2020-01-17 11:57:21.470
+59,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46092377338618,-0.9321893745294701,2020-01-17 11:57:01.224
+60,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:56:53.184
+61,60:1d:91:a0:f8:e8,10,Keith Jones,Sales Associate,2.0,employee,0,51.46093173788922,-0.9321692704523332,2020-01-17 11:56:46.062
+62,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:29:42.780
+63,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:29:37.769
+64,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:29:27.743
+65,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:29:17.708
+66,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:29:07.676
+67,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:28:57.241
+68,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46050732,-0.932584,2019-11-04 12:28:49.623
+69,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:28:37.182
+70,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46050732,-0.932584,2019-11-04 12:28:29.564
+71,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46050732,-0.932584,2019-11-04 12:28:19.532
+72,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46050732,-0.932584,2019-11-04 12:28:09.499
+73,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46051889583208,-0.9327924598612334,2019-11-04 12:27:56.562
+74,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,0,51.46050732,-0.932584,2019-11-04 12:27:49.041
+75,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,2,51.46041432,-0.93228554,2019-11-04 13:43:43.898
+76,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,2,51.46041432,-0.93228554,2019-11-04 13:43:38.787
+77,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,2,51.46041432,-0.93228554,2019-11-04 13:43:28.355
+78,88:b4:a6:94:6a:e3,17,Emily Alexander,Customer Service Manager,3.0,employee,2,51.46041432,-0.93228554,2019-11-04 13:42:00.800
+79,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:48:14.652
+80,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:48:07.234
+81,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:47:57.081
+82,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:47:49.207
+83,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:47:39.082
+84,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:47:23.862
+85,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:47:19.841
+86,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:47:09.613
+87,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:46:55.832
+88,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:46:43.877
+89,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:46:36.434
+90,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:46:26.273
+91,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040682817966,-0.9326767169182204,2020-03-10 11:46:18.380
+92,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041373836054,-0.9326630814368256,2020-03-10 11:46:08.198
+93,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041373836054,-0.9326630814368256,2020-03-10 11:45:59.173
+94,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041048151482,-0.9326695079920844,2020-03-10 11:45:48.934
+95,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041121323307,-0.932672808280868,2020-03-10 11:45:39.065
+96,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041059086748,-0.9326767095023925,2020-03-10 11:45:24.981
+97,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040714637506,-0.9326806521558462,2020-03-10 11:45:14.769
+98,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040911563588,-0.9326769510035166,2020-03-10 11:45:04.460
+99,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040952107466,-0.9326668175432616,2020-03-10 11:44:54.245
+100,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041143369656,-0.9326698108455354,2020-03-10 11:44:45.090
+101,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:25:41.573
+102,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:25:36.558
+103,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:25:26.528
+104,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:25:16.194
+105,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:25:06.068
+106,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:24:56.039
+107,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:24:45.924
+108,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:24:35.891
+109,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:24:25.860
+110,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:24:15.533
+111,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:24:05.400
+112,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049524915847,-0.933057203467516,2019-09-16 13:23:55.372
+113,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049402736443,-0.9330581436725576,2019-09-16 13:23:45.344
+114,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460495025575725,-0.933062457127534,2019-09-16 13:23:35.315
+115,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46048923979146,-0.9330841077551424,2019-09-16 13:23:25.194
+116,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049467245804,-0.9330646004076756,2019-09-16 13:23:19.875
+117,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049344076522,-0.9330654676661332,2019-09-16 13:23:09.745
+118,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46035849,-0.9327721,2019-10-17 14:58:29.879
+119,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049427,-0.93322055,2019-10-17 14:58:12.336
+120,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46045631311145,-0.9330311224007538,2019-10-17 14:57:28.229
+121,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042011,-0.93261704,2019-10-17 14:56:12.486
+122,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049219,-0.93303804,2019-10-17 14:56:03.973
+123,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042011,-0.93261704,2019-10-17 14:55:34.173
+124,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040423,-0.93302108,2019-10-17 14:55:12.820
+125,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049219,-0.93303804,2019-10-17 14:54:24.804
+126,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46035849,-0.9327721,2019-10-17 14:53:55.749
+127,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042011,-0.93261704,2019-10-17 14:53:20.354
+128,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460494813895785,-0.9332076521559944,2019-10-17 14:53:01.209
+129,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46039416102333,-0.9327087709649416,2019-10-17 14:52:52.292
+130,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460453798040376,-0.9330211570786564,2019-10-17 14:52:41.764
+131,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46048601026494,-0.9329174739257706,2019-10-17 14:52:23.719
+132,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041118850733,-0.932844032436755,2019-10-17 14:52:17.811
+133,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460493145181616,-0.9329832761988996,2019-10-17 14:52:09.589
+134,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.4604159303054,-0.932782819996929,2019-10-17 14:51:59.870
+135,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460474888653366,-0.9331564495686564,2019-10-17 14:51:48.740
+136,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46044798735147,-0.933061327604695,2019-10-17 14:51:38.923
+137,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460444936403995,-0.9330297609007528,2019-10-17 14:51:26.389
+138,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460490193639664,-0.933126986232027,2019-10-17 14:51:10.389
+139,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460493655760246,-0.9331666534145174,2019-10-17 14:51:08.848
+140,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46047173356246,-0.9330808913619012,2019-10-17 14:50:56.921
+141,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460491447260914,-0.9331365141967763,2019-10-17 14:50:45.899
+142,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042705563551,-0.932931266651735,2019-10-17 14:50:30.866
+143,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042901712198,-0.9328408296868002,2019-10-17 14:50:23.146
+144,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46041680685442,-0.9328247757428156,2019-10-17 14:50:18.638
+145,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042227157486,-0.93288599713344,2019-10-17 14:50:08.828
+146,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46045715676374,-0.933076152540002,2019-10-17 14:49:58.989
+147,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46046060062769,-0.93303272733135,2019-10-17 14:49:45.462
+148,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46045631129726,-0.9330770723201443,2019-10-17 14:49:33.034
+149,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46038943772859,-0.9327457791590368,2019-10-17 14:49:23.912
+150,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042369713486,-0.9329134630868214,2019-10-17 14:49:17.297
+151,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46047173356246,-0.9330808913619012,2019-10-17 14:49:04.070
+152,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46039691577767,-0.9328106481046132,2019-10-17 14:48:55.048
+153,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042453181165,-0.9325767598495212,2019-10-17 14:48:42.520
+154,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460449141427695,-0.9330013144139898,2019-10-17 14:48:34.609
+155,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46047173356246,-0.9330808913619012,2019-10-17 14:48:24.982
+156,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460422986446105,-0.932930892487035,2019-10-17 14:48:19.566
+157,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042490528092,-0.93286687986167,2019-10-17 14:48:00.424
+158,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460416464354125,-0.9329001666028988,2019-10-17 14:47:59.824
+159,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460476856247794,-0.9331214401158062,2019-10-17 14:47:46.194
+160,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46046060062769,-0.93303272733135,2019-10-17 14:47:36.965
+161,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46045715676374,-0.933076152540002,2019-10-17 14:47:24.443
+162,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46045397665415,-0.933066661276616,2019-10-17 14:47:10.008
+163,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049051,-0.93277142,2019-10-17 14:47:07.803
+164,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042661445828,-0.9325616604443008,2019-10-17 14:46:58.999
+165,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46046707680426,-0.9330795256959036,2019-10-17 14:46:49.962
+166,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460493533792345,-0.9329519528485156,2019-10-17 14:46:36.331
+167,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46047604575662,-0.9330577240667586,2019-10-17 14:46:23.201
+168,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460494813895785,-0.9332076521559944,2019-10-17 14:46:14.884
+169,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46042609177313,-0.932893661272217,2019-10-17 14:46:01.751
+170,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46038912347042,-0.9328139140908706,2019-10-17 14:45:51.731
+171,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049358525756,-0.9331734553294678,2019-10-17 14:45:49.928
+172,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.460364923580606,-0.932759058639538,2019-10-17 14:45:20.664
+173,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46049219,-0.93303804,2019-10-17 14:45:08.639
+174,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46045631311145,-0.9330311224007538,2019-10-17 14:44:56.511
+175,9c:da:3e:7f:a1:8a,97,Lori Schmidt,Clinical Research Associate,0.0,employee,0,51.46040423,-0.93302108,2019-10-17 14:44:39.771
+176,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:51:57.900
+177,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:49:51.295
+178,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:49:17.819
+179,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:48:00.332
+180,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:47:41.487
+181,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:47:33.067
+182,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:47:17.327
+183,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:46:43.746
+184,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:46:11.862
+185,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:45:30.966
+186,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:45:24.950
+187,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:45:09.310
+188,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:44:54.474
+189,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:44:46.256
+190,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:44:29.819
+191,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:44:19.092
+192,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:44:08.162
+193,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:43:59.947
+194,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:43:46.515
+195,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:43:33.981
+196,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:43:21.357
+197,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:42:52.882
+198,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:42:20.004
+199,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:42:18.703
+200,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:42:00.762
+201,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:41:52.141
+202,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:41:49.036
+203,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:41:30.697
+204,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:41:29.995
+205,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:41:07.239
+206,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:40:34.770
+207,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-14 12:40:24.249
+208,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:58:16.357
+209,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:58:01.302
+210,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:57:56.195
+211,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:57:46.074
+212,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:57:35.940
+213,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:57:25.819
+214,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:57:15.688
+215,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:57:05.579
+216,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:56:55.465
+217,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:56:45.312
+218,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:56:35.186
+219,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:56:25.059
+220,80:58:f8:fa:d0:82,45,Edward Collier,Chief Financial Officer,3.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:56:14.926

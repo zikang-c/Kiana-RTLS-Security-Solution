@@ -1,0 +1,67 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:49:11.999
+1,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:47:37.831
+2,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:43:57.903
+3,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:43:13.378
+4,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:43:05.163
+5,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:42:50.409
+6,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:41:40.119
+7,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:41:34.307
+8,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.460873488301,-0.9322337878545104,2019-10-18 09:41:11.845
+9,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:40:56.402
+10,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:40:02.855
+11,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46092960181455,-0.9321752158236855,2019-10-18 09:39:38.486
+12,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:39:22.539
+13,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-18 09:39:06.795
+14,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:38:54.357
+15,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:38:43.829
+16,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.460873488301,-0.9322337878545104,2019-10-18 09:38:17.258
+17,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:37:40.554
+18,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:37:20.298
+19,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46092960181455,-0.9321752158236855,2019-10-18 09:36:56.629
+20,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:36:39.482
+21,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:36:29.352
+22,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:35:39.322
+23,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-18 09:35:22.465
+24,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:35:17.253
+25,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-18 09:35:06.729
+26,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:34:48.470
+27,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46092960181455,-0.9321752158236855,2019-10-18 09:34:30.520
+28,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-18 09:34:24.407
+29,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:34:18.788
+30,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:33:27.145
+31,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:32:48.740
+32,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:31:00.549
+33,80:58:f8:ba:c1:e1,34,Kelsey Ramirez,Content Strategist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:29:27.172
+34,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:02:09.192
+35,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:01:31.100
+36,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:01:16.960
+37,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:00:45.389
+38,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:58:51.924
+39,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:58:49.219
+40,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:58:27.269
+41,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 14:58:15.051
+42,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 14:58:04.418
+43,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:57:57.903
+44,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 14:57:38.652
+45,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:57:27.827
+46,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:57:14.799
+47,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:57:00.666
+48,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:56:52.150
+49,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:56:24.282
+50,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:56:14.762
+51,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:56:04.344
+52,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:55:55.321
+53,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:55:41.389
+54,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 14:55:35.779
+55,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:55:20.147
+56,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 14:55:18.743
+57,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:55:09.013
+58,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:54:59.993
+59,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:54:49.366
+60,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:54:38.638
+61,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:54:21.698
+62,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:54:19.993
+63,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 14:53:42.505
+64,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:53:29.591
+65,80:58:f8:31:6f:21,32,Sherri Harvey,Barista,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:52:15.306

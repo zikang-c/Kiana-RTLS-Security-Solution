@@ -1,0 +1,323 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:23:56.556
+1,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:23:41.318
+2,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:23:35.613
+3,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:23:29.891
+4,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:23:18.263
+5,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:23:07.837
+6,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:22:59.014
+7,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:22:48.292
+8,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:22:34.664
+9,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:22:27.444
+10,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:22:16.214
+11,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:22:01.279
+12,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:21:52.655
+13,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46078461946973,-0.9322543636855652,2019-10-22 15:21:46.841
+14,24:46:c8:09:65:d1,15,Logan Brady,Administrative Assistant,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:21:37.113
+15,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:36:31.145
+16,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:36:26.128
+17,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:36:16.097
+18,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:36:05.967
+19,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:35:55.931
+20,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:35:45.911
+21,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:35:35.781
+22,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:35:25.441
+23,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:35:15.413
+24,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:35:05.284
+25,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:34:55.258
+26,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:34:45.229
+27,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46071774,-0.93239636,2019-11-11 14:34:35.100
+28,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:55:35.486
+29,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:55:22.045
+30,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:54:44.138
+31,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:54:36.017
+32,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:53:49.195
+33,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:53:06.004
+34,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:52:55.054
+35,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:52:38.107
+36,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:52:26.075
+37,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:52:14.642
+38,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:51:37.438
+39,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:51:28.413
+40,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:51:18.488
+41,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:51:06.064
+42,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:50:44.400
+43,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:50:32.467
+44,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:50:28.655
+45,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:50:19.430
+46,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:50:01.987
+47,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:49:51.453
+48,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:49:47.345
+49,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:49:15.260
+50,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:49:07.036
+51,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:48:36.145
+52,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:48:10.785
+53,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:47:54.132
+54,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:47:44.504
+55,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:47:25.852
+56,80:58:f8:91:67:50,42,Mark Walker,Cloud Architect,0.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 11:47:19.243
+57,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:56:16.240
+58,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:56:06.109
+59,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:55:56.085
+60,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:55:45.647
+61,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:55:35.610
+62,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:55:25.576
+63,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:55:15.547
+64,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:55:05.417
+65,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:54:55.383
+66,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:54:44.954
+67,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:54:39.941
+68,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:54:29.914
+69,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-08-28 12:54:19.885
+70,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:50:17.444
+71,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:50:07.218
+72,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:49:57.091
+73,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:49:47.068
+74,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46065474,-0.93223934,2019-10-24 14:49:35.532
+75,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:49:27.011
+76,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:49:16.684
+77,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092026630048,-0.9323741175736264,2019-10-24 14:49:06.463
+78,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092216982409,-0.932374501858895,2019-10-24 14:48:56.435
+79,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092026630048,-0.9323741175736264,2019-10-24 14:48:46.407
+80,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092026630048,-0.9323741175736264,2019-10-24 14:48:36.383
+81,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46092026630048,-0.9323741175736264,2019-10-24 14:48:26.355
+82,80:58:f8:1e:4f:ca,26,Mark Mitchell,Office Clerk,3.0,employee,0,51.46065474,-0.93223934,2019-10-24 14:48:19.743
+83,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:34:44.166
+84,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:32:25.593
+85,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:30:49.830
+86,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:29:58.301
+87,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:29:12.881
+88,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:29:01.444
+89,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 14:28:17.334
+90,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 14:27:40.125
+91,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:27:25.489
+92,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 14:26:30.445
+93,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:26:29.734
+94,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 14:26:17.707
+95,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46086600061969,-0.9322406440192544,2019-10-18 14:26:07.375
+96,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:25:50.434
+97,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:25:39.501
+98,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 14:25:26.173
+99,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:25:11.628
+100,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46086600061969,-0.9322406440192544,2019-10-18 14:24:42.446
+101,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46086600061969,-0.9322406440192544,2019-10-18 14:24:04.039
+102,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 14:23:53.710
+103,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:23:47.791
+104,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 14:23:39.171
+105,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:23:29.845
+106,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:23:06.278
+107,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 14:22:32.685
+108,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:22:28.274
+109,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:21:30.112
+110,80:58:f8:99:fd:af,28,Craig Bailey,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:18:04.556
+111,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:50:30.231
+112,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46032165,-0.93252614,2019-10-18 14:50:25.721
+113,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:48:51.765
+114,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:48:11.253
+115,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:48:03.832
+116,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.4606513095001,-0.9322571076641536,2019-10-18 14:47:26.945
+117,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:47:03.588
+118,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:46:58.664
+119,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:46:22.771
+120,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46087334352468,-0.9323776456829678,2019-10-18 14:46:17.457
+121,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093183202864,-0.9323855879791744,2019-10-18 14:46:09.933
+122,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46032386403903,-0.9325352880483532,2019-10-18 14:45:41.461
+123,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46087803669889,-0.932369690153033,2019-10-18 14:45:04.258
+124,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460371455898816,-0.9324248966931108,2019-10-18 14:44:56.243
+125,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46087355065241,-0.9323727311924006,2019-10-18 14:44:48.614
+126,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46032165,-0.93252614,2019-10-18 14:44:36.585
+127,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:44:14.719
+128,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46057154794902,-0.93232220039284,2019-10-18 14:43:49.354
+129,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460570157282085,-0.9323149940010306,2019-10-18 14:43:33.811
+130,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46032165,-0.93252614,2019-10-18 14:43:24.990
+131,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46044376,-0.93227792,2019-10-18 14:43:12.652
+132,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46079201252354,-0.9323953959003828,2019-10-18 14:43:08.641
+133,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.4606513095001,-0.9322571076641536,2019-10-18 14:42:42.269
+134,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:42:37.154
+135,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46079778008595,-0.9323298383430983,2019-10-18 14:42:13.186
+136,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46044376,-0.93227792,2019-10-18 14:42:07.774
+137,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460774564888126,-0.932349979893809,2019-10-18 14:41:55.338
+138,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46092578948786,-0.9323943016259508,2019-10-18 14:41:49.725
+139,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46079521552424,-0.932392978560405,2019-10-18 14:41:38.998
+140,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46092578948786,-0.9323943016259508,2019-10-18 14:41:24.155
+141,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460831469532735,-0.9324087059193152,2019-10-18 14:41:12.525
+142,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46087803669889,-0.932369690153033,2019-10-18 14:40:58.990
+143,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46061265260656,-0.9322526923913624,2019-10-18 14:40:39.738
+144,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.4608276756364,-0.9323306146839956,2019-10-18 14:40:21.092
+145,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46086895470869,-0.9323805793865934,2019-10-18 14:40:18.882
+146,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46057268745244,-0.9323099895861272,2019-10-18 14:40:05.643
+147,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460570157282085,-0.9323149940010306,2019-10-18 14:39:46.595
+148,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093133539768,-0.932391108208433,2019-10-18 14:39:25.636
+149,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065005894306,-0.9322471049803024,2019-10-18 14:39:17.616
+150,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460613901887214,-0.9322608587683576,2019-10-18 14:39:06.284
+151,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460450027152206,-0.9323472090480844,2019-10-18 14:38:21.361
+152,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:38:10.331
+153,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46055201447293,-0.9323096724742193,2019-10-18 14:38:00.902
+154,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46032165,-0.93252614,2019-10-18 14:37:51.779
+155,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46057268745244,-0.9323099895861272,2019-10-18 14:37:48.169
+156,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:37:28.211
+157,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093133539768,-0.932391108208433,2019-10-18 14:37:11.167
+158,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:37:09.258
+159,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.4608276756364,-0.9323306146839956,2019-10-18 14:36:55.621
+160,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:36:27.246
+161,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46033447096062,-0.9325583322366612,2019-10-18 14:36:18.520
+162,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46087803669889,-0.932369690153033,2019-10-18 14:36:08.396
+163,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46044376,-0.93227792,2019-10-18 14:35:45.735
+164,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46044376,-0.93227792,2019-10-18 14:33:59.546
+165,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46032165,-0.93252614,2019-10-18 14:33:12.020
+166,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:51:30.018
+167,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:51:20.400
+168,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:50:45.622
+169,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:50:28.682
+170,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:49:59.819
+171,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:49:48.993
+172,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:49:28.442
+173,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:48:54.356
+174,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:48:48.743
+175,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:47:38.485
+176,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:47:18.542
+177,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:46:26.530
+178,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:46:14.400
+179,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:45:53.659
+180,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:45:48.548
+181,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:45:39.230
+182,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:45:26.200
+183,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:45:04.691
+184,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:44:58.938
+185,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:44:29.871
+186,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:44:18.646
+187,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:44:00.406
+188,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:43:56.492
+189,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:43:33.546
+190,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:43:10.492
+191,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:43:09.692
+192,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:42:56.463
+193,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:42:45.132
+194,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:42:36.112
+195,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:42:10.944
+196,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:42:05.547
+197,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:41:54.707
+198,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:41:28.952
+199,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:40:44.648
+200,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:40:24.099
+201,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:46:48.438
+202,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:45:39.656
+203,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:44:08.101
+204,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:43:51.359
+205,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:42:27.131
+206,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:40:47.560
+207,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:38:35.405
+208,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:36:42.692
+209,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46040419,-0.93253306,2019-10-18 14:34:13.784
+210,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:50:49.429
+211,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:50:39.002
+212,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:50:28.975
+213,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:50:18.945
+214,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:50:08.813
+215,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:49:58.883
+216,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:49:48.760
+217,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:49:38.336
+218,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:49:28.404
+219,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:49:18.278
+220,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:49:08.149
+221,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46076110036611,-0.9322452182534234,2019-10-11 11:48:58.123
+222,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:40:39.804
+223,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:40:29.772
+224,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:40:19.747
+225,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:40:09.609
+226,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:39:59.581
+227,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:39:49.152
+228,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:39:39.122
+229,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:39:29.095
+230,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:39:19.059
+231,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:39:08.928
+232,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:38:58.893
+233,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46078621,-0.93222453,2019-11-05 13:38:48.476
+234,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:56:46.211
+235,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:56:35.785
+236,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:56:25.754
+237,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:56:15.631
+238,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:56:05.602
+239,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:55:55.479
+240,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:55:45.448
+241,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:55:35.023
+242,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:55:24.997
+243,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:55:19.975
+244,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:55:09.852
+245,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:54:59.825
+246,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,2,51.46039235,-0.93249525,2019-09-03 15:54:49.791
+247,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:25:39.754
+248,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:25:27.297
+249,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:25:19.894
+250,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:25:09.867
+251,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:24:56.031
+252,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:24:49.821
+253,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:24:39.813
+254,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:24:28.207
+255,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:24:14.674
+256,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:24:04.647
+257,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:23:58.193
+258,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46091773650439,-0.9323834942100928,2020-03-02 10:23:44.582
+259,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460577420355136,-0.9323782929618196,2020-03-02 10:23:38.358
+260,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:15:26.113
+261,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:15:15.998
+262,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:15:05.968
+263,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:14:55.942
+264,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:14:45.919
+265,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:14:35.796
+266,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:14:25.774
+267,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:14:15.744
+268,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:14:05.723
+269,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:13:55.692
+270,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:13:45.577
+271,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.460836565849526,-0.932205855728859,2020-01-09 16:13:35.553
+272,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46094269,-0.9321665,2020-01-09 16:13:27.126
+273,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46063957,-0.9324208,2019-10-24 13:08:26.169
+274,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46063957,-0.9324208,2019-10-24 13:08:16.046
+275,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46063957,-0.9324208,2019-10-24 13:08:06.021
+276,80:58:f8:e8:e2:b8,166,Robert Pope,Public Relations Manager,2.0,employee,0,51.46063957,-0.9324208,2019-10-24 13:07:55.988
+277,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:07:08.688
+278,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:06:33.294
+279,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:04:14.637
+280,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:03:01.137
+281,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:02:59.130
+282,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46088727638633,-0.9322231231306384,2019-10-15 14:01:39.726
+283,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:01:12.656
+284,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:01:07.546
+285,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:00:51.599
+286,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:00:49.291
+287,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46088727638633,-0.9322231231306384,2019-10-15 14:00:25.837
+288,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:59:55.270
+289,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:59:45.137
+290,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:59:33.504
+291,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:59:28.591
+292,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:59:18.867
+293,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:58:58.216
+294,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46088727638633,-0.9322231231306384,2019-10-15 13:58:46.887
+295,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:58:33.850
+296,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:58:28.033
+297,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:58:16.604
+298,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:58:08.982
+299,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:57:23.361
+300,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:57:13.936
+301,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:56:47.570
+302,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46088727638633,-0.9322231231306384,2019-10-15 13:56:22.407
+303,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:56:05.592
+304,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:55:56.644
+305,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:55:42.909
+306,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:55:25.162
+307,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:55:01.195
+308,80:58:f8:2b:21:41,32,Matthew Bryant,Human Resources Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:52:23.276
+309,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:14:18.197
+310,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:14:01.549
+311,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46090031,-0.93241827,2020-02-25 16:13:55.315
+312,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46080124,-0.93237954,2020-02-25 16:13:47.749
+313,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:13:30.715
+314,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46080124,-0.93237954,2020-02-25 16:13:25.776
+315,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:13:13.479
+316,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:13:02.286
+317,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46080124,-0.93237954,2020-02-25 16:12:56.239
+318,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:12:46.813
+319,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46083312109671,-0.9323920034589228,2020-02-25 16:12:38.672
+320,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46080124,-0.93237954,2020-02-25 16:12:26.499
+321,24:46:c8:bf:4b:7d,13,Sarah Hoffman,SEO Specialist,1.0,employee,0,51.46090031,-0.93241827,2020-02-25 16:12:18.389

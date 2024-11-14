@@ -1,0 +1,160 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:22:19.285
+1,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:20:58.358
+2,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:18:04.793
+3,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:17:47.038
+4,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:16:52.393
+5,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:16:43.569
+6,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:15:40.794
+7,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:15:01.499
+8,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:14:46.958
+9,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:14:27.408
+10,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:13:41.980
+11,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:13:39.369
+12,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:13:25.937
+13,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:13:12.701
+14,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:12:37.696
+15,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:12:10.014
+16,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:11:34.717
+17,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:11:27.893
+18,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:11:15.357
+19,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:11:08.141
+20,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:10:50.993
+21,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:10:34.656
+22,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:10:25.130
+23,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:10:12.597
+24,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:10:08.284
+25,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 11:09:53.938
+26,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:09:46.315
+27,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:09:39.296
+28,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:09:16.437
+29,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:08:51.463
+30,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:08:01.121
+31,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:07:53.999
+32,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:07:27.929
+33,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:06:52.628
+34,80:58:f8:6e:88:a8,35,Daniel Newman,Healthcare Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:01:46.671
+35,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46041057,-0.93295959,2020-01-22 10:45:22.327
+36,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:45:15.812
+37,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:45:05.784
+38,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:44:55.754
+39,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:44:45.634
+40,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:44:35.606
+41,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:44:25.581
+42,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:44:15.551
+43,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:44:05.453
+44,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:43:55.408
+45,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:43:45.375
+46,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:43:35.349
+47,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.46057698218204,-0.9325832978447076,2020-01-22 10:43:25.227
+48,60:1d:91:f1:c6:68,14,Ralph Morales,Product Designer,3.0,employee,0,51.460581043389915,-0.9325368041267604,2020-01-22 10:43:19.515
+49,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:15:49.349
+50,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:12:06.804
+51,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:11:31.710
+52,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:10:38.876
+53,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:10:23.235
+54,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:10:03.411
+55,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:09:40.728
+56,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:09:35.925
+57,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:09:26.392
+58,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:09:17.573
+59,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:08:52.006
+60,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:08:20.523
+61,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:08:19.622
+62,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:08:01.477
+63,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:07:31.099
+64,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:07:16.760
+65,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:07:07.753
+66,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:06:58.727
+67,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:06:48.093
+68,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:06:37.569
+69,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:06:23.331
+70,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:06:15.813
+71,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:06:08.495
+72,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:05:59.772
+73,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:05:46.740
+74,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:05:16.658
+75,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:04:55.511
+76,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:04:38.766
+77,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:04:27.047
+78,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46087626056104,-0.932234379399151,2019-10-17 10:04:17.010
+79,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:04:08.784
+80,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:03:07.724
+81,80:58:f8:3c:32:52,33,Rachel Carter,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:02:56.599
+82,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:33:00.417
+83,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:31:24.997
+84,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:31:17.887
+85,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:29:49.178
+86,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:29:26.033
+87,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:29:16.601
+88,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:28:18.573
+89,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:28:00.027
+90,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:27:08.211
+91,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:26:56.082
+92,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:26:34.529
+93,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:26:27.115
+94,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:26:19.597
+95,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:26:07.470
+96,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:25:49.826
+97,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:25:36.896
+98,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:25:11.844
+99,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:25:03.721
+100,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:24:47.883
+101,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:24:34.755
+102,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:24:29.649
+103,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:24:16.011
+104,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:24:03.884
+105,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:23:45.543
+106,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 09:23:39.526
+107,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:23:05.348
+108,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:31.067
+109,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:20.038
+110,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:22:13.421
+111,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:00.898
+112,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:21:15.787
+113,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:20:58.555
+114,24:46:c8:15:27:68,33,Kelly Mccullough,Public Relations Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:20:48.631
+115,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:50:00.819
+116,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:48:51.735
+117,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:47:48.171
+118,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:47:20.903
+119,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:47:06.076
+120,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:46:59.559
+121,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:46:24.561
+122,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:45:44.261
+123,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:45:29.840
+124,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:44:49.932
+125,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:44:28.377
+126,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:44:15.047
+127,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:44:09.429
+128,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:43:58.006
+129,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:43:49.073
+130,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:43:30.529
+131,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:43:20.302
+132,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:43:03.167
+133,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:42:55.839
+134,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:42:41.003
+135,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-17 10:42:37.397
+136,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:42:24.463
+137,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-17 10:42:15.244
+138,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:42:09.931
+139,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-17 10:41:52.281
+140,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:41:37.844
+141,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:41:08.784
+142,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-17 10:40:50.726
+143,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:40:36.194
+144,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:40:19.951
+145,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-17 10:39:23.822
+146,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:37:22.018
+147,80:58:f8:e8:5f:48,33,Brian Lewis,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:36:25.961
+148,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46034429,-0.93265962,2020-01-17 16:25:07.789
+149,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46034429,-0.93265962,2020-01-17 16:23:35.358
+150,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46034429,-0.93265962,2020-01-17 16:23:09.607
+151,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46058607388986,-0.9326321459453856,2020-01-17 16:24:53.441
+152,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46058607388986,-0.9326321459453856,2020-01-17 16:24:38.101
+153,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.460734179948254,-0.9325835960315784,2020-01-17 16:24:23.588
+154,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46047804,-0.93266756,2020-01-17 16:24:17.658
+155,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.460734179948254,-0.9325835960315784,2020-01-17 16:24:03.314
+156,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46047804,-0.93266756,2020-01-17 16:23:57.203
+157,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.460734179948254,-0.9325835960315784,2020-01-17 16:23:42.965
+158,60:1d:91:b0:fe:9c,11,Mark Fuller,Research Scientist,0.0,employee,0,51.46058607388986,-0.9326321459453856,2020-01-17 16:23:21.809

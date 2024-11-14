@@ -1,0 +1,104 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.460396,-0.9332149,2020-06-18 08:19:50.327
+1,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:19:41.912
+2,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:19:38.278
+3,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:19:28.202
+4,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:19:19.687
+5,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:19:08.103
+6,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:18:56.550
+7,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:18:46.458
+8,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:18:37.910
+9,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:18:26.296
+10,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:18:15.742
+11,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:18:07.741
+12,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46041206551355,-0.9326358562819946,2020-06-18 08:17:57.642
+13,58:d9:c3:5e:db:7a,14,Linda Dickson,Janitor,3.0,employee,0,51.46040409135888,-0.9325746743120904,2020-06-18 08:17:48.934
+14,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46079164629029,-0.9323658564652214,2019-10-22 15:58:21.851
+15,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46071488624345,-0.9325372824487762,2019-10-22 15:58:14.933
+16,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46066253307429,-0.93251144127809,2019-10-22 15:58:04.805
+17,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46079738366903,-0.9323501904506808,2019-10-22 15:57:58.689
+18,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:57:43.351
+19,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46081038845236,-0.9323470456325352,2019-10-22 15:57:37.333
+20,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:57:26.905
+21,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:57:11.568
+22,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:57:05.349
+23,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:56:59.934
+24,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:56:44.597
+25,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46070969241499,-0.9325095502095944,2019-10-22 15:56:36.486
+26,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.460654651276656,-0.9324929854904388,2019-10-22 15:56:22.039
+27,d0:77:14:2b:79:53,14,Nicholas Simpson,Warehouse Worker,2.0,employee,0,51.46047276324688,-0.9327980399709896,2019-10-22 15:56:19.132
+28,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:46:50.342
+29,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:46:45.227
+30,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:46:35.094
+31,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:46:29.988
+32,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:46:19.860
+33,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:46:09.723
+34,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:45:59.506
+35,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:45:49.469
+36,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:45:39.248
+37,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:45:29.117
+38,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:45:18.993
+39,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:45:08.771
+40,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:44:58.646
+41,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-06 09:44:48.520
+42,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093901451472,-0.9321678630394356,2020-01-17 15:33:36.450
+43,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093901451472,-0.9321678630394356,2020-01-17 15:33:16.209
+44,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093901451472,-0.9321678630394356,2020-01-17 15:32:55.946
+45,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:32:35.789
+46,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:32:15.462
+47,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:31:55.200
+48,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:31:39.960
+49,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:03:21.201
+50,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:03:12.885
+51,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:02:57.646
+52,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:01:34.444
+53,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:01:26.425
+54,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:01:14.500
+55,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:01:04.386
+56,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:00:28.388
+57,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:59:40.372
+58,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:59:16.512
+59,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:58:39.826
+60,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:58:26.497
+61,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:58:11.765
+62,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:57:51.509
+63,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:57:47.699
+64,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:57:17.921
+65,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:57:08.702
+66,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:55:53.221
+67,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:51:42.834
+68,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:30:31.412
+69,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:29:41.775
+70,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:29:19.817
+71,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:29:07.683
+72,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:28:53.347
+73,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:28:02.414
+74,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:27:43.953
+75,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:27:36.540
+76,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:27:25.007
+77,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:27:06.453
+78,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:26:54.018
+79,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:26:40.883
+80,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:26:25.344
+81,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:25:57.871
+82,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:25:45.230
+83,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:25:30.990
+84,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:25:27.086
+85,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:25:04.015
+86,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:24:57.098
+87,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:24:32.829
+88,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:24:24.414
+89,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:23:45.602
+90,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:23:32.866
+91,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:23:19.127
+92,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:23:06.188
+93,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:22:58.564
+94,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:22:40.816
+95,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:22:30.888
+96,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:22:22.970
+97,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:22:16.354
+98,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46088555260733,-0.93235599513063,2019-10-18 16:22:09.935
+99,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:21:33.837
+100,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:21:11.981
+101,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:20:09.508
+102,80:58:f8:90:42:2b,75,Bradley Thomas,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:19:50.053

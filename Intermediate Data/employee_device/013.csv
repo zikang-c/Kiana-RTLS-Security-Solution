@@ -1,0 +1,246 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:22:26.010
+1,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:22:15.484
+2,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:22:05.453
+3,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:21:55.420
+4,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:21:45.295
+5,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:21:35.263
+6,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:21:25.241
+7,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:21:14.805
+8,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:21:09.785
+9,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:20:59.755
+10,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:20:49.633
+11,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:20:39.599
+12,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46083145137469,-0.9322075223893038,2019-10-03 10:20:29.568
+13,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:24:58.925
+14,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:24:48.892
+15,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:24:38.863
+16,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:24:28.831
+17,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:24:18.708
+18,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:24:08.276
+19,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:23:58.238
+20,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:23:48.116
+21,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:23:38.090
+22,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:23:28.050
+23,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:23:18.019
+24,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46078621,-0.93222453,2019-08-21 09:23:07.585
+25,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:40:29.555
+26,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:40:19.432
+27,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:40:09.400
+28,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:39:59.272
+29,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:39:49.239
+30,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:39:38.805
+31,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:39:28.775
+32,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:39:18.659
+33,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:39:08.620
+34,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:38:58.489
+35,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:38:48.450
+36,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,2,51.46043767915335,-0.9329828363597522,2019-08-28 13:38:38.018
+37,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:33:04.675
+38,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:28:44.372
+39,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460634375857445,-0.932243063806139,2019-10-14 14:28:23.619
+40,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460923207700446,-0.9323756881506916,2019-10-14 14:27:33.703
+41,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:27:23.877
+42,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093516964824,-0.9323817633301544,2019-10-14 14:27:09.745
+43,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:26:30.658
+44,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:26:21.436
+45,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:26:15.321
+46,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:26:07.605
+47,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460634375857445,-0.932243063806139,2019-10-14 14:25:57.682
+48,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:25:47.354
+49,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460634375857445,-0.932243063806139,2019-10-14 14:25:39.833
+50,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:25:28.508
+51,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:25:18.482
+52,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460634375857445,-0.932243063806139,2019-10-14 14:24:38.589
+53,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:24:28.763
+54,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460634375857445,-0.932243063806139,2019-10-14 14:24:15.353
+55,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460923207700446,-0.9323756881506916,2019-10-14 14:24:08.317
+56,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:23:43.254
+57,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46092540257624,-0.9323761357259878,2019-10-14 14:23:31.021
+58,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.460923207700446,-0.9323756881506916,2019-10-14 14:23:28.017
+59,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093516964824,-0.9323817633301544,2019-10-14 14:23:03.063
+60,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093516964824,-0.9323817633301544,2019-10-14 14:22:57.442
+61,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:22:49.624
+62,80:58:f8:ed:1e:86,63,Erica Johnson,Product Designer,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:22:05.138
+63,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:26:13.220
+64,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:25:43.648
+65,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:22:49.744
+66,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:21:35.882
+67,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:21:09.921
+68,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:20:54.990
+69,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:20:15.095
+70,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:19:53.749
+71,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:19:36.705
+72,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:19:27.983
+73,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:19:12.848
+74,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:19:05.255
+75,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:18:56.408
+76,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:18:41.572
+77,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:18:30.445
+78,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:18:23.629
+79,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:18:10.900
+80,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:18:05.195
+81,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:17:53.056
+82,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.460923876810746,-0.9323753645879926,2019-10-14 09:17:43.629
+83,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:17:26.983
+84,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:17:16.259
+85,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:17:04.729
+86,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:16:46.180
+87,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:16:16.001
+88,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:15:53.149
+89,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:15:42.020
+90,80:58:f8:0d:2d:60,28,Joseph Escobar,Retail Associate,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:15:11.954
+91,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:29:47.307
+92,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:26:14.220
+93,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:26:03.190
+94,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:25:27.709
+95,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:24:50.119
+96,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:24:43.005
+97,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:24:13.141
+98,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:23:57.502
+99,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:23:45.076
+100,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:23:37.258
+101,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:22:58.968
+102,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:22:41.826
+103,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:22:37.421
+104,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:22:24.888
+105,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:22:10.863
+106,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:22:06.548
+107,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:21:55.821
+108,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:21:48.507
+109,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:21:39.183
+110,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:21:19.944
+111,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:20:50.482
+112,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:20:45.469
+113,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:20:34.949
+114,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:20:13.801
+115,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:19:57.366
+116,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46092797879954,-0.93237743777647,2019-10-14 10:19:31.207
+117,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:19:25.294
+118,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:19:13.168
+119,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 10:18:50.819
+120,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:18:47.313
+121,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:18:18.447
+122,80:58:f8:48:55:07,32,Keith Frost,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 10:17:56.094
+123,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:27:46.357
+124,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:27:09.260
+125,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 16:22:47.873
+126,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:22:16.598
+127,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46077174486343,-0.932237554468662,2019-10-17 16:21:56.058
+128,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 16:21:07.524
+129,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:20:55.998
+130,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:20:23.326
+131,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46077174486343,-0.932237554468662,2019-10-17 16:20:03.806
+132,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 16:19:40.929
+133,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46077174486343,-0.932237554468662,2019-10-17 16:19:32.117
+134,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46058848589109,-0.9323837200343184,2019-10-17 16:19:20.182
+135,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:19:18.678
+136,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:19:00.165
+137,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 16:18:59.829
+138,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:18:49.937
+139,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 16:18:25.055
+140,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 16:18:05.106
+141,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46076909867893,-0.932238306528344,2019-10-17 16:17:59.793
+142,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46058848589109,-0.9323837200343184,2019-10-17 16:17:43.360
+143,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:17:33.541
+144,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46077174486343,-0.932237554468662,2019-10-17 16:17:24.716
+145,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46076909867893,-0.932238306528344,2019-10-17 16:17:09.082
+146,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:16:54.548
+147,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46077174486343,-0.932237554468662,2019-10-17 16:16:48.236
+148,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46077174486343,-0.932237554468662,2019-10-17 16:16:13.957
+149,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46058848589109,-0.9323837200343184,2019-10-17 16:16:03.455
+150,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:15:54.220
+151,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:15:36.774
+152,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:13:05.336
+153,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:12:47.292
+154,80:58:f8:28:d4:86,32,Gregory Weber,Software Engineer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:11:54.079
+155,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46044540604706,-0.932985445454307,2020-01-17 12:24:52.682
+156,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46033603,-0.93223681,2020-01-17 12:24:44.346
+157,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46047329,-0.9331763,2020-01-17 12:24:30.917
+158,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46033603,-0.93223681,2020-01-17 12:24:24.328
+159,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46033603,-0.93223681,2020-01-17 12:24:04.243
+160,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46047329,-0.9331763,2020-01-17 12:23:50.615
+161,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46033603,-0.93223681,2020-01-17 12:23:44.195
+162,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46047329,-0.9331763,2020-01-17 12:23:30.463
+163,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46033603,-0.93223681,2020-01-17 12:23:24.068
+164,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46047329,-0.9331763,2020-01-17 12:23:10.322
+165,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46033603,-0.93223681,2020-01-17 12:23:04.009
+166,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:38:17.757
+167,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:35:30.094
+168,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:34:25.311
+169,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:34:13.880
+170,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:33:51.617
+171,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:33:11.400
+172,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:32:51.141
+173,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:32:37.107
+174,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:32:25.377
+175,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:31:57.389
+176,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:31:39.636
+177,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:31:27.513
+178,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:31:18.680
+179,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:30:46.296
+180,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:30:24.037
+181,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:30:19.121
+182,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:29:55.254
+183,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:29:36.100
+184,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:28:40.546
+185,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:28:36.031
+186,80:58:f8:58:98:b8,32,Clayton Garcia,Warehouse Worker,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:25:59.089
+187,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:12:24.719
+188,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:10:49.771
+189,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:10:33.429
+190,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:10:27.712
+191,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46043985,-0.93243722,2019-10-15 14:10:15.980
+192,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.460411414827455,-0.932554259953057,2019-10-15 14:10:00.443
+193,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46043985,-0.93243722,2019-10-15 14:09:59.340
+194,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:09:38.082
+195,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:08:47.347
+196,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46043985,-0.93243722,2019-10-15 14:08:25.593
+197,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46043985,-0.93243722,2019-10-15 14:08:02.337
+198,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:07:59.515
+199,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:07:35.954
+200,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:07:08.997
+201,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46043985,-0.93243722,2019-10-15 14:06:44.525
+202,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:06:27.780
+203,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.460411414827455,-0.932554259953057,2019-10-15 14:05:52.389
+204,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:05:27.723
+205,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46043985,-0.93243722,2019-10-15 14:05:02.767
+206,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:04:39.101
+207,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:04:24.358
+208,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:03:38.649
+209,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:03:28.312
+210,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:02:59.830
+211,f4:f5:24:50:5d:0f,25,Joseph Knight,Biomedical Engineer,0.0,employee,0,51.46035849,-0.9327721,2019-10-15 14:01:08.446
+212,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:08:23.059
+213,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:06:41.930
+214,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 09:05:23.486
+215,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:04:55.182
+216,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:03:37.912
+217,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 09:03:23.778
+218,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:02:32.362
+219,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:02:07.204
+220,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 09:01:23.311
+221,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 09:01:02.678
+222,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:00:15.659
+223,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 09:00:03.641
+224,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:58:19.508
+225,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:58:06.379
+226,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:57:25.991
+227,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:57:18.471
+228,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:56:44.397
+229,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:56:16.037
+230,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:55:58.900
+231,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040143865328,-0.9330058856513488,2019-10-22 08:55:22.914
+232,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:55:14.396
+233,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:54:51.446
+234,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:54:03.945
+235,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:53:35.386
+236,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:52:57.607
+237,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:51:34.729
+238,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:50:56.245
+239,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:50:03.736
+240,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:49:58.223
+241,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:49:23.047
+242,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:49:17.136
+243,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46040143865328,-0.9330058856513488,2019-10-22 08:48:43.559
+244,d0:77:14:a5:88:b8,33,Tyler Walter,Healthcare Administrator,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:43:56.546

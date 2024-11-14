@@ -1,0 +1,62 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:54:12.974
+1,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:52:47.673
+2,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:50:40.377
+3,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:49:41.336
+4,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 14:49:27.411
+5,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:48:58.945
+6,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:48:43.204
+7,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:47:31.090
+8,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:47:27.725
+9,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:47:15.298
+10,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:47:06.777
+11,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:46:38.709
+12,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:46:19.360
+13,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:45:48.387
+14,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 14:45:35.758
+15,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 14:45:23.458
+16,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 14:45:17.220
+17,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:45:04.489
+18,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:44:53.563
+19,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:44:46.152
+20,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:44:39.530
+21,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:44:29.709
+22,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:43:55.329
+23,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:43:49.516
+24,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:43:39.991
+25,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:43:24.661
+26,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:43:15.036
+27,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 14:43:05.209
+28,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:42:42.556
+29,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:42:31.430
+30,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 14:42:24.114
+31,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:42:09.781
+32,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:41:48.526
+33,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:41:01.412
+34,80:58:f8:1b:b4:d4,35,Timothy Tucker,Laboratory Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:40:07.592
+35,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46040937132683,-0.9325365825158918,2019-11-06 14:27:36.252
+36,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:27:25.923
+37,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-06 14:27:18.598
+38,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:27:05.053
+39,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:26:59.847
+40,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:26:44.427
+41,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46040937132683,-0.9325365825158918,2019-11-06 14:26:39.278
+42,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:26:29.051
+43,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:26:18.721
+44,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:26:07.384
+45,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:25:57.148
+46,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:25:46.817
+47,88:b4:a6:bc:02:0f,13,Patrick Johnson,Social Media Manager,1.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-06 14:25:36.586
+48,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-03 09:44:29.893
+49,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-03 09:44:19.367
+50,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-03 09:44:09.421
+51,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:43:59.307
+52,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:43:49.279
+53,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:43:39.253
+54,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:43:29.223
+55,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:43:18.692
+56,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:43:08.669
+57,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:42:58.630
+58,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:42:48.507
+59,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46072638032987,-0.9323105472365744,2019-12-03 09:42:38.571
+60,24:46:c8:1d:19:53,13,Caleb Bell,Warehouse Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-03 09:42:28.445

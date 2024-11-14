@@ -1,0 +1,79 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:57:12.194
+1,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:56:05.445
+2,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 14:54:47.963
+3,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:54:13.282
+4,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:53:42.007
+5,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 14:53:33.590
+6,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:53:27.871
+7,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:53:12.134
+8,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:53:09.429
+9,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:52:31.438
+10,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:52:26.730
+11,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:52:05.184
+12,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 14:51:50.246
+13,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:51:41.124
+14,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:51:31.402
+15,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:51:27.696
+16,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 14:51:13.959
+17,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:51:01.839
+18,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:50:53.314
+19,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:50:45.596
+20,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 14:50:38.080
+21,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:50:12.522
+22,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-17 14:49:58.590
+23,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:49:45.058
+24,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:32.829
+25,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:49:27.133
+26,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:11.486
+27,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:48:59.059
+28,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:48:37.111
+29,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:48:23.575
+30,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:48:19.967
+31,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:48:09.846
+32,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:47:31.454
+33,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:47:20.433
+34,80:58:f8:74:ed:e9,35,Victoria Hernandez MD,Maintenance Technician,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:44:55.707
+35,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46090384018996,-0.9321892732510574,2020-01-17 12:38:57.849
+36,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46077609763424,-0.9322256691506579,2020-01-17 12:38:32.601
+37,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46085533,-0.93236214,2020-01-17 12:38:26.366
+38,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46090663753546,-0.932179304870718,2020-01-17 12:38:12.529
+39,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46085533,-0.93236214,2020-01-17 12:38:06.118
+40,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46090663753546,-0.932179304870718,2020-01-17 12:37:52.010
+41,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46085533,-0.93236214,2020-01-17 12:37:45.782
+42,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46090384018996,-0.9321892732510574,2020-01-17 12:37:31.643
+43,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46090663753546,-0.932179304870718,2020-01-17 12:37:11.500
+44,60:1d:91:b5:8f:86,10,Adrian Barnes DDS,Mechanical Engineer,0.0,employee,0,51.46085533,-0.93236214,2020-01-17 12:37:05.178
+45,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.460499020702976,-0.9322892280555076,2019-12-09 12:34:00.917
+46,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46045146804988,-0.9324756563796432,2019-12-09 12:33:57.004
+47,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46045146804988,-0.9324756563796432,2019-12-09 12:33:46.972
+48,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:33:35.841
+49,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46045146804988,-0.9324756563796432,2019-12-09 12:33:26.817
+50,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:33:15.789
+51,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:33:05.759
+52,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:32:55.725
+53,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:32:45.698
+54,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:32:35.668
+55,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46047290098903,-0.9323021611098136,2019-12-09 12:32:25.639
+56,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46045146804988,-0.9324756563796432,2019-12-09 12:32:11.432
+57,24:46:c8:b6:c6:48,13,Bruce Briggs,Account Executive,0.0,employee,0,51.46045146804988,-0.9324756563796432,2019-12-09 12:32:06.297
+58,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46059815,-0.93239386,2020-01-17 14:35:10.981
+59,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:35:04.851
+60,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46059815,-0.93239386,2020-01-17 14:34:50.709
+61,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:34:49.796
+62,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:34:34.760
+63,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46059815,-0.93239386,2020-01-17 14:34:20.330
+64,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46059815,-0.93239386,2020-01-17 14:33:59.978
+65,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46063496189757,-0.9322933444599448,2020-01-17 14:33:39.533
+66,60:1d:91:aa:52:58,9,Kathryn Pace,,,visitor,0,51.46063496189757,-0.9322933444599448,2020-01-17 14:33:24.504
+67,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-17 13:34:40.617
+68,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-17 13:31:36.710
+69,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:29:29.016
+70,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:28:51.726
+71,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:27:56.405
+72,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-17 13:27:23.737
+73,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:27:04.916
+74,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:26:20.295
+75,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-17 13:25:41.999
+76,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:25:13.334
+77,80:58:f8:c1:3c:49,11,Rhonda Randall,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-17 13:24:07.975

@@ -1,0 +1,101 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.46070029,-0.93232491,2020-03-04 12:04:41.757
+1,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.46070029,-0.93232491,2020-03-04 12:04:36.624
+2,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.46070029,-0.93232491,2020-03-04 12:04:06.262
+3,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.4608141770375,-0.9322582832694356,2020-03-04 12:03:55.143
+4,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.4608141770375,-0.9322582832694356,2020-03-04 12:03:46.543
+5,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.46067260057439,-0.932384486741656,2020-03-04 12:03:34.608
+6,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.4606371,-0.93246087,2020-03-04 12:03:25.168
+7,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.4606371,-0.93246087,2020-03-04 12:03:16.479
+8,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.460810824967886,-0.9322709268955361,2020-03-04 12:03:06.351
+9,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.460810824967886,-0.9322709268955361,2020-03-04 12:02:57.594
+10,38:80:df:8e:e9:ed,11,Sheryl West,Cybersecurity Analyst,2.0,employee,0,51.46079739057278,-0.932277487989902,2020-03-04 12:02:48.689
+11,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:16:52.814
+12,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:16:42.776
+13,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:16:32.742
+14,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:16:27.636
+15,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:16:12.583
+16,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:16:07.257
+17,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:15:57.134
+18,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:15:47.093
+19,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:15:37.057
+20,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:15:26.929
+21,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.46048601143761,-0.9323419618500628,2019-11-12 10:15:13.479
+22,24:46:c8:c2:a9:b2,12,Patricia Hudson,Receptionist,1.0,employee,0,51.4606371,-0.93246087,2019-11-12 10:15:06.459
+23,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:59:39.464
+24,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:59:29.445
+25,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:59:19.310
+26,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.46041160246404,-0.9325243171461276,2019-08-19 14:59:05.971
+27,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:58:58.247
+28,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:58:48.215
+29,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.46041160246404,-0.9325243171461276,2019-08-19 14:58:35.590
+30,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:58:28.062
+31,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:58:17.934
+32,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:58:07.605
+33,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:57:57.485
+34,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.460511915094045,-0.9324841361033174,2019-08-19 14:57:47.454
+35,88:b4:a6:ce:d3:38,13,Gabrielle Farrell,SEO Specialist,2.0,employee,0,51.46052799897479,-0.9325117309565722,2019-08-19 14:57:38.533
+36,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:45:21.074
+37,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:43:15.844
+38,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-15 13:43:06.827
+39,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:42:36.848
+40,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:42:22.712
+41,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:42:14.490
+42,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:41:58.544
+43,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-15 13:41:18.339
+44,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-15 13:41:05.011
+45,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-15 13:40:45.298
+46,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:40:38.129
+47,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:40:02.838
+48,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-15 13:39:50.708
+49,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-15 13:39:43.095
+50,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:39:38.989
+51,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:39:21.742
+52,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:39:07.820
+53,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:38:59.585
+54,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:38:30.518
+55,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:38:25.210
+56,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:38:12.467
+57,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:38:04.557
+58,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:37:47.802
+59,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:37:34.272
+60,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:37:05.808
+61,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:36:40.526
+62,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:36:31.719
+63,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:36:06.353
+64,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:35:33.266
+65,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:35:11.706
+66,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:35:06.190
+67,80:58:f8:9c:13:fc,32,Megan Hart,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:32:36.697
+68,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:34:34.380
+69,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:34:20.745
+70,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:33:09.691
+71,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:30:41.044
+72,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:29:41.123
+73,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:29:15.349
+74,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:28:55.922
+75,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:28:42.873
+76,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:28:30.850
+77,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:28:28.339
+78,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:28:12.406
+79,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:28:02.781
+80,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:27:53.861
+81,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:27:45.843
+82,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:27:37.825
+83,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:27:16.688
+84,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:27:01.342
+85,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:26:57.538
+86,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:26:47.212
+87,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:26:38.395
+88,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:26:13.537
+89,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:26:03.326
+90,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-14 16:25:58.302
+91,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:25:44.077
+92,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:25:34.946
+93,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:25:28.236
+94,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:25:00.777
+95,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:24:52.053
+96,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:24:45.838
+97,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:24:15.766
+98,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 16:24:08.355
+99,80:58:f8:59:86:dd,32,Michael Harris,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:22:28.021

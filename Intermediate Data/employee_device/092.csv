@@ -1,0 +1,466 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:39:40.604
+1,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:37:39.681
+2,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:36:06.224
+3,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46092391451826,-0.9321790031685274,2019-10-18 16:35:37.049
+4,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46092391451826,-0.9321790031685274,2019-10-18 16:34:49.219
+5,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:32:05.575
+6,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:31:35.990
+7,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46069180559172,-0.9324059030977964,2019-10-18 16:31:29.778
+8,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:31:17.639
+9,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:30:32.817
+10,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-18 16:30:18.276
+11,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:29:48.294
+12,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:29:37.060
+13,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-18 16:29:19.016
+14,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46092391451826,-0.9321790031685274,2019-10-18 16:28:55.953
+15,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:28:34.396
+16,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:28:15.037
+17,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:28:00.399
+18,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-18 16:27:48.668
+19,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46092391451826,-0.9321790031685274,2019-10-18 16:27:32.026
+20,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:27:29.321
+21,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.460869783931486,-0.9322360696427298,2019-10-18 16:27:10.364
+22,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:27:07.459
+23,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-18 16:26:33.062
+24,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:26:27.848
+25,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:25:52.959
+26,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.460869783931486,-0.9322360696427298,2019-10-18 16:25:48.646
+27,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:25:27.188
+28,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:24:52.486
+29,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:24:33.833
+30,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:24:26.511
+31,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:24:19.994
+32,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:22:21.165
+33,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:22:01.212
+34,80:58:f8:67:85:37,35,Jesse Sparks,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:21:40.457
+35,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.4609308779133,-0.932378903019194,2019-10-04 08:57:03.439
+36,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:56:58.422
+37,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:56:48.392
+38,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:56:37.973
+39,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:56:27.937
+40,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:56:17.909
+41,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:56:07.878
+42,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:55:57.748
+43,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:55:47.716
+44,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:55:37.293
+45,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:55:27.263
+46,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:55:17.235
+47,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460918158160936,-0.9323799448257374,2019-10-04 08:55:07.199
+48,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:51:13.977
+49,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:50:12.913
+50,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:49:56.766
+51,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:49:44.238
+52,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:49:13.551
+53,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:49:01.719
+54,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:48:56.310
+55,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:48:03.085
+56,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:47:51.930
+57,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:47:36.182
+58,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:47:17.941
+59,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:47:06.013
+60,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:46:45.642
+61,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:46:34.612
+62,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:46:28.695
+63,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:46:17.065
+64,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:46:08.538
+65,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:45:50.990
+66,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:45:44.874
+67,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:45:24.222
+68,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:45:18.920
+69,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:44:52.130
+70,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.460913139733634,-0.932369937955762,2019-10-15 11:44:46.917
+71,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:44:39.287
+72,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:44:24.650
+73,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:44:03.093
+74,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:43:48.451
+75,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:43:39.722
+76,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:43:14.656
+77,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:42:54.205
+78,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:42:16.586
+79,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:39:54.593
+80,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:08:34.978
+81,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:08:29.961
+82,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46039152315113,-0.9324096203846788,2019-12-12 13:08:10.505
+83,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46039152315113,-0.9324096203846788,2019-12-12 13:08:05.486
+84,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:07:59.766
+85,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:07:49.728
+86,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:07:39.692
+87,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:07:29.556
+88,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46039152315113,-0.9324096203846788,2019-12-12 13:07:15.210
+89,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:07:09.488
+90,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:06:59.451
+91,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.46044277024915,-0.9325692081994222,2019-12-12 13:06:49.416
+92,80:58:f8:1f:d1:ba,58,David Chavez,Project Manager,2.0,employee,0,51.4603952,-0.93276948,2019-12-12 13:06:39.378
+93,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:41:45.532
+94,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:40:09.286
+95,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:39:56.347
+96,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:39:31.484
+97,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:39:25.871
+98,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:39:14.640
+99,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039287375369,-0.9325456461315934,2019-10-14 13:39:04.324
+100,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:38:54.294
+101,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:38:20.395
+102,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:38:10.864
+103,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:37:51.614
+104,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039287375369,-0.9325456461315934,2019-10-14 13:37:18.523
+105,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:37:00.176
+106,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:36:55.967
+107,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:36:32.700
+108,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:36:26.478
+109,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:36:12.842
+110,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:36:03.414
+111,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:35:51.188
+112,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:35:49.092
+113,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:35:32.632
+114,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039287375369,-0.9325456461315934,2019-10-14 13:35:12.791
+115,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:35:05.569
+116,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:34:58.441
+117,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:34:38.484
+118,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:34:17.525
+119,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:34:08.504
+120,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:33:51.056
+121,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:33:47.844
+122,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:33:32.099
+123,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:33:26.788
+124,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:33:08.938
+125,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039287375369,-0.9325456461315934,2019-10-14 13:32:57.600
+126,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:32:25.717
+127,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:31:56.745
+128,d0:77:14:9d:da:c5,36,Jennifer Silva,Quality Assurance Specialist,2.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:29:24.078
+129,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:47:43.241
+130,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:45:56.461
+131,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:45:45.430
+132,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:45:37.609
+133,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:45:29.191
+134,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:45:11.344
+135,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:44:23.825
+136,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:43:55.256
+137,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:43:42.215
+138,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:43:30.386
+139,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:43:26.278
+140,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:43:14.142
+141,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:43:09.229
+142,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:42:58.002
+143,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46077091898269,-0.932235217898916,2019-10-15 13:42:38.146
+144,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-15 13:42:20.403
+145,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:42:19.700
+146,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:41:50.120
+147,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:41:47.613
+148,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:41:32.075
+149,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:41:19.041
+150,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:41:00.084
+151,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:40:54.373
+152,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:40:40.434
+153,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:40:30.510
+154,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:40:22.288
+155,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:39:54.122
+156,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:39:41.492
+157,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:39:36.175
+158,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46077091898269,-0.932235217898916,2019-10-15 13:39:27.053
+159,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:39:15.627
+160,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:39:04.598
+161,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-15 13:38:30.612
+162,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:38:25.909
+163,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:37:51.513
+164,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:37:49.608
+165,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:37:11.009
+166,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:37:05.494
+167,80:58:f8:13:4f:ee,39,Amy Torres,Janitor,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:36:30.013
+168,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46051642563205,-0.932784953995949,2019-11-04 12:18:16.508
+169,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46050732,-0.932584,2019-11-04 12:18:08.785
+170,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46051889583208,-0.9327924598612336,2019-11-04 12:17:56.345
+171,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46050732,-0.932584,2019-11-04 12:17:48.722
+172,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46051642563205,-0.932784953995949,2019-11-04 12:17:35.981
+173,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46051642563205,-0.932784953995949,2019-11-04 12:17:25.953
+174,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46051642563205,-0.932784953995949,2019-11-04 12:17:15.921
+175,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.46051642563205,-0.932784953995949,2019-11-04 12:17:05.787
+176,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.460499055830375,-0.9325672492436696,2019-11-04 12:16:58.068
+177,88:b4:a6:02:d8:e5,10,Cassidy Pena,Civil Engineer,1.0,employee,0,51.460499055830375,-0.9325672492436696,2019-11-04 12:16:48.037
+178,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:45:45.031
+179,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:45:29.986
+180,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:45:19.957
+181,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:45:09.532
+182,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:44:59.505
+183,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:44:49.385
+184,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:44:39.358
+185,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:44:29.330
+186,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:44:19.303
+187,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:44:08.876
+188,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:43:58.846
+189,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46033603,-0.93223681,2019-09-09 13:43:48.818
+190,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46042011,-0.93261704,2019-10-14 08:48:33.735
+191,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:43:22.608
+192,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:43:17.596
+193,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:43:07.553
+194,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:42:57.427
+195,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:42:47.397
+196,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:42:37.372
+197,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:42:26.944
+198,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:42:16.913
+199,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:42:06.888
+200,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:41:56.759
+201,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:41:46.726
+202,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:41:36.695
+203,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46032117,-0.93237729,2019-09-02 16:41:26.362
+204,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46044376,-0.93227792,2019-10-14 09:12:23.864
+205,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46051424497753,-0.9329670089818366,2019-10-14 09:07:14.860
+206,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 09:05:50.072
+207,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 09:05:24.213
+208,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:59:54.663
+209,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46043083138979,-0.9324402096673844,2019-10-14 08:59:49.849
+210,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:58:55.023
+211,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46044376,-0.93227792,2019-10-14 08:58:48.912
+212,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46044376,-0.93227792,2019-10-14 08:58:19.344
+213,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 08:57:23.606
+214,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:56:38.809
+215,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 08:55:17.329
+216,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:54:15.388
+217,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:54:00.856
+218,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 08:53:56.646
+219,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 08:53:45.321
+220,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46044376,-0.93227792,2019-10-14 08:53:20.362
+221,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46044376,-0.93227792,2019-10-14 08:53:00.722
+222,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46051424497753,-0.9329670089818366,2019-10-14 08:52:53.708
+223,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 08:52:23.239
+224,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46049892616766,-0.9328172462456676,2019-10-14 08:52:18.628
+225,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46041267159113,-0.9324565009244026,2019-10-14 08:52:06.404
+226,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46048181781347,-0.9328040299859174,2019-10-14 08:51:53.375
+227,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46051424497753,-0.9329670089818366,2019-10-14 08:51:48.964
+228,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46051424497753,-0.9329670089818366,2019-10-14 08:51:38.741
+229,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46051424497753,-0.9329670089818366,2019-10-14 08:51:27.315
+230,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46048527850258,-0.9329493335131374,2019-10-14 08:51:13.489
+231,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46048527850258,-0.9329493335131374,2019-10-14 08:51:08.682
+232,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46048181781347,-0.9328040299859174,2019-10-14 08:50:58.559
+233,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46050869,-0.93299578,2019-10-14 08:50:49.738
+234,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46047722146468,-0.9328190396974412,2019-10-14 08:50:36.415
+235,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46043083138979,-0.9324402096673844,2019-10-14 08:50:26.286
+236,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46041517572127,-0.9326367314276816,2019-10-14 08:50:18.972
+237,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46048181781347,-0.9328040299859174,2019-10-14 08:50:09.352
+238,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:49:56.717
+239,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46049892616766,-0.9328172462456676,2019-10-14 08:49:47.500
+240,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46041267159113,-0.9324565009244026,2019-10-14 08:49:39.581
+241,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46044376,-0.93227792,2019-10-14 08:49:18.134
+242,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.4604691767751,-0.93227327226475,2019-10-14 08:49:09.215
+243,80:58:f8:64:16:a4,66,Edgar Potter,DevOps Engineer,2.0,employee,0,51.46036754,-0.93271575,2019-10-14 08:48:55.485
+244,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:21:44.101
+245,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:21:38.995
+246,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:21:28.958
+247,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:21:18.935
+248,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:21:08.890
+249,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:20:58.857
+250,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:20:48.730
+251,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:20:38.703
+252,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:20:28.664
+253,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:20:18.640
+254,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:20:08.592
+255,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:19:58.468
+256,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047518,-0.93284138,2019-12-11 11:19:48.437
+257,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46043985,-0.93243722,2019-09-11 12:34:57.439
+258,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46043985,-0.93243722,2019-09-11 12:34:47.255
+259,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46043985,-0.93243722,2019-09-11 12:33:45.571
+260,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46043985,-0.93243722,2019-09-11 12:33:34.945
+261,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:53:46.372
+262,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:53:01.152
+263,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:52:56.134
+264,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:52:46.110
+265,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:52:36.093
+266,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:52:26.055
+267,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:52:16.026
+268,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:52:06.012
+269,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46080495,-0.9321861,2020-01-09 10:51:55.973
+270,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:06:28.481
+271,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:06:18.757
+272,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:04:23.961
+273,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:01:10.248
+274,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:01:02.799
+275,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 14:00:52.802
+276,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:00:21.430
+277,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 14:00:05.189
+278,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:59:35.306
+279,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46048079590268,-0.9329634989139752,2019-10-15 13:59:19.969
+280,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:58:57.666
+281,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:58:44.477
+282,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:58:30.838
+283,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:58:29.739
+284,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:58:18.608
+285,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:57:46.620
+286,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:57:34.703
+287,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:57:27.271
+288,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:57:10.228
+289,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042891082888,-0.9330240558098634,2019-10-15 13:57:01.611
+290,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042394089178,-0.9330713066446056,2019-10-15 13:56:57.999
+291,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:56:40.550
+292,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:56:35.939
+293,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:56:26.818
+294,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042891082888,-0.9330240558098634,2019-10-15 13:56:17.798
+295,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042394089178,-0.9330713066446056,2019-10-15 13:56:04.369
+296,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042891082888,-0.9330240558098634,2019-10-15 13:55:52.335
+297,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:55:45.517
+298,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:55:39.797
+299,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042394089178,-0.9330713066446056,2019-10-15 13:55:29.775
+300,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042394089178,-0.9330713066446056,2019-10-15 13:55:15.234
+301,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:55:01.403
+302,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:54:55.083
+303,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46042394089178,-0.9330713066446056,2019-10-15 13:54:48.762
+304,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:54:37.554
+305,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:54:06.657
+306,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:53:46.495
+307,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:53:39.879
+308,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:53:07.691
+309,f4:f5:24:52:06:b8,66,Amanda Valdez,Customer Service Representative,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:51:50.896
+310,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 09:04:22.108
+311,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 09:01:49.470
+312,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:58:12.994
+313,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:57:12.260
+314,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:55:36.653
+315,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:53:33.882
+316,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:53:10.032
+317,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:52:44.684
+318,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:52:27.745
+319,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:50:58.049
+320,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46051569142706,-0.9325393412404688,2019-10-22 08:50:39.212
+321,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:50:14.355
+322,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:49:48.502
+323,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:49:16.938
+324,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46045753415856,-0.9323932216866792,2019-10-22 08:49:02.113
+325,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:48:15.302
+326,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:47:55.156
+327,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:47:34.115
+328,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46051569142706,-0.9325393412404688,2019-10-22 08:47:19.780
+329,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:46:51.817
+330,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:45:47.883
+331,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:45:37.563
+332,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:45:03.886
+333,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.460403709080815,-0.9325350088338564,2019-10-22 08:44:25.704
+334,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46032705,-0.93232622,2019-10-22 08:44:11.276
+335,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:43:45.322
+336,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:43:24.482
+337,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.460403709080815,-0.9325350088338564,2019-10-22 08:42:38.381
+338,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:41:38.752
+339,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:41:17.110
+340,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:40:20.794
+341,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:40:16.785
+342,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46052764,-0.93242922,2019-10-22 08:39:43.910
+343,d0:77:14:3b:8a:7f,34,Ebony Ramos,Receptionist,3.0,employee,0,51.46049051,-0.93277142,2019-10-22 08:39:38.797
+344,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:19:43.483
+345,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:19:38.467
+346,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:19:28.437
+347,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:19:17.910
+348,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:19:07.884
+349,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:18:57.844
+350,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:18:47.819
+351,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:18:37.788
+352,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:18:27.760
+353,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46083184,-0.93224795,2019-11-04 13:18:10.808
+354,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:18:02.203
+355,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:17:52.151
+356,88:b4:a6:63:39:7d,13,Mark Mccoy,UX/UI Designer,2.0,employee,2,51.46059969124384,-0.9322794813936168,2019-11-04 13:17:47.138
+357,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:39:19.162
+358,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:39:09.133
+359,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:38:59.014
+360,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:38:48.981
+361,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:38:38.956
+362,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:38:28.926
+363,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:38:18.897
+364,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:38:08.870
+365,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:37:58.838
+366,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:37:48.810
+367,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:37:38.783
+368,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059655982685,-0.9323960795951498,2019-12-09 08:37:28.659
+369,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:01:54.277
+370,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:01:49.161
+371,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:01:39.133
+372,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:01:29.104
+373,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:01:19.076
+374,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:01:08.948
+375,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:00:58.517
+376,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:00:48.490
+377,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:00:38.460
+378,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:00:28.443
+379,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:00:18.407
+380,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 09:00:08.278
+381,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-08-21 08:59:57.948
+382,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:08:18.036
+383,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:08:06.632
+384,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:07:55.219
+385,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:07:49.802
+386,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:07:37.288
+387,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:07:26.003
+388,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:07:19.740
+389,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:07:07.990
+390,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:06:54.457
+391,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:06:49.324
+392,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:06:37.723
+393,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460708443327256,-0.9323718316753636,2020-02-28 14:06:25.178
+394,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 14:06:18.969
+395,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:48:17.323
+396,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:44:29.982
+397,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:43:50.392
+398,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:42:04.056
+399,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:41:45.902
+400,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:41:34.687
+401,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:41:24.552
+402,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:41:18.442
+403,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:41:03.803
+404,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:40:51.571
+405,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:40:40.651
+406,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:40:36.845
+407,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:40:13.390
+408,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:39:53.855
+409,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:39:38.908
+410,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:39:23.479
+411,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:39:09.143
+412,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:38:58.418
+413,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:38:41.570
+414,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:38:36.758
+415,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:38:22.629
+416,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:38:14.703
+417,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:37:30.899
+418,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:37:25.991
+419,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:37:16.667
+420,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:36:55.719
+421,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:36:14.532
+422,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.460887276386345,-0.9322231231306388,2019-10-14 11:36:08.415
+423,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:35:56.891
+424,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:35:16.303
+425,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:35:06.980
+426,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:31:50.720
+427,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:45:56.637
+428,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:45:46.426
+429,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:45:36.299
+430,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:45:26.162
+431,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:45:15.942
+432,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:45:05.818
+433,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:44:55.691
+434,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:44:45.569
+435,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:44:35.440
+436,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:44:25.219
+437,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:44:15.095
+438,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:44:09.983
+439,80:58:f8:92:68:51,83,Nicole Johnson,Clinical Research Associate,1.0,employee,0,51.46094269,-0.9321665,2020-01-07 14:43:59.855
+440,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:32:18.725
+441,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:31:51.255
+442,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:31:37.215
+443,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 10:31:14.560
+444,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 10:31:05.147
+445,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:30:55.220
+446,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:30:41.171
+447,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:30:28.939
+448,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 10:30:12.095
+449,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 10:30:05.388
+450,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 10:29:49.329
+451,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:29:37.092
+452,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:29:22.358
+453,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:29:19.446
+454,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:29:02.310
+455,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:28:53.070
+456,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:28:39.141
+457,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:28:12.674
+458,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:27:56.634
+459,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:27:44.200
+460,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-15 10:27:11.420
+461,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:27:03.126
+462,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:26:08.558
+463,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 10:25:04.692
+464,80:58:f8:18:12:b1,25,Brett Hartman,Barista,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 10:23:56.102

@@ -1,0 +1,68 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46051036,-0.93312872,2019-10-08 11:07:30.195
+1,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46045314942084,-0.9331337521298004,2019-10-08 11:07:25.085
+2,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:07:13.349
+3,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:07:08.328
+4,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:06:57.892
+5,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:06:47.858
+6,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:06:37.828
+7,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:06:27.703
+8,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:06:17.671
+9,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:06:07.633
+10,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:05:57.203
+11,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:05:47.171
+12,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46047938901352,-0.9327999629770548,2019-10-08 11:05:37.048
+13,f0:d7:aa:1e:ac:a8,14,Melanie Patrick,Healthcare Administrator,2.0,employee,0,51.46045314942084,-0.9331337521298004,2019-10-08 11:05:28.819
+14,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.46085533,-0.93236214,2020-01-17 11:26:31.362
+15,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.46065474,-0.93223934,2020-01-17 11:26:25.027
+16,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.460806621659565,-0.9322651672753725,2020-01-17 11:26:05.158
+17,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.460805917167086,-0.9323318897587992,2020-01-17 11:25:50.674
+18,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.46078621,-0.93222453,2020-01-17 11:25:49.873
+19,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.46079325213506,-0.9322628938054108,2020-01-17 11:25:24.815
+20,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.46079325213506,-0.9322628938054108,2020-01-17 11:24:59.659
+21,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.46078621,-0.93222453,2020-01-17 11:24:34.711
+22,60:1d:91:8c:a1:89,9,Michael Bryant,,,visitor,0,51.460805917167086,-0.9323318897587992,2020-01-17 11:24:29.383
+23,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.460419852169245,-0.9326680401663686,2019-10-08 10:07:20.408
+24,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46043084119188,-0.9324887248875178,2019-10-08 10:07:15.391
+25,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46043084119188,-0.9324887248875178,2019-10-08 10:07:05.269
+26,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46043084119188,-0.9324887248875178,2019-10-08 10:06:55.230
+27,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46043084119188,-0.9324887248875178,2019-10-08 10:06:49.908
+28,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46043084119188,-0.9324887248875178,2019-10-08 10:06:39.873
+29,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46043084119188,-0.9324887248875178,2019-10-08 10:06:29.839
+30,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.460419852169245,-0.9326680401663686,2019-10-08 10:06:19.711
+31,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46040564999999,-0.932496835,2019-10-08 10:06:09.675
+32,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46040564999999,-0.932496835,2019-10-08 10:05:59.546
+33,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:05:49.211
+34,f0:d7:aa:f2:a6:d7,12,Amy Torres,Machine Learning Engineer,3.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:05:29.046
+35,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:08:36.715
+36,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:06:13.449
+37,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 14:05:17.396
+38,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:04:16.136
+39,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:03:44.355
+40,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:03:39.750
+41,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:03:23.195
+42,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 14:03:10.360
+43,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 14:02:46.394
+44,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 14:02:34.966
+45,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 14:02:18.221
+46,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.460433758857846,-0.9330406871309064,2019-10-15 14:01:59.569
+47,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 14:01:42.735
+48,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:01:26.791
+49,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.460433758857846,-0.9330406871309064,2019-10-15 14:01:16.565
+50,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:00:57.118
+51,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:00:48.990
+52,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 14:00:32.652
+53,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.460433758857846,-0.9330406871309064,2019-10-15 14:00:26.340
+54,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:00:19.326
+55,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:59:50.948
+56,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:59:35.909
+57,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:59:13.553
+58,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041846719249,-0.9329882285755182,2019-10-15 13:59:02.034
+59,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:58:46.585
+60,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:58:34.148
+61,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:58:24.823
+62,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:58:09.178
+63,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:57:45.721
+64,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:57:39.302
+65,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:57:25.165
+66,f4:f5:24:5a:0e:d3,32,Rachel Mckee,IT Support Specialist,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:57:18.245

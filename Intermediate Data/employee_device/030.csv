@@ -1,0 +1,163 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.460461184611916,-0.933126771294669,2019-11-11 16:46:23.224
+1,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.460461184611916,-0.933126771294669,2019-11-11 16:46:18.208
+2,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.460461184611916,-0.933126771294669,2019-11-11 16:46:08.177
+3,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:45:53.433
+4,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:45:48.415
+5,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.460461184611916,-0.933126771294669,2019-11-11 16:45:37.582
+6,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:45:23.232
+7,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:45:17.514
+8,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:45:07.390
+9,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:44:57.350
+10,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:44:46.925
+11,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036844963895,-0.9327293671370785,2019-11-11 16:44:36.800
+12,88:b4:a6:73:91:d3,13,Michael Burke,Truck Driver,2.0,employee,0,51.46036901125902,-0.932758414700332,2019-11-11 16:44:26.673
+13,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:15:35.746
+14,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:15:27.738
+15,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:15:13.290
+16,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:15:08.478
+17,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:14:57.853
+18,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:14:49.433
+19,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:14:38.911
+20,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:14:26.378
+21,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 12:14:15.954
+22,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:13:57.118
+23,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:13:45.490
+24,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.4606646935593,-0.9322706525132536,2019-10-22 12:13:35.366
+25,24:46:c8:77:63:13,13,Kyle Wang,Receptionist,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 12:13:29.355
+26,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:47:46.276
+27,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:47:36.245
+28,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:47:26.212
+29,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:47:16.084
+30,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:47:06.052
+31,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:46:56.018
+32,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:46:45.682
+33,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:46:35.557
+34,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:46:25.526
+35,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-31 11:46:15.495
+36,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.460893641362105,-0.9322136249155863,2019-10-31 11:46:05.465
+37,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.460893641362105,-0.9322136249155863,2019-10-31 11:45:55.435
+38,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.460893641362105,-0.9322136249155863,2019-10-31 11:45:45.097
+39,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:49:21.297
+40,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:49:16.284
+41,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:49:06.156
+42,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:48:56.129
+43,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:48:46.105
+44,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:48:36.077
+45,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:48:25.653
+46,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:48:15.629
+47,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:48:05.600
+48,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:47:55.472
+49,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:47:45.446
+50,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:47:35.418
+51,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4603952,-0.93276948,2019-08-19 13:47:24.998
+52,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:12:42.214
+53,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:12:19.243
+54,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:11:14.553
+55,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:10:54.509
+56,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4605848445071,-0.9323798993500721,2019-10-18 11:08:47.451
+57,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:08:33.614
+58,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:08:19.872
+59,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.460765747676994,-0.9322403182951082,2019-10-18 11:08:07.735
+60,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:07:54.800
+61,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:06:53.427
+62,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:06:36.285
+63,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 11:06:29.058
+64,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 11:06:07.506
+65,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:05:56.269
+66,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:05:47.140
+67,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078126947575,-0.9322260982683962,2019-10-18 11:05:33.303
+68,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:04:12.283
+69,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:03:54.535
+70,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078126947575,-0.9322260982683962,2019-10-18 11:03:40.394
+71,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:03:35.983
+72,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:03:25.749
+73,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:02:58.375
+74,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:02:34.709
+75,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:02:15.157
+76,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4605848445071,-0.9323798993500721,2019-10-18 11:02:00.319
+77,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.4605848445071,-0.9323798993500721,2019-10-18 11:01:47.476
+78,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078126947575,-0.9322260982683962,2019-10-18 11:01:24.215
+79,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:01:19.099
+80,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078126947575,-0.9322260982683962,2019-10-18 11:01:04.949
+81,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078126947575,-0.9322260982683962,2019-10-18 11:00:42.690
+82,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 11:00:11.504
+83,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.460765747676994,-0.9322403182951082,2019-10-18 11:00:04.589
+84,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:59:38.412
+85,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:58:35.250
+86,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:58:25.520
+87,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078126947575,-0.9322260982683962,2019-10-18 10:57:36.178
+88,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:57:17.023
+89,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:56:39.013
+90,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:53:56.138
+91,80:58:f8:65:3b:92,66,Breanna Fernandez,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:53:31.563
+92,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.46085533,-0.93236214,2020-01-17 09:01:00.129
+93,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.460937604265546,-0.9323787433396652,2020-01-17 09:00:52.103
+94,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.46085794349534,-0.9323562871585572,2020-01-17 09:00:44.890
+95,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.46093752,-0.93238226,2020-01-17 09:00:22.218
+96,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.46085533,-0.93236214,2020-01-17 08:59:54.454
+97,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.460937604265546,-0.9323787433396652,2020-01-17 08:59:41.833
+98,60:1d:91:e6:2d:ba,7,Allison Hayes,,,visitor,0,51.46085533,-0.93236214,2020-01-17 08:59:34.244
+99,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460913139733634,-0.9323699379557616,2019-10-21 13:11:46.227
+100,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:11:28.937
+101,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:11:18.305
+102,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460607880638015,-0.93226544573517,2019-10-21 13:10:50.221
+103,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:10:49.915
+104,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460626022187824,-0.9322640668561958,2019-10-21 13:10:08.087
+105,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460926623360834,-0.932382348171915,2019-10-21 13:09:51.235
+106,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460913139733634,-0.9323699379557616,2019-10-21 13:09:24.260
+107,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46090836702599,-0.932371198343978,2019-10-21 13:09:11.619
+108,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460913139733634,-0.9323699379557616,2019-10-21 13:08:55.465
+109,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460926623360834,-0.932382348171915,2019-10-21 13:08:20.763
+110,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:08:16.548
+111,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:07:55.880
+112,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460607880638015,-0.93226544573517,2019-10-21 13:07:42.540
+113,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460926623360834,-0.932382348171915,2019-10-21 13:07:39.835
+114,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:07:25.387
+115,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:07:16.567
+116,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460913139733634,-0.9323699379557616,2019-10-21 13:06:53.901
+117,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:06:45.769
+118,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46090829493253,-0.9323689881731844,2019-10-21 13:06:39.348
+119,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460903609786186,-0.9323702432412244,2019-10-21 13:06:28.921
+120,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460626022187824,-0.9322640668561958,2019-10-21 13:06:16.071
+121,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093208583538,-0.9323835295335128,2019-10-21 13:06:08.856
+122,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:05:33.138
+123,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.460607880638015,-0.93226544573517,2019-10-21 13:05:27.025
+124,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:05:08.261
+125,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:04:32.555
+126,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:04:06.169
+127,80:58:f8:79:ac:a8,29,Jacqueline Perry,Business Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:03:49.930
+128,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:11:58.732
+129,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:10:27.890
+130,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:09:42.874
+131,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:08:16.660
+132,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:08:01.023
+133,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.460586166898295,-0.9323812868552654,2019-10-17 09:06:56.863
+134,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:05:52.905
+135,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:04:36.311
+136,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:04:16.061
+137,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078183731908,-0.9322259180181408,2019-10-17 09:04:08.741
+138,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.460586166898295,-0.9323812868552654,2019-10-17 09:03:53.506
+139,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078183731908,-0.9322259180181408,2019-10-17 09:03:29.847
+140,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-17 09:03:04.899
+141,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:02:53.860
+142,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:02:35.517
+143,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46076623666583,-0.9322401814122638,2019-10-17 09:02:28.906
+144,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.460586166898295,-0.9323812868552654,2019-10-17 09:02:10.760
+145,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46076623666583,-0.9322401814122638,2019-10-17 09:01:56.226
+146,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-17 09:01:24.441
+147,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.460586166898295,-0.9323812868552654,2019-10-17 09:01:14.119
+148,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:01:04.614
+149,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46076623666583,-0.9322401814122638,2019-10-17 09:00:44.250
+150,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:00:35.339
+151,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 09:00:17.577
+152,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 09:00:01.440
+153,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078183731908,-0.9322259180181408,2019-10-17 08:59:50.006
+154,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.460586166898295,-0.9323812868552654,2019-10-17 08:59:41.184
+155,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 08:59:20.942
+156,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 08:59:19.333
+157,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 08:59:07.810
+158,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 08:58:57.090
+159,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-17 08:58:23.292
+160,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 08:57:32.383
+161,80:58:f8:9c:bc:b8,34,Matthew Peterson,Chief Marketing Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-17 08:54:44.449

@@ -1,0 +1,248 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:56:22.605
+1,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:56:17.894
+2,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:56:07.469
+3,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:55:57.848
+4,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:55:47.824
+5,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:55:37.406
+6,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46076397075702,-0.9324189235616108,2019-10-22 12:55:27.080
+7,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:55:16.758
+8,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:55:06.634
+9,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:54:56.910
+10,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 12:54:47.190
+11,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46076397075702,-0.9324189235616108,2019-10-22 12:54:36.862
+12,24:46:c8:2f:58:7f,13,Matthew Rose,Account Executive,2.0,employee,0,51.46076397075702,-0.9324189235616108,2019-10-22 12:54:26.735
+13,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:22:32.555
+14,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:22:27.444
+15,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:22:16.214
+16,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:22:01.279
+17,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:21:52.655
+18,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:21:46.841
+19,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:21:38.722
+20,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:21:24.390
+21,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:21:16.461
+22,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46077428252772,-0.932255767691312,2019-10-22 15:21:08.642
+23,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:20:57.816
+24,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:20:45.188
+25,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:20:33.962
+26,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:20:24.239
+27,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:20:18.325
+28,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:20:07.795
+29,24:46:c8:3c:83:89,17,Adam Love,Graphic Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 15:19:53.559
+30,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:48:30.826
+31,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:48:20.793
+32,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-11-05 13:48:10.076
+33,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:48:05.643
+34,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:47:45.576
+35,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:47:30.133
+36,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:47:25.121
+37,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-11-05 13:47:19.309
+38,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.460800885215846,-0.9322521544053972,2019-11-05 13:47:09.970
+39,88:b4:a6:bb:23:9c,10,Blake Hall,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-11-05 13:46:59.242
+40,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:49:33.758
+41,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:49:28.744
+42,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:49:18.717
+43,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:49:08.590
+44,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:48:58.560
+45,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:48:48.439
+46,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:48:38.108
+47,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:48:28.074
+48,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:48:18.046
+49,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:48:07.918
+50,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:47:57.792
+51,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:47:47.764
+52,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.460823121057736,-0.9322105944292918,2019-08-28 14:47:37.426
+53,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 13:00:50.066
+54,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 13:00:20.282
+55,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:56:47.022
+56,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:56:14.531
+57,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:56:04.103
+58,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:55:40.622
+59,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:55:30.895
+60,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:55:10.830
+61,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:54:59.601
+62,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:54:49.366
+63,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:54:36.925
+64,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:54:27.407
+65,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:54:16.264
+66,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:54:04.832
+67,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:53:55.102
+68,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:53:43.564
+69,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:53:34.039
+70,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:53:25.008
+71,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:52:59.934
+72,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:52:46.394
+73,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:52:38.970
+74,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:52:28.943
+75,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46050851884471,-0.93245562787432,2019-10-21 12:52:14.900
+76,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:52:02.161
+77,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:51:50.824
+78,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:51:44.713
+79,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:51:22.743
+80,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:51:16.024
+81,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:51:04.584
+82,80:58:f8:a9:ed:0d,43,Joshua Watson,Administrative Assistant,2.0,employee,0,51.46044905,-0.93249523,2019-10-21 12:50:40.913
+83,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:26:43.361
+84,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46046319655447,-0.932903842881992,2019-11-06 15:26:39.646
+85,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:26:28.212
+86,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:26:18.080
+87,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46046319655447,-0.932903842881992,2019-11-06 15:26:04.441
+88,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:25:57.320
+89,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:25:46.892
+90,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:25:36.849
+91,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:25:26.722
+92,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:25:16.601
+93,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:25:06.570
+94,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46034575,-0.93307374,2019-11-06 15:24:56.435
+95,88:b4:a6:a4:d5:72,13,Christopher Benjamin,Network Administrator,3.0,employee,0,51.46046319655447,-0.932903842881992,2019-11-06 15:24:48.307
+96,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049427,-0.93322055,2019-10-14 14:05:29.681
+97,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049219,-0.93303804,2019-10-14 14:04:27.210
+98,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46040423,-0.93302108,2019-10-14 14:04:09.061
+99,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.460450575487926,-0.933076237111957,2019-10-14 14:03:18.722
+100,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46040423,-0.93302108,2019-10-14 14:03:05.484
+101,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46035849,-0.9327721,2019-10-14 14:02:53.958
+102,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46035849,-0.9327721,2019-10-14 14:02:34.503
+103,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049051,-0.93277142,2019-10-14 14:02:09.128
+104,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049051,-0.93277142,2019-10-14 14:01:57.094
+105,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46045607441037,-0.9329662032019064,2019-10-14 14:01:47.671
+106,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46043184625031,-0.9330539469020026,2019-10-14 14:01:36.241
+107,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46045941329864,-0.9330087787708083,2019-10-14 14:01:24.614
+108,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46040423,-0.93302108,2019-10-14 14:01:18.493
+109,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049315964352,-0.9330879185089156,2019-10-14 14:01:06.462
+110,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.460411862609455,-0.9329034374117126,2019-10-14 14:00:54.734
+111,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46035849,-0.9327721,2019-10-14 14:00:40.800
+112,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46043726702195,-0.9329861106374316,2019-10-14 14:00:33.476
+113,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.4604660238149,-0.9330884802880892,2019-10-14 14:00:27.572
+114,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46042040442463,-0.9327717810952224,2019-10-14 14:00:16.850
+115,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049269940429,-0.9330642437809704,2019-10-14 14:00:02.004
+116,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049427,-0.93322055,2019-10-14 13:59:52.665
+117,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46038951069685,-0.9329409573043485,2019-10-14 13:59:42.133
+118,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.460468796231915,-0.9330525815424204,2019-10-14 13:59:36.922
+119,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46045244111755,-0.9330485179961636,2019-10-14 13:59:29.301
+120,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46045936554574,-0.9329903976596436,2019-10-14 13:59:14.666
+121,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46042040442463,-0.9327717810952224,2019-10-14 13:59:07.137
+122,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049427,-0.93322055,2019-10-14 13:58:56.515
+123,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46044034221253,-0.9330130300172365,2019-10-14 13:58:48.686
+124,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049310144176,-0.9331180146331252,2019-10-14 13:58:33.752
+125,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.460453646529885,-0.9330306082440534,2019-10-14 13:58:27.227
+126,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049219,-0.93303804,2019-10-14 13:58:18.300
+127,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46038951069685,-0.9329409573043485,2019-10-14 13:58:05.268
+128,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46044034221253,-0.9330130300172365,2019-10-14 13:57:57.843
+129,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46035849,-0.9327721,2019-10-14 13:57:45.107
+130,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46046993047093,-0.9330584715677738,2019-10-14 13:57:38.487
+131,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.460453646529885,-0.9330306082440534,2019-10-14 13:57:26.851
+132,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46045936554574,-0.9329903976596436,2019-10-14 13:57:18.325
+133,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.4604660238149,-0.9330884802880892,2019-10-14 13:57:05.485
+134,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.460450575487926,-0.933076237111957,2019-10-14 13:56:56.466
+135,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46042970913756,-0.9329473535108672,2019-10-14 13:56:33.920
+136,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049177615305,-0.9329723615039984,2019-10-14 13:56:28.985
+137,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049177615305,-0.9329723615039984,2019-10-14 13:56:19.558
+138,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049051,-0.93277142,2019-10-14 13:56:01.306
+139,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049219,-0.93303804,2019-10-14 13:55:40.447
+140,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46042970913756,-0.9329473535108672,2019-10-14 13:55:35.434
+141,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46040423,-0.93302108,2019-10-14 13:55:23.204
+142,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46038951069685,-0.9329409573043485,2019-10-14 13:55:06.749
+143,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049219,-0.93303804,2019-10-14 13:54:58.529
+144,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049427,-0.93322055,2019-10-14 13:53:42.404
+145,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049427,-0.93322055,2019-10-14 13:53:36.891
+146,d0:77:14:e3:f8:06,51,Michael Norris,Chief Marketing Officer,0.0,employee,0,51.46049051,-0.93277142,2019-10-14 13:51:06.755
+147,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46038770385708,-0.9330755784418812,2020-01-17 11:34:37.301
+148,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.460465129292125,-0.9329486677207663,2020-01-17 11:34:24.651
+149,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46037854,-0.93323648,2020-01-17 11:34:10.338
+150,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.460465129292125,-0.9329486677207663,2020-01-17 11:34:03.809
+151,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46040137176367,-0.9330706680116267,2020-01-17 11:33:56.887
+152,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.460461725007285,-0.9329327563197316,2020-01-17 11:33:43.390
+153,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46039398412032,-0.932965307828572,2020-01-17 11:33:36.855
+154,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46043040062068,-0.933149414934888,2020-01-17 11:33:24.429
+155,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46043468205451,-0.9329351733851052,2020-01-17 11:33:12.090
+156,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46043040062068,-0.933149414934888,2020-01-17 11:33:03.957
+157,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.46043468205451,-0.9329351733851052,2020-01-17 11:32:51.425
+158,d0:77:14:e6:92:f4,12,Jeffrey Allen,Customer Service Manager,1.0,employee,0,51.460492556019865,-0.9330450667067768,2020-01-17 11:32:44.112
+159,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:49:02.686
+160,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:48:57.913
+161,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:48:44.112
+162,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:48:38.984
+163,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:48:29.858
+164,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:48:15.699
+165,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:48:06.260
+166,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:47:56.730
+167,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:47:47.112
+168,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:47:32.981
+169,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:47:28.423
+170,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:47:18.538
+171,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46085533,-0.93236214,2020-02-10 08:47:09.752
+172,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 16:05:13.184
+173,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 16:03:14.010
+174,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 16:02:40.729
+175,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 16:02:00.336
+176,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 16:01:14.139
+177,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 16:00:50.183
+178,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 16:00:11.392
+179,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:59:36.307
+180,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:59:24.882
+181,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:59:19.567
+182,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:59:05.434
+183,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:58:44.581
+184,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:58:34.302
+185,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:58:11.806
+186,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:57:59.181
+187,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:57:46.652
+188,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:57:32.516
+189,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:57:17.380
+190,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:56:52.019
+191,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:56:40.797
+192,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:56:33.376
+193,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:56:24.457
+194,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:56:04.713
+195,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:55:58.901
+196,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:55:11.590
+197,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:55:04.966
+198,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46089527889429,-0.9323609108988302,2019-10-14 15:54:46.124
+199,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:54:14.448
+200,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:53:55.600
+201,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 15:53:37.458
+202,80:58:f8:cc:d9:30,44,Ruth Rodriguez,Office Clerk,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 15:50:00.366
+203,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:51:39.764
+204,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:49:49.970
+205,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:48:54.738
+206,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:48:24.643
+207,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:47:30.900
+208,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:46:47.791
+209,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:46:29.064
+210,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:46:17.321
+211,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:45:51.042
+212,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:18.360
+213,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-15 13:45:01.624
+214,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-15 13:44:50.306
+215,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-15 13:44:47.398
+216,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:44:19.107
+217,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:56.854
+218,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:30.384
+219,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:13.237
+220,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-15 13:43:07.822
+221,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46043960968087,-0.9330396807199818,2019-10-15 13:42:57.896
+222,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:48.375
+223,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:32.739
+224,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:26.229
+225,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:11.479
+226,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:42:04.459
+227,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:41:53.523
+228,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46043960968087,-0.9330396807199818,2019-10-15 13:41:47.810
+229,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:41:34.080
+230,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:41:28.063
+231,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-15 13:41:18.538
+232,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:41:02.195
+233,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:50.067
+234,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:49.557
+235,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:39.934
+236,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:26.798
+237,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-15 13:40:07.253
+238,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047834383157,-0.933033017986854,2019-10-15 13:39:42.486
+239,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:39:29.658
+240,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:39:05.510
+241,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:38:41.542
+242,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:38:02.945
+243,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:37:58.731
+244,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:37:24.741
+245,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:36:52.455
+246,f4:f5:24:ce:82:a2,44,Matthew Rojas,Account Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:34:09.137

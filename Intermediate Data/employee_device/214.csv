@@ -1,0 +1,260 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:10:32.543
+1,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.4605961533635,-0.9324081505124618,2019-11-12 15:10:23.619
+2,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.4605961533635,-0.9324081505124618,2019-11-12 15:10:18.606
+3,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.4605961533635,-0.9324081505124618,2019-11-12 15:10:08.574
+4,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.4605961533635,-0.9324081505124618,2019-11-12 15:09:58.448
+5,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.4605961533635,-0.9324081505124618,2019-11-12 15:09:48.415
+6,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:09:37.171
+7,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:09:27.139
+8,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:09:17.013
+9,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:09:06.974
+10,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:08:56.848
+11,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:08:46.817
+12,24:46:c8:2f:92:5a,13,Tyler Munoz,Software Engineer,1.0,employee,0,51.46080124,-0.93237954,2019-11-12 15:08:36.782
+13,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-28 12:46:10.823
+14,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:46:08.114
+15,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:45:57.780
+16,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:45:47.668
+17,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:45:37.620
+18,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:45:27.597
+19,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:45:17.556
+20,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:45:07.429
+21,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:44:57.003
+22,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:44:46.970
+23,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:44:36.934
+24,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:44:26.811
+25,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.460447604272474,-0.9329920599864167,2019-10-28 12:44:16.776
+26,24:46:c8:f0:e3:6c,14,Kathryn Weiss,Human Resources Manager,2.0,employee,0,51.46050376,-0.93231244,2019-10-28 12:44:09.249
+27,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46048424735671,-0.9330249661250036,2020-07-28 11:57:31.098
+28,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:57:25.061
+29,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:57:17.906
+30,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:57:07.848
+31,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:56:56.179
+32,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:56:48.216
+33,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:56:33.094
+34,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:56:23.044
+35,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:56:17.281
+36,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:56:07.899
+37,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:55:59.243
+38,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:55:47.008
+39,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46045081059304,-0.932586103764382,2020-07-28 11:55:39.104
+40,00:0c:e7:3e:3b:75,14,Jonathan Petersen,Chief Financial Officer,0.0,employee,0,51.46040672645929,-0.9326386598130476,2020-07-28 11:55:26.765
+41,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:08:09.585
+42,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:07:59.554
+43,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:07:49.523
+44,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:07:39.502
+45,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460935169648245,-0.9323817633301544,2020-01-09 13:07:29.480
+46,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:07:19.450
+47,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:07:09.426
+48,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46093752,-0.93238226,2020-01-09 13:06:59.308
+49,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46092899665695,-0.932383204186882,2020-01-09 13:06:49.284
+50,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46092899665695,-0.932383204186882,2020-01-09 13:06:39.258
+51,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46092899665695,-0.932383204186882,2020-01-09 13:06:29.235
+52,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46092899665695,-0.932383204186882,2020-01-09 13:06:19.207
+53,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:16:03.502
+54,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:15:06.057
+55,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:13:36.541
+56,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:13:23.996
+57,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:12:55.525
+58,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:12:47.042
+59,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46086600061968,-0.9322406440192542,2019-10-17 10:12:29.658
+60,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:11:50.052
+61,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:11:40.832
+62,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:11:06.946
+63,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-17 10:10:58.423
+64,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:10:44.185
+65,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:10:39.376
+66,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:10:08.105
+67,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-17 10:09:54.864
+68,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:09:43.436
+69,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46086600061968,-0.9322406440192542,2019-10-17 10:09:20.882
+70,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46086600061968,-0.9322406440192542,2019-10-17 10:09:05.348
+71,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46086600061968,-0.9322406440192542,2019-10-17 10:08:55.011
+72,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-17 10:08:45.689
+73,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:08:00.068
+74,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:07:56.564
+75,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-17 10:07:38.116
+76,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:07:19.372
+77,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-17 10:06:54.810
+78,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-17 10:06:19.823
+79,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:06:04.186
+80,80:58:f8:92:2b:ca,40,Katherine James,Civil Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:05:51.751
+81,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460396,-0.9332149,2019-10-16 15:22:10.046
+82,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603587,-0.93284249,2019-10-16 15:21:35.453
+83,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603587,-0.93284249,2019-10-16 15:19:09.376
+84,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:18:57.447
+85,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460440372230565,-0.9331824067402148,2019-10-16 15:18:36.184
+86,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:18:29.474
+87,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460396,-0.9332149,2019-10-16 15:17:41.837
+88,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603587,-0.93284249,2019-10-16 15:17:32.814
+89,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460396,-0.9332149,2019-10-16 15:17:24.090
+90,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603587,-0.93284249,2019-10-16 15:17:10.859
+91,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048112577829,-0.9330901716578622,2019-10-16 15:16:13.914
+92,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:15:49.747
+93,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047956,-0.93315371,2019-10-16 15:15:30.806
+94,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460401126398025,-0.9330471010828154,2019-10-16 15:15:11.955
+95,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460396,-0.9332149,2019-10-16 15:15:04.782
+96,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460382963717606,-0.9330847433799632,2019-10-16 15:14:47.390
+97,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46042847,-0.93271253,2019-10-16 15:14:20.018
+98,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035325624359,-0.9330948261959215,2019-10-16 15:14:10.790
+99,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46037588696522,-0.9328104759825204,2019-10-16 15:14:03.474
+100,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460396,-0.9332149,2019-10-16 15:13:51.346
+101,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-10-16 15:13:49.838
+102,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460382963717606,-0.9330847433799632,2019-10-16 15:13:31.999
+103,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46042847,-0.93271253,2019-10-16 15:13:24.780
+104,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603587,-0.93284249,2019-10-16 15:13:16.586
+105,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603587,-0.93284249,2019-10-16 15:13:09.539
+106,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035339306093,-0.9330626836175464,2019-10-16 15:12:53.804
+107,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048112577829,-0.9330901716578622,2019-10-16 15:12:46.992
+108,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047956,-0.93315371,2019-10-16 15:12:32.266
+109,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047270024512,-0.9330944736199372,2019-10-16 15:12:29.741
+110,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46036794406638,-0.9330870040272627,2019-10-16 15:12:04.776
+111,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46043950600236,-0.9330211018000544,2019-10-16 15:11:56.658
+112,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46043946658181,-0.9331466535023174,2019-10-16 15:11:44.221
+113,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46040085030307,-0.9331398569832448,2019-10-16 15:11:34.491
+114,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460373363284155,-0.9330770916485972,2019-10-16 15:11:27.473
+115,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460367269622665,-0.9330691643730008,2019-10-16 15:11:17.145
+116,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460371528699,-0.9331033449582657,2019-10-16 15:11:02.609
+117,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460373363284155,-0.9330770916485972,2019-10-16 15:10:53.785
+118,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46040085030307,-0.9331398569832448,2019-10-16 15:10:48.672
+119,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035517884011,-0.9330850540296566,2019-10-16 15:10:33.124
+120,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46044817877123,-0.9330235160119424,2019-10-16 15:10:24.303
+121,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.4603594072025,-0.933067170177848,2019-10-16 15:10:19.794
+122,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46036946198527,-0.933077612661214,2019-10-16 15:10:04.652
+123,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460349103073966,-0.9330444489378152,2019-10-16 15:09:55.626
+124,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460382963717606,-0.9330847433799632,2019-10-16 15:09:46.201
+125,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047956,-0.93315371,2019-10-16 15:09:32.467
+126,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460440372230565,-0.9331824067402148,2019-10-16 15:09:22.335
+127,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460475469360766,-0.933049604431223,2019-10-16 15:09:19.132
+128,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46041067515743,-0.932829206900727,2019-10-16 15:09:03.611
+129,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035552062506,-0.933052760806568,2019-10-16 15:08:59.775
+130,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035552062506,-0.933052760806568,2019-10-16 15:08:45.739
+131,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46036869508316,-0.9330608577541208,2019-10-16 15:08:33.412
+132,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46034822468332,-0.9330629339027932,2019-10-16 15:08:20.180
+133,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035325624359,-0.9330948261959215,2019-10-16 15:08:15.571
+134,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460370704627245,-0.9330865885279686,2019-10-16 15:08:02.934
+135,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460349103073966,-0.9330444489378152,2019-10-16 15:07:59.925
+136,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.460382963717606,-0.9330847433799632,2019-10-16 15:07:47.494
+137,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:07:35.260
+138,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047956,-0.93315371,2019-10-16 15:07:24.934
+139,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46044817877123,-0.9330235160119424,2019-10-16 15:07:15.709
+140,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035339306093,-0.9330626836175464,2019-10-16 15:07:05.988
+141,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46042847,-0.93271253,2019-10-16 15:06:57.967
+142,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46035325624359,-0.9330948261959215,2019-10-16 15:06:45.134
+143,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047956,-0.93315371,2019-10-16 15:06:35.108
+144,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-10-16 15:06:27.487
+145,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:06:05.240
+146,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:05:54.401
+147,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46047956,-0.93315371,2019-10-16 15:05:32.348
+148,10:02:b5:e3:08:ce,68,Daniel Holland,Chief Marketing Officer,2.0,employee,0,51.46048655,-0.93287006,2019-10-16 15:05:27.532
+149,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:13:31.775
+150,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:11:24.153
+151,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:10:25.011
+152,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:10:13.987
+153,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:09:47.624
+154,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:09:26.672
+155,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:08:59.207
+156,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:08:40.963
+157,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:08:34.146
+158,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:08:22.518
+159,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:07:46.031
+160,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:07:29.095
+161,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:07:17.965
+162,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:07:08.244
+163,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:06:51.106
+164,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:06:45.194
+165,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:06:33.758
+166,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:06:23.435
+167,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:05:55.269
+168,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:05:29.505
+169,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:05:15.975
+170,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:05:04.545
+171,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:04:55.932
+172,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:04:39.694
+173,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:04:25.758
+174,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:04:18.349
+175,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:03:54.890
+176,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:03:45.258
+177,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:03:35.437
+178,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:03:11.981
+179,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-14 11:02:44.813
+180,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:08:46.212
+181,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:08:31.874
+182,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:06:46.993
+183,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:06:38.569
+184,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:55.555
+185,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:34.493
+186,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:26.070
+187,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:57.898
+188,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:49.676
+189,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:03:15.308
+190,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:03:02.478
+191,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:59.871
+192,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:34.502
+193,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:21.065
+194,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:15.946
+195,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:01:24.309
+196,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:01:01.049
+197,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:00:42.902
+198,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:00:22.140
+199,80:58:f8:0c:b8:6a,51,Shannon Burns,Mechanical Engineer,2.0,employee,0,51.46093752,-0.93238226,2019-10-14 13:59:56.577
+200,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:50:50.024
+201,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:50:44.787
+202,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:50:30.596
+203,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:50:26.925
+204,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:50:17.679
+205,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:50:00.261
+206,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.46036754,-0.93271575,2020-06-18 08:49:56.170
+207,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:49:40.935
+208,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:49:24.645
+209,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.46036754,-0.93271575,2020-06-18 08:49:13.742
+210,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.4604720417171,-0.9326701759027416,2020-06-18 08:49:09.399
+211,24:46:c8:6d:22:e2,12,Jacqueline Oneal,Data Scientist,1.0,employee,0,51.46036754,-0.93271575,2020-06-18 08:48:58.677
+212,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 17:02:30.588
+213,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 17:00:31.802
+214,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:59:39.472
+215,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:58:24.975
+216,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:57:57.504
+217,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:57:27.522
+218,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:56:38.902
+219,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:55:56.789
+220,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:55:38.344
+221,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:55:17.494
+222,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:54:36.691
+223,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:54:23.663
+224,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:54:07.419
+225,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:53:24.813
+226,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:52:43.500
+227,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:52:32.775
+228,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:51:39.334
+229,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:50:38.588
+230,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:17:57.922
+231,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:17:34.369
+232,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:17:15.140
+233,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:16:16.888
+234,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:16:00.150
+235,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:15:55.144
+236,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:15:48.525
+237,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:15:36.699
+238,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:15:11.136
+239,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:14:48.589
+240,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:14:30.946
+241,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:14:25.436
+242,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:14:16.817
+243,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:14:00.582
+244,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:13:50.851
+245,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:13:40.024
+246,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:13:39.926
+247,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:13:14.366
+248,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:12:43.496
+249,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:12:39.192
+250,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:12:22.350
+251,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:12:18.244
+252,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:11:50.185
+253,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:11:36.243
+254,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 15:11:20.302
+255,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:10:37.105
+256,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:10:19.068
+257,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 15:10:04.249
+258,80:58:f8:d4:6d:0c,47,Kara Ortiz,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 15:06:20.536

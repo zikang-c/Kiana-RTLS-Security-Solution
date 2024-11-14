@@ -1,0 +1,98 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049051,-0.93277142,2019-10-22 15:57:38.638
+1,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049219,-0.93303804,2019-10-22 15:57:27.218
+2,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:57:17.985
+3,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049219,-0.93303804,2019-10-22 15:57:07.658
+4,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:56:56.528
+5,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:56:47.906
+6,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:56:38.085
+7,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:56:29.460
+8,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049051,-0.93277142,2019-10-22 15:56:17.123
+9,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:56:06.600
+10,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:55:55.772
+11,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:55:45.844
+12,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049119523388,-0.9328801682494672,2019-10-22 15:55:33.114
+13,d0:77:14:d5:6d:ce,14,Patricia Cochran,Cloud Architect,2.0,employee,0,51.46049219,-0.93303804,2019-10-22 15:55:26.595
+14,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:33:22.893
+15,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:33:17.377
+16,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:33:07.247
+17,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:32:57.211
+18,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:32:47.085
+19,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:32:37.047
+20,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:32:27.018
+21,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.460373670603765,-0.932795681203558,2019-11-06 15:32:15.290
+22,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.460373670603765,-0.932795681203558,2019-11-06 15:32:09.970
+23,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.460373670603765,-0.932795681203558,2019-11-06 15:31:59.841
+24,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:31:46.296
+25,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:31:36.269
+26,88:b4:a6:55:73:b5,13,Michael Evans,Cashier,2.0,employee,0,51.46045488409904,-0.9331717798705038,2019-11-06 15:31:26.133
+27,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:34:37.817
+28,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:33:26.024
+29,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:32:16.837
+30,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:31:29.108
+31,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:31:00.229
+32,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:30:54.226
+33,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:30:36.867
+34,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:30:27.940
+35,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:30:12.300
+36,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:29:49.139
+37,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:29:29.687
+38,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:29:16.849
+39,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:28:45.767
+40,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:28:37.339
+41,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:28:23.305
+42,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:28:12.272
+43,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:28:02.982
+44,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:27:57.448
+45,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:27:39.180
+46,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:27:26.640
+47,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:27:19.527
+48,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:27:00.270
+49,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.460870300248274,-0.932240469808107,2019-10-15 13:26:46.736
+50,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:26:33.192
+51,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:26:16.546
+52,80:58:f8:32:83:6c,26,Angela Nixon,Software Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:25:19.793
+53,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46041192967187,-0.9327254234570168,2020-01-17 12:55:02.441
+54,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46043766086856,-0.9329983175836208,2020-01-17 12:54:55.534
+55,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46042844589344,-0.9330965015094388,2020-01-17 12:54:40.404
+56,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46038785178877,-0.933097723819306,2020-01-17 12:54:33.579
+57,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.4604127809473,-0.9330175629207064,2020-01-17 12:54:20.259
+58,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46044340683899,-0.9330545383176369,2020-01-17 12:54:05.110
+59,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.4604422770817,-0.9330367368928916,2020-01-17 12:53:58.390
+60,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.460423093363005,-0.933013359245286,2020-01-17 12:53:49.983
+61,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46040423,-0.93302108,2020-01-17 12:53:35.208
+62,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46043436014598,-0.9330087477628164,2020-01-17 12:53:22.046
+63,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46048094886924,-0.9330182308848012,2020-01-17 12:53:15.930
+64,d0:77:14:7f:ae:95,12,Jose Hicks,Digital Marketing Manager,2.0,employee,0,51.46040423,-0.93302108,2020-01-17 12:53:09.695
+65,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:42:11.387
+66,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:37:37.436
+67,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:35:58.870
+68,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:33:48.312
+69,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:33:07.705
+70,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:32:58.378
+71,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:32:19.375
+72,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:32:04.433
+73,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:31:59.215
+74,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:31:22.618
+75,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:31:19.207
+76,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:30:44.419
+77,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:30:39.009
+78,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 14:30:22.561
+79,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46076623172772,-0.9322391213310894,2019-10-18 14:30:05.515
+80,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 14:29:58.801
+81,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 14:29:28.821
+82,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-18 14:29:09.167
+83,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.460771744863415,-0.932237554468662,2019-10-18 14:28:24.352
+84,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:28:18.334
+85,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46076623172772,-0.9322391213310894,2019-10-18 14:28:09.412
+86,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46076623172772,-0.9322391213310894,2019-10-18 14:27:51.256
+87,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:27:49.953
+88,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:27:35.114
+89,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:27:25.988
+90,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:26:53.503
+91,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46076623172772,-0.9322391213310894,2019-10-18 14:26:38.062
+92,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:26:29.336
+93,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:26:18.009
+94,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:26:07.676
+95,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:25:10.624
+96,80:58:f8:bf:ec:67,32,Michael Jordan,Machine Learning Engineer,1.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:21:46.160

@@ -1,0 +1,242 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:17:38.750
+1,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:17:28.718
+2,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:17:18.686
+3,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:17:08.658
+4,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:16:58.629
+5,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:16:48.597
+6,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:16:38.565
+7,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:16:28.533
+8,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:16:18.504
+9,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:16:08.384
+10,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:15:58.445
+11,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46070051310622,-0.9323888876268254,2019-12-06 12:15:48.320
+12,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:29:57.617
+13,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:29:47.582
+14,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:29:37.546
+15,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:29:27.524
+16,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46069091190014,-0.9323847229877602,2019-12-09 10:29:17.486
+17,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46069091190014,-0.9323847229877602,2019-12-09 10:29:07.452
+18,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46069091190014,-0.9323847229877602,2019-12-09 10:28:57.332
+19,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46069091190014,-0.9323847229877602,2019-12-09 10:28:47.298
+20,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:28:37.271
+21,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:28:27.241
+22,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:28:17.210
+23,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46066390177372,-0.9323873834750428,2019-12-09 10:28:07.179
+24,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:17:28.853
+25,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:15:59.014
+26,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:15:36.153
+27,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:14:54.433
+28,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:14:23.653
+29,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:13:44.451
+30,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:12:48.296
+31,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:12:29.648
+32,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093568487128,-0.932381872205664,2019-10-18 14:12:12.194
+33,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:11:35.799
+34,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093568487128,-0.932381872205664,2019-10-18 14:11:09.129
+35,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46063197245624,-0.9322435032943348,2019-10-18 14:10:44.460
+36,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093568487128,-0.932381872205664,2019-10-18 14:10:04.609
+37,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:09:01.993
+38,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46092731032319,-0.9323776235329446,2019-10-18 14:08:48.360
+39,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:08:37.237
+40,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:08:24.793
+41,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:07:14.404
+42,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:06:58.766
+43,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:06:36.912
+44,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.460929060244816,-0.9323779843503424,2019-10-18 14:06:23.482
+45,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:06:02.134
+46,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093568487128,-0.932381872205664,2019-10-18 14:05:51.995
+47,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:05:49.893
+48,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46063197245624,-0.9322435032943348,2019-10-18 14:05:36.953
+49,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46092731032319,-0.9323776235329446,2019-10-18 14:05:28.832
+50,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:05:13.193
+51,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093568487128,-0.932381872205664,2019-10-18 14:04:41.907
+52,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:04:38.604
+53,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:04:25.563
+54,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093568487128,-0.932381872205664,2019-10-18 14:03:58.995
+55,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46063197245624,-0.9322435032943348,2019-10-18 14:03:29.012
+56,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:02:58.525
+57,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:02:34.661
+58,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:02:23.636
+59,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:01:28.808
+60,80:58:f8:6c:ac:cc,61,Vanessa Thompson,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:59:30.936
+61,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:41:42.061
+62,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:41:37.051
+63,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:41:27.016
+64,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:41:16.890
+65,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:41:06.790
+66,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46083091886403,-0.932330629200855,2020-01-09 11:40:56.645
+67,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46083091886403,-0.932330629200855,2020-01-09 11:40:46.615
+68,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:40:36.495
+69,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:40:26.365
+70,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:40:16.242
+71,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:40:06.117
+72,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:39:55.989
+73,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46079483661617,-0.932314437510584,2020-01-09 11:39:45.866
+74,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46032117,-0.93237729,2019-10-15 09:41:40.688
+75,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46032117,-0.93237729,2019-10-15 09:41:38.883
+76,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460534931616486,-0.9327317548995177,2019-10-15 09:41:27.150
+77,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46037139791087,-0.9324894197109004,2019-10-15 09:41:05.506
+78,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460534931616486,-0.9327317548995177,2019-10-15 09:40:54.066
+79,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460394974071114,-0.9325693744722588,2019-10-15 09:40:48.042
+80,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46048234781521,-0.9327967757426304,2019-10-15 09:40:33.208
+81,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46037139791087,-0.9324894197109004,2019-10-15 09:40:25.085
+82,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46037139791087,-0.9324894197109004,2019-10-15 09:40:18.164
+83,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46036665031961,-0.932514339292404,2019-10-15 09:40:03.534
+84,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460394974071114,-0.9325693744722588,2019-10-15 09:39:52.588
+85,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46037139791087,-0.9324894197109004,2019-10-15 09:39:47.371
+86,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460369086053085,-0.932583251407134,2019-10-15 09:39:38.442
+87,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460394974071114,-0.9325693744722588,2019-10-15 09:39:21.795
+88,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46039755531561,-0.932503954055342,2019-10-15 09:39:10.361
+89,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.460369086053085,-0.932583251407134,2019-10-15 09:39:00.541
+90,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46047518,-0.93284138,2019-10-15 09:38:56.228
+91,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46036665031961,-0.932514339292404,2019-10-15 09:38:40.378
+92,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46048234781521,-0.9327967757426304,2019-10-15 09:38:36.267
+93,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46037139791087,-0.9324894197109004,2019-10-15 09:38:26.743
+94,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46039755531561,-0.932503954055342,2019-10-15 09:38:09.599
+95,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46037139791087,-0.9324894197109004,2019-10-15 09:37:59.363
+96,f4:f5:24:da:55:d0,36,Megan Smith,Cybersecurity Analyst,3.0,employee,0,51.46036665031961,-0.932514339292404,2019-10-15 09:37:39.411
+97,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:37:06.839
+98,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 13:36:57.016
+99,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:36:46.890
+100,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:36:37.265
+101,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 13:36:24.939
+102,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:36:18.931
+103,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:36:06.085
+104,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:35:54.255
+105,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 13:35:45.831
+106,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:35:33.802
+107,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:35:27.884
+108,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:35:19.865
+109,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 13:35:07.034
+110,24:46:c8:06:9b:d6,14,Thomas Gonzalez,Social Media Manager,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 13:34:55.805
+111,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:27:30.205
+112,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:27:25.187
+113,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:27:15.158
+114,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:27:05.022
+115,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:26:54.999
+116,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:26:49.979
+117,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:26:39.550
+118,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:26:29.522
+119,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:26:19.494
+120,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:26:09.460
+121,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:25:59.329
+122,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:25:49.302
+123,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46093752,-0.93238226,2019-10-23 15:25:38.872
+124,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:56:46.907
+125,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:56:36.879
+126,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:56:26.353
+127,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:56:16.320
+128,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:56:06.289
+129,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:55:56.260
+130,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:55:46.133
+131,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:55:36.102
+132,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:55:20.657
+133,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:55:15.636
+134,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:55:05.611
+135,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077473337856,-0.9322348635973055,2019-10-09 15:54:55.487
+136,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:26:07.677
+137,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:22:06.945
+138,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:20:45.127
+139,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:20:27.779
+140,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:19:54.093
+141,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:19:27.418
+142,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460612615136576,-0.932380835531338,2019-10-18 17:19:00.149
+143,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:17:53.282
+144,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460517806617,-0.9323230393247772,2019-10-18 17:17:40.447
+145,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460612615136576,-0.932380835531338,2019-10-18 17:17:29.117
+146,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:16:19.033
+147,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46061061283212,-0.9322889776170435,2019-10-18 17:15:29.707
+148,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:15:05.836
+149,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:14:56.508
+150,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46061237315504,-0.9323826053615428,2019-10-18 17:14:30.546
+151,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:13:40.203
+152,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:13:39.201
+153,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:13:27.972
+154,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46061061283212,-0.9322889776170435,2019-10-18 17:12:40.744
+155,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:12:33.929
+156,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:12:04.848
+157,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46061169337377,-0.9322799267343456,2019-10-18 17:11:48.903
+158,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:11:26.749
+159,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46060057016807,-0.9323734927999994,2019-10-18 17:11:15.316
+160,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:11:07.190
+161,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460517806617,-0.9323230393247772,2019-10-18 17:10:53.655
+162,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46077795756536,-0.9322515800956048,2019-10-18 17:10:44.936
+163,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:10:24.676
+164,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46061169337377,-0.9322799267343456,2019-10-18 17:10:17.861
+165,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46058737901672,-0.9323825586578952,2019-10-18 17:10:09.234
+166,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:09:55.897
+167,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46058737901672,-0.9323825586578952,2019-10-18 17:09:10.573
+168,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:08:59.643
+169,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:08:30.889
+170,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460517806617,-0.9323230393247772,2019-10-18 17:08:26.049
+171,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460600757354136,-0.9323719257038506,2019-10-18 17:08:18.328
+172,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:07:48.147
+173,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.460597924982615,-0.9323957435433868,2019-10-18 17:07:02.441
+174,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:06:51.496
+175,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46058737901672,-0.9323825586578952,2019-10-18 17:06:46.882
+176,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:06:39.359
+177,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:05:56.743
+178,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:05:41.807
+179,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:05:37.494
+180,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.4605872080538,-0.9323842149490982,2019-10-18 17:05:23.756
+181,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:05:12.225
+182,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:04:50.457
+183,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:04:25.292
+184,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:04:02.532
+185,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 17:03:45.783
+186,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 17:03:23.328
+187,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46051793,-0.93230969,2019-10-18 17:02:54.852
+188,80:58:f8:2d:5e:10,78,Tracy Garcia,Account Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 16:59:38.029
+189,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:08:25.620
+190,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:05:32.576
+191,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:04:00.445
+192,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:03:49.906
+193,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:03:12.510
+194,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:02:56.175
+195,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078126947575,-0.932226098268396,2019-10-15 15:02:37.422
+196,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46058484450711,-0.9323798993500721,2019-10-15 15:02:02.637
+197,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:01:58.010
+198,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:01:44.881
+199,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:01:24.526
+200,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:01:09.589
+201,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078126947575,-0.932226098268396,2019-10-15 15:00:54.550
+202,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:00:35.601
+203,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-15 15:00:28.180
+204,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46058484450711,-0.9323798993500721,2019-10-15 15:00:03.933
+205,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:59:46.187
+206,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078126947575,-0.932226098268396,2019-10-15 14:59:36.636
+207,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:59:21.193
+208,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078126947575,-0.932226098268396,2019-10-15 14:59:15.078
+209,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46058484450711,-0.9323798993500721,2019-10-15 14:59:05.453
+210,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078126947575,-0.932226098268396,2019-10-15 14:58:23.339
+211,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:58:00.376
+212,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 14:57:46.036
+213,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:57:11.846
+214,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:57:05.844
+215,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:56:22.225
+216,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:25:23.292
+217,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:23:05.533
+218,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:22:50.589
+219,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:22:37.253
+220,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:21:52.145
+221,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:21:28.571
+222,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:21:12.130
+223,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:21:07.927
+224,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:20:42.450
+225,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:20:34.331
+226,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:20:22.605
+227,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:20:14.078
+228,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:19:53.325
+229,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:19:07.693
+230,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:18:28.779
+231,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:18:17.454
+232,80:58:f8:88:7e:9e,44,Stephanie Pratt,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 14:17:53.593
+233,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46038837,-0.93313945,2019-10-08 11:16:11.339
+234,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46038837,-0.93313945,2019-10-08 11:16:06.326
+235,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46048029174765,-0.9327202758541778,2019-10-08 11:15:56.290
+236,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46046771860236,-0.9328574330086772,2019-10-08 11:15:46.256
+237,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46038837,-0.93313945,2019-10-08 11:15:35.825
+238,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46038837,-0.93313945,2019-10-08 11:15:25.796
+239,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46043365098518,-0.9328494503838732,2019-10-08 11:15:15.763
+240,f0:d7:aa:80:fd:30,8,Richard Anderson,,,visitor,0,51.46043365098518,-0.9328494503838732,2019-10-08 11:15:05.633

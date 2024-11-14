@@ -1,0 +1,110 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.460688263648485,-0.9322856431142588,2019-10-31 10:38:33.452
+1,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.460688263648485,-0.9322856431142588,2019-10-31 10:38:28.434
+2,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-31 10:38:18.405
+3,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46073856885608,-0.9324159968920132,2019-10-31 10:38:08.279
+4,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46073856885608,-0.9324159968920132,2019-10-31 10:37:57.851
+5,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46073856885608,-0.9324159968920132,2019-10-31 10:37:47.816
+6,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-31 10:37:37.789
+7,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-31 10:37:27.765
+8,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46073856885608,-0.9324159968920132,2019-10-31 10:37:17.713
+9,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46064536412809,-0.932409934178833,2019-10-31 10:37:07.584
+10,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46064536412809,-0.932409934178833,2019-10-31 10:36:57.150
+11,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.46073856885608,-0.9324159968920132,2019-10-31 10:36:47.117
+12,24:46:c8:10:e7:13,13,Stephanie Rodriguez,Food Service Worker,0.0,employee,0,51.460688263648485,-0.9322856431142588,2019-10-31 10:36:37.087
+13,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46050208446184,-0.932547466378412,2019-09-05 13:01:31.507
+14,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.460402318407866,-0.9327540915173288,2019-09-05 13:01:24.691
+15,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46041738563852,-0.932798158361301,2019-09-05 13:01:19.670
+16,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46040496022121,-0.932813311295193,2019-09-05 13:01:09.541
+17,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46038443502843,-0.9327445099091344,2019-09-05 13:00:59.550
+18,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46041738563852,-0.932798158361301,2019-09-05 13:00:49.476
+19,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46041738563852,-0.932798158361301,2019-09-05 13:00:39.347
+20,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46041738563852,-0.932798158361301,2019-09-05 13:00:28.925
+21,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46041738563852,-0.932798158361301,2019-09-05 13:00:18.883
+22,d0:77:14:4d:e7:a5,10,Mr. Cody Burke,Operations Manager,3.0,employee,2,51.46041738563852,-0.932798158361301,2019-09-05 13:00:08.755
+23,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:28:01.330
+24,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:27:48.299
+25,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:22:40.084
+26,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:21:08.380
+27,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:20:56.952
+28,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:20:44.422
+29,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:20:13.850
+30,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.460752755944405,-0.9324189773214152,2019-10-22 09:19:41.981
+31,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.460752755944405,-0.9324189773214152,2019-10-22 09:19:29.046
+32,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.460752755944405,-0.9324189773214152,2019-10-22 09:18:59.586
+33,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:18:44.254
+34,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:18:33.527
+35,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.460752755944405,-0.9324189773214152,2019-10-22 09:18:11.278
+36,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:17:56.439
+37,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:17:49.629
+38,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:17:39.100
+39,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:17:21.762
+40,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:16:59.915
+41,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.460752755944405,-0.9324189773214152,2019-10-22 09:16:25.335
+42,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:16:18.919
+43,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:16:08.793
+44,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:15:57.270
+45,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:15:49.754
+46,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.460752755944405,-0.9324189773214152,2019-10-22 09:15:27.201
+47,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46073104492567,-0.9324260831537908,2019-10-22 09:15:14.357
+48,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46051021,-0.93242014,2019-10-22 09:15:09.587
+49,24:46:c8:ca:f4:3c,27,Jennifer Brown,Social Media Manager,3.0,employee,0,51.46090031,-0.93241827,2019-10-22 09:14:56.210
+50,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:32:54.934
+51,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.4606371,-0.93246087,2020-01-13 14:32:49.216
+52,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:32:39.894
+53,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:32:29.868
+54,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.4606371,-0.93246087,2020-01-13 14:32:14.025
+55,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:32:09.815
+56,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46083184,-0.93224795,2020-01-13 14:31:59.791
+57,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.4606371,-0.93246087,2020-01-13 14:31:48.864
+58,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:31:39.651
+59,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:31:29.626
+60,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:31:19.591
+61,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:31:09.568
+62,68:c4:4d:4f:4b:47,13,Jamie Hill,Content Strategist,1.0,employee,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:30:59.546
+63,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:54:22.696
+64,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46089756515271,-0.9322316405465844,2019-10-18 13:54:16.689
+65,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46057938682196,-0.9324186318929985,2019-10-18 13:52:55.958
+66,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:52:02.509
+67,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:51:58.298
+68,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460688744780846,-0.9324070293859744,2019-10-18 13:51:40.146
+69,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:51:30.023
+70,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044763572556,-0.932504107749519,2019-10-18 13:51:14.476
+71,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:51:05.146
+72,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071687704463,-0.932397707336114,2019-10-18 13:50:57.931
+73,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:50:41.190
+74,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071687704463,-0.932397707336114,2019-10-18 13:50:37.481
+75,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:50:27.249
+76,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071687704463,-0.932397707336114,2019-10-18 13:50:18.627
+77,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:50:05.295
+78,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044763572556,-0.932504107749519,2019-10-18 13:49:34.910
+79,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:49:19.670
+80,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071658538781,-0.9323984783440163,2019-10-18 13:48:57.409
+81,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:48:42.371
+82,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:48:38.656
+83,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460582394051336,-0.932406432110862,2019-10-18 13:48:29.434
+84,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:48:18.204
+85,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460912202980765,-0.9322075119701067,2019-10-18 13:47:52.730
+86,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46069779919712,-0.9323989450385048,2019-10-18 13:47:44.306
+87,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460582394051336,-0.932406432110862,2019-10-18 13:47:36.589
+88,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:47:25.257
+89,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460912202980765,-0.9322075119701067,2019-10-18 13:47:19.846
+90,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071658538781,-0.9323984783440163,2019-10-18 13:47:09.109
+91,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071687704463,-0.932397707336114,2019-10-18 13:46:50.556
+92,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46057644242233,-0.932426105293422,2019-10-18 13:46:45.646
+93,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044866238566,-0.9325166789270386,2019-10-18 13:46:30.503
+94,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46069779919712,-0.9323989450385048,2019-10-18 13:46:27.691
+95,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460688744780846,-0.9324070293859744,2019-10-18 13:46:14.452
+96,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46068783742674,-0.9324088747736696,2019-10-18 13:46:07.137
+97,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460726230058334,-0.9323885831248144,2019-10-18 13:45:53.796
+98,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071687704463,-0.932397707336114,2019-10-18 13:45:48.987
+99,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46069779919712,-0.9323989450385048,2019-10-18 13:45:31.746
+100,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071572947509,-0.932399813879207,2019-10-18 13:45:27.832
+101,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:45:15.297
+102,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46057932006407,-0.9324143041553092,2019-10-18 13:44:56.951
+103,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:44:26.558
+104,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46045004384843,-0.9325083957341456,2019-10-18 13:44:18.239
+105,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.460912202980765,-0.9322075119701067,2019-10-18 13:43:50.563
+106,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:43:45.849
+107,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 13:43:00.129
+108,80:58:f8:9c:de:fe,46,April Robbins,Data Scientist,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:41:20.850

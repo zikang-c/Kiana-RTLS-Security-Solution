@@ -1,0 +1,1081 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:12:34.546
+1,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:12:29.525
+2,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:12:19.398
+3,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:12:09.365
+4,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:11:59.138
+5,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:11:49.018
+6,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:11:38.980
+7,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:11:28.852
+8,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:11:18.729
+9,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:11:08.698
+10,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:10:58.575
+11,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:10:48.447
+12,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46074535078572,-0.9323472594536873,2019-12-03 12:10:38.318
+13,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46069019917115,-0.9324242053146724,2019-12-03 12:09:52.892
+14,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46069019917115,-0.9324242053146724,2019-12-03 12:09:47.782
+15,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460592360487205,-0.9323288182984873,2019-12-03 12:00:29.946
+16,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46058576300295,-0.9323301437504186,2019-12-03 12:00:14.905
+17,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46058576300295,-0.9323301437504186,2019-12-03 12:00:09.889
+18,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46060506183344,-0.9323325077247832,2019-12-03 11:59:59.857
+19,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460630121640726,-0.9323815670300126,2019-12-03 11:59:46.726
+20,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4606260605379,-0.932360106536504,2019-12-03 11:59:39.710
+21,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:41:16.532
+22,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:37:31.362
+23,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:36:52.455
+24,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460769690474606,-0.932319187979498,2019-10-15 13:36:46.740
+25,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:35:56.719
+26,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:34:40.423
+27,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077051767979,-0.9323179112727076,2019-10-15 13:34:10.645
+28,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460785269605914,-0.9322825764135912,2019-10-15 13:33:34.848
+29,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076372168541,-0.9323187719499304,2019-10-15 13:33:15.496
+30,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076870309895,-0.9322760619106703,2019-10-15 13:33:07.286
+31,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076567829823,-0.9322050026677908,2019-10-15 13:32:42.331
+32,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460775602800446,-0.9323230425072956,2019-10-15 13:32:08.012
+33,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076653611437,-0.9322788035033662,2019-10-15 13:31:54.780
+34,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078170858454,-0.9322769240238862,2019-10-15 13:31:25.598
+35,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077783667134,-0.9322790161458628,2019-10-15 13:30:33.458
+36,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076927888482,-0.932307984529066,2019-10-15 13:30:20.722
+37,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076754270376,-0.9322789419187608,2019-10-15 13:30:14.500
+38,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4607839984306,-0.9322774106852272,2019-10-15 13:30:04.293
+39,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077456283173,-0.9322822761687312,2019-10-15 13:29:59.864
+40,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460761565766965,-0.9322887699273196,2019-10-15 13:29:48.031
+41,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460771576871615,-0.9321946868529604,2019-10-15 13:29:37.609
+42,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077142782627,-0.9322782275995776,2019-10-15 13:29:29.998
+43,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460799700349696,-0.9322013002043608,2019-10-15 13:29:17.254
+44,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076870309895,-0.9322760619106703,2019-10-15 13:29:00.600
+45,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4607800885033,-0.9323095734369896,2019-10-15 13:28:58.895
+46,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078840781127,-0.9321881557690106,2019-10-15 13:28:42.258
+47,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46081152970877,-0.9321997084408042,2019-10-15 13:28:36.543
+48,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460730906478126,-0.932218209044648,2019-10-15 13:28:25.121
+49,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460770515624944,-0.9323127198342088,2019-10-15 13:28:17.889
+50,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46063586252141,-0.93223001102286,2019-10-15 13:28:09.169
+51,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078796759532,-0.9322041848592496,2019-10-15 13:27:52.916
+52,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076498909763,-0.9323237973637218,2019-10-15 13:27:46.092
+53,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460803945876485,-0.932196720574148,2019-10-15 13:27:33.362
+54,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078147429321,-0.9323167213447286,2019-10-15 13:27:20.828
+55,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078023340833,-0.9322195231677052,2019-10-15 13:27:10.503
+56,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:27:03.580
+57,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460769609193,-0.932316724491228,2019-10-15 13:26:59.464
+58,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:26:44.925
+59,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078023340833,-0.9322195231677052,2019-10-15 13:26:31.889
+60,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 13:26:13.140
+61,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:23:52.550
+62,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:23:41.017
+63,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:23:35.603
+64,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:22:44.765
+65,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609502793987,-0.9322953904697197,2019-10-15 13:21:54.340
+66,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:21:34.284
+67,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46063957,-0.9324208,2019-10-15 13:20:56.486
+68,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095409042186,-0.9322948150775336,2019-10-15 13:20:44.358
+69,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921545626746,-0.932190862011997,2019-10-15 13:20:36.318
+70,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46089899304702,-0.9321861975752718,2019-10-15 13:20:27.191
+71,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460948540439645,-0.9322935945055044,2019-10-15 13:20:12.754
+72,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46077493478267,-0.9322156268346888,2019-10-15 13:20:05.345
+73,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090399354552,-0.9322124696895944,2019-10-15 13:19:56.013
+74,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094596894032,-0.9322660422208712,2019-10-15 13:19:38.459
+75,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460948075514736,-0.9322935109507684,2019-10-15 13:19:18.205
+76,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937236440685,-0.932280878787084,2019-10-15 13:19:00.964
+77,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:18:58.955
+78,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094814974246,-0.9322915724941956,2019-10-15 13:18:40.406
+79,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094828968049,-0.9322808163974255,2019-10-15 13:18:28.898
+80,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092493746954,-0.9322756707494972,2019-10-15 13:18:13.833
+81,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46087460222521,-0.9321912339606756,2019-10-15 13:18:09.623
+82,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460947909877696,-0.9322793051428164,2019-10-15 13:17:53.586
+83,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46078804542054,-0.932209758371682,2019-10-15 13:17:48.875
+84,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084532557364,-0.9322338098918778,2019-10-15 13:17:30.518
+85,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094055786133,-0.9322724477887564,2019-10-15 13:17:23.605
+86,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091964473699,-0.9322777081886064,2019-10-15 13:17:19.289
+87,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460924466725565,-0.9322656930012524,2019-10-15 13:17:05.752
+88,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093014477192,-0.9323014525728353,2019-10-15 13:16:59.835
+89,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093663241619,-0.9322636019249316,2019-10-15 13:16:42.992
+90,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4608329777052,-0.932222242972506,2019-10-15 13:16:37.477
+91,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091065496165,-0.9322655394604724,2019-10-15 13:16:28.453
+92,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092446311157,-0.9322713878531927,2019-10-15 13:16:19.632
+93,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46086077218183,-0.9322015857830448,2019-10-15 13:16:05.913
+94,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092800429888,-0.9322695306780784,2019-10-15 13:15:55.861
+95,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093487608027,-0.9322821331890372,2019-10-15 13:15:49.446
+96,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937388170166,-0.9322796540656544,2019-10-15 13:15:39.816
+97,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094786417158,-0.9322725220591452,2019-10-15 13:15:29.387
+98,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460934591643394,-0.9322659901954898,2019-10-15 13:15:18.560
+99,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093758950271,-0.93227961117557,2019-10-15 13:15:04.823
+100,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460929878858366,-0.9322479565058304,2019-10-15 13:14:57.804
+101,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460945510035565,-0.932272723651532,2019-10-15 13:14:49.184
+102,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094616178155,-0.9322746321405238,2019-10-15 13:14:39.556
+103,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460940872281775,-0.9322804357164513,2019-10-15 13:14:29.432
+104,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094507466248,-0.93228441286192,2019-10-15 13:14:15.396
+105,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094265096424,-0.9322759543358752,2019-10-15 13:14:06.889
+106,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093227147989,-0.9322877188638112,2019-10-15 13:13:54.843
+107,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609473186288,-0.9322865721516076,2019-10-15 13:13:47.719
+108,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460857555575735,-0.9322146523323884,2019-10-15 13:13:37.893
+109,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4608234797082,-0.9322510341112896,2019-10-15 13:13:20.446
+110,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092684807101,-0.932268536717864,2019-10-15 13:13:18.643
+111,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460945037500686,-0.932281151317838,2019-10-15 13:13:08.428
+112,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094843737447,-0.9322781687836608,2019-10-15 13:12:57.592
+113,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093386998642,-0.9322880843415124,2019-10-15 13:12:40.333
+114,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085975622913,-0.9322247117431632,2019-10-15 13:12:32.619
+115,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460952243079646,-0.9322783281764296,2019-10-15 13:12:26.797
+116,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094363602808,-0.9322779795387562,2019-10-15 13:12:19.276
+117,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094017380904,-0.9322894500199632,2019-10-15 13:12:03.148
+118,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093827716864,-0.9322890288099712,2019-10-15 13:11:59.016
+119,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460935277641966,-0.9322678233442377,2019-10-15 13:11:48.185
+120,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093333566278,-0.932260561582958,2019-10-15 13:11:33.252
+121,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094524985959,-0.9322732115787488,2019-10-15 13:11:27.030
+122,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609402147172,-0.9322757481467424,2019-10-15 13:11:15.603
+123,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460945332612695,-0.932282569795914,2019-10-15 13:11:00.861
+124,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093240922632,-0.9322690791707828,2019-10-15 13:10:59.955
+125,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093886252399,-0.93227878861049,2019-10-15 13:10:49.025
+126,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093406883276,-0.9322791519806172,2019-10-15 13:10:37.296
+127,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937801114255,-0.9322741485054228,2019-10-15 13:10:27.767
+128,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084679987797,-0.9322197605131736,2019-10-15 13:10:19.052
+129,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094276456332,-0.9322817408717328,2019-10-15 13:10:02.113
+130,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46086070005746,-0.932202469840557,2019-10-15 13:09:57.584
+131,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937404740406,-0.9322700331005228,2019-10-15 13:09:46.755
+132,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093297033632,-0.932271793631254,2019-10-15 13:09:37.727
+133,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092949691068,-0.9322687478780524,2019-10-15 13:09:23.589
+134,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091666384012,-0.9322459354891336,2019-10-15 13:09:14.567
+135,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094469402608,-0.9322745663352688,2019-10-15 13:09:07.848
+136,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094295769973,-0.9322717883865672,2019-10-15 13:08:51.505
+137,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46088781639402,-0.9322819443175406,2019-10-15 13:08:47.596
+138,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609278335669,-0.93227144983283,2019-10-15 13:08:30.349
+139,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460920123139765,-0.9322883338283158,2019-10-15 13:08:28.944
+140,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460929117720816,-0.9322723282932363,2019-10-15 13:08:18.712
+141,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094307187667,-0.9322759204585012,2019-10-15 13:08:06.077
+142,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460934625742965,-0.9322664824954292,2019-10-15 13:07:55.852
+143,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091794991928,-0.9322838362218948,2019-10-15 13:07:45.021
+144,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460906987219374,-0.9322537158573904,2019-10-15 13:07:39.411
+145,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092828672175,-0.9322605607607666,2019-10-15 13:07:28.476
+146,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093941573476,-0.9322721222409656,2019-10-15 13:07:19.147
+147,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093211677044,-0.9322674317772284,2019-10-15 13:07:09.825
+148,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937052441984,-0.9322668946703686,2019-10-15 13:06:54.896
+149,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609064781011,-0.9322567251823094,2019-10-15 13:06:41.054
+150,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460941305659546,-0.932274085607184,2019-10-15 13:06:32.134
+151,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937583976325,-0.9322670463136749,2019-10-15 13:06:28.517
+152,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091863294291,-0.9322870110500092,2019-10-15 13:06:19.895
+153,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460935277641966,-0.9322678233442377,2019-10-15 13:06:04.783
+154,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460852189742766,-0.9322271836091146,2019-10-15 13:05:54.939
+155,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092012983296,-0.9322891822515698,2019-10-15 13:05:49.522
+156,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460931103725706,-0.932288249800836,2019-10-15 13:05:39.892
+157,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091730474456,-0.9322641805794776,2019-10-15 13:05:27.355
+158,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460855122428285,-0.9322036063906148,2019-10-15 13:05:19.436
+159,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093801536996,-0.9322755051653167,2019-10-15 13:05:08.707
+160,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094527948339,-0.932277478905345,2019-10-15 13:04:59.385
+161,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460940442208205,-0.9322707988457222,2019-10-15 13:04:41.540
+162,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460937404740406,-0.9322700331005228,2019-10-15 13:04:36.523
+163,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460946148416255,-0.932277611925515,2019-10-15 13:04:29.102
+164,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092709459085,-0.9322874660291814,2019-10-15 13:04:16.268
+165,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094530484607,-0.9322845392464126,2019-10-15 13:04:02.540
+166,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460941766952885,-0.932271626969687,2019-10-15 13:03:57.723
+167,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085024192974,-0.9322415858234184,2019-10-15 13:03:49.195
+168,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094307187667,-0.9322759204585012,2019-10-15 13:03:34.561
+169,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094671883967,-0.9322800526045352,2019-10-15 13:03:29.850
+170,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094694556615,-0.9322877093602066,2019-10-15 13:03:19.922
+171,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46076549466655,-0.9321981791616668,2019-10-15 13:03:07.802
+172,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093447175178,-0.9322727986414509,2019-10-15 13:02:59.772
+173,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094287949203,-0.93227525643093,2019-10-15 13:02:49.644
+174,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084815529777,-0.9322155569710724,2019-10-15 13:02:38.314
+175,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085862231536,-0.932208557535078,2019-10-15 13:02:25.581
+176,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460947981865566,-0.9322799675965016,2019-10-15 13:02:16.754
+177,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093797467639,-0.9322683831658944,2019-10-15 13:02:09.140
+178,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094958750864,-0.9322792956529582,2019-10-15 13:01:52.183
+179,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46068640461558,-0.9323259510464867,2019-10-15 13:01:47.370
+180,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093371334726,-0.9322635292567168,2019-10-15 13:01:38.855
+181,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085424708952,-0.9322137956877068,2019-10-15 13:01:27.923
+182,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092589106304,-0.9322663550795904,2019-10-15 13:01:18.294
+183,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093675893833,-0.9322746609826568,2019-10-15 13:01:09.372
+184,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460755636767225,-0.9322550595233629,2019-10-15 13:00:56.743
+185,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093031067629,-0.9322731443668661,2019-10-15 13:00:48.523
+186,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085802567944,-0.932203251264598,2019-10-15 13:00:37.312
+187,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460952441824965,-0.9322851253872824,2019-10-15 13:00:28.968
+188,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609417780844,-0.9322776268056844,2019-10-15 13:00:11.019
+189,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609254815249,-0.9322543240976364,2019-10-15 13:00:04.521
+190,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094010245848,-0.9322691727681208,2019-10-15 12:59:56.901
+191,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921468279984,-0.932264898495282,2019-10-15 12:59:46.491
+192,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460912283985806,-0.9322547322573392,2019-10-15 12:59:32.719
+193,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094059456698,-0.932269053382852,2019-10-15 12:59:24.190
+194,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460914545536525,-0.932262683617002,2019-10-15 12:59:16.269
+195,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090701057785,-0.9322709460316884,2019-10-15 12:59:08.952
+196,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609199832777,-0.9322778536962802,2019-10-15 12:58:59.117
+197,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460911893335485,-0.9322520935093512,2019-10-15 12:58:43.173
+198,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092001296231,-0.9322585907990922,2019-10-15 12:58:35.654
+199,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093297033632,-0.932271793631254,2019-10-15 12:58:27.129
+200,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092405879818,-0.9322849466687586,2019-10-15 12:58:14.191
+201,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084815529777,-0.9322155569710724,2019-10-15 12:58:09.581
+202,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092212729176,-0.932263050826632,2019-10-15 12:57:57.047
+203,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093104885627,-0.9322580307971172,2019-10-15 12:57:47.515
+204,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092076933558,-0.9322766156166764,2019-10-15 12:57:34.679
+205,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460934351211705,-0.9322632949976528,2019-10-15 12:57:26.360
+206,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091784619113,-0.9322572257119206,2019-10-15 12:57:17.639
+207,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092522169555,-0.9322674368394636,2019-10-15 12:57:07.211
+208,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092695625292,-0.9322520492521512,2019-10-15 12:56:55.077
+209,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094010245848,-0.9322691727681208,2019-10-15 12:56:45.447
+210,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460927402136846,-0.9322551227714138,2019-10-15 12:56:34.711
+211,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46087518986131,-0.9321875317052623,2019-10-15 12:56:29.094
+212,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46089125961142,-0.9322863220171348,2019-10-15 12:56:18.688
+213,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460930860687455,-0.9322788314555553,2019-10-15 12:56:08.134
+214,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090741311977,-0.9322693716750934,2019-10-15 12:55:56.810
+215,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093810033568,-0.9322548251128148,2019-10-15 12:55:44.368
+216,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095483175111,-0.9322837376339768,2019-10-15 12:55:39.158
+217,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460926622452845,-0.9322537490536296,2019-10-15 12:55:27.326
+218,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094027250581,-0.9322687258968412,2019-10-15 12:55:17.088
+219,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094420806508,-0.9322732148802876,2019-10-15 12:55:07.162
+220,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093008157226,-0.9322713164222056,2019-10-15 12:54:58.134
+221,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609351438533,-0.9322750884235204,2019-10-15 12:54:48.303
+222,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091614386725,-0.93225822635957,2019-10-15 12:54:33.567
+223,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093618541332,-0.9322745749567468,2019-10-15 12:54:28.449
+224,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092167240552,-0.9322671843914478,2019-10-15 12:54:14.709
+225,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46083703580721,-0.9322235986383484,2019-10-15 12:54:08.994
+226,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460924443806746,-0.93224890278353,2019-10-15 12:53:58.469
+227,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093751439812,-0.932279391802788,2019-10-15 12:53:49.541
+228,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093436182485,-0.9322625714923248,2019-10-15 12:53:38.613
+229,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091654529733,-0.9322636371374668,2019-10-15 12:53:23.565
+230,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092796968173,-0.9322603577355316,2019-10-15 12:53:18.158
+231,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094501639296,-0.932276878251336,2019-10-15 12:53:08.036
+232,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460933973292526,-0.9322756654849006,2019-10-15 12:52:56.900
+233,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460877961524645,-0.932278156507224,2019-10-15 12:52:45.664
+234,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46089984076936,-0.9322521081082265,2019-10-15 12:52:38.638
+235,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460938648856335,-0.9322677345207598,2019-10-15 12:52:23.238
+236,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093031067629,-0.9322731443668661,2019-10-15 12:52:18.981
+237,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921468280006,-0.9322648984952824,2019-10-15 12:52:08.982
+238,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092998491398,-0.9322746179695056,2019-10-15 12:51:58.223
+239,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46075266553992,-0.932217246321814,2019-10-15 12:51:43.579
+240,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092838402727,-0.9322754237851136,2019-10-15 12:51:38.967
+241,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084547766621,-0.9322213054568774,2019-10-15 12:51:24.130
+242,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460945849647246,-0.9322981615936689,2019-10-15 12:51:19.316
+243,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093729834766,-0.932281889586615,2019-10-15 12:51:08.584
+244,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092348519272,-0.9322747106085556,2019-10-15 12:50:57.657
+245,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095024663473,-0.932296271918438,2019-10-15 12:50:40.205
+246,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090318917627,-0.9322544190912844,2019-10-15 12:50:30.381
+247,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460930534941056,-0.9321872641446992,2019-10-15 12:50:26.072
+248,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093883497079,-0.9322663395021727,2019-10-15 12:50:14.538
+249,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094422702486,-0.9322717882664096,2019-10-15 12:50:08.618
+250,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092161719017,-0.9322776455670032,2019-10-15 12:49:59.791
+251,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093178248753,-0.9322580933998774,2019-10-15 12:49:49.766
+252,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921672405526,-0.9322671843914476,2019-10-15 12:49:34.327
+253,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094358027633,-0.9322822401858352,2019-10-15 12:49:28.408
+254,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092500390993,-0.9322653702591864,2019-10-15 12:49:19.378
+255,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4608398143101,-0.9322295097787622,2019-10-15 12:49:08.253
+256,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092019734877,-0.932242490916734,2019-10-15 12:48:51.303
+257,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921416990715,-0.9322694795424052,2019-10-15 12:48:44.390
+258,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460932582706974,-0.9322727805269092,2019-10-15 12:48:37.570
+259,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460745150802886,-0.932247926504134,2019-10-15 12:48:22.226
+260,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092467684987,-0.9322692573079981,2019-10-15 12:48:12.601
+261,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084778430285,-0.932249521854331,2019-10-15 12:48:05.280
+262,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091930829864,-0.9322424713163004,2019-10-15 12:47:51.238
+263,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460922333359285,-0.9322652634394912,2019-10-15 12:47:49.230
+264,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092044508641,-0.9322639899866196,2019-10-15 12:47:39.802
+265,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093178248753,-0.9322580933998774,2019-10-15 12:47:23.560
+266,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460919017128575,-0.9322723835578652,2019-10-15 12:47:15.939
+267,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609315164993,-0.9322550606582178,2019-10-15 12:47:05.523
+268,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091106800655,-0.9322569686138984,2019-10-15 12:46:59.894
+269,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460898310576795,-0.9322819923403328,2019-10-15 12:46:47.955
+270,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092472931228,-0.9322746830371234,2019-10-15 12:46:38.828
+271,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092343176487,-0.9322662263526256,2019-10-15 12:46:22.995
+272,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460925286885086,-0.9322860937616932,2019-10-15 12:46:18.971
+273,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609472717791,-0.9322911455113628,2019-10-15 12:46:06.456
+274,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093160558728,-0.9322777725101185,2019-10-15 12:45:55.416
+275,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460839045145846,-0.9322203691015222,2019-10-15 12:45:48.488
+276,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093297033632,-0.932271793631254,2019-10-15 12:45:39.064
+277,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093381463199,-0.9322800044940456,2019-10-15 12:45:20.713
+278,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460929117720816,-0.9322723282932363,2019-10-15 12:45:17.801
+279,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460922855681375,-0.9322679923998494,2019-10-15 12:45:08.575
+280,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460927977203646,-0.932251201632935,2019-10-15 12:44:59.144
+281,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921416990715,-0.9322694795424052,2019-10-15 12:44:49.120
+282,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084990393812,-0.9322167491778228,2019-10-15 12:44:39.491
+283,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092682778888,-0.9322665745461434,2019-10-15 12:44:29.561
+284,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092467684987,-0.9322692573079981,2019-10-15 12:44:14.812
+285,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093390558678,-0.932260072511001,2019-10-15 12:44:06.209
+286,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093374800048,-0.9322592090758592,2019-10-15 12:43:59.364
+287,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091737460328,-0.9322616908693242,2019-10-15 12:43:45.124
+288,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093299699707,-0.9322591420785832,2019-10-15 12:43:35.907
+289,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092467684987,-0.9322692573079981,2019-10-15 12:43:24.268
+290,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609303125773,-0.932254279729062,2019-10-15 12:43:11.634
+291,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460922089106525,-0.9322674890121024,2019-10-15 12:43:05.329
+292,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46083561451344,-0.932230611747414,2019-10-15 12:42:54.889
+293,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093427248404,-0.9322758836660856,2019-10-15 12:42:43.158
+294,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460919897760576,-0.9322686781614524,2019-10-15 12:42:38.048
+295,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091820555282,-0.9322620014717536,2019-10-15 12:42:29.825
+296,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460920661184645,-0.9322746843362634,2019-10-15 12:42:18.393
+297,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460935490176645,-0.9322632180777678,2019-10-15 12:42:07.784
+298,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460915885891595,-0.9322352649020684,2019-10-15 12:41:59.746
+299,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460862772962265,-0.9322002519501214,2019-10-15 12:41:44.602
+300,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093105414639,-0.9322697812415162,2019-10-15 12:41:36.574
+301,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092297066012,-0.9322705918253285,2019-10-15 12:41:28.968
+302,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46075468021298,-0.9322150192274932,2019-10-15 12:41:19.735
+303,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460908440758736,-0.932264799707489,2019-10-15 12:41:05.515
+304,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090647810109,-0.9322567251823092,2019-10-15 12:40:52.556
+305,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609229229825,-0.93227873217595,2019-10-15 12:40:44.328
+306,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085157033386,-0.9322178853109852,2019-10-15 12:40:39.418
+307,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460922812355115,-0.9322653470475654,2019-10-15 12:40:27.291
+308,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091011004923,-0.9322663311890508,2019-10-15 12:40:17.360
+309,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092306529449,-0.9322669489176812,2019-10-15 12:40:06.032
+310,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460907217411055,-0.9322463827431152,2019-10-15 12:39:52.786
+311,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609085333674,-0.9322512633442992,2019-10-15 12:39:45.469
+312,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46084620879384,-0.932224270924888,2019-10-15 12:39:31.726
+313,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460930918589085,-0.9322715065636084,2019-10-15 12:39:25.212
+314,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093291579723,-0.9322749417702152,2019-10-15 12:39:17.492
+315,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093016511292,-0.9322749599999336,2019-10-15 12:39:09.973
+316,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092631603148,-0.9322683860346658,2019-10-15 12:38:56.542
+317,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092848527528,-0.9322676689659514,2019-10-15 12:38:44.811
+318,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093785991112,-0.9322737694807391,2019-10-15 12:38:34.586
+319,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460918442031726,-0.9322829990641588,2019-10-15 12:38:26.557
+320,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609358273333,-0.932273706034034,2019-10-15 12:38:15.027
+321,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46085451083115,-0.932217531729298,2019-10-15 12:38:00.386
+322,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460935205772955,-0.9322822115680393,2019-10-15 12:37:56.284
+323,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460935731590176,-0.9322815869083884,2019-10-15 12:37:48.252
+324,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093785991112,-0.9322737694807391,2019-10-15 12:37:39.531
+325,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093147410208,-0.9322678815502684,2019-10-15 12:37:25.195
+326,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090425608724,-0.9322430609428456,2019-10-15 12:37:12.858
+327,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460750516971245,-0.9322818966750576,2019-10-15 12:37:09.248
+328,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46075401251348,-0.9322788195538884,2019-10-15 12:36:54.909
+329,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093279736897,-0.9322766090358277,2019-10-15 12:36:48.491
+330,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091712243624,-0.9322547150962056,2019-10-15 12:36:35.956
+331,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093440057792,-0.932270991161478,2019-10-15 12:36:27.025
+332,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460940092033184,-0.9322656796722016,2019-10-15 12:36:19.004
+333,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460929175114735,-0.9322683484454564,2019-10-15 12:36:08.626
+334,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609242620437,-0.9322524366822412,2019-10-15 12:35:57.649
+335,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921166050575,-0.9322642401226872,2019-10-15 12:35:49.729
+336,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46070604826341,-0.9323361235019269,2019-10-15 12:35:39.998
+337,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46089010052402,-0.93223610678603,2019-10-15 12:35:21.352
+338,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921416990715,-0.9322694795424052,2019-10-15 12:35:18.744
+339,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460939315401454,-0.9322671640515924,2019-10-15 12:35:06.519
+340,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609170761505,-0.9322580932772228,2019-10-15 12:34:55.391
+341,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093879431834,-0.9322758748170438,2019-10-15 12:34:41.750
+342,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460880238455886,-0.9322436823249473,2019-10-15 12:34:36.433
+343,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093757308739,-0.9322629866973972,2019-10-15 12:34:22.696
+344,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46086749785271,-0.9322171043419448,2019-10-15 12:34:18.587
+345,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609200665237,-0.9322873211460883,2019-10-15 12:34:06.951
+346,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091046651413,-0.9322522261091192,2019-10-15 12:33:52.117
+347,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46087902307033,-0.9322867820749884,2019-10-15 12:33:40.383
+348,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091993133822,-0.932260453808138,2019-10-15 12:33:39.581
+349,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091419680493,-0.9322557127737612,2019-10-15 12:33:28.652
+350,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091935659949,-0.9322630235030348,2019-10-15 12:33:15.518
+351,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460916311195895,-0.93226073191387,2019-10-15 12:33:07.196
+352,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609064781011,-0.9322567251823094,2019-10-15 12:32:51.755
+353,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46086100609924,-0.9322178965998954,2019-10-15 12:32:49.350
+354,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092149963753,-0.9322400396600226,2019-10-15 12:32:36.214
+355,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091145505716,-0.9322536657279296,2019-10-15 12:32:29.490
+356,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46089761673994,-0.9322420051790896,2019-10-15 12:32:17.672
+357,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092962168254,-0.9322682172879544,2019-10-15 12:32:07.845
+358,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460920662960206,-0.9322399646418043,2019-10-15 12:31:57.702
+359,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460918505138245,-0.9322640304980888,2019-10-15 12:31:48.380
+360,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460929762072816,-0.9322513048352704,2019-10-15 12:31:39.054
+361,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460915017465055,-0.932265470415906,2019-10-15 12:31:28.220
+362,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090009669823,-0.9322619607742844,2019-10-15 12:31:12.978
+363,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094572307641,-0.9322554921098082,2019-10-15 12:31:09.869
+364,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092970981064,-0.932259753158313,2019-10-15 12:30:56.526
+365,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609181180475,-0.9322882483603218,2019-10-15 12:30:46.401
+366,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094868892104,-0.932277712625776,2019-10-15 12:30:34.569
+367,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091837271782,-0.9322647587277936,2019-10-15 12:30:23.036
+368,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095835973596,-0.9322740923254854,2019-10-15 12:30:17.432
+369,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46089670331329,-0.9322415547084882,2019-10-15 12:30:02.892
+370,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091562682194,-0.9322536189204292,2019-10-15 12:29:59.375
+371,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460737495249816,-0.9322818288056034,2019-10-15 12:29:46.235
+372,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460950836655904,-0.9322689090386002,2019-10-15 12:29:35.911
+373,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093240922632,-0.9322690791707828,2019-10-15 12:29:27.382
+374,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460905634038255,-0.9322486334930344,2019-10-15 12:29:15.346
+375,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46088679296094,-0.932190083549211,2019-10-15 12:29:03.223
+376,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095236381088,-0.9322690930109212,2019-10-15 12:28:53.288
+377,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46092860348951,-0.9322478177093259,2019-10-15 12:28:43.561
+378,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094434878084,-0.932276203373305,2019-10-15 12:28:38.855
+379,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093036450911,-0.9322708786187957,2019-10-15 12:28:29.727
+380,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46088526425668,-0.9322349132076356,2019-10-15 12:28:18.994
+381,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093375420877,-0.9322762252012216,2019-10-15 12:28:09.374
+382,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460928621159326,-0.9322550614003184,2019-10-15 12:27:58.445
+383,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095073063426,-0.9322919603189656,2019-10-15 12:27:45.007
+384,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46088203341113,-0.9321893827611156,2019-10-15 12:27:32.976
+385,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460933669815006,-0.9322693859863131,2019-10-15 12:27:28.063
+386,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46091888829937,-0.93225925681075,2019-10-15 12:27:05.817
+387,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093814792512,-0.9322592944339404,2019-10-15 12:26:58.789
+388,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46082816680496,-0.9322494113892714,2019-10-15 12:26:49.368
+389,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094943934928,-0.9322817287696092,2019-10-15 12:26:38.039
+390,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093690362178,-0.932272632608768,2019-10-15 12:26:28.718
+391,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460945927388,-0.9322808062060602,2019-10-15 12:26:05.645
+392,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4609429982558,-0.932279472080131,2019-10-15 12:25:49.192
+393,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093977126248,-0.9322804873739577,2019-10-15 12:25:33.762
+394,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093489148157,-0.9322676611020256,2019-10-15 12:25:23.524
+395,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46082173196172,-0.9322331368063812,2019-10-15 12:25:09.085
+396,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46094406288803,-0.9322850491127426,2019-10-15 12:24:56.558
+397,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460921389317086,-0.932279788431579,2019-10-15 12:24:49.843
+398,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095075065753,-0.932282995004591,2019-10-15 12:24:34.298
+399,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093477342934,-0.9322872177437622,2019-10-15 12:24:13.440
+400,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093344966882,-0.932263935660902,2019-10-15 12:23:56.195
+401,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460850371652576,-0.9322649549581694,2019-10-15 12:23:47.569
+402,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46093282682795,-0.9322917967407952,2019-10-15 12:23:34.133
+403,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46095084016721,-0.932285317124038,2019-10-15 12:23:29.622
+404,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46090875889284,-0.932266890347662,2019-10-15 12:22:09.505
+405,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46096026551892,-0.932293030493666,2019-10-15 12:21:05.440
+406,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460949697854566,-0.9322864827302932,2019-10-15 12:20:57.406
+407,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460904724082816,-0.932289237786728,2019-10-15 12:20:01.165
+408,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 12:19:28.683
+409,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46036754,-0.93271575,2019-10-15 14:30:41.439
+410,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:35:04.137
+411,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:32:01.550
+412,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:31:40.594
+413,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:31:30.868
+414,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 14:31:26.253
+415,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 14:30:33.212
+416,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 14:30:22.584
+417,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045847782322,-0.9330749165527557,2019-10-15 14:30:12.655
+418,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46038691389938,-0.932470304938864,2019-10-15 14:30:03.157
+419,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 14:29:59.524
+420,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460451511204,-0.9323981737976578,2019-10-15 14:29:40.882
+421,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460436384442886,-0.9328017022086738,2019-10-15 14:29:22.325
+422,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048156641919,-0.9325641197677956,2019-10-15 14:29:19.315
+423,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46051265016354,-0.932776454085341,2019-10-15 14:29:03.285
+424,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 14:28:42.218
+425,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:28:37.001
+426,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039266450256,-0.9327466545239435,2019-10-15 14:28:22.364
+427,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460394817336045,-0.9327326596715524,2019-10-15 14:28:16.251
+428,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 14:28:04.134
+429,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46040905035993,-0.9328812773917802,2019-10-15 14:27:50.080
+430,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 14:27:41.555
+431,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460421274033486,-0.932715118440344,2019-10-15 14:27:38.845
+432,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044533685717,-0.9328560668756414,2019-10-15 14:27:28.924
+433,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039266450256,-0.9327466545239435,2019-10-15 14:27:13.077
+434,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044609774712,-0.9327376427104545,2019-10-15 14:27:03.958
+435,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 14:26:59.141
+436,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460473662763725,-0.9328525562800724,2019-10-15 14:26:47.809
+437,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044153527136,-0.9328820312272174,2019-10-15 14:26:32.369
+438,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604339578593,-0.9327345077075871,2019-10-15 14:26:26.551
+439,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042965254881,-0.9326611293096172,2019-10-15 14:26:18.734
+440,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045523638516,-0.9327192897197966,2019-10-15 14:26:06.398
+441,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460443773032885,-0.9328139760638474,2019-10-15 14:25:52.268
+442,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460410232311695,-0.9326939135725724,2019-10-15 14:25:49.460
+443,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604334457373,-0.9326779970976734,2019-10-15 14:25:33.719
+444,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049523631692,-0.932877380831044,2019-10-15 14:25:24.691
+445,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460468313370455,-0.9328627082609696,2019-10-15 14:25:16.775
+446,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460441326539176,-0.9327390060048733,2019-10-15 14:25:07.352
+447,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049808034802,-0.9328316339132025,2019-10-15 14:24:54.714
+448,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042387059638,-0.932790174929527,2019-10-15 14:24:45.191
+449,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044216405639,-0.9328658263477124,2019-10-15 14:24:38.275
+450,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047367614181,-0.9328333051748572,2019-10-15 14:24:26.345
+451,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044886272745,-0.9328971382910352,2019-10-15 14:24:16.615
+452,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042614626353,-0.9329283544549372,2019-10-15 14:24:09.894
+453,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044354173792,-0.932726115566858,2019-10-15 14:23:57.662
+454,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042387059638,-0.932790174929527,2019-10-15 14:23:41.617
+455,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042278199469,-0.932910660577918,2019-10-15 14:23:34.801
+456,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604661224453,-0.9328409872571792,2019-10-15 14:23:24.680
+457,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044988267832,-0.932874889775133,2019-10-15 14:23:17.664
+458,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604307737677,-0.932817861200381,2019-10-15 14:23:03.035
+459,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047182729658,-0.932912033478826,2019-10-15 14:22:51.393
+460,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043769910705,-0.9329585245793118,2019-10-15 14:22:41.769
+461,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460438010384365,-0.9328553141410728,2019-10-15 14:22:32.638
+462,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460468225891525,-0.9328559988007628,2019-10-15 14:22:27.223
+463,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460419008950474,-0.932921971345352,2019-10-15 14:22:10.078
+464,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044718436546,-0.9328509520397142,2019-10-15 14:22:05.381
+465,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460473539465205,-0.9329249498383092,2019-10-15 14:21:56.944
+466,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044434905498,-0.9328445714117836,2019-10-15 14:21:47.021
+467,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044711694267,-0.932863278829242,2019-10-15 14:21:38.498
+468,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460426790562686,-0.9327620499824464,2019-10-15 14:21:28.870
+469,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046957573114,-0.9328555854602428,2019-10-15 14:21:16.641
+470,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604657597667,-0.9328531364903804,2019-10-15 14:21:08.517
+471,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046312833656,-0.932937266696536,2019-10-15 14:20:57.103
+472,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045405626669,-0.9329454485112318,2019-10-15 14:20:49.372
+473,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047063719223,-0.9327434537397856,2019-10-15 14:20:33.225
+474,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047201178007,-0.9329234447869014,2019-10-15 14:20:29.217
+475,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046756550799,-0.9327473197102724,2019-10-15 14:20:13.170
+476,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460484080417935,-0.9328640510336162,2019-10-15 14:20:03.253
+477,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044663408431,-0.932852360601425,2019-10-15 14:19:52.720
+478,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043602236792,-0.9329212673945332,2019-10-15 14:19:48.309
+479,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045296396713,-0.9328488821922296,2019-10-15 14:19:39.482
+480,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045882972695,-0.932951339257084,2019-10-15 14:19:22.036
+481,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045009655241,-0.9328334964679064,2019-10-15 14:19:16.421
+482,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047166426976,-0.9328538219795748,2019-10-15 14:19:00.365
+483,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047730143476,-0.9328529058998488,2019-10-15 14:18:54.153
+484,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046273135296,-0.932935151895464,2019-10-15 14:18:43.120
+485,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460460162087934,-0.9329434132971686,2019-10-15 14:18:33.991
+486,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043392286105,-0.9329424313387598,2019-10-15 14:18:26.975
+487,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460483673716965,-0.932868952026622,2019-10-15 14:18:18.958
+488,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046146787902,-0.9329356453963294,2019-10-15 14:18:07.827
+489,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460461741246235,-0.9329476414280554,2019-10-15 14:17:59.809
+490,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046630139871,-0.9329388708577216,2019-10-15 14:17:44.265
+491,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046615384876,-0.932933858028932,2019-10-15 14:17:38.856
+492,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044183202813,-0.9329065469635082,2019-10-15 14:17:25.119
+493,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460461741246235,-0.9329476414280554,2019-10-15 14:17:19.103
+494,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460469879504565,-0.9329263323131852,2019-10-15 14:17:01.759
+495,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604895382538,-0.9329198382978896,2019-10-15 14:16:55.944
+496,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046867595333,-0.9328618442118662,2019-10-15 14:16:46.210
+497,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460464906610845,-0.932948491052553,2019-10-15 14:16:35.381
+498,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046466201394,-0.9329398883068392,2019-10-15 14:16:29.769
+499,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046473540186,-0.9329438386452038,2019-10-15 14:16:17.332
+500,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042851952033,-0.932820206891768,2019-10-15 14:16:06.810
+501,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043070444476,-0.9328355977359633,2019-10-15 14:15:55.176
+502,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460449445902974,-0.9329526818941156,2019-10-15 14:15:41.040
+503,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046570468621,-0.9329319280367534,2019-10-15 14:15:37.827
+504,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460464906610845,-0.932948491052553,2019-10-15 14:15:27.200
+505,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046636620209,-0.9329407618759916,2019-10-15 14:15:12.468
+506,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604734677563,-0.93286009129317,2019-10-15 14:15:01.934
+507,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604880783025,-0.9328765702429892,2019-10-15 14:14:59.328
+508,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049320108258,-0.932844459297546,2019-10-15 14:14:49.101
+509,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604587587194,-0.9329436110624708,2019-10-15 14:14:38.570
+510,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460467751294736,-0.932941955603428,2019-10-15 14:14:29.852
+511,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041867388942,-0.9329273404456424,2019-10-15 14:14:18.827
+512,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043807565896,-0.9329110042057902,2019-10-15 14:14:08.695
+513,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049320108258,-0.932844459297546,2019-10-15 14:13:56.668
+514,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045664157701,-0.9329339872751412,2019-10-15 14:13:42.434
+515,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049009409767,-0.932876170535136,2019-10-15 14:13:39.515
+516,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460470319366955,-0.9328564038585628,2019-10-15 14:13:29.888
+517,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046529303204,-0.932958991603337,2019-10-15 14:13:17.152
+518,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046029342018,-0.9329555226187932,2019-10-15 14:13:09.830
+519,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045846212584,-0.932938861719155,2019-10-15 14:12:53.288
+520,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604587587194,-0.9329436110624704,2019-10-15 14:12:45.470
+521,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604657763696,-0.9329584453036128,2019-10-15 14:12:38.648
+522,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043282553562,-0.9329231422275168,2019-10-15 14:12:25.717
+523,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045846212584,-0.932938861719155,2019-10-15 14:12:14.092
+524,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046312833656,-0.932937266696536,2019-10-15 14:12:09.777
+525,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048047889767,-0.9329447863169434,2019-10-15 14:11:56.558
+526,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604850672132,-0.9329319981503083,2019-10-15 14:11:46.409
+527,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045413681673,-0.932941648421607,2019-10-15 14:11:36.986
+528,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046404477541,-0.9328591706220248,2019-10-15 14:11:23.755
+529,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604545456081,-0.9329370335514564,2019-10-15 14:11:15.231
+530,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046674607977,-0.9329549350763316,2019-10-15 14:11:08.918
+531,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604555531418,-0.9329419744936186,2019-10-15 14:10:58.490
+532,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044776563341,-0.9328529296730688,2019-10-15 14:10:40.844
+533,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047625596243,-0.932855725613203,2019-10-15 14:10:31.524
+534,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045693311893,-0.9329422921974628,2019-10-15 14:10:22.399
+535,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047558999516,-0.9329518420722824,2019-10-15 14:10:19.992
+536,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043194909291,-0.9329280989262078,2019-10-15 14:10:05.053
+537,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045696518897,-0.9329386973486264,2019-10-15 14:09:53.441
+538,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045908054526,-0.9329487644499997,2019-10-15 14:09:48.307
+539,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047357454251,-0.9327505063725112,2019-10-15 14:09:37.579
+540,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460460176239735,-0.9329405926513544,2019-10-15 14:09:29.857
+541,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604760816836,-0.9329461419881154,2019-10-15 14:09:13.214
+542,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460432160493845,-0.9329041594044896,2019-10-15 14:09:04.910
+543,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045664157701,-0.9329339872751412,2019-10-15 14:08:54.270
+544,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604317497835,-0.932916412001071,2019-10-15 14:08:49.857
+545,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045883103585,-0.9329634830570706,2019-10-15 14:08:36.314
+546,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604760816836,-0.9329461419881154,2019-10-15 14:08:29.399
+547,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048111516846,-0.9329328915975084,2019-10-15 14:08:16.765
+548,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460459147730575,-0.9329562864896098,2019-10-15 14:08:04.325
+549,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045882972695,-0.932951339257084,2019-10-15 14:07:58.310
+550,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045374058345,-0.932936794045297,2019-10-15 14:07:48.886
+551,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048092595908,-0.9329387771136434,2019-10-15 14:07:35.050
+552,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045505278904,-0.9329334579694212,2019-10-15 14:07:28.331
+553,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047564377879,-0.9329465932942096,2019-10-15 14:07:15.407
+554,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045413681672,-0.932941648421607,2019-10-15 14:07:08.588
+555,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045724988135,-0.932946823921866,2019-10-15 14:06:57.658
+556,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460461983971534,-0.932952447247123,2019-10-15 14:06:46.635
+557,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604587587194,-0.9329436110624708,2019-10-15 14:06:34.397
+558,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460502073265936,-0.932509917214546,2019-10-15 14:06:29.479
+559,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604604315895,-0.9329481942046612,2019-10-15 14:06:14.146
+560,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043998471718,-0.9328022034727308,2019-10-15 14:06:08.829
+561,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460470035340585,-0.9327555968595496,2019-10-15 14:05:53.790
+562,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460457594057885,-0.9329517478431276,2019-10-15 14:05:45.872
+563,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460478809677646,-0.9329315993411174,2019-10-15 14:05:39.954
+564,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045486578148,-0.9329551646536925,2019-10-15 14:05:26.622
+565,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044100292324,-0.932912991763797,2019-10-15 14:05:16.794
+566,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045601889833,-0.9329549092020772,2019-10-15 14:05:08.074
+567,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045724988135,-0.932946823921866,2019-10-15 14:04:53.332
+568,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604604315895,-0.9329481942046612,2019-10-15 14:04:49.328
+569,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045592353601,-0.9329468678524788,2019-10-15 14:04:37.398
+570,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604587587194,-0.9329436110624708,2019-10-15 14:04:26.466
+571,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042867367256,-0.9329212658218338,2019-10-15 14:04:18.553
+572,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045883103584,-0.9329634830570704,2019-10-15 14:04:09.219
+573,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460499657002245,-0.9327513676111602,2019-10-15 14:03:56.293
+574,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045601889833,-0.9329549092020772,2019-10-15 14:03:43.150
+575,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043569225181,-0.9329348498614388,2019-10-15 14:03:39.347
+576,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604587587194,-0.9329436110624708,2019-10-15 14:03:28.412
+577,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045374058345,-0.932936794045297,2019-10-15 14:03:16.876
+578,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604604315895,-0.9329481942046612,2019-10-15 14:03:05.747
+579,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045565335776,-0.9329502234953452,2019-10-15 14:02:52.407
+580,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045486578148,-0.9329551646536925,2019-10-15 14:02:48.801
+581,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460457696985166,-0.9329493484195504,2019-10-15 14:02:33.355
+582,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047570508208,-0.9328672060054792,2019-10-15 14:02:25.540
+583,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045601889833,-0.9329549092020772,2019-10-15 14:02:14.711
+584,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044526314831,-0.9328661007662123,2019-10-15 14:02:08.395
+585,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044832914224,-0.9329646757193472,2019-10-15 14:01:56.763
+586,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045486578148,-0.9329551646536925,2019-10-15 14:01:44.435
+587,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045584610143,-0.9329440215140112,2019-10-15 14:01:33.403
+588,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045082858398,-0.9329529394679428,2019-10-15 14:01:24.083
+589,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047611862267,-0.9328705699035852,2019-10-15 14:01:17.873
+590,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604344568803,-0.9329409010069496,2019-10-15 14:01:06.050
+591,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042025218807,-0.9328169828665956,2019-10-15 14:00:55.712
+592,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045682231944,-0.9329503338981224,2019-10-15 14:00:48.889
+593,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045486578148,-0.9329551646536925,2019-10-15 14:00:31.149
+594,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045565335776,-0.9329502234953452,2019-10-15 14:00:22.535
+595,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045641492648,-0.9329599857160799,2019-10-15 14:00:16.414
+596,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460418136493374,-0.9328331292652604,2019-10-15 14:00:04.887
+597,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045444458996,-0.9329501093330704,2019-10-15 13:59:52.553
+598,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460475186652324,-0.9329518259572483,2019-10-15 13:59:48.445
+599,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460457594057885,-0.9329517478431276,2019-10-15 13:59:36.515
+600,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046426401429,-0.9328743080960992,2019-10-15 13:59:24.586
+601,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045949133086,-0.9329616319331598,2019-10-15 13:59:12.757
+602,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045444458996,-0.9329501093330704,2019-10-15 13:59:08.739
+603,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045444458996,-0.9329501093330704,2019-10-15 13:58:58.616
+604,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045436010319,-0.932958238418372,2019-10-15 13:58:46.483
+605,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049898107972,-0.9327222548026592,2019-10-15 13:58:39.360
+606,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045543363199,-0.9329385291766504,2019-10-15 13:58:26.224
+607,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045536176871,-0.932958148149946,2019-10-15 13:58:19.508
+608,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045362091947,-0.9329497234447672,2019-10-15 13:58:07.977
+609,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045637765435,-0.9329343455085208,2019-10-15 13:57:58.651
+610,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460450875309824,-0.9329440785519932,2019-10-15 13:57:45.522
+611,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044581578136,-0.9329433668288548,2019-10-15 13:57:37.197
+612,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042974147056,-0.9329381776224804,2019-10-15 13:57:28.975
+613,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046778119408,-0.9328645030305068,2019-10-15 13:57:16.142
+614,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460477776441046,-0.9329480640525792,2019-10-15 13:57:05.927
+615,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042694839874,-0.932922051543046,2019-10-15 13:56:54.886
+616,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046486637648,-0.9329645001094105,2019-10-15 13:56:48.670
+617,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045634491673,-0.9329296694752532,2019-10-15 13:56:39.650
+618,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045461641644,-0.9329295992104232,2019-10-15 13:56:27.419
+619,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042025134922,-0.9328442408171472,2019-10-15 13:56:15.890
+620,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042818758445,-0.9329168393955736,2019-10-15 13:56:09.575
+621,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047096276096,-0.9329706283675452,2019-10-15 13:55:55.041
+622,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045044426315,-0.9329491177096112,2019-10-15 13:55:40.798
+623,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604603857764,-0.9328882693224964,2019-10-15 13:55:34.386
+624,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046969472836,-0.9329598034784902,2019-10-15 13:55:24.959
+625,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044933171631,-0.932948002895264,2019-10-15 13:55:16.037
+626,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460473331523744,-0.932852613935778,2019-10-15 13:55:06.914
+627,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045977642473,-0.9329467402388344,2019-10-15 13:54:56.289
+628,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044893299781,-0.9329442035297628,2019-10-15 13:54:48.060
+629,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045848175024,-0.932889616309499,2019-10-15 13:54:39.034
+630,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460450402068936,-0.9329614053797544,2019-10-15 13:54:26.501
+631,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460451248431845,-0.9329571145138664,2019-10-15 13:54:18.981
+632,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044899768175,-0.9328781363405036,2019-10-15 13:54:08.657
+633,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460436605754495,-0.9327984659708974,2019-10-15 13:53:56.930
+634,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045794487387,-0.932950439917962,2019-10-15 13:53:48.900
+635,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044954519573,-0.9329608475823016,2019-10-15 13:53:38.620
+636,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460444670609874,-0.9328716642147576,2019-10-15 13:53:28.144
+637,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046956024204,-0.9329517051144248,2019-10-15 13:53:19.927
+638,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045632346377,-0.9329580614835906,2019-10-15 13:53:06.707
+639,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604576695123,-0.9329425261784896,2019-10-15 13:52:56.765
+640,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049509427089,-0.9328460475809168,2019-10-15 13:52:42.428
+641,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046787981128,-0.9329540757838422,2019-10-15 13:52:38.723
+642,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046006822776,-0.9329637668207256,2019-10-15 13:52:21.771
+643,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045351023888,-0.9329617833921636,2019-10-15 13:52:13.960
+644,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460451593305535,-0.9329655470458204,2019-10-15 13:52:06.137
+645,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045889751755,-0.9329692363078554,2019-10-15 13:51:59.916
+646,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047245624316,-0.9329470857189832,2019-10-15 13:51:45.978
+647,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046810191625,-0.9329631987746568,2019-10-15 13:51:34.488
+648,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460435670195366,-0.9329529914403902,2019-10-15 13:51:29.443
+649,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604603857764,-0.9328882693224964,2019-10-15 13:51:10.189
+650,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045350843812,-0.9329775884135209,2019-10-15 13:51:04.984
+651,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604645376433,-0.932878943217215,2019-10-15 13:50:58.757
+652,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043562098664,-0.9329513869535588,2019-10-15 13:50:42.014
+653,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043800052712,-0.9329332472594976,2019-10-15 13:50:36.999
+654,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604508212377,-0.9329653409522276,2019-10-15 13:50:24.366
+655,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045961002578,-0.9329682013660646,2019-10-15 13:50:12.130
+656,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460467033438746,-0.9329742936361258,2019-10-15 13:50:07.722
+657,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604877338371,-0.9328818078436312,2019-10-15 13:49:58.698
+658,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045678487359,-0.9329725829253954,2019-10-15 13:49:48.566
+659,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047248774588,-0.9329557463654008,2019-10-15 13:49:32.429
+660,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046259824324,-0.9328987886248284,2019-10-15 13:49:27.814
+661,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460458611435136,-0.9329651204590828,2019-10-15 13:49:11.169
+662,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045913470508,-0.932960970827073,2019-10-15 13:49:05.654
+663,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045632346377,-0.9329580614835906,2019-10-15 13:48:55.738
+664,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045614405216,-0.9329735036849082,2019-10-15 13:48:43.597
+665,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045834915223,-0.9329613470123403,2019-10-15 13:48:33.173
+666,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460446416257646,-0.9328865282600108,2019-10-15 13:48:29.654
+667,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045678487359,-0.9329725829253954,2019-10-15 13:48:19.827
+668,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460464320859685,-0.9328897487810764,2019-10-15 13:48:03.700
+669,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460435279102825,-0.9329273784550192,2019-10-15 13:47:57.676
+670,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460453620919466,-0.9329497234447672,2019-10-15 13:47:49.454
+671,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460472962599354,-0.9329506785035696,2019-10-15 13:47:39.926
+672,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045647165462,-0.9329687169717736,2019-10-15 13:47:29.698
+673,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045834915223,-0.9329613470123403,2019-10-15 13:47:18.463
+674,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045961002578,-0.9329682013660646,2019-10-15 13:47:08.340
+675,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045977462397,-0.9329625452601916,2019-10-15 13:46:59.523
+676,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460458611435136,-0.9329651204590828,2019-10-15 13:46:47.689
+677,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045469819408,-0.9329657011914962,2019-10-15 13:46:39.370
+678,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045469819408,-0.9329657011914962,2019-10-15 13:46:22.226
+679,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460469575731125,-0.9328555854602426,2019-10-15 13:46:17.632
+680,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045502555759,-0.932954057111802,2019-10-15 13:46:00.868
+681,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460457692636034,-0.932975576667132,2019-10-15 13:45:59.365
+682,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044543559845,-0.9328842870878143,2019-10-15 13:45:47.638
+683,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045158205361,-0.9328894983457302,2019-10-15 13:45:38.109
+684,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604605184635,-0.9329710041282387,2019-10-15 13:45:29.491
+685,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046107062024,-0.932947401121507,2019-10-15 13:45:13.451
+686,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048635646889,-0.93286647280991,2019-10-15 13:45:00.421
+687,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045351023888,-0.9329617833921636,2019-10-15 13:44:54.910
+688,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045751746734,-0.9329617452892958,2019-10-15 13:44:48.504
+689,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460458611435136,-0.9329651204590828,2019-10-15 13:44:31.942
+690,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045576501951,-0.9329508782822586,2019-10-15 13:44:27.329
+691,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047159297789,-0.9328579208451518,2019-10-15 13:44:19.712
+692,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044235656396,-0.932790596913648,2019-10-15 13:44:08.088
+693,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045001865265,-0.9329578054868858,2019-10-15 13:43:58.256
+694,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047526455299,-0.9329426061994432,2019-10-15 13:43:49.434
+695,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604641786635,-0.9329482393162072,2019-10-15 13:43:30.985
+696,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047573902393,-0.9329372982647766,2019-10-15 13:43:28.784
+697,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045210801384,-0.9329450557448208,2019-10-15 13:43:15.141
+698,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046184102926,-0.932874686077304,2019-10-15 13:43:06.517
+699,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460476205180086,-0.9329359604245306,2019-10-15 13:42:58.698
+700,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045176896382,-0.9329413543276524,2019-10-15 13:42:40.056
+701,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604629564677,-0.9329720583390257,2019-10-15 13:42:33.944
+702,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043211580767,-0.932819671643716,2019-10-15 13:42:23.613
+703,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460408811139374,-0.9326171532917356,2019-10-15 13:42:16.991
+704,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460476798043565,-0.9328509838815694,2019-10-15 13:42:08.476
+705,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045724988135,-0.932946823921866,2019-10-15 13:41:55.339
+706,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044433725704,-0.9328106681629796,2019-10-15 13:41:45.304
+707,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048565763842,-0.9328792875232133,2019-10-15 13:41:33.805
+708,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046105272801,-0.932979592155228,2019-10-15 13:41:26.358
+709,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045592353602,-0.9329468678524788,2019-10-15 13:41:01.603
+710,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045724988135,-0.932946823921866,2019-10-15 13:40:55.072
+711,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047280975191,-0.932856737544646,2019-10-15 13:40:48.267
+712,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460478213526265,-0.9329426778694436,2019-10-15 13:40:37.527
+713,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045759405788,-0.9329517478431278,2019-10-15 13:40:28.705
+714,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460477279656914,-0.9328733285489192,2019-10-15 13:40:17.577
+715,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042773282485,-0.9329158877834316,2019-10-15 13:40:09.253
+716,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043496237581,-0.932937184561303,2019-10-15 13:39:59.531
+717,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046893260781,-0.9328756718306545,2019-10-15 13:39:45.096
+718,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460450875309824,-0.9329440785519932,2019-10-15 13:39:39.588
+719,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460453128974194,-0.9329776856099428,2019-10-15 13:39:27.455
+720,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460470723953,-0.9329495235207478,2019-10-15 13:39:18.835
+721,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460453740583446,-0.9329367940452968,2019-10-15 13:39:08.111
+722,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045405626669,-0.932945448511232,2019-10-15 13:38:57.780
+723,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460476042000806,-0.9328788515350308,2019-10-15 13:38:48.256
+724,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604755319884,-0.9329575029873798,2019-10-15 13:38:37.329
+725,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047373067566,-0.9328528913136912,2019-10-15 13:38:27.311
+726,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047654907946,-0.9328740714044846,2019-10-15 13:38:19.885
+727,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046995427593,-0.932888271521801,2019-10-15 13:38:09.062
+728,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043698315644,-0.933035131632274,2019-10-15 13:37:58.534
+729,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045008919727,-0.9329478212176738,2019-10-15 13:37:46.102
+730,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047441284191,-0.9328742757886076,2019-10-15 13:37:27.849
+731,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044003053696,-0.9329797575426646,2019-10-15 13:37:19.829
+732,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041679288073,-0.9328725326238237,2019-10-15 13:37:08.103
+733,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460420485232646,-0.932836752261781,2019-10-15 13:36:38.126
+734,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460452200209886,-0.9329665791731894,2019-10-15 13:36:28.301
+735,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460437041442646,-0.9329282412017436,2019-10-15 13:36:19.389
+736,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043861438846,-0.9329737579891594,2019-10-15 13:36:04.843
+737,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044978826658,-0.9329615235792236,2019-10-15 13:35:42.581
+738,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460430792680974,-0.9329333784182952,2019-10-15 13:35:34.765
+739,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604456525679,-0.9329589008532138,2019-10-15 13:35:28.647
+740,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048923068791,-0.9329265887721216,2019-10-15 13:35:15.011
+741,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044918429168,-0.9329649039905126,2019-10-15 13:35:05.494
+742,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460456930998085,-0.9329933501220375,2019-10-15 13:34:57.267
+743,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460448856839534,-0.9329471574553032,2019-10-15 13:34:37.517
+744,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460489563777806,-0.932903852602677,2019-10-15 13:34:23.074
+745,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604278827313,-0.9330118198700296,2019-10-15 13:34:08.867
+746,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043130669448,-0.9329880528087922,2019-10-15 13:33:57.308
+747,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042683813171,-0.9330196384189394,2019-10-15 13:33:40.464
+748,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460437396992006,-0.932979517579222,2019-10-15 13:33:28.530
+749,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049175842863,-0.9330183351717108,2019-10-15 13:32:55.340
+750,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043367483094,-0.9330088534673526,2019-10-15 13:32:36.798
+751,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460441682604014,-0.932846554936997,2019-10-15 13:32:26.764
+752,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460429273794766,-0.933027852831786,2019-10-15 13:32:11.230
+753,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460419168371445,-0.9330233044505414,2019-10-15 13:31:48.058
+754,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042516036527,-0.9330576691240176,2019-10-15 13:31:33.322
+755,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604336608838,-0.9327012071949056,2019-10-15 13:31:19.284
+756,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043123222428,-0.933036542585699,2019-10-15 13:31:01.130
+757,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460422666078216,-0.9330336357197864,2019-10-15 13:30:57.721
+758,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043560067864,-0.9329960083362921,2019-10-15 13:30:43.585
+759,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:27:17.536
+760,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:26:18.990
+761,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:25:55.610
+762,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042387787004,-0.9328950216858056,2019-10-15 12:25:10.288
+763,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604493878049,-0.9329751807761606,2019-10-15 12:24:27.078
+764,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:24:07.632
+765,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604493878049,-0.9329751807761606,2019-10-15 12:23:15.387
+766,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:23:09.367
+767,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46040229159123,-0.932869774208999,2019-10-15 12:22:56.741
+768,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:22:42.295
+769,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039467624631,-0.9327190838684066,2019-10-15 12:22:39.991
+770,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460463801076834,-0.9329625017459424,2019-10-15 12:22:25.951
+771,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460449688698,-0.932919999750876,2019-10-15 12:22:12.011
+772,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045098799869,-0.9325360944937408,2019-10-15 12:21:54.172
+773,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:21:43.442
+774,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:21:37.522
+775,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039467791008,-0.9327647799554056,2019-10-15 12:21:23.982
+776,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:21:16.063
+777,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048707660237,-0.9327865485748864,2019-10-15 12:20:48.772
+778,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043072197008,-0.9329673927386496,2019-10-15 12:20:33.041
+779,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604192152195,-0.9326684211216164,2019-10-15 12:20:29.029
+780,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046844279231,-0.9328382538607024,2019-10-15 12:20:10.377
+781,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042030776411,-0.9329319033457028,2019-10-15 12:19:52.241
+782,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460454119954406,-0.9329684872607226,2019-10-15 12:19:46.126
+783,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041183556251,-0.9328394944735972,2019-10-15 12:19:36.403
+784,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043562800092,-0.9329588983812132,2019-10-15 12:19:17.150
+785,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042323413127,-0.9329221838182966,2019-10-15 12:19:02.631
+786,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047957483821,-0.9327476517054376,2019-10-15 12:18:54.600
+787,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46040107897472,-0.9327756224418818,2019-10-15 12:18:44.072
+788,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043948757461,-0.9329549384279576,2019-10-15 12:18:36.252
+789,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043407091433,-0.9329530455418702,2019-10-15 12:18:29.134
+790,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460454885776635,-0.9328568529603414,2019-10-15 12:18:13.596
+791,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460441519105785,-0.9328775445803644,2019-10-15 12:18:07.376
+792,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460447354168814,-0.9328533265564292,2019-10-15 12:17:59.656
+793,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044142310361,-0.9329266872077232,2019-10-15 12:17:44.421
+794,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042174073163,-0.9329654386767328,2019-10-15 12:17:37.502
+795,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604535839191,-0.9328656040175454,2019-10-15 12:17:20.652
+796,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043989053668,-0.9329392592717748,2019-10-15 12:17:19.851
+797,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460436303023286,-0.9328813960052548,2019-10-15 12:17:04.010
+798,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045192282172,-0.9328885676581988,2019-10-15 12:16:52.588
+799,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041482353688,-0.9329143668242366,2019-10-15 12:16:49.271
+800,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044316847942,-0.9329111788708154,2019-10-15 12:16:37.936
+801,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460451002232,-0.9329814725831184,2019-10-15 12:16:27.510
+802,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045631927496,-0.932964575555136,2019-10-15 12:16:15.979
+803,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045796926103,-0.9324914538720296,2019-10-15 12:16:06.064
+804,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043344893479,-0.9329663946168186,2019-10-15 12:15:59.229
+805,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043929473628,-0.9329350307918362,2019-10-15 12:15:41.581
+806,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048297948665,-0.932902375277394,2019-10-15 12:15:36.768
+807,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460464957546634,-0.9329768532371424,2019-10-15 12:15:27.944
+808,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460438426022925,-0.932945771787201,2019-10-15 12:15:12.803
+809,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460461513013,-0.9329646198772372,2019-10-15 12:15:09.395
+810,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044943200807,-0.9329730905131186,2019-10-15 12:14:54.368
+811,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460455925508086,-0.9328614164369968,2019-10-15 12:14:42.933
+812,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045836715477,-0.9329628080630276,2019-10-15 12:14:36.208
+813,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044537789455,-0.9329841772590484,2019-10-15 12:14:22.674
+814,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048962790138,-0.9328738815033047,2019-10-15 12:14:18.963
+815,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043912521298,-0.9329107523378392,2019-10-15 12:14:04.128
+816,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46049069446702,-0.9329443508384746,2019-10-15 12:13:56.308
+817,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460437333631845,-0.932949758095612,2019-10-15 12:13:44.974
+818,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460454860136736,-0.932975100737091,2019-10-15 12:13:37.753
+819,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604346967366,-0.9328665467266,2019-10-15 12:13:26.131
+820,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045455999853,-0.9329159195082416,2019-10-15 12:13:19.605
+821,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460483562120224,-0.93274242111187,2019-10-15 12:13:07.675
+822,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604552110638,-0.9328148304210812,2019-10-15 12:12:55.635
+823,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460421640493344,-0.9329738507379834,2019-10-15 12:12:45.008
+824,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046884194952,-0.932842485409816,2019-10-15 12:12:30.863
+825,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460447005844735,-0.9329764948176938,2019-10-15 12:12:28.858
+826,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044754784919,-0.9329683493888316,2019-10-15 12:12:15.234
+827,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460426676719656,-0.9329612585968676,2019-10-15 12:12:05.095
+828,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046464602708,-0.9328211391630316,2019-10-15 12:11:59.171
+829,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045982568295,-0.932979590815448,2019-10-15 12:11:49.450
+830,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046241540759,-0.9329851654636248,2019-10-15 12:11:34.212
+831,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044952409283,-0.9329758714569962,2019-10-15 12:11:26.996
+832,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043756635353,-0.9329072605382892,2019-10-15 12:11:17.469
+833,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043199088301,-0.9329635252124912,2019-10-15 12:11:09.644
+834,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046467520286,-0.9329573504288132,2019-10-15 12:10:58.012
+835,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460454119954406,-0.9329684872607226,2019-10-15 12:10:43.983
+836,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045978177449,-0.932887481613438,2019-10-15 12:10:39.669
+837,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044803419305,-0.9329974431378683,2019-10-15 12:10:28.046
+838,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044029184362,-0.9329723129957446,2019-10-15 12:10:19.521
+839,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460460833820314,-0.932986817626975,2019-10-15 12:10:06.189
+840,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604510091911,-0.9330102793307244,2019-10-15 12:09:59.676
+841,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046046157879,-0.9329888810418192,2019-10-15 12:09:40.928
+842,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044703033096,-0.9329877915395764,2019-10-15 12:09:38.219
+843,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604531989581,-0.932987233279641,2019-10-15 12:09:21.374
+844,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046214459695,-0.9329804056284116,2019-10-15 12:09:16.570
+845,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044806384486,-0.932980722558834,2019-10-15 12:09:06.747
+846,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460454119954406,-0.9329684872607226,2019-10-15 12:08:57.807
+847,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046517093543,-0.9329819609414252,2019-10-15 12:08:41.060
+848,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044098376629,-0.932954266119668,2019-10-15 12:08:34.549
+849,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044102765892,-0.9329768616365304,2019-10-15 12:08:27.722
+850,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041539058711,-0.932945910947811,2019-10-15 12:08:12.185
+851,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043252592225,-0.9329698455968136,2019-10-15 12:08:07.175
+852,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045447338327,-0.932921900453781,2019-10-15 12:07:59.147
+853,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044296612877,-0.9329831143138982,2019-10-15 12:07:49.020
+854,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460444125278585,-0.932975555336467,2019-10-15 12:07:30.772
+855,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046041156774,-0.9329747108496488,2019-10-15 12:07:27.764
+856,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046267217746,-0.9329757762091928,2019-10-15 12:07:17.233
+857,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048962790138,-0.9328738815033047,2019-10-15 12:07:09.018
+858,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460448574031886,-0.932994293672962,2019-10-15 12:06:59.187
+859,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044924067181,-0.9329971015884224,2019-10-15 12:06:40.238
+860,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046475954109,-0.93297211374913,2019-10-15 12:06:32.214
+861,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460463201621714,-0.932985775073778,2019-10-15 12:06:22.581
+862,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460447787405606,-0.9329862842237068,2019-10-15 12:06:18.269
+863,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044640019757,-0.9329972287806212,2019-10-15 12:06:06.738
+864,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044224424176,-0.9329504250141945,2019-10-15 12:05:58.712
+865,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044298648948,-0.9329707587087552,2019-10-15 12:05:40.462
+866,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604418604478,-0.9329559339444332,2019-10-15 12:05:38.957
+867,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045696132006,-0.9329834293672284,2019-10-15 12:05:22.114
+868,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047543255405,-0.9327260898785722,2019-10-15 12:05:10.990
+869,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044362891559,-0.932997352874494,2019-10-15 12:05:09.883
+870,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044509450245,-0.9329966736424096,2019-10-15 12:04:57.849
+871,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044614439344,-0.9329840599333799,2019-10-15 12:04:49.425
+872,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044299730922,-0.9330216093847048,2019-10-15 12:04:33.286
+873,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043507207519,-0.933006816106669,2019-10-15 12:04:29.572
+874,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460443917340086,-0.9329873686125688,2019-10-15 12:04:14.931
+875,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044509450245,-0.9329966736424096,2019-10-15 12:04:09.209
+876,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047543754039,-0.9329014472964174,2019-10-15 12:03:56.279
+877,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46045121399842,-0.9329900772772538,2019-10-15 12:03:49.458
+878,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044439904755,-0.9329999907737838,2019-10-15 12:03:34.115
+879,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043805562391,-0.9329704942169652,2019-10-15 12:03:29.598
+880,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042934856774,-0.933000850245276,2019-10-15 12:03:18.872
+881,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044623590566,-0.9329927370935086,2019-10-15 12:03:07.741
+882,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042089851664,-0.9329881002681572,2019-10-15 12:02:54.116
+883,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604291956093,-0.932937204026666,2019-10-15 12:02:48.784
+884,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044248911532,-0.9329603418017056,2019-10-15 12:02:34.948
+885,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46047026512423,-0.9327434596965996,2019-10-15 12:02:27.830
+886,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46044370993409,-0.9329890272472866,2019-10-15 12:02:15.393
+887,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460457942064885,-0.9330167669146144,2019-10-15 12:02:07.770
+888,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460421467816246,-0.9328683713271624,2019-10-15 12:01:57.237
+889,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046056832658,-0.9327610689652702,2019-10-15 12:01:49.618
+890,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041747728443,-0.932940980091144,2019-10-15 12:01:33.772
+891,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042871134106,-0.9330078983961096,2019-10-15 12:01:22.644
+892,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460457099352034,-0.9330075618293034,2019-10-15 12:01:15.737
+893,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460442705765765,-0.9329459694748052,2019-10-15 12:01:01.691
+894,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046545249602,-0.9328958448593396,2019-10-15 12:00:58.481
+895,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460459320997344,-0.9329733011600728,2019-10-15 12:00:46.149
+896,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041771868125,-0.9329943369006136,2019-10-15 12:00:33.917
+897,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4604385143446,-0.9329322469015106,2019-10-15 12:00:24.689
+898,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460450733718034,-0.9329860562704712,2019-10-15 12:00:12.752
+899,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46046280925175,-0.9328861960395712,2019-10-15 12:00:06.235
+900,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46042783461793,-0.9329479265167806,2019-10-15 11:59:56.313
+901,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048278457462,-0.932978336660765,2019-10-15 11:59:47.290
+902,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050242747636,-0.9324684474366802,2019-10-15 11:59:32.249
+903,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46048020309135,-0.9330559760503953,2019-10-15 11:59:24.526
+904,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460446321630826,-0.932967392140531,2019-10-15 11:59:12.587
+905,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041267371579,-0.9329404039392782,2019-10-15 11:59:01.754
+906,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46050732,-0.932584,2019-10-15 11:58:57.344
+907,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46043449046997,-0.9324261027123704,2019-10-15 11:58:49.620
+908,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460444598796,-0.932409516202342,2019-10-15 11:58:39.594
+909,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039009857712,-0.9327235551238148,2019-10-15 11:58:27.163
+910,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.460490564447966,-0.9328828261779968,2019-10-15 11:58:13.632
+911,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.4603939511495,-0.9326493142904942,2019-10-15 11:57:55.580
+912,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 11:56:52.200
+913,e4:a4:71:af:f6:0e,914,Sharon Castillo MD,Quality Assurance Specialist,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 11:55:07.519
+914,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:58:17.240
+915,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:58:05.011
+916,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:57:56.187
+917,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:57:48.871
+918,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:57:36.233
+919,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:57:20.594
+920,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:57:10.965
+921,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:57:09.061
+922,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.46041432,-0.93228554,2019-10-22 15:56:59.140
+923,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:56:47.108
+924,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:56:32.573
+925,24:46:c8:87:6a:cf,12,Rebecca Brown,Project Manager,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 15:56:29.063
+926,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:01:05.031
+927,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:55:56.111
+928,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:55:40.672
+929,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:55:36.669
+930,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:55:14.416
+931,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:54:45.647
+932,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:54:28.101
+933,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:54:13.964
+934,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:53:50.211
+935,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:53:41.589
+936,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-14 11:53:30.663
+937,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:53:21.044
+938,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:52:59.490
+939,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:52:41.952
+940,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:52:05.264
+941,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:51:52.337
+942,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:51:35.899
+943,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:51:23.871
+944,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:51:16.654
+945,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:50:58.910
+946,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:50:40.770
+947,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:50:06.796
+948,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:49:29.697
+949,80:58:f8:54:dc:fc,24,Aaron Miller,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:48:00.380
+950,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:42:01.019
+951,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:36:04.306
+952,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:33:03.664
+953,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:32:28.378
+954,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:30:34.220
+955,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:30:01.348
+956,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46036059769042,-0.9324708240753122,2019-10-14 09:29:44.508
+957,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46032705,-0.93232622,2019-10-14 09:29:33.683
+958,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.4604493122337,-0.9327159082003657,2019-10-14 09:29:13.542
+959,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:28:37.251
+960,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46043335637409,-0.9326944085278812,2019-10-14 09:28:28.630
+961,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46044276498343,-0.9326667200616704,2019-10-14 09:28:18.604
+962,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:28:07.683
+963,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46039954321086,-0.9325609376662792,2019-10-14 09:27:51.349
+964,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.4604493122337,-0.9327159082003657,2019-10-14 09:27:49.745
+965,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:27:35.011
+966,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.4604493122337,-0.9327159082003657,2019-10-14 09:27:19.370
+967,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.4604493122337,-0.9327159082003657,2019-10-14 09:27:01.936
+968,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:26:51.608
+969,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46044276498343,-0.9326667200616704,2019-10-14 09:26:28.262
+970,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:26:11.214
+971,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.4604493122337,-0.9327159082003657,2019-10-14 09:26:06.300
+972,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46032705,-0.93232622,2019-10-14 09:25:52.069
+973,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46042011,-0.93261704,2019-10-14 09:25:45.756
+974,c0:8c:71:ad:91:d0,25,Grant Watson,Security Guard,1.0,employee,0,51.46036059769042,-0.9324708240753122,2019-10-14 09:25:24.998
+975,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:54:53.938
+976,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:54:45.072
+977,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:54:37.899
+978,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:54:22.749
+979,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:54:19.983
+980,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:54:03.867
+981,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:53:59.939
+982,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:53:47.560
+983,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:53:38.627
+984,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:53:29.916
+985,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:53:17.529
+986,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:53:02.898
+987,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2020-02-20 10:52:59.949
+988,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46071774,-0.93239636,2019-08-20 16:04:50.378
+989,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:04:45.050
+990,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:04:34.931
+991,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:04:29.919
+992,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:04:19.892
+993,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:04:09.765
+994,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:03:59.734
+995,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:03:49.704
+996,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:03:39.277
+997,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:03:29.249
+998,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:03:19.218
+999,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:03:09.088
+1000,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46068072529615,-0.9323933893086036,2019-08-20 16:02:59.062
+1001,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:40:03.362
+1002,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:39:56.873
+1003,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:39:47.348
+1004,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:39:37.925
+1005,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:39:28.288
+1006,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:39:14.781
+1007,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:39:07.533
+1008,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:38:54.519
+1009,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:38:49.635
+1010,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:38:35.357
+1011,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:38:25.283
+1012,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:38:16.236
+1013,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2020-02-04 15:38:04.244
+1014,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:47:06.190
+1015,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:45:07.516
+1016,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.460933766428816,-0.9323831369120444,2019-10-21 11:43:11.157
+1017,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:43:03.743
+1018,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46090345347398,-0.9323650424177832,2019-10-21 11:42:34.348
+1019,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:42:26.430
+1020,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:41:19.117
+1021,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46063655006931,-0.9322426662277266,2019-10-21 11:40:45.712
+1022,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46089828710607,-0.932364063273007,2019-10-21 11:40:20.539
+1023,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:40:16.122
+1024,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46062417392998,-0.9322538072570388,2019-10-21 11:39:45.326
+1025,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.460640466739214,-0.9322516296850452,2019-10-21 11:39:29.476
+1026,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46090033241819,-0.9323659066177457,2019-10-21 11:39:17.271
+1027,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46062417392998,-0.9322538072570388,2019-10-21 11:38:57.025
+1028,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46090033241819,-0.9323659066177457,2019-10-21 11:38:49.157
+1029,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.460933766428816,-0.9323831369120444,2019-10-21 11:38:37.020
+1030,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46089828710607,-0.932364063273007,2019-10-21 11:38:26.495
+1031,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46062417392998,-0.9322538072570388,2019-10-21 11:38:02.320
+1032,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:37:58.106
+1033,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:37:40.855
+1034,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.460640466739214,-0.9322516296850452,2019-10-21 11:37:37.343
+1035,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46090033241819,-0.9323659066177457,2019-10-21 11:37:14.574
+1036,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:37:04.742
+1037,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.4609312203816,-0.932380928782031,2019-10-21 11:36:57.421
+1038,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46090345347398,-0.9323650424177832,2019-10-21 11:36:49.194
+1039,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.4609312203816,-0.932380928782031,2019-10-21 11:36:39.471
+1040,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:36:15.391
+1041,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:36:04.614
+1042,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.4609312203816,-0.932380928782031,2019-10-21 11:35:36.173
+1043,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:34:13.321
+1044,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:08:29.011
+1045,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:08:18.791
+1046,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:08:08.456
+1047,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:07:58.431
+1048,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:07:48.399
+1049,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:07:38.367
+1050,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:07:28.335
+1051,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:07:18.208
+1052,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:07:07.780
+1053,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:06:57.748
+1054,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:06:47.718
+1055,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:06:37.688
+1056,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-07 09:06:27.661
+1057,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:48:16.535
+1058,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:47:58.195
+1059,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:47:45.584
+1060,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:45:52.333
+1061,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:45:29.663
+1062,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:45:00.477
+1063,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:44:30.602
+1064,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:43:39.953
+1065,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:43:14.377
+1066,80:58:f8:b5:67:be,92,Daniel Kirk,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:41:03.223
+1067,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46061080234655,-0.93236283566854,2019-10-24 10:48:45.651
+1068,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46061080234655,-0.93236283566854,2019-10-24 10:48:35.531
+1069,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46061080234655,-0.93236283566854,2019-10-24 10:48:25.500
+1070,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46058429346149,-0.9322931856717716,2019-10-24 10:48:15.470
+1071,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46058429346149,-0.9322931856717716,2019-10-24 10:48:05.049
+1072,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46058429346149,-0.9322931856717716,2019-10-24 10:47:55.019
+1073,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46069086291608,-0.932410319867986,2019-10-24 10:47:46.694
+1074,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46058429346149,-0.9322931856717716,2019-10-24 10:47:39.876
+1075,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46069086291608,-0.932410319867986,2019-10-24 10:47:26.239
+1076,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46069086291608,-0.932410319867986,2019-10-24 10:47:16.212
+1077,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46083184,-0.93224795,2019-10-24 10:47:06.128
+1078,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46083184,-0.93224795,2019-10-24 10:46:56.055
+1079,24:46:c8:74:0d:9d,13,Karl Ortiz,Corporate Trainer,3.0,employee,0,51.46083184,-0.93224795,2019-10-24 10:46:45.933

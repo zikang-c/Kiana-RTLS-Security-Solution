@@ -1,0 +1,181 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460597535741755,-0.9323834481086832,2020-01-17 12:04:04.559
+1,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46056120262857,-0.9322882918575364,2020-01-17 12:03:58.353
+2,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46056521883362,-0.93245778416497,2020-01-17 12:03:44.613
+3,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46060399645991,-0.932288916945142,2020-01-17 12:03:38.208
+4,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46056514254597,-0.9324602968049628,2020-01-17 12:03:24.479
+5,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46058422058261,-0.932291212430343,2020-01-17 12:03:18.143
+6,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460587513391495,-0.932323940309901,2020-01-17 12:03:03.114
+7,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46044568354948,-0.932336669230914,2020-01-17 12:02:56.892
+8,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46058637563167,-0.9323203467813987,2020-01-17 12:02:43.119
+9,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46055313891984,-0.932329599957286,2020-01-17 12:02:36.668
+10,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46062904085141,-0.9324842101064872,2020-01-17 12:02:24.208
+11,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4605805865506,-0.9322862370695006,2020-01-17 12:02:17.796
+12,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46062974983454,-0.9324800710073984,2020-01-17 12:02:04.065
+13,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46055539378947,-0.9323300538379612,2020-01-17 12:01:56.345
+14,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460559321341215,-0.932322600644144,2020-01-17 12:01:42.514
+15,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46060989616469,-0.932430596525404,2020-01-17 12:01:33.894
+16,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460585896865005,-0.9323230108287444,2020-01-17 12:01:12.357
+17,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460546979771685,-0.9323130525472824,2020-01-17 12:01:05.915
+18,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46058637563167,-0.9323203467813987,2020-01-17 12:00:52.282
+19,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46054239035202,-0.9323350322468436,2020-01-17 12:00:45.673
+20,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460583173399435,-0.9323277086365804,2020-01-17 12:00:37.212
+21,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460614142228394,-0.9324042967926892,2020-01-21 16:41:23.550
+22,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460555538088094,-0.9323362002600264,2020-01-21 16:41:12.936
+23,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.460555538088094,-0.9323362002600264,2020-01-21 16:41:07.912
+24,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46069298293195,-0.9323925343207962,2020-01-21 16:40:58.702
+25,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4607711997307,-0.9323103654829992,2020-01-21 16:40:47.776
+26,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46069298293195,-0.9323925343207962,2020-01-21 16:40:38.649
+27,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46060563859,-0.932361809317304,2020-01-21 16:40:28.531
+28,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4607711997307,-0.9323103654829992,2020-01-21 16:40:17.302
+29,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4607711997307,-0.9323103654829992,2020-01-21 16:40:07.179
+30,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4607711997307,-0.9323103654829992,2020-01-21 16:39:57.053
+31,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4607711997307,-0.9323103654829992,2020-01-21 16:39:46.924
+32,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.4607711997307,-0.9323103654829992,2020-01-21 16:39:36.806
+33,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46076395690056,-0.9323126078487676,2020-01-21 16:39:26.580
+34,a4:c3:f0:a5:f0:c9,35,Dustin Greer,Mechanical Engineer,3.0,employee,0,51.46080124,-0.93237954,2020-01-21 16:39:19.353
+35,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:09:30.444
+36,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:09:03.569
+37,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:07:20.482
+38,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:06:52.816
+39,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:06:46.196
+40,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:06:38.578
+41,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:05:57.563
+42,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:05:36.308
+43,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.460867860690485,-0.9323470534489215,2019-10-18 16:05:29.687
+44,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.460867860690485,-0.9323470534489215,2019-10-18 16:04:53.892
+45,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46092724919328,-0.9323800896014788,2019-10-18 16:04:45.970
+46,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:04:23.411
+47,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:04:03.256
+48,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46064186465387,-0.932241694397827,2019-10-18 16:03:57.145
+49,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46064186465387,-0.932241694397827,2019-10-18 16:03:48.920
+50,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.460861177779854,-0.9323459640551256,2019-10-18 16:03:37.190
+51,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.460867860690485,-0.9323470534489215,2019-10-18 16:03:20.042
+52,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:02:45.050
+53,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.460867860690485,-0.9323470534489215,2019-10-18 16:02:39.136
+54,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:02:29.308
+55,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:02:15.571
+56,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:02:07.146
+57,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:01:57.918
+58,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46064186465387,-0.932241694397827,2019-10-18 16:01:15.807
+59,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:01:09.586
+60,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.460861177779854,-0.9323459640551256,2019-10-18 16:00:47.829
+61,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 16:00:34.494
+62,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 16:00:01.091
+63,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46064186465387,-0.932241694397827,2019-10-18 15:59:52.871
+64,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:59:42.845
+65,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46092724919328,-0.9323800896014788,2019-10-18 15:59:32.311
+66,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:59:16.969
+67,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:59:06.841
+68,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:58:54.310
+69,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:58:37.160
+70,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:57:45.915
+71,80:58:f8:b9:ea:3f,37,Roberta Anderson,Mechanical Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:55:10.689
+72,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.460486641745504,-0.9327977624592,2019-08-29 11:15:51.684
+73,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:15:49.580
+74,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:15:39.547
+75,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:15:29.120
+76,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:15:18.993
+77,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:15:08.965
+78,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:14:58.927
+79,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:14:48.798
+80,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:14:38.768
+81,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:14:28.338
+82,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:14:18.307
+83,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:14:08.180
+84,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46045512103313,-0.9329010890204223,2019-08-29 11:13:58.144
+85,f0:d7:aa:74:81:6c,14,Angela Gomez,Chief Financial Officer,3.0,employee,2,51.46050376,-0.93231244,2019-08-29 11:13:49.919
+86,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46076657127673,-0.9322267422879116,2020-01-17 08:37:00.030
+87,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46076657127673,-0.9322267422879116,2020-01-17 08:36:44.986
+88,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 08:36:31.247
+89,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 08:36:16.141
+90,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46076657127673,-0.9322267422879116,2020-01-17 08:36:09.806
+91,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 08:35:54.748
+92,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 08:35:46.028
+93,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 08:35:39.710
+94,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 08:35:24.590
+95,60:1d:91:81:0f:3e,10,Amanda Gutierrez,Marketing Specialist,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 08:35:10.950
+96,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 16:40:11.994
+97,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:40:00.652
+98,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:39:55.542
+99,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 16:39:46.910
+100,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:39:39.985
+101,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:39:29.850
+102,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:39:14.199
+103,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:39:04.064
+104,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 16:38:56.242
+105,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 16:38:46.210
+106,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 16:38:36.174
+107,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46043811555307,-0.9328054225649836,2019-11-11 16:38:28.153
+108,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 16:38:15.710
+109,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46037236960552,-0.9329575012703978,2019-11-04 17:18:20.201
+110,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:18:17.892
+111,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:18:07.768
+112,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:17:57.739
+113,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:17:47.312
+114,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:17:37.279
+115,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:17:27.246
+116,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:17:17.117
+117,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:17:07.087
+118,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:16:57.059
+119,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:16:46.631
+120,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:16:36.504
+121,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.46042901533196,-0.932914121018425,2019-11-04 17:16:26.475
+122,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:28:01.304
+123,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:27:56.287
+124,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:27:45.862
+125,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:27:35.830
+126,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:27:25.799
+127,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:27:15.672
+128,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:27:05.637
+129,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:26:55.607
+130,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:26:45.080
+131,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:26:34.955
+132,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:26:29.942
+133,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:26:19.906
+134,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,0,51.460375689744815,-0.9328192011120076,2019-11-11 14:26:09.175
+135,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:28:17.626
+136,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:28:07.193
+137,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:27:57.055
+138,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:27:47.029
+139,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:27:36.994
+140,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:27:26.964
+141,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:27:16.933
+142,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:27:06.512
+143,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:26:56.466
+144,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:26:46.437
+145,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:26:36.314
+146,88:b4:a6:f3:c9:0b,51,Debra Flores,Marketing Specialist,1.0,employee,2,51.4606371,-0.93246087,2019-11-04 13:26:26.280
+147,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:24:59.527
+148,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:22:47.907
+149,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46077326638727,-0.9322286386851842,2019-10-14 11:22:35.074
+150,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46077326638727,-0.9322286386851842,2019-10-14 11:21:44.954
+151,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:20:50.722
+152,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46075811797673,-0.932249824173671,2019-10-14 11:20:00.097
+153,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46074818918535,-0.932252298882474,2019-10-14 11:19:52.079
+154,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46077326638727,-0.9322286386851842,2019-10-14 11:19:46.571
+155,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46077326638727,-0.9322286386851842,2019-10-14 11:18:47.435
+156,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:18:35.203
+157,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46074818918535,-0.932252298882474,2019-10-14 11:18:16.656
+158,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:18:07.158
+159,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46075811797673,-0.932249824173671,2019-10-14 11:17:39.560
+160,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46074818918535,-0.932252298882474,2019-10-14 11:17:22.724
+161,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46077326638727,-0.9322286386851842,2019-10-14 11:17:17.311
+162,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:17:07.786
+163,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46075811797673,-0.932249824173671,2019-10-14 11:16:40.120
+164,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:16:37.518
+165,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46075811797673,-0.932249824173671,2019-10-14 11:16:04.036
+166,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-14 11:15:55.422
+167,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:14:51.865
+168,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46077326638727,-0.9322286386851842,2019-10-14 11:14:43.647
+169,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:14:27.307
+170,80:58:f8:b7:bc:6e,24,Phillip Ibarra,Database Administrator,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:13:54.131
+171,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46076160990745,-0.9323233860837264,2020-01-17 14:27:04.409
+172,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46077600151962,-0.9322337217578596,2020-01-17 14:26:57.874
+173,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46078388334099,-0.932255940706474,2020-01-17 14:26:42.819
+174,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46081691297062,-0.932366878269585,2020-01-17 14:26:34.517
+175,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46065474,-0.93223934,2020-01-17 14:26:28.927
+176,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46077714913848,-0.9322609412973574,2020-01-17 14:25:57.970
+177,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46076160990745,-0.9323233860837264,2020-01-17 14:25:43.686
+178,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46078621,-0.93222453,2020-01-17 14:25:37.563
+179,60:1d:91:c0:2d:4e,9,Kevin Roberts,,,visitor,0,51.46078388334099,-0.932255940706474,2020-01-17 14:25:22.531

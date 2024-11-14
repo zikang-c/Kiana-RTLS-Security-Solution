@@ -1,0 +1,64 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:31:14.384
+1,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:31:09.279
+2,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:30:59.252
+3,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:30:49.130
+4,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:30:39.095
+5,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:30:28.967
+6,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:30:18.845
+7,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:30:07.916
+8,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:29:57.885
+9,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:29:47.762
+10,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:29:37.640
+11,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.4604747600756,-0.933134621644161,2019-10-23 13:29:27.606
+12,80:58:f8:27:08:70,13,Charles Gonzalez,Inventory Clerk,0.0,employee,0,51.46050376,-0.93231244,2019-10-23 13:29:19.584
+13,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:37:30.022
+14,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:35:30.890
+15,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:31:55.094
+16,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:31:24.200
+17,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:30:38.572
+18,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-18 09:30:22.125
+19,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:30:19.115
+20,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-18 09:29:44.019
+21,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:29:36.700
+22,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:29:00.700
+23,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:28:10.060
+24,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:28:06.059
+25,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:27:42.680
+26,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46087445710702,-0.9322331910970468,2019-10-18 09:27:21.118
+27,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:27:10.492
+28,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:27:06.281
+29,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46070134282135,-0.9324023936784126,2019-10-18 09:26:49.030
+30,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:26:36.592
+31,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-18 09:26:21.045
+32,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:26:10.127
+33,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:25:38.822
+34,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-18 09:25:25.179
+35,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46087445710702,-0.9322331910970468,2019-10-18 09:25:17.259
+36,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:24:40.349
+37,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46070134282135,-0.9324023936784126,2019-10-18 09:24:38.243
+38,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:24:08.263
+39,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-18 09:23:53.115
+40,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-18 09:23:46.696
+41,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-18 09:23:37.266
+42,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:23:16.607
+43,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-18 09:22:57.860
+44,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:22:44.117
+45,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46070134282135,-0.9324023936784126,2019-10-18 09:22:23.556
+46,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:21:58.789
+47,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:21:32.820
+48,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:20:54.604
+49,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:20:39.763
+50,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46070134282135,-0.9324023936784126,2019-10-18 09:18:10.232
+51,80:58:f8:08:59:42,39,Brandon Williams,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 09:15:42.813
+52,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46077256851367,-0.9323723476146922,2020-01-17 15:32:14.847
+53,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:32:01.110
+54,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46077256851367,-0.9323723476146922,2020-01-17 15:31:54.102
+55,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:31:41.061
+56,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46077256851367,-0.9323723476146922,2020-01-17 15:31:39.118
+57,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:31:25.943
+58,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:31:05.882
+59,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46083922906082,-0.9323763534290254,2020-01-17 15:30:58.367
+60,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46077256851367,-0.9323723476146922,2020-01-17 15:30:43.309
+61,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:30:36.168
+62,60:1d:91:10:95:57,11,Carl Rollins,IT Support Specialist,3.0,employee,0,51.46077256851367,-0.9323723476146922,2020-01-17 15:30:22.791

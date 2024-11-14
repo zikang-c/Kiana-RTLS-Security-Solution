@@ -1,0 +1,75 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:15:31.856
+1,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:15:14.509
+2,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:12:10.007
+3,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:11:41.635
+4,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:11:27.495
+5,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:10:56.823
+6,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:10:49.391
+7,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:10:18.023
+8,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:10:01.482
+9,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:09:53.059
+10,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:09:47.751
+11,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:09:13.951
+12,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:08:49.687
+13,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:08:33.537
+14,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:08:21.210
+15,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:08:17.504
+16,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:08:02.860
+17,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:07:59.848
+18,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:07:44.303
+19,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:07:38.298
+20,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:07:20.344
+21,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:07:14.436
+22,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:07:00.791
+23,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:06:59.588
+24,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:06:38.530
+25,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:06:05.940
+26,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:05:54.101
+27,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:05:45.171
+28,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:05:07.881
+29,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:04:56.653
+30,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:04:46.121
+31,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:04:38.299
+32,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039449793823,-0.932701926875859,2019-10-15 12:04:19.039
+33,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:03:41.341
+34,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:03:37.843
+35,f4:f5:24:3f:bc:6e,36,Kimberly Fox,Cybersecurity Analyst,2.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:01:31.069
+36,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.46065474,-0.93223934,2019-08-28 12:55:30.896
+37,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:55:26.989
+38,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:55:16.956
+39,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:55:06.828
+40,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:54:56.791
+41,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:54:46.758
+42,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:54:36.426
+43,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:54:26.308
+44,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:54:16.275
+45,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:54:06.144
+46,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:53:56.109
+47,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:53:46.079
+48,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.460923876810746,-0.9323753645879926,2019-08-28 12:53:35.746
+49,80:58:f8:d6:3e:b9,14,Rachael Stewart,Customer Service Manager,1.0,employee,0,51.46065474,-0.93223934,2019-08-28 12:53:29.533
+50,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46047673616823,-0.932652740133894,2020-01-13 11:04:02.109
+51,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46046535392456,-0.9326593080717772,2020-01-13 11:03:56.975
+52,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46046535392456,-0.9326593080717772,2020-01-13 11:03:46.750
+53,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46046535392456,-0.9326593080717772,2020-01-13 11:03:36.431
+54,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46043007305557,-0.9325293112363894,2020-01-13 11:03:20.184
+55,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46046141167404,-0.9326196343810012,2020-01-13 11:03:15.979
+56,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46043007305557,-0.9325293112363894,2020-01-13 11:03:08.273
+57,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46043007305557,-0.9325293112363894,2020-01-13 11:02:59.940
+58,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46038631584189,-0.9326078960659204,2020-01-13 11:02:48.605
+59,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46046535392456,-0.9326593080717772,2020-01-13 11:02:35.075
+60,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46038631584189,-0.9326078960659204,2020-01-13 11:02:28.455
+61,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46038631584189,-0.9326078960659204,2020-01-13 11:02:18.334
+62,60:1d:91:bb:25:09,13,Crystal Sutton,Product Manager,1.0,employee,0,51.46038631584189,-0.9326078960659204,2020-01-13 11:02:08.313
+63,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:52:14.997
+64,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46093670029083,-0.9321680151603244,2020-01-17 14:52:01.050
+65,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:51:54.925
+66,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46093670029083,-0.9321680151603244,2020-01-17 14:51:40.795
+67,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:51:39.799
+68,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46091890323426,-0.9321746986333492,2020-01-17 14:51:25.652
+69,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46091890323426,-0.9321746986333492,2020-01-17 14:51:05.408
+70,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46093670029083,-0.9321680151603244,2020-01-17 14:50:50.180
+71,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:50:44.564
+72,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:50:30.018
+73,60:1d:91:8e:d3:f6,11,Sean Romero,SEO Specialist,0.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:50:29.524

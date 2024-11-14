@@ -1,0 +1,288 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46085533,-0.93236214,2020-02-07 09:57:30.039
+1,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:57:24.660
+2,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:57:14.450
+3,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:57:07.951
+4,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:56:58.534
+5,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:56:48.668
+6,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46094269,-0.9321665,2020-02-07 09:56:39.872
+7,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:56:29.246
+8,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46085533,-0.93236214,2020-02-07 09:56:19.847
+9,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:56:09.558
+10,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:55:59.217
+11,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46087892803971,-0.9323092929247984,2020-02-07 09:55:49.221
+12,80:58:f8:fe:0b:aa,13,Kristina Wilcox,Logistics Coordinator,2.0,employee,0,51.46094269,-0.9321665,2020-02-07 09:55:38.476
+13,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:30:12.123
+14,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:29:55.677
+15,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:29:44.649
+16,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:29:35.618
+17,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:29:21.982
+18,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:29:18.774
+19,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:29:08.542
+20,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:28:54.525
+21,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:28:48.793
+22,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:28:38.665
+23,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:28:26.730
+24,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:28:10.383
+25,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:28:09.080
+26,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:27:53.936
+27,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:27:40.297
+28,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:27:39.900
+29,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:27:19.540
+30,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:27:02.497
+31,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:26:58.985
+32,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46076095954976,-0.9322472656095832,2019-10-15 08:26:47.451
+33,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:26:25.690
+34,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:19:13.830
+35,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:16:45.180
+36,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:16:20.315
+37,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:15:28.302
+38,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:15:11.455
+39,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:15:08.954
+40,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:14:49.109
+41,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:14:17.955
+42,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:14:06.612
+43,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:13:44.854
+44,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:13:39.036
+45,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:13:17.594
+46,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:13:01.948
+47,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:12:05.426
+48,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:11:52.588
+49,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:11:25.851
+50,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:11:09.695
+51,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:10:39.507
+52,80:58:f8:be:0f:f8,40,Jeremy Sanchez,Sales Associate,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:10:18.354
+53,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:55:26.150
+54,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:55:19.892
+55,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:55:04.838
+56,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:54:54.763
+57,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:54:48.061
+58,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:54:36.765
+59,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:54:24.496
+60,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:54:19.373
+61,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:54:06.724
+62,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:53:59.279
+63,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:53:49.092
+64,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46094269,-0.9321665,2020-02-24 14:53:37.468
+65,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:33:48.750
+66,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:33:37.395
+67,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:33:24.831
+68,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:33:17.492
+69,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:33:07.375
+70,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:32:51.095
+71,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:32:49.672
+72,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:32:37.234
+73,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:32:25.986
+74,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:32:18.474
+75,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:32:08.330
+76,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:31:58.254
+77,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:59:58.449
+78,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:58:23.127
+79,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-14 12:57:48.439
+80,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:57:30.297
+81,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:57:15.664
+82,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:57:08.449
+83,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:56:58.327
+84,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46091813255484,-0.9323731106088964,2019-10-14 12:56:42.084
+85,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:56:32.061
+86,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-14 12:56:27.046
+87,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:55:59.681
+88,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:55:48.753
+89,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:55:22.297
+90,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:55:11.959
+91,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:55:04.946
+92,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-14 12:54:57.624
+93,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46091813255484,-0.9323731106088964,2019-10-14 12:54:43.790
+94,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.4606402780332,-0.9322419845287676,2019-10-14 12:54:23.141
+95,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:54:16.025
+96,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-14 12:54:09.709
+97,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:53:49.263
+98,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:53:37.835
+99,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:53:28.314
+100,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.4606402780332,-0.9322419845287676,2019-10-14 12:53:19.793
+101,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:52:57.138
+102,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093516964824,-0.9323817633301544,2019-10-14 12:52:48.520
+103,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:52:34.784
+104,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:52:09.133
+105,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 12:51:59.703
+106,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.4606402780332,-0.9322419845287676,2019-10-14 12:51:38.254
+107,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 12:50:42.323
+108,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:28:17.696
+109,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:28:07.577
+110,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:27:57.551
+111,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:27:47.123
+112,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:27:37.093
+113,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:27:26.978
+114,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:27:16.951
+115,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:27:06.916
+116,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:26:56.796
+117,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:26:46.461
+118,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:26:36.338
+119,80:58:f8:9f:e3:95,67,Rebecca Ramirez,Network Administrator,0.0,employee,0,51.46078621,-0.93222453,2019-09-10 15:26:26.312
+120,f0:d7:aa:74:28:11,5,Brenda Rogers,,,visitor,0,51.46047518,-0.93284138,2019-10-08 10:22:47.505
+121,f0:d7:aa:74:28:11,5,Brenda Rogers,,,visitor,0,51.46046292561494,-0.9326790433988332,2019-10-08 10:22:37.383
+122,f0:d7:aa:74:28:11,5,Brenda Rogers,,,visitor,0,51.46044905,-0.93249523,2019-10-08 10:22:28.346
+123,f0:d7:aa:74:28:11,5,Brenda Rogers,,,visitor,0,51.46044905,-0.93249523,2019-10-08 10:22:13.197
+124,f0:d7:aa:74:28:11,5,Brenda Rogers,,,visitor,0,51.46046292561494,-0.9326790433988332,2019-10-08 10:20:51.450
+125,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:44:03.877
+126,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46043563043589,-0.932751128004912,2019-11-11 09:43:53.128
+127,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:43:48.804
+128,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46043563043589,-0.932751128004912,2019-11-11 09:43:37.869
+129,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46043563043589,-0.932751128004912,2019-11-11 09:43:27.737
+130,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46043563043589,-0.932751128004912,2019-11-11 09:43:17.207
+131,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46043563043589,-0.932751128004912,2019-11-11 09:43:06.674
+132,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46043563043589,-0.932751128004912,2019-11-11 09:42:56.534
+133,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:42:48.009
+134,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:42:37.963
+135,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:42:27.834
+136,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:42:17.801
+137,88:b4:a6:14:fb:06,13,Gary Williams,SEO Specialist,1.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 09:42:07.762
+138,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:59:14.257
+139,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:58:18.608
+140,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:55:12.326
+141,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:55:04.708
+142,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:54:47.359
+143,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:53:27.541
+144,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:53:04.482
+145,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:52:58.266
+146,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:52:33.416
+147,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:52:20.869
+148,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:51:51.394
+149,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:51:35.269
+150,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:51:20.921
+151,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:51:02.070
+152,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:50:52.039
+153,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:50:48.832
+154,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:50:39.507
+155,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:50:29.779
+156,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:50:06.426
+157,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:49:51.574
+158,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:49:48.266
+159,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:49:38.545
+160,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:49:14.985
+161,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:49:06.061
+162,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:48:56.935
+163,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:48:32.675
+164,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-15 13:48:06.706
+165,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:47:59.678
+166,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:46:19.222
+167,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:44:52.998
+168,80:58:f8:97:7a:63,31,Kristen Nguyen,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:44:00.763
+169,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:44:45.245
+170,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:43:40.465
+171,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:42:59.640
+172,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:41:37.912
+173,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:40:41.065
+174,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:40:26.627
+175,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:40:17.809
+176,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:39:39.805
+177,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:38:35.538
+178,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:38:15.582
+179,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:37:48.907
+180,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:37:21.333
+181,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:37:02.580
+182,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:36:56.164
+183,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:36:47.639
+184,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.460392988407456,-0.9325566782374916,2019-10-14 13:36:23.072
+185,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:36:19.760
+186,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:36:05.116
+187,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.460392988407456,-0.9325566782374916,2019-10-14 13:34:54.332
+188,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:34:45.601
+189,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:34:33.769
+190,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:34:21.337
+191,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:34:17.128
+192,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:34:05.993
+193,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.460392988407456,-0.9325566782374916,2019-10-14 13:33:57.876
+194,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:33:46.842
+195,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:33:32.706
+196,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:33:14.378
+197,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:33:06.035
+198,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.46039235,-0.93249525,2019-10-14 13:32:56.300
+199,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.460392988407456,-0.9325566782374916,2019-10-14 13:32:24.511
+200,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:32:11.679
+201,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:32:04.761
+202,d0:77:14:67:0d:b6,34,Ryan Stewart,Legal Assistant,0.0,employee,0,51.4603952,-0.93276948,2019-10-14 13:30:44.771
+203,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:52:10.700
+204,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:52:05.689
+205,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:51:55.655
+206,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:51:45.227
+207,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:51:35.193
+208,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:51:25.163
+209,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:51:15.041
+210,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:51:05.009
+211,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:50:59.996
+212,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:50:49.967
+213,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:50:39.541
+214,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:50:29.415
+215,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-09 13:50:19.384
+216,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:37:39.089
+217,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:37:28.962
+218,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:37:13.916
+219,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:37:03.951
+220,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:36:57.695
+221,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:36:49.995
+222,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:36:39.949
+223,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:36:27.598
+224,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:36:16.086
+225,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:36:09.911
+226,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:35:59.865
+227,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 15:35:47.558
+228,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:04:12.541
+229,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:04:07.524
+230,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:03:57.406
+231,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:03:47.369
+232,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:03:37.035
+233,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:03:26.998
+234,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:03:16.863
+235,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:03:06.831
+236,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:02:56.794
+237,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:02:46.757
+238,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:02:36.328
+239,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:02:26.294
+240,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460832113348445,-0.9322401363800846,2019-11-11 09:02:16.268
+241,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:58:12.433
+242,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:53:55.440
+243,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:52:15.702
+244,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:52:02.497
+245,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460892300611455,-0.9322179892414024,2019-10-17 14:50:57.823
+246,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:50:13.624
+247,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460892300611455,-0.9322179892414024,2019-10-17 14:49:59.892
+248,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:45.358
+249,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:34.634
+250,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:07.675
+251,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:48:44.424
+252,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:48:34.299
+253,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:48:24.078
+254,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:47:38.470
+255,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:47:18.126
+256,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:47:08.303
+257,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:46:55.286
+258,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:46:36.530
+259,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:44:32.268
+260,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:27:38.957
+261,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:27:24.724
+262,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:26:42.921
+263,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:26:06.134
+264,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460550649918126,-0.932344021033522,2019-10-17 10:25:35.876
+265,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:24:46.748
+266,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46050904909936,-0.9323665672470234,2019-10-17 10:24:35.637
+267,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.4605162343002,-0.9324931548628984,2019-10-17 10:24:06.660
+268,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46050904909936,-0.9323665672470234,2019-10-17 10:23:59.541
+269,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46055935257662,-0.9326478776031872,2019-10-17 10:23:33.479
+270,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:23:26.058
+271,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460550649918126,-0.932344021033522,2019-10-17 10:22:47.966
+272,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.460509326881386,-0.9325280686831312,2019-10-17 10:22:22.409
+273,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:22:19.400
+274,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:22:06.175
+275,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:21:53.942
+276,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:21:39.204
+277,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051793,-0.93230969,2019-10-17 10:21:16.851
+278,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:21:08.935
+279,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:20:59.506
+280,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051793,-0.93230969,2019-10-17 10:20:40.260
+281,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:20:30.734
+282,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051036,-0.93312872,2019-10-17 10:20:25.722
+283,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:20:16.100
+284,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46057790168347,-0.932465825594073,2019-10-17 10:20:05.687
+285,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46051793,-0.93230969,2019-10-17 10:19:19.673
+286,80:58:f8:ec:9e:87,84,Jennifer Stevenson,Customer Service Representative,1.0,employee,0,51.46059815,-0.93239386,2019-10-17 10:17:08.746

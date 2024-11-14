@@ -1,0 +1,184 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-14 16:47:51.535
+1,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:45:40.546
+2,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:45:07.970
+3,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:44:29.386
+4,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:44:01.123
+5,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:43:59.725
+6,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:43:43.084
+7,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:43:35.168
+8,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:43:29.755
+9,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:43:14.524
+10,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:43:04.195
+11,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:42:48.658
+12,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-14 16:42:31.721
+13,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:42:22.700
+14,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46076471952742,-0.9322395511064424,2019-10-14 16:42:16.490
+15,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46076471952742,-0.9322395511064424,2019-10-14 16:42:07.971
+16,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:41:54.053
+17,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:41:45.615
+18,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46076471952742,-0.9322395511064424,2019-10-14 16:41:18.561
+19,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-14 16:40:51.796
+20,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:40:41.773
+21,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:40:39.070
+22,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-14 16:40:23.335
+23,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:40:11.211
+24,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46076471952742,-0.9322395511064424,2019-10-14 16:40:08.403
+25,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:39:53.370
+26,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:39:41.337
+27,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-14 16:39:33.826
+28,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:39:15.585
+29,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:38:59.551
+30,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46076471952742,-0.9322395511064424,2019-10-14 16:38:44.613
+31,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46077174486342,-0.932237554468662,2019-10-14 16:38:35.599
+32,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-14 16:38:28.482
+33,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:38:12.746
+34,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:38:08.739
+35,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-14 16:37:55.610
+36,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46057648064623,-0.9323711236561047,2019-10-14 16:37:48.998
+37,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:36:24.211
+38,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:36:09.681
+39,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:33:05.084
+40,80:58:f8:7e:2c:de,41,David Rosales,Maintenance Technician,2.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:32:56.361
+41,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46045488409905,-0.933171779870504,2019-11-04 14:20:23.908
+42,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46045488409905,-0.933171779870504,2019-11-04 14:20:18.801
+43,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46045488409905,-0.933171779870504,2019-11-04 14:20:08.464
+44,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:19:56.130
+45,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46045488409905,-0.933171779870504,2019-11-04 14:19:48.311
+46,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:19:35.674
+47,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:19:25.143
+48,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46045488409905,-0.933171779870504,2019-11-04 14:19:18.116
+49,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:19:09.691
+50,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:18:54.345
+51,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:18:49.231
+52,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:18:39.101
+53,88:b4:a6:3a:b7:32,13,Kevin Rollins,Network Administrator,0.0,employee,2,51.46043688165952,-0.9327784645978556,2019-11-04 14:18:28.871
+54,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:10:26.177
+55,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:08:27.763
+56,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:07:56.279
+57,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:07:30.104
+58,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:07:24.892
+59,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:07:07.643
+60,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:06:42.278
+61,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:06:31.750
+62,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:06:13.300
+63,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:06:02.471
+64,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:05:51.040
+65,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:05:40.615
+66,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:05:34.992
+67,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:05:18.559
+68,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:05:08.825
+69,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:04:53.795
+70,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:04:45.065
+71,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:04:36.839
+72,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:04:20.911
+73,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:03:43.387
+74,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:03:14.810
+75,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:03:06.186
+76,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:02:56.366
+77,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:02:48.539
+78,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46089699208938,-0.9322131953622425,2019-10-14 14:02:39.816
+79,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:02:11.041
+80,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:01:59.902
+81,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:01:44.061
+82,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:01:34.640
+83,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:01:18.193
+84,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:01:06.465
+85,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:00:48.718
+86,80:58:f8:85:31:e3,33,Patricia Smith,Digital Marketing Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:00:25.656
+87,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:25:16.933
+88,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:25:06.900
+89,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:24:56.778
+90,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:24:46.441
+91,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:24:36.412
+92,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:24:26.378
+93,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:24:16.258
+94,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:24:06.228
+95,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:23:56.101
+96,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:23:45.762
+97,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:23:35.732
+98,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46065474,-0.93223934,2019-10-03 12:23:25.702
+99,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:26:15.554
+100,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:25:24.613
+101,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:25:08.367
+102,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:24:05.995
+103,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:22:57.812
+104,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:22:34.240
+105,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:21:50.425
+106,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:21:33.672
+107,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:21:27.356
+108,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:21:11.510
+109,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:21:08.907
+110,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:20:59.077
+111,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:20:10.446
+112,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:19:39.262
+113,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:18:32.782
+114,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:18:17.937
+115,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:18:09.506
+116,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:17:30.104
+117,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:16:46.785
+118,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:16:06.179
+119,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:15:53.036
+120,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:15:47.122
+121,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46077715803997,-0.9322274033596126,2019-10-18 15:15:32.281
+122,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46077715803997,-0.9322274033596126,2019-10-18 15:15:20.050
+123,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:15:08.013
+124,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46077715803997,-0.9322274033596126,2019-10-18 15:14:54.077
+125,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46077715803997,-0.9322274033596126,2019-10-18 15:14:48.662
+126,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:14:38.034
+127,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:14:24.506
+128,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46077715803997,-0.9322274033596126,2019-10-18 15:14:15.975
+129,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:14:07.552
+130,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:13:32.952
+131,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:13:07.185
+132,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:12:43.821
+133,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:12:39.514
+134,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:12:22.366
+135,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:12:12.141
+136,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-18 15:11:39.454
+137,80:58:f8:c9:8e:c1,51,Tamara Pierce,Financial Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 15:07:52.932
+138,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-01-17 14:19:14.630
+139,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.460889294522026,-0.9321847641896148,2020-01-17 14:19:02.410
+140,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.4607793827979,-0.9323715071562734,2020-01-17 14:18:54.889
+141,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.460889294522026,-0.9321847641896148,2020-01-17 14:18:47.277
+142,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.460920606821794,-0.9321833028192434,2020-01-17 14:18:32.134
+143,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:18:25.951
+144,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.46073156826535,-0.9323208061859652,2020-01-17 14:18:19.609
+145,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.460900420983805,-0.9321821753004188,2020-01-17 14:18:06.870
+146,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.460887637785504,-0.9321934163055572,2020-01-17 14:17:51.641
+147,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.4607793827979,-0.9323715071562734,2020-01-17 14:17:44.222
+148,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.46092511745324,-0.9321709451616826,2020-01-17 14:17:36.501
+149,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.46091210327712,-0.932188855446049,2020-01-17 14:17:21.383
+150,60:1d:91:94:24:1e,13,Dylan Adkins,Warehouse Manager,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 14:17:15.749
+151,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460373354511546,-0.9329784614273756,2019-11-11 16:58:19.499
+152,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460373354511546,-0.9329784614273756,2019-11-11 16:58:08.758
+153,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460373354511546,-0.9329784614273756,2019-11-11 16:57:58.636
+154,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460461112784834,-0.9328944198969316,2019-11-11 16:57:46.896
+155,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460461112784834,-0.9328944198969316,2019-11-11 16:57:36.865
+156,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460373354511546,-0.9329784614273756,2019-11-11 16:57:28.045
+157,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460461112784834,-0.9328944198969316,2019-11-11 16:57:00.653
+158,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.460461112784834,-0.9328944198969316,2019-11-11 16:56:55.640
+159,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.46045778779804,-0.9328839372424064,2019-11-11 16:56:45.644
+160,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.46036708139802,-0.932927701440394,2019-11-11 16:56:37.278
+161,88:b4:a6:04:46:e3,11,Bryan Moore,Content Strategist,1.0,employee,0,51.46036708139802,-0.932927701440394,2019-11-11 16:56:27.149
+162,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:23:47.786
+163,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.4604027670697,-0.9329048260074798,2019-11-01 13:23:31.639
+164,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.4604027670697,-0.9329048260074798,2019-11-01 13:23:26.625
+165,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:23:17.694
+166,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:23:07.567
+167,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.4604027670697,-0.9329048260074798,2019-11-01 13:22:55.824
+168,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.4604027670697,-0.9329048260074798,2019-11-01 13:22:45.694
+169,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.4604027670697,-0.9329048260074798,2019-11-01 13:22:35.162
+170,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:22:27.036
+171,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:22:17.009
+172,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:22:06.877
+173,88:b4:a6:e3:f0:69,12,David Cochran,Warehouse Manager,3.0,employee,0,51.46044425303873,-0.9330787849436156,2019-11-01 13:21:56.842
+174,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46082708247469,-0.9322671366712916,2019-12-03 13:55:42.499
+175,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46082708247469,-0.9322671366712916,2019-12-03 13:55:37.482
+176,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46082708247469,-0.9322671366712916,2019-12-03 13:55:27.460
+177,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46082708247469,-0.9322671366712916,2019-12-03 13:55:17.431
+178,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46082708247469,-0.9322671366712916,2019-12-03 13:55:06.700
+179,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46093752,-0.93238226,2019-12-03 13:54:59.888
+180,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46093752,-0.93238226,2019-12-03 13:54:49.860
+181,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46078621,-0.93222453,2019-12-03 13:53:50.511
+182,24:46:c8:c2:8f:0c,9,Vincent Adams,,,visitor,0,51.46078621,-0.93222453,2019-12-03 13:53:45.503

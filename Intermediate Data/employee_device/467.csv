@@ -1,0 +1,134 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:09:02.241
+1,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 15:04:14.347
+2,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:04:03.431
+3,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 15:03:36.550
+4,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:03:00.745
+5,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.460885940136215,-0.9322219675393032,2019-10-18 15:02:25.953
+6,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:51.866
+7,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:45.748
+8,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46093359934699,-0.9321725537443616,2019-10-18 15:01:36.025
+9,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 15:01:25.393
+10,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.460885940136215,-0.9322219675393032,2019-10-18 15:01:15.269
+11,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:05.145
+12,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:00:41.078
+13,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46093359934699,-0.9321725537443616,2019-10-18 15:00:26.037
+14,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.460885940136215,-0.9322219675393032,2019-10-18 15:00:15.411
+15,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 14:59:56.857
+16,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 14:59:41.818
+17,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46093359934699,-0.9321725537443616,2019-10-18 14:59:15.251
+18,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:59:02.071
+19,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:58:58.208
+20,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46093359934699,-0.9321725537443616,2019-10-18 14:58:34.441
+21,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:58:28.822
+22,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:58:10.073
+23,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 14:58:07.066
+24,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:57:49.317
+25,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:57:36.384
+26,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46093359934699,-0.9321725537443616,2019-10-18 14:57:28.362
+27,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46093359934699,-0.9321725537443616,2019-10-18 14:57:14.422
+28,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-18 14:56:53.665
+29,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:56:32.214
+30,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.460885940136215,-0.9322219675393032,2019-10-18 14:56:24.187
+31,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:55:39.969
+32,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:55:27.737
+33,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:55:09.091
+34,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:54:46.127
+35,80:58:f8:ef:d0:a6,36,Melissa Phelps,Recruitment Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:53:36.940
+36,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:29:37.944
+37,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:26:42.776
+38,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.460773319121806,-0.9322361369999014,2019-10-18 14:25:34.989
+39,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:24:13.366
+40,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:24:03.243
+41,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:23:52.809
+42,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.4607827871597,-0.93222561651066,2019-10-18 14:23:41.176
+43,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:22:56.552
+44,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:22:48.430
+45,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:22:36.195
+46,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:22:14.839
+47,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.460773319121806,-0.9322361369999014,2019-10-18 14:21:51.876
+48,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:21:49.969
+49,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:21:38.837
+50,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:20:58.731
+51,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:20:48.136
+52,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.4607827871597,-0.93222561651066,2019-10-18 14:20:38.379
+53,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:19:56.060
+54,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.460773319121806,-0.9322361369999014,2019-10-18 14:19:33.002
+55,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.4607827871597,-0.93222561651066,2019-10-18 14:19:27.487
+56,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:18:50.882
+57,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46077028144314,-0.9322370118624584,2019-10-18 14:18:47.976
+58,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46058616689829,-0.9323812868552654,2019-10-18 14:18:36.540
+59,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:18:26.819
+60,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46058616689829,-0.9323812868552654,2019-10-18 14:18:05.055
+61,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:17:52.827
+62,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46058616689829,-0.9323812868552654,2019-10-18 14:17:49.915
+63,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46058616689829,-0.9323812868552654,2019-10-18 14:17:38.683
+64,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:17:18.633
+65,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:16:51.151
+66,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:16:48.346
+67,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.4607827871597,-0.93222561651066,2019-10-18 14:16:23.882
+68,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.460773319121806,-0.9322361369999014,2019-10-18 14:16:02.027
+69,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46058616689829,-0.9323812868552654,2019-10-18 14:15:49.185
+70,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:15:29.845
+71,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:14:52.029
+72,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:14:35.786
+73,80:58:f8:5d:7b:77,38,Carolyn James,Customer Service Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:11:17.953
+74,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:44:14.926
+75,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 14:44:02.746
+76,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:43:59.878
+77,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:43:47.345
+78,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:43:31.499
+79,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:43:28.192
+80,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:43:18.561
+81,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:43:06.732
+82,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:42:59.012
+83,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.46041432,-0.93228554,2019-10-22 14:42:46.273
+84,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:42:34.938
+85,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 14:42:24.213
+86,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.460480108621525,-0.9323373162770952,2019-10-22 14:42:17.991
+87,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 14:42:08.369
+88,24:46:c8:66:40:9d,15,Virginia Hill,Office Clerk,2.0,employee,0,51.4606371,-0.93246087,2019-10-22 14:41:57.239
+89,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 10:37:49.862
+90,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:37:38.326
+91,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 10:37:29.397
+92,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 10:37:19.360
+93,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 10:37:09.353
+94,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:36:51.675
+95,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:36:46.551
+96,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:36:36.224
+97,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:36:25.986
+98,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:36:14.860
+99,24:46:c8:d6:99:6f,11,Robert Brown,Digital Marketing Manager,1.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 10:36:09.740
+100,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46042435752548,-0.9327264564694924,2019-11-06 16:42:52.076
+101,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46042435752548,-0.9327264564694924,2019-11-06 16:42:46.964
+102,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.460341365020405,-0.9330075020019946,2019-11-06 16:42:36.126
+103,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.460341365020405,-0.9330075020019946,2019-11-06 16:42:25.695
+104,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.460341365020405,-0.9330075020019946,2019-11-06 16:42:15.657
+105,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46043327196525,-0.9327470400695606,2019-11-06 16:42:05.734
+106,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.460454598615904,-0.9329003073589822,2019-11-06 16:41:58.403
+107,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46043327196525,-0.9327470400695606,2019-11-06 16:41:40.554
+108,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46043327196525,-0.9327470400695606,2019-11-06 16:41:35.538
+109,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46043327196525,-0.9327470400695606,2019-11-06 16:41:25.103
+110,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46043327196525,-0.9327470400695606,2019-11-06 16:41:15.068
+111,88:b4:a6:97:dd:8d,12,Natalie Caldwell,Warehouse Manager,1.0,employee,0,51.46043327196525,-0.9327470400695606,2019-11-06 16:41:09.957
+112,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:58:26.517
+113,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.46049167760937,-0.93310041836315,2019-11-01 14:58:19.594
+114,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:58:06.050
+115,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:57:55.924
+116,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:57:45.893
+117,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:57:35.855
+118,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.46049167760937,-0.93310041836315,2019-11-01 14:57:28.938
+119,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.46049167760937,-0.93310041836315,2019-11-01 14:57:18.905
+120,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:57:05.169
+121,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:56:55.135
+122,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:56:45.012
+123,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:56:39.990
+124,88:b4:a6:cb:b4:2f,13,Emma Aguilar,Cloud Architect,0.0,employee,0,51.4603864709987,-0.932785772498588,2019-11-01 14:56:29.859
+125,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46092383884366,-0.932173490878086,2020-01-17 15:11:00.101
+126,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46092383884366,-0.932173490878086,2020-01-17 15:10:44.959
+127,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:10:30.472
+128,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:10:15.383
+129,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46092383884366,-0.932173490878086,2020-01-17 15:09:54.332
+130,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:09:46.170
+131,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46094269,-0.9321665,2020-01-17 15:09:39.199
+132,60:1d:91:f5:ac:b4,8,Denise Brooks,,,visitor,0,51.46094269,-0.9321665,2020-01-17 15:09:24.062

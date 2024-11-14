@@ -1,0 +1,82 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:18:03.279
+1,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46037262511532,-0.932688911368712,2019-12-11 08:17:54.962
+2,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46037262511532,-0.932688911368712,2019-12-11 08:17:49.950
+3,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46037262511532,-0.932688911368712,2019-12-11 08:17:39.821
+4,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46037262511532,-0.932688911368712,2019-12-11 08:17:29.686
+5,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:17:18.041
+6,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:17:08.003
+7,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:16:57.971
+8,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:16:47.937
+9,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:16:37.908
+10,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:16:27.877
+11,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:16:17.846
+12,f4:f5:24:75:29:7e,13,Julie Chen,Customer Service Manager,1.0,employee,0,51.46051036,-0.93312872,2019-12-11 08:16:07.817
+13,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46041432,-0.93228554,2020-08-24 08:58:40.456
+14,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:58:34.418
+15,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:58:25.734
+16,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:58:14.393
+17,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:58:09.303
+18,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:57:58.649
+19,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:57:44.183
+20,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:57:35.541
+21,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:57:28.431
+22,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:57:18.384
+23,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:57:03.985
+24,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:56:58.967
+25,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46043535173495,-0.93274091156344,2020-08-24 08:56:48.962
+26,00:0c:e7:46:92:d7,14,Robin Ellison,Marketing Specialist,1.0,employee,0,51.46039550784672,-0.9326405255008052,2020-08-24 08:56:39.756
+27,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46035849,-0.9327721,2019-10-14 12:12:59.055
+28,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460454607750144,-0.9324151346830308,2019-10-14 12:12:18.361
+29,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049219,-0.93303804,2019-10-14 12:10:06.163
+30,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46043985,-0.93243722,2019-10-14 12:09:53.441
+31,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46042263572171,-0.9326126283841663,2019-10-14 12:08:08.300
+32,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46035849,-0.9327721,2019-10-14 12:07:27.503
+33,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46042011,-0.93261704,2019-10-14 12:06:56.346
+34,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049451682007,-0.9327344920756504,2019-10-14 12:06:37.090
+35,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049051,-0.93277142,2019-10-14 12:06:21.955
+36,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46042011,-0.93261704,2019-10-14 12:06:10.629
+37,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46040097452999,-0.9327718811734552,2019-10-14 12:05:34.244
+38,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46041995152956,-0.93262107201507,2019-10-14 12:05:25.926
+39,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46046915,-0.93224022,2019-10-14 12:05:13.904
+40,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.4604930067441,-0.932317308812352,2019-10-14 12:04:55.570
+41,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46048651438472,-0.9328415070404324,2019-10-14 12:04:40.018
+42,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049219,-0.93303804,2019-10-14 12:04:35.009
+43,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46041442062341,-0.9328111157073116,2019-10-14 12:04:23.892
+44,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460384671952426,-0.9326643343629214,2019-10-14 12:04:12.857
+45,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460359564365376,-0.9327779481743704,2019-10-14 12:03:58.122
+46,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.4604873192863,-0.9326920704160276,2019-10-14 12:03:45.795
+47,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46041693635989,-0.9327848734359326,2019-10-14 12:03:26.753
+48,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46043343139377,-0.9326415760190706,2019-10-14 12:03:10.059
+49,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460411878773485,-0.9326600611773636,2019-10-14 12:03:03.802
+50,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460421764644856,-0.9326043258223444,2019-10-14 12:02:50.370
+51,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46043040283735,-0.9326404581305155,2019-10-14 12:02:44.760
+52,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46040657565721,-0.9326351024544453,2019-10-14 12:02:27.720
+53,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049051,-0.93277142,2019-10-14 12:02:17.195
+54,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46042416949896,-0.9326003484665792,2019-10-14 12:01:50.229
+55,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46048634727856,-0.9327834652600174,2019-10-14 12:01:45.018
+56,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46043155695854,-0.9326458011914665,2019-10-14 12:01:38.404
+57,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049109715696,-0.9328646032067728,2019-10-14 12:01:29.681
+58,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46043465701062,-0.9326273924996384,2019-10-14 12:01:16.664
+59,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46041008682474,-0.9326850671530874,2019-10-14 12:01:03.827
+60,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460411878773485,-0.9326600611773636,2019-10-14 12:00:50.294
+61,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.4604046152373,-0.9327476646607104,2019-10-14 12:00:48.791
+62,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460430798026714,-0.9326205769257856,2019-10-14 12:00:36.865
+63,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46039084983088,-0.9327896435335677,2019-10-14 12:00:26.740
+64,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46039647554961,-0.9327748205281032,2019-10-14 12:00:12.304
+65,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460456421688406,-0.9326591406306258,2019-10-14 12:00:01.886
+66,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46040959660196,-0.932679057743073,2019-10-14 11:59:58.873
+67,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460411878773485,-0.9326600611773636,2019-10-14 11:59:46.949
+68,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460408207492016,-0.9326912788397484,2019-10-14 11:59:38.025
+69,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46048004764464,-0.9324200411315976,2019-10-14 11:59:27.200
+70,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049051,-0.93277142,2019-10-14 11:59:09.358
+71,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46042263572171,-0.9326126283841663,2019-10-14 11:58:56.524
+72,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.460436729055594,-0.9326749979020976,2019-10-14 11:58:47.806
+73,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46035849,-0.9327721,2019-10-14 11:58:30.465
+74,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46048742294284,-0.932795415250291,2019-10-14 11:58:15.429
+75,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46046915,-0.93224022,2019-10-14 11:57:51.676
+76,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049219,-0.93303804,2019-10-14 11:57:29.420
+77,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46041442062341,-0.9328111157073116,2019-10-14 11:57:16.394
+78,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46046915,-0.93224022,2019-10-14 11:54:56.075
+79,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46035849,-0.9327721,2019-10-14 11:54:39.935
+80,d0:77:14:da:0c:cb,54,Peter Callahan,Laboratory Technician,3.0,employee,0,51.46049051,-0.93277142,2019-10-14 11:53:51.713

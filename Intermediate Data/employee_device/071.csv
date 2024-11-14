@@ -1,0 +1,224 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:11:57:77,3,Brittany Sullivan,,,visitor,0,51.46033603,-0.93223681,2019-08-13 12:40:30.762
+1,80:58:f8:11:57:77,3,Brittany Sullivan,,,visitor,0,51.46050080502497,-0.9325707947096976,2019-08-13 12:40:23.840
+2,80:58:f8:11:57:77,3,Brittany Sullivan,,,visitor,0,51.46033603,-0.93223681,2019-08-13 12:40:15.718
+3,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46065474,-0.93223934,2019-10-24 09:44:32.023
+4,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:44:27.918
+5,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:44:17.888
+6,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:44:07.761
+7,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:43:57.729
+8,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:43:47.311
+9,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:43:37.279
+10,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:43:27.247
+11,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:43:17.221
+12,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:43:07.093
+13,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:42:57.067
+14,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:42:46.644
+15,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460909791691805,-0.9323692816002715,2019-10-24 09:42:36.609
+16,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:17:32.654
+17,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:17:24.031
+18,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:17:17.716
+19,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:17:05.084
+20,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:16:59.063
+21,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:16:47.938
+22,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:16:35.212
+23,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:16:29.801
+24,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:16:19.972
+25,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:16:04.731
+26,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:15:59.814
+27,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:15:49.486
+28,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 14:15:39.858
+29,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:43:23.936
+30,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:41:51.657
+31,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460460644878296,-0.932487508615307,2019-10-22 09:41:31.211
+32,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:41:26.201
+33,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:41:16.279
+34,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:40:36.394
+35,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46072859308516,-0.932385270023762,2019-10-22 09:40:21.560
+36,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460460644878296,-0.932487508615307,2019-10-22 09:40:08.632
+37,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:39:49.288
+38,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46054205107108,-0.93245864746189,2019-10-22 09:39:31.145
+39,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:39:28.342
+40,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46053551544741,-0.932463413264041,2019-10-22 09:39:18.819
+41,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:39:09.497
+42,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46054205107108,-0.93245864746189,2019-10-22 09:38:31.468
+43,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:38:07.867
+44,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:37:54.644
+45,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:37:49.032
+46,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:37:34.603
+47,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:37:20.074
+48,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46072859308516,-0.932385270023762,2019-10-22 09:36:48.404
+49,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:36:37.883
+50,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460460644878296,-0.932487508615307,2019-10-22 09:36:10.923
+51,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460460644878296,-0.932487508615307,2019-10-22 09:36:09.320
+52,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46053551544741,-0.932463413264041,2019-10-22 09:35:14.105
+53,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:35:04.281
+54,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:34:42.537
+55,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:34:34.425
+56,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46072859308516,-0.932385270023762,2019-10-22 09:34:20.789
+57,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:33:48.721
+58,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:33:39.199
+59,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46053551544741,-0.932463413264041,2019-10-22 09:33:16.453
+60,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.460460644878296,-0.932487508615307,2019-10-22 09:32:49.493
+61,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:32:25.744
+62,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:32:04.996
+63,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46044905,-0.93249523,2019-10-22 09:31:48.351
+64,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:31:08.663
+65,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-22 09:29:46.975
+66,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:26:18.062
+67,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:26:07.930
+68,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:25:57.902
+69,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:25:47.779
+70,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:25:37.747
+71,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:25:27.413
+72,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:25:17.384
+73,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:25:07.160
+74,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:24:57.131
+75,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:24:47.103
+76,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:24:37.070
+77,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46078621,-0.93222453,2019-09-02 12:24:26.640
+78,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:27:12.926
+79,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:27:02.768
+80,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:26:53.812
+81,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:26:44.903
+82,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:26:37.156
+83,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:26:27.331
+84,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:26:19.505
+85,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:26:01.959
+86,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:25:54.180
+87,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:25:45.208
+88,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:25:37.865
+89,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46085781688841,-0.932222507286966,2020-02-20 13:25:27.724
+90,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46065474,-0.93223934,2020-02-12 13:48:12.772
+91,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:48:08.067
+92,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:47:58.901
+93,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:47:43.423
+94,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:47:37.302
+95,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:47:27.843
+96,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:47:17.142
+97,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:47:03.073
+98,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:46:54.875
+99,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:46:47.735
+100,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:46:39.136
+101,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:46:23.840
+102,80:58:f8:00:7b:9b,100,Jeffrey Hawkins,Quality Assurance Specialist,1.0,employee,0,51.46076657127672,-0.9322267422879116,2020-02-12 13:46:17.483
+103,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:58:27.126
+104,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:54:15.510
+105,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:53:28.845
+106,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:52:34.229
+107,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:52:04.228
+108,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:51:34.256
+109,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:51:24.228
+110,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:50:54.347
+111,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:50:39.913
+112,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:50:28.074
+113,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:50:18.751
+114,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:50:09.548
+115,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:49:54.985
+116,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:49:48.571
+117,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:49:38.847
+118,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:49:28.114
+119,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:49:17.993
+120,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:49:09.972
+121,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:48:57.035
+122,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:48:48.113
+123,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:48:32.079
+124,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:48:27.153
+125,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:48:19.631
+126,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:48:02.898
+127,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:47:55.571
+128,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-15 13:47:45.546
+129,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:46:16.929
+130,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 13:46:02.309
+131,80:58:f8:b6:31:1a,29,Brianna Lopez,Account Executive,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 13:45:58.965
+132,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:19:08.530
+133,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46090943442283,-0.932188445167543,2020-01-17 14:18:53.289
+134,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:18:45.998
+135,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46090943442283,-0.932188445167543,2020-01-17 14:18:33.131
+136,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:18:25.650
+137,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46090943442283,-0.932188445167543,2020-01-17 14:18:12.902
+138,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:18:05.464
+139,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46089024428696,-0.9322500524680332,2020-01-17 14:17:57.901
+140,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46090964636427,-0.93224050019338,2020-01-17 14:17:37.507
+141,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46090943442283,-0.932188445167543,2020-01-17 14:17:22.365
+142,60:1d:91:af:14:09,11,Anthony King,Forklift Operator,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:17:14.987
+143,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:04:43.532
+144,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:04:16.555
+145,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:03:57.700
+146,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:03:49.376
+147,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:03:37.841
+148,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:03:28.515
+149,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:03:19.904
+150,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:03:03.363
+151,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:02:52.917
+152,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:02:36.574
+153,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:02:27.052
+154,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:02:19.228
+155,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:02:08.403
+156,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:01:55.768
+157,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:01:45.630
+158,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:01:38.406
+159,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:01:27.071
+160,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:01:10.427
+161,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46065474,-0.93223934,2019-10-15 09:01:05.818
+162,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460927978799546,-0.9323774377764702,2019-10-15 09:00:58.890
+163,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093752,-0.93238226,2019-10-15 09:00:48.259
+164,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:51:29.131
+165,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:51:19.258
+166,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:51:06.994
+167,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:50:57.646
+168,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:50:48.290
+169,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:50:35.926
+170,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:50:26.168
+171,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:50:19.858
+172,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:50:09.873
+173,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:49:57.894
+174,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:49:46.998
+175,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093553996875,-0.932301724222164,2020-02-14 10:49:36.859
+176,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46093238260893,-0.9321733017891554,2020-02-14 10:49:27.666
+177,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46090921790195,-0.9323695605387978,2019-08-22 16:11:19.493
+178,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46090921790195,-0.9323695605387978,2019-08-22 16:11:09.466
+179,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46090921790195,-0.9323695605387978,2019-08-22 16:10:59.335
+180,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:10:48.912
+181,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:10:38.880
+182,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:10:28.852
+183,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:10:18.824
+184,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:10:08.794
+185,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:09:58.760
+186,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:09:48.235
+187,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:09:38.205
+188,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.460900572058456,-0.9323719216737004,2019-08-22 16:09:28.175
+189,80:58:f8:96:da:8c,47,Melissa Barber,Production Worker,1.0,employee,0,51.46090921790195,-0.9323695605387978,2019-08-22 16:09:18.141
+190,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:09:48.817
+191,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:08:09.452
+192,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:05:51.894
+193,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:05:01.159
+194,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:04:14.331
+195,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:04:07.414
+196,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:03:25.304
+197,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:03:18.688
+198,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-18 14:01:32.287
+199,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-18 14:01:27.114
+200,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:01:00.983
+201,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:00:59.280
+202,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-18 14:00:43.336
+203,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:00:09.340
+204,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:59:53.396
+205,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:59:45.174
+206,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-18 13:59:39.764
+207,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:59:21.913
+208,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-18 13:59:15.291
+209,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:59:02.665
+210,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:58:44.912
+211,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.460920262959625,-0.9323735381094492,2019-10-18 13:58:33.677
+212,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:58:24.354
+213,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:58:12.216
+214,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:58:07.303
+215,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:56:57.400
+216,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:56:36.742
+217,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:56:11.777
+218,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:55:53.328
+219,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:55:14.022
+220,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:55:09.411
+221,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 13:54:31.635
+222,80:58:f8:a6:56:52,33,Derrick Blanchard,SEO Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 13:54:20.393

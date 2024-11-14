@@ -1,0 +1,57 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:36:06.223
+1,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:34:31.874
+2,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:33:04.229
+3,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:32:14.091
+4,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:32:04.669
+5,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:30:54.167
+6,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:30:35.623
+7,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:30:20.883
+8,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:29:08.284
+9,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:28:37.299
+10,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:28:26.769
+11,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:28:13.133
+12,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:28:05.716
+13,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:27:55.890
+14,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:27:48.571
+15,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:27:39.650
+16,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:27:24.701
+17,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:27:11.368
+18,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:27:06.254
+19,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:26:22.032
+20,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:26:13.311
+21,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:26:03.787
+22,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:25:58.172
+23,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:25:47.642
+24,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:25:22.474
+25,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:24:58.100
+26,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:24:41.450
+27,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:24:37.542
+28,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:24:20.197
+29,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:24:15.185
+30,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:23:54.726
+31,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:23:33.468
+32,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:22:27.083
+33,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:22:10.937
+34,80:58:f8:01:c4:9a,35,Ms. Amanda Davis,Network Administrator,2.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-18 16:22:05.119
+35,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46049076511184,-0.9326519460179268,2020-01-08 08:57:57.169
+36,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.460499685884656,-0.9327430461403632,2020-01-08 08:57:46.943
+37,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46054748593093,-0.9324962821604632,2020-01-08 08:56:37.858
+38,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46058070209999,-0.932503124253449,2020-01-08 08:56:27.736
+39,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46058070209999,-0.932503124253449,2020-01-08 08:56:17.698
+40,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46054941256472,-0.9325874795942528,2020-01-08 08:56:07.587
+41,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46051259944906,-0.932760388863777,2020-01-08 08:55:58.560
+42,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46050873947989,-0.9325730462670164,2020-01-08 08:55:40.806
+43,9c:da:3e:69:ca:e5,9,Alexander Hall,,,visitor,0,51.46074744172444,-0.9323496018982776,2020-01-08 08:55:39.503
+44,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 15:56:27.737
+45,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:56:10.422
+46,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 15:56:02.278
+47,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:55:55.257
+48,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 15:55:47.644
+49,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:55:35.005
+50,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 15:55:27.191
+51,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:55:19.778
+52,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 15:55:07.155
+53,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.460806621659565,-0.9322651672753725,2020-01-17 15:54:52.108
+54,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:54:39.172
+55,60:1d:91:89:3a:8f,12,Christian Harris,Receptionist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:54:23.955

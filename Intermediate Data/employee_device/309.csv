@@ -1,0 +1,318 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:21:53.641
+1,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:19:44.234
+2,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:18:56.525
+3,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:17:06.385
+4,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:16:11.650
+5,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:16:06.452
+6,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:15:53.616
+7,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:15:42.189
+8,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:15:18.737
+9,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:15:02.205
+10,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:14:50.073
+11,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-17 16:14:27.417
+12,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:14:04.665
+13,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:13:40.413
+14,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:13:10.647
+15,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:12:50.700
+16,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-17 16:12:30.655
+17,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:12:22.437
+18,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:12:15.918
+19,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:12:05.398
+20,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:11:48.759
+21,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:11:11.376
+22,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:10:29.580
+23,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:10:19.753
+24,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:10:00.910
+25,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:09:56.200
+26,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:09:43.571
+27,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46091248640126,-0.9321973628548919,2019-10-17 16:09:35.354
+28,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:09:01.085
+29,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:08:40.727
+30,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:08:25.795
+31,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:08:16.873
+32,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:08:03.760
+33,80:58:f8:60:0e:2e,34,Lisa Johnston,Digital Marketing Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:07:49.816
+34,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:39:56.732
+35,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:39:40.299
+36,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:37:07.073
+37,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:35:06.705
+38,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:34:32.126
+39,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:34:23.705
+40,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:33:06.025
+41,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:31:52.561
+42,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:31:11.669
+43,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:30:57.739
+44,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-17 15:30:33.784
+45,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:30:21.460
+46,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-17 15:30:08.527
+47,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:29:57.609
+48,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-17 15:29:45.977
+49,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:29:32.250
+50,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:29:22.527
+51,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:29:13.399
+52,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:29:09.391
+53,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:28:59.168
+54,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:28:39.822
+55,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:28:19.873
+56,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-17 15:27:52.009
+57,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:27:47.200
+58,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:27:34.071
+59,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:27:13.422
+60,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:27:08.009
+61,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:26:49.267
+62,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:26:36.440
+63,80:58:f8:7a:9a:de,30,Christopher Montgomery,Financial Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:24:44.971
+64,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:42:39.007
+65,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46050732,-0.932584,2019-10-22 12:42:27.881
+66,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:42:14.144
+67,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:42:08.828
+68,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:41:59.001
+69,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:41:48.475
+70,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:41:38.449
+71,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:41:28.620
+72,58:d9:c3:91:eb:6d,9,Michelle Morgan,,,visitor,0,51.46040589530512,-0.9323784209246588,2019-10-22 12:41:19.399
+73,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:27:30.584
+74,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:27:25.480
+75,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:27:15.457
+76,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:27:05.422
+77,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:26:55.398
+78,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:26:45.368
+79,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:26:35.342
+80,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:26:25.312
+81,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:26:15.281
+82,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:26:05.253
+83,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:25:55.223
+84,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:25:45.199
+85,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-12-19 09:25:35.170
+86,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:24:44.916
+87,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:24:39.912
+88,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:24:29.565
+89,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:24:19.541
+90,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:24:09.544
+91,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:23:59.379
+92,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:23:49.363
+93,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:23:39.321
+94,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:23:28.895
+95,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:23:18.864
+96,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:23:08.834
+97,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:22:58.700
+98,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,2,51.46052318,-0.93286961,2019-08-29 13:22:48.679
+99,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:42:28.139
+100,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:40:32.718
+101,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:40:25.503
+102,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:39:51.602
+103,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:38:45.728
+104,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:38:38.307
+105,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.460425162525524,-0.9329351803794688,2019-10-18 13:38:16.648
+106,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:37:54.688
+107,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:37:39.548
+108,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:37:12.379
+109,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:37:02.163
+110,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:36:37.684
+111,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:35:33.402
+112,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46044157461166,-0.9330174052629048,2019-10-18 13:34:52.196
+113,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:34:46.980
+114,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-18 13:34:34.146
+115,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:34:22.615
+116,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:34:01.456
+117,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-18 13:33:58.446
+118,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-18 13:33:48.823
+119,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.460425162525524,-0.9329351803794688,2019-10-18 13:33:38.992
+120,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-18 13:33:21.343
+121,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:33:19.438
+122,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:33:07.411
+123,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:32:56.076
+124,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:32:41.235
+125,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:32:35.823
+126,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-18 13:32:26.894
+127,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:32:10.347
+128,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:32:09.546
+129,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:31:41.463
+130,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:31:36.552
+131,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:31:21.909
+132,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:31:14.884
+133,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:31:07.266
+134,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:30:59.743
+135,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-18 13:30:43.299
+136,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:30:34.477
+137,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:30:28.154
+138,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:30:18.223
+139,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:30:08.799
+140,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:29:58.770
+141,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:29:49.044
+142,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46047329,-0.9331763,2019-10-18 13:29:38.413
+143,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46050376,-0.93231244,2019-10-18 13:29:23.373
+144,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.460434784820976,-0.933094377791248,2019-10-18 13:29:17.458
+145,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:28:46.169
+146,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-18 13:28:33.234
+147,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46041136,-0.93304454,2019-10-18 13:28:08.273
+148,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-18 13:27:48.020
+149,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:29:35.957
+150,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:27:05.654
+151,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:26:18.626
+152,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46090885264435,-0.9321890333318236,2019-10-18 16:25:52.151
+153,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:23:23.437
+154,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:22:55.861
+155,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:22:08.532
+156,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:21:49.378
+157,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:21:27.419
+158,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46081668758361,-0.9322890176893907,2019-10-18 16:21:12.179
+159,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:21:09.172
+160,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:20:56.139
+161,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46090885264435,-0.9321890333318236,2019-10-18 16:20:22.647
+162,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:19:38.020
+163,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46083021500001,-0.93228143,2019-10-18 16:19:14.358
+164,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-18 16:18:52.802
+165,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:18:47.484
+166,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:18:37.159
+167,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:18:21.817
+168,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46090885264435,-0.9321890333318236,2019-10-18 16:17:47.911
+169,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:17:33.472
+170,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:17:07.799
+171,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:16:56.870
+172,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46083021500001,-0.93228143,2019-10-18 16:16:48.250
+173,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:16:27.794
+174,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-18 16:16:12.550
+175,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46090885264435,-0.9321890333318236,2019-10-18 16:15:41.263
+176,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46081668758361,-0.9322890176893907,2019-10-18 16:15:39.057
+177,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:15:00.054
+178,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:14:56.444
+179,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:14:36.787
+180,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:14:21.547
+181,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:14:17.734
+182,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:14:01.087
+183,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:13:52.865
+184,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:13:40.530
+185,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:13:32.012
+186,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46090885264435,-0.9321890333318236,2019-10-18 16:13:14.959
+187,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:12:45.574
+188,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:12:05.869
+189,80:58:f8:b2:2d:4d,117,Crystal Petersen,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:10:41.238
+190,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46034429,-0.93265962,2019-08-21 13:43:23.312
+191,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46034429,-0.93265962,2019-08-21 13:43:17.801
+192,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46034429,-0.93265962,2019-08-21 13:43:07.676
+193,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:42:57.327
+194,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:42:47.297
+195,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:42:37.265
+196,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:42:27.231
+197,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:42:17.201
+198,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:42:06.771
+199,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:41:56.649
+200,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:41:46.617
+201,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:41:36.584
+202,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46042222126311,-0.9324921310578737,2019-08-21 13:41:26.550
+203,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:01:53.751
+204,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:01:48.654
+205,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:01:38.626
+206,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:01:28.598
+207,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:01:18.570
+208,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:01:08.551
+209,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:00:58.527
+210,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:00:48.503
+211,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:00:38.472
+212,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:00:28.448
+213,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:00:18.428
+214,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 16:00:08.401
+215,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46077609763423,-0.9322256691506576,2020-01-10 15:59:58.376
+216,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:26:41.814
+217,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:25:43.372
+218,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:23:50.493
+219,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-17 12:23:44.581
+220,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:23:15.910
+221,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-17 12:22:41.516
+222,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:22:38.208
+223,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:22:13.556
+224,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:22:05.738
+225,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:21:32.256
+226,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:21:26.238
+227,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:21:13.609
+228,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:20:49.277
+229,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:20:19.377
+230,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:20:07.555
+231,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:19:57.239
+232,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-17 12:19:44.403
+233,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-17 12:19:22.148
+234,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:19:18.038
+235,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.460931948124376,-0.9323810825666272,2019-10-17 12:19:07.317
+236,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:18:55.987
+237,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.460915769221934,-0.93237126692694,2019-10-17 12:18:49.570
+238,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.460910848219775,-0.932370293724707,2019-10-17 12:18:36.543
+239,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:18:28.222
+240,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-17 12:18:00.065
+241,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.460931948124376,-0.9323810825666272,2019-10-17 12:17:41.614
+242,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:17:39.909
+243,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:17:15.752
+244,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:16:48.591
+245,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:16:36.658
+246,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:18:08.989
+247,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:17:58.960
+248,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:17:48.932
+249,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:17:38.894
+250,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:17:28.868
+251,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:17:18.836
+252,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:17:08.807
+253,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:16:58.681
+254,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:16:48.654
+255,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:16:38.622
+256,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:16:28.589
+257,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:16:18.557
+258,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-12-06 14:16:08.538
+259,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:55:28.623
+260,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:55:19.345
+261,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:55:09.504
+262,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:54:55.497
+263,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:54:46.457
+264,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:54:36.930
+265,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:54:29.397
+266,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:54:15.407
+267,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:54:08.267
+268,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:53:56.296
+269,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:53:46.178
+270,80:58:f8:d8:53:05,81,Daniel Davis,Administrative Assistant,2.0,employee,0,51.46072297320341,-0.932395058450318,2020-02-03 08:53:35.103
+271,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46056104623674,-0.9322830819220472,2020-02-25 14:15:25.587
+272,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46056104623674,-0.9322830819220472,2020-02-25 14:15:19.359
+273,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46056104623674,-0.9322830819220472,2020-02-25 14:15:08.113
+274,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46056104623674,-0.9322830819220472,2020-02-25 14:14:50.530
+275,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:14:44.037
+276,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46056104623674,-0.9322830819220472,2020-02-25 14:14:31.779
+277,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46056104623674,-0.9322830819220472,2020-02-25 14:14:26.817
+278,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:14:19.872
+279,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:14:08.733
+280,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:13:57.190
+281,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:13:46.950
+282,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:13:39.221
+283,24:46:c8:a8:01:bc,13,Samantha Smith,Customer Service Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 14:13:26.671
+284,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:11:47.399
+285,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:11:26.350
+286,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:08:00.834
+287,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:07:11.303
+288,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:07:05.098
+289,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:06:45.027
+290,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:06:21.071
+291,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:06:14.854
+292,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:06:07.333
+293,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:05:58.009
+294,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:05:47.581
+295,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:05:30.645
+296,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:05:17.209
+297,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:05:09.385
+298,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:04:47.135
+299,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:04:35.408
+300,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:04:27.886
+301,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:04:16.651
+302,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:04:07.931
+303,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:58.307
+304,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-15 16:03:47.784
+305,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:33.645
+306,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-15 16:03:29.637
+307,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:02:59.358
+308,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-15 16:02:30.685
+309,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-15 16:02:29.982
+310,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:01:43.755
+311,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:01:30.013
+312,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:29.112
+313,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:01.242
+314,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:00:50.013
+315,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:00:20.836
+316,80:58:f8:08:90:79,33,Christian Beck,Recruitment Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:59:34.219

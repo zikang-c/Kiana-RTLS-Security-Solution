@@ -1,0 +1,82 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46039143694479,-0.9325747785079984,2020-06-22 11:41:35.508
+1,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:41:29.179
+2,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:41:15.669
+3,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:41:09.132
+4,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46040265390975,-0.9324329976933102,2020-06-22 11:40:57.605
+5,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:40:49.031
+6,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:40:34.039
+7,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:40:23.994
+8,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:40:18.980
+9,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:40:08.958
+10,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:39:56.179
+11,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46052575433082,-0.9323230359281914,2020-06-22 11:39:48.899
+12,58:d9:c3:cc:80:e8,13,Tracy Patterson,Human Resources Manager,3.0,employee,0,51.46053113636532,-0.9323152109429876,2020-06-22 11:39:37.512
+13,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:30:21.376
+14,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:30:16.361
+15,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:30:06.234
+16,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:29:56.203
+17,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:29:45.772
+18,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:29:35.739
+19,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46036754,-0.93271575,2019-10-08 08:29:25.708
+20,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:29:15.671
+21,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46043084119189,-0.9324887248875176,2019-10-08 08:29:05.635
+22,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46041985216926,-0.9326680401663684,2019-10-08 08:28:55.508
+23,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46041985216926,-0.9326680401663684,2019-10-08 08:28:45.166
+24,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46041985216926,-0.9326680401663684,2019-10-08 08:28:35.135
+25,f0:d7:aa:89:3d:94,13,Nicole Santos,Product Manager,2.0,employee,0,51.46041985216926,-0.9326680401663684,2019-10-08 08:28:25.008
+26,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:06:08.736
+27,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:05:40.867
+28,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:05:06.783
+29,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:04:48.840
+30,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:04:36.115
+31,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:04:22.467
+32,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:04:14.249
+33,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:04:09.031
+34,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:59.913
+35,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:40.664
+36,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:03:36.557
+37,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:13.393
+38,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:09.887
+39,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:02:57.287
+40,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-15 16:02:22.259
+41,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:02:18.356
+42,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-15 16:02:05.637
+43,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-15 16:01:57.394
+44,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:01:38.567
+45,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:14.576
+46,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-15 16:01:00.941
+47,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:00:58.236
+48,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.460893641362105,-0.9322136249155863,2019-10-15 16:00:31.865
+49,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:59:58.277
+50,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:59:42.537
+51,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:59:38.727
+52,80:58:f8:bd:34:1d,27,Andrea Pope,Cloud Architect,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:58:40.072
+53,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:21:42.747
+54,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:21:07.159
+55,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:19:51.880
+56,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:19:36.945
+57,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:19:07.780
+58,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:18:40.513
+59,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:18:32.296
+60,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:18:26.480
+61,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:18:08.735
+62,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:17:51.692
+63,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:17:49.887
+64,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:17:34.649
+65,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:17:23.725
+66,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:16:54.756
+67,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:16:35.611
+68,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:16:27.092
+69,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:16:18.574
+70,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:16:08.160
+71,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:15:49.808
+72,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:15:28.953
+73,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:15:04.700
+74,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.460905379221806,-0.9322046251632692,2019-10-14 11:14:52.466
+75,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:14:41.037
+76,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:14:26.202
+77,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:14:12.874
+78,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:14:03.960
+79,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:13:46.110
+80,80:58:f8:b7:8b:f3,28,Gregory Davila,DevOps Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:13:13.320

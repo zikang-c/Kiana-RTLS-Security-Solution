@@ -1,0 +1,312 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:22:11.331
+1,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:22:04.008
+2,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:21:45.758
+3,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:20:25.636
+4,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:19:55.658
+5,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:19:38.314
+6,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:19:14.149
+7,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:17:41.390
+8,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:17:38.024
+9,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:17:07.293
+10,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:16:51.350
+11,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:15:46.279
+12,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:15:30.839
+13,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:15:15.396
+14,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:15:08.071
+15,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:14:45.211
+16,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46057838880824,-0.9323731257752288,2019-10-18 14:14:29.270
+17,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46057838880824,-0.9323731257752288,2019-10-18 14:13:53.372
+18,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:13:38.634
+19,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:13:26.404
+20,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46076552023867,-0.9322393235400565,2019-10-18 14:13:09.756
+21,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:12:51.204
+22,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:11:51.948
+23,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46077174486343,-0.9322375544686624,2019-10-18 14:11:30.995
+24,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:11:21.564
+25,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:11:19.557
+26,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46077174486343,-0.9322375544686624,2019-10-18 14:10:01.752
+27,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:09:58.240
+28,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46057838880824,-0.9323731257752288,2019-10-18 14:09:36.484
+29,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46077174486343,-0.9322375544686624,2019-10-18 14:09:22.547
+30,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46076552023867,-0.9322393235400565,2019-10-18 14:08:58.684
+31,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:08:41.143
+32,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:08:19.281
+33,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:07:50.002
+34,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:07:46.893
+35,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:07:03.791
+36,80:58:f8:bd:45:65,37,Patrick Gates,Legal Assistant,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:06:58.966
+37,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:43:55.640
+38,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:43:44.287
+39,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46036271218568,-0.9330492026564096,2019-10-22 09:43:34.284
+40,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46036271218568,-0.9330492026564096,2019-10-22 09:43:29.683
+41,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:43:19.504
+42,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46036271218568,-0.9330492026564096,2019-10-22 09:43:05.016
+43,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46036271218568,-0.9330492026564096,2019-10-22 09:42:56.999
+44,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:42:46.578
+45,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46036271218568,-0.9330492026564096,2019-10-22 09:42:36.759
+46,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:42:21.818
+47,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:42:17.409
+48,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46036271218568,-0.9330492026564096,2019-10-22 09:41:52.056
+49,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:41:45.840
+50,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:41:28.607
+51,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:41:14.678
+52,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:40:51.223
+53,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:40:43.606
+54,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:40:13.240
+55,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46048655,-0.93287006,2019-10-22 09:39:55.200
+56,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:39:23.529
+57,78:00:9e:b7:35:24,21,Stephanie Cowan,Laboratory Technician,2.0,employee,0,51.46034575,-0.93307374,2019-10-22 09:38:24.507
+58,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040419,-0.93253306,2019-10-17 18:43:05.814
+59,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:40:48.152
+60,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:39:22.026
+61,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:38:09.229
+62,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:37:11.670
+63,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:36:47.408
+64,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:35:12.356
+65,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:35:05.648
+66,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:34:49.701
+67,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:34:18.418
+68,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:33:50.347
+69,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46037371075742,-0.9326781119491048,2019-10-17 18:33:40.744
+70,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042123679968,-0.9327383727606924,2019-10-17 18:33:33.103
+71,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:33:21.472
+72,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46037371075742,-0.9326781119491048,2019-10-17 18:32:34.050
+73,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:32:16.203
+74,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042123679968,-0.9327383727606924,2019-10-17 18:31:43.228
+75,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043566907533,-0.932705586305966,2019-10-17 18:30:51.483
+76,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460432907100845,-0.932696658163464,2019-10-17 18:30:41.056
+77,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:30:31.329
+78,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:30:10.770
+79,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:29:51.524
+80,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042847,-0.93271253,2019-10-17 18:29:46.410
+81,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040093469627,-0.9325774579427348,2019-10-17 18:28:57.682
+82,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46041337383098,-0.932600943943498,2019-10-17 18:28:48.359
+83,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042206333173,-0.9325955034863516,2019-10-17 18:27:38.375
+84,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042386514964,-0.932591918857749,2019-10-17 18:26:46.839
+85,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038182311496,-0.9326799116752044,2019-10-17 18:24:54.335
+86,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4603688416568,-0.932602752586509,2019-10-17 18:22:49.600
+87,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043985,-0.93243722,2019-10-17 18:41:35.883
+88,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043985,-0.93243722,2019-10-17 18:39:14.403
+89,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043985,-0.93243722,2019-10-17 18:38:21.562
+90,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040907584475,-0.932563887270288,2019-10-17 18:35:38.321
+91,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043985,-0.93243722,2019-10-17 18:35:20.380
+92,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46041028991545,-0.9325697355813108,2019-10-17 18:34:22.830
+93,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040907584475,-0.932563887270288,2019-10-17 18:33:16.155
+94,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46045119797255,-0.932512081674396,2019-10-17 18:31:22.564
+95,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 19:00:47.147
+96,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:56:10.923
+97,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:55:32.326
+98,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:54:08.512
+99,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:52:46.829
+100,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:52:23.344
+101,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:51:40.831
+102,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:51:39.025
+103,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:51:11.559
+104,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:50:49.399
+105,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:50:33.259
+106,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:50:28.847
+107,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:50:13.006
+108,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:50:05.288
+109,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:49:18.966
+110,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:49:08.959
+111,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:48:38.262
+112,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:48:26.133
+113,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:48:17.810
+114,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:48:07.086
+115,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:47:57.060
+116,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:47:41.024
+117,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:47:34.300
+118,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:47:22.471
+119,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:47:19.867
+120,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:47:09.742
+121,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:46:47.184
+122,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:46:38.561
+123,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:46:28.332
+124,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:46:12.696
+125,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:46:08.682
+126,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:45:46.126
+127,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:45:25.170
+128,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:45:09.129
+129,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:44:49.783
+130,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:44:39.857
+131,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:44:10.184
+132,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:44:08.085
+133,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:43:55.850
+134,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:43:23.064
+135,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:43:17.846
+136,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:42:53.584
+137,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:42:44.461
+138,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:42:34.130
+139,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:42:28.314
+140,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:42:16.886
+141,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:42:01.850
+142,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:41:59.947
+143,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:41:48.325
+144,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:41:29.462
+145,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:41:18.933
+146,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:40:59.882
+147,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:40:37.019
+148,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:40:15.066
+149,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:40:07.352
+150,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:39:48.199
+151,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:39:30.349
+152,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:39:06.383
+153,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:38:50.342
+154,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:37:58.498
+155,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:37:37.649
+156,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:37:21.398
+157,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:36:39.184
+158,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:36:20.339
+159,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:36:19.633
+160,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46047518,-0.93284138,2019-10-17 18:35:43.641
+161,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46050774805918,-0.93278162803061,2019-10-17 18:34:58.223
+162,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46048378945465,-0.9328289517123632,2019-10-17 18:34:30.950
+163,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460524534470366,-0.9329533905871346,2019-10-17 18:34:04.692
+164,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46057247734496,-0.9329256893836836,2019-10-17 18:33:02.072
+165,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4604221955106,-0.933066002243413,2019-10-17 18:32:43.775
+166,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460390178000544,-0.9326949425136104,2019-10-17 18:32:26.229
+167,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038430843787,-0.9328749355131412,2019-10-17 18:32:00.163
+168,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4604465360504,-0.9330131498840384,2019-10-17 18:31:54.149
+169,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460436236491454,-0.933030112311662,2019-10-17 18:31:32.992
+170,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460372412820846,-0.9328483777159584,2019-10-17 18:31:13.742
+171,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46044900460039,-0.9329667562873356,2019-10-17 18:31:04.814
+172,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042164853176,-0.9329551648504312,2019-10-17 18:30:29.926
+173,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4604221955106,-0.933066002243413,2019-10-17 18:30:06.862
+174,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460528622338806,-0.9329424541317404,2019-10-17 18:29:31.070
+175,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038232293223,-0.932925553872836,2019-10-17 18:29:21.442
+176,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46039080698704,-0.9326519408584292,2019-10-17 18:29:12.822
+177,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46041532009848,-0.9330809313187496,2019-10-17 18:29:08.312
+178,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460409768842105,-0.9329812870196956,2019-10-17 18:28:37.035
+179,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038033924789,-0.932919331218394,2019-10-17 18:28:26.906
+180,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460450134152794,-0.9329727461772624,2019-10-17 18:28:14.468
+181,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038339804559,-0.932922922969887,2019-10-17 18:28:00.932
+182,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46037375672488,-0.9327690175741942,2019-10-17 18:27:51.710
+183,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46041873471268,-0.9328955088482012,2019-10-17 18:27:46.693
+184,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460387277599466,-0.9327909674679022,2019-10-17 18:27:23.434
+185,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460426772366645,-0.9328580677854876,2019-10-17 18:27:18.323
+186,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042476448605,-0.9328627814198376,2019-10-17 18:27:04.688
+187,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4604029715062,-0.9328888748931244,2019-10-17 18:26:50.448
+188,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460453905825965,-0.93306090123341,2019-10-17 18:26:33.402
+189,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4604239014074,-0.9330970231607236,2019-10-17 18:26:27.588
+190,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46051884713264,-0.9329354671571108,2019-10-17 18:26:15.456
+191,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46039168551141,-0.9329122953779938,2019-10-17 18:26:07.232
+192,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042132571965,-0.932950014513934,2019-10-17 18:25:57.207
+193,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040073523788,-0.9327854690982073,2019-10-17 18:25:43.968
+194,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4603987749796,-0.9327674137676416,2019-10-17 18:25:30.433
+195,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46042777363415,-0.9328338968626688,2019-10-17 18:25:23.612
+196,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46044417020376,-0.9328710528205212,2019-10-17 18:25:17.093
+197,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460376206329215,-0.9327514878723956,2019-10-17 18:25:02.378
+198,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038358994407,-0.9329117884622604,2019-10-17 18:24:45.111
+199,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038924340086,-0.93265937169018,2019-10-17 18:24:30.674
+200,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46053157364046,-0.9329704896113196,2019-10-17 18:24:22.851
+201,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460439178479945,-0.9329073758549766,2019-10-17 18:24:19.641
+202,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46049331785146,-0.93302121896738,2019-10-17 18:24:08.519
+203,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46053121974255,-0.933061709346299,2019-10-17 18:23:55.481
+204,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043778713055,-0.9329327154277808,2019-10-17 18:23:46.275
+205,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460481466149126,-0.9328745042470276,2019-10-17 18:23:32.620
+206,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040135491298,-0.9328913721227062,2019-10-17 18:23:28.306
+207,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043909190114,-0.932862777280198,2019-10-17 18:23:17.480
+208,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460399455084016,-0.932919262519793,2019-10-17 18:23:09.553
+209,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46039496582468,-0.9329295907455428,2019-10-17 18:22:57.118
+210,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46039184114039,-0.932924649350042,2019-10-17 18:22:30.150
+211,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46047362299184,-0.9329524383622012,2019-10-17 18:22:27.236
+212,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038741803461,-0.9329409319518476,2019-10-17 18:22:18.215
+213,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460386426706485,-0.9329283765207912,2019-10-17 18:22:05.378
+214,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46046655176681,-0.9328979933629876,2019-10-17 18:21:59.062
+215,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:21:43.720
+216,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46045339485002,-0.9328043634642588,2019-10-17 18:21:30.383
+217,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460447381673454,-0.933116804394018,2019-10-17 18:21:23.067
+218,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038725283631,-0.932935340720693,2019-10-17 18:21:14.441
+219,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46053854873699,-0.9330159839006704,2019-10-17 18:21:07.528
+220,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46047518,-0.93284138,2019-10-17 18:20:54.789
+221,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043451938287,-0.9329094236853496,2019-10-17 18:20:46.468
+222,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460388010263536,-0.932938382466425,2019-10-17 18:20:34.630
+223,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460440541045216,-0.9328009517959084,2019-10-17 18:20:24.400
+224,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46043446552027,-0.9327938608613044,2019-10-17 18:20:10.163
+225,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46039496582468,-0.9329295907455428,2019-10-17 18:20:09.761
+226,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46044895489379,-0.9329708029167136,2019-10-17 18:19:57.426
+227,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038728484505,-0.932938037443861,2019-10-17 18:19:45.592
+228,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46040984611804,-0.9328588373948244,2019-10-17 18:19:38.679
+229,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460417498902096,-0.9329999425056996,2019-10-17 18:19:28.545
+230,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.460388044221936,-0.9329367926839331,2019-10-17 18:19:11.905
+231,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:19:02.701
+232,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46036754,-0.93271575,2019-10-17 18:18:57.970
+233,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.4603808715374,-0.9329253139685524,2019-10-17 18:18:49.143
+234,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:18:25.578
+235,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46051036,-0.93312872,2019-10-17 18:18:13.751
+236,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46050869,-0.93299578,2019-10-17 18:17:10.177
+237,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46036754,-0.93271575,2019-10-17 18:16:50.222
+238,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038837,-0.93313945,2019-10-17 18:16:40.298
+239,48:4b:aa:2f:17:36,182,Corey Mccarty,Content Strategist,3.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:16:04.301
+240,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:56:43.976
+241,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:56:17.411
+242,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:54:42.276
+243,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:53:29.999
+244,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:51:29.695
+245,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:50:30.252
+246,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:50:25.339
+247,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:49:34.612
+248,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:49:22.688
+249,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:49:16.586
+250,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:48:26.050
+251,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:47:50.363
+252,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:47:49.464
+253,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-14 09:47:36.032
+254,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:46:56.737
+255,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:46:45.608
+256,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:46:31.972
+257,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:46:25.155
+258,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:46:08.714
+259,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:45:50.972
+260,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:45:45.658
+261,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:45:31.425
+262,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-14 09:45:23.704
+263,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:45:18.804
+264,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:45:02.393
+265,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-14 09:44:47.817
+266,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.4608509379982,-0.9322602546794037,2019-10-14 09:43:54.393
+267,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:43:48.570
+268,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:43:24.021
+269,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:43:18.905
+270,80:58:f8:48:bf:a8,31,Madison Shepard,Public Relations Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:41:30.946
+271,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 13:00:32.087
+272,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 13:00:20.354
+273,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:58:42.380
+274,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:56:12.359
+275,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:54:40.899
+276,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 12:54:21.043
+277,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:54:12.718
+278,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 12:53:57.074
+279,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 12:53:25.494
+280,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:53:18.471
+281,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:52:59.414
+282,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076387516965,-0.9322408424668652,2019-10-18 12:52:31.135
+283,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076387516965,-0.9322408424668652,2019-10-18 12:52:19.406
+284,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 12:52:09.571
+285,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:51:59.246
+286,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460779096924895,-0.9322267879002376,2019-10-18 12:51:47.158
+287,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 12:51:39.891
+288,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460779096924895,-0.9322267879002376,2019-10-18 12:51:24.846
+289,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:50:54.465
+290,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:50:46.744
+291,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 12:50:19.166
+292,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:49:44.373
+293,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 12:49:32.231
+294,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076387516965,-0.9322408424668652,2019-10-18 12:49:27.226
+295,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:48:55.432
+296,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:48:31.269
+297,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:48:24.748
+298,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.460580180510114,-0.9323750056997788,2019-10-18 12:48:17.932
+299,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:48:08.301
+300,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:47:55.570
+301,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46076387516965,-0.9322408424668652,2019-10-18 12:47:39.729
+302,80:58:f8:8b:02:eb,32,Victoria Manning,Warehouse Worker,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:47:11.746
+303,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:53:44.249
+304,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.46079953992911,-0.9322832654518544,2020-01-13 14:53:39.238
+305,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.4606371,-0.93246087,2020-01-13 14:53:11.371
+306,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.46083184,-0.93224795,2020-01-13 14:52:59.138
+307,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.4606371,-0.93246087,2020-01-13 14:52:46.215
+308,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.4606371,-0.93246087,2020-01-13 14:52:26.068
+309,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.46083184,-0.93224795,2020-01-13 14:52:08.929
+310,68:c4:4d:d2:3a:ec,8,Michael Watkins,,,visitor,0,51.4606371,-0.93246087,2020-01-13 14:51:55.889

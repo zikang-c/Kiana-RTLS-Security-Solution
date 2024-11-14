@@ -1,0 +1,362 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.460498893463495,-0.9327646142849738,2019-10-08 11:09:10.518
+1,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.460498893463495,-0.9327646142849738,2019-10-08 11:09:05.112
+2,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46048481009079,-0.9328172200977723,2019-10-08 11:08:55.075
+3,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46048481009079,-0.9328172200977723,2019-10-08 11:08:45.847
+4,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:08:35.809
+5,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:08:25.779
+6,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:08:15.441
+7,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:08:05.315
+8,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:07:55.278
+9,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:07:45.242
+10,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:07:35.210
+11,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46046421767946,-0.933132778587584,2019-10-08 11:07:25.085
+12,f0:d7:aa:c0:3b:ed,13,Danny Simpson,Barista,0.0,employee,0,51.46048481009079,-0.9328172200977723,2019-10-08 11:07:13.349
+13,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:53:07.072
+14,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:52:55.340
+15,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:52:22.942
+16,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:52:17.726
+17,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:51:54.664
+18,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:49:36.396
+19,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:49:04.410
+20,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:48:55.294
+21,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:48:23.295
+22,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:48:14.174
+23,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:48:00.533
+24,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:47:56.125
+25,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:47:43.390
+26,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:47:36.170
+27,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:47:23.237
+28,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:46:46.546
+29,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:46:33.310
+30,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:46:10.450
+31,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:46:04.637
+32,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:45:50.214
+33,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:45:31.650
+34,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:45:27.033
+35,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:45:19.513
+36,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:45:09.490
+37,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:44:50.144
+38,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:44:38.909
+39,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:44:21.673
+40,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:43:59.705
+41,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:43:35.341
+42,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:43:22.509
+43,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:43:04.256
+44,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.460393052061775,-0.932562803124141,2019-10-15 10:42:43.098
+45,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:42:37.186
+46,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:42:19.335
+47,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 10:41:39.728
+48,80:58:f8:de:11:0d,36,Eugene Ibarra,Inventory Clerk,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 10:41:18.069
+49,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:25:08.378
+50,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:22:06.796
+51,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:20:37.072
+52,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:19:36.814
+53,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:19:12.555
+54,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:18:53.603
+55,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:18:31.260
+56,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:18:27.841
+57,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:18:19.113
+58,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:17:38.807
+59,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:17:27.079
+60,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:17:02.426
+61,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:16:45.470
+62,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.460909087422976,-0.932200836022914,2019-10-15 16:16:19.604
+63,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:16:02.677
+64,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:15:48.938
+65,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:15:36.894
+66,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:15:15.941
+67,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.460909087422976,-0.932200836022914,2019-10-15 16:15:06.419
+68,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:14:49.777
+69,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:14:16.492
+70,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:14:07.169
+71,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:13:53.136
+72,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.460909087422976,-0.932200836022914,2019-10-15 16:13:36.987
+73,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.460909087422976,-0.932200836022914,2019-10-15 16:13:24.456
+74,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:13:12.126
+75,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.460909087422976,-0.932200836022914,2019-10-15 16:12:59.694
+76,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:12:34.624
+77,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:12:16.178
+78,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:11:57.223
+79,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:11:45.798
+80,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:11:37.383
+81,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:11:18.131
+82,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:10:52.764
+83,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:09:52.109
+84,80:58:f8:54:c7:9d,36,Alex Phillips,Mechanical Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:09:00.792
+85,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:56:11.648
+86,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:55:04.891
+87,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:53:13.225
+88,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:52:56.385
+89,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:51:32.899
+90,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:51:13.345
+91,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:50:48.286
+92,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:50:26.230
+93,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-14 11:50:13.502
+94,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-14 11:49:18.768
+95,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:49:09.242
+96,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.4607633479079,-0.93224216990613,2019-10-14 11:48:55.105
+97,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:48:48.294
+98,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:48:31.961
+99,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-14 11:48:11.107
+100,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:48:02.694
+101,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078062945069,-0.9322263014312638,2019-10-14 11:47:53.471
+102,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:47:46.647
+103,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:47:37.623
+104,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:47:26.798
+105,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:47:18.379
+106,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-14 11:47:07.653
+107,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:46:53.423
+108,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:46:30.974
+109,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078062945069,-0.9322263014312638,2019-10-14 11:46:16.130
+110,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:45:31.025
+111,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:45:25.412
+112,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078062945069,-0.9322263014312638,2019-10-14 11:45:17.398
+113,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078062945069,-0.9322263014312638,2019-10-14 11:45:01.753
+114,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46076805813421,-0.9322408740148668,2019-10-14 11:44:56.946
+115,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:44:38.200
+116,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:44:17.956
+117,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:43:37.461
+118,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46058484450711,-0.9323798993500724,2019-10-14 11:42:57.067
+119,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 11:42:29.002
+120,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:41:35.085
+121,80:58:f8:a4:d1:83,37,Jeremy Page,Digital Marketing Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 11:41:09.115
+122,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46054504030446,-0.9324383217107336,2020-08-21 10:18:52.762
+123,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:18:48.644
+124,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:18:37.127
+125,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:18:20.546
+126,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:18:16.988
+127,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:18:08.371
+128,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:17:58.373
+129,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:17:46.751
+130,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:17:36.680
+131,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:17:29.580
+132,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:17:18.118
+133,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:17:06.568
+134,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.46052449345703,-0.932270087581093,2020-08-21 10:16:55.071
+135,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.460523282402136,-0.9322724788649556,2020-08-21 10:16:46.495
+136,cc:d4:2e:18:22:b8,15,Derrick Johnson,Security Guard,0.0,employee,0,51.460371232791246,-0.9327720343652623,2020-08-21 10:16:38.770
+137,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.4608011458106,-0.9323289687628564,2020-01-17 15:07:01.791
+138,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46076855777894,-0.93222651850988,2020-01-17 15:06:52.573
+139,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:06:46.567
+140,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:06:22.982
+141,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46076855777894,-0.93222651850988,2020-01-17 15:06:02.355
+142,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46065474,-0.93223934,2020-01-17 15:05:52.883
+143,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46080662165958,-0.9322651672753728,2020-01-17 15:05:47.319
+144,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46076855777894,-0.93222651850988,2020-01-17 15:05:32.282
+145,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:05:25.679
+146,60:1d:91:be:0a:a6,10,Leah Waller,Recruitment Specialist,3.0,employee,0,51.46065474,-0.93223934,2020-01-17 15:05:12.670
+147,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:01:01.237
+148,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:00:56.214
+149,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:00:46.183
+150,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:00:36.062
+151,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:00:26.033
+152,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:00:15.912
+153,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 09:00:05.888
+154,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 08:59:55.855
+155,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 08:59:45.739
+156,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 08:59:35.708
+157,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 08:59:25.590
+158,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 08:59:15.558
+159,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46051334967897,-0.9323241485133376,2020-01-21 08:59:05.531
+160,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:01:20.976
+161,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:01:15.863
+162,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:01:05.543
+163,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:00:55.318
+164,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:00:45.091
+165,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:00:39.982
+166,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:00:29.753
+167,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:00:19.436
+168,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 18:00:09.254
+169,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 17:59:58.982
+170,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 17:59:48.756
+171,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 17:59:38.438
+172,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46038106,-0.93292202,2020-01-15 17:59:28.217
+173,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:54:28.316
+174,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-17 14:54:06.379
+175,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:53:37.894
+176,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:53:24.664
+177,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:53:17.548
+178,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.4605848445071,-0.9323798993500724,2019-10-17 14:53:03.534
+179,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:52:59.506
+180,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-17 14:52:45.380
+181,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:52:33.445
+182,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:52:13.097
+183,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-17 14:52:08.686
+184,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-17 14:51:48.446
+185,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077324568692,-0.9322345329894388,2019-10-17 14:51:32.709
+186,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.4605848445071,-0.9323798993500724,2019-10-17 14:51:23.685
+187,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-17 14:51:14.565
+188,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:50:50.606
+189,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077324568692,-0.9322345329894388,2019-10-17 14:50:17.838
+190,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-17 14:50:09.516
+191,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-17 14:49:46.360
+192,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.4605848445071,-0.9323798993500724,2019-10-17 14:49:28.929
+193,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:49:07.173
+194,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 14:48:42.022
+195,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 14:48:39.213
+196,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078318257212,-0.932225490995074,2019-10-17 14:48:24.880
+197,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-17 14:48:19.667
+198,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 14:47:51.509
+199,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-17 14:47:49.298
+200,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.4605848445071,-0.9323798993500724,2019-10-17 14:47:36.767
+201,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.4605848445071,-0.9323798993500724,2019-10-17 14:47:22.739
+202,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-17 14:47:00.099
+203,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-17 14:45:51.338
+204,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:55:43.068
+205,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:55:38.052
+206,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:55:28.022
+207,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:55:18.002
+208,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:55:07.967
+209,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:54:57.444
+210,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:54:47.417
+211,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:54:37.385
+212,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:54:27.352
+213,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:54:17.329
+214,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:54:07.101
+215,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46091313973362,-0.9323699379557616,2019-09-09 10:53:56.770
+216,80:58:f8:65:f3:26,70,Brittney Baker,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-09-09 10:53:49.248
+217,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46066079487512,-0.932292854494141,2019-11-12 15:20:03.041
+218,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46066079487512,-0.932292854494141,2019-11-12 15:19:58.012
+219,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46083184,-0.93224795,2019-11-12 15:19:17.479
+220,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46066079487512,-0.932292854494141,2019-11-12 15:19:07.352
+221,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46066079487512,-0.932292854494141,2019-11-12 15:18:46.887
+222,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46066079487512,-0.932292854494141,2019-11-12 15:18:11.680
+223,24:46:c8:45:a5:15,7,Kurt Barnes,,,visitor,0,51.46066079487512,-0.932292854494141,2019-11-12 15:18:06.663
+224,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035072064751,-0.9326881696843994,2019-11-05 17:15:21.934
+225,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035283025508,-0.932686495285984,2019-11-05 17:15:16.317
+226,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035283025508,-0.932686495285984,2019-11-05 17:15:06.280
+227,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035283025508,-0.932686495285984,2019-11-05 17:14:56.155
+228,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035283025508,-0.932686495285984,2019-11-05 17:14:46.121
+229,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.460479795440754,-0.9330860413943388,2019-11-05 17:14:36.895
+230,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.460479795440754,-0.9330860413943388,2019-11-05 17:14:26.869
+231,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035283025508,-0.932686495285984,2019-11-05 17:14:10.525
+232,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.46035283025508,-0.932686495285984,2019-11-05 17:14:05.503
+233,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.460479795440754,-0.9330860413943388,2019-11-05 17:13:55.679
+234,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.460479795440754,-0.9330860413943388,2019-11-05 17:13:45.647
+235,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.460479795440754,-0.9330860413943388,2019-11-05 17:13:35.523
+236,88:b4:a6:5d:6c:e5,13,Zachary Beasley,Project Manager,2.0,employee,0,51.460479795440754,-0.9330860413943388,2019-11-05 17:13:25.490
+237,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46040419,-0.93253306,2020-01-17 11:15:00.088
+238,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46040419,-0.93253306,2020-01-17 11:14:44.854
+239,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46040419,-0.93253306,2020-01-17 11:14:24.614
+240,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46040453179348,-0.932524708497284,2020-01-17 11:13:59.346
+241,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46040575778739,-0.932545970272591,2020-01-17 11:13:23.983
+242,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46048776048144,-0.9325299116966624,2020-01-17 11:14:52.174
+243,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.460440948362894,-0.9325490828011836,2020-01-17 11:14:37.037
+244,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46045951518968,-0.9324354279790688,2020-01-17 11:14:11.894
+245,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.46035849,-0.9327721,2020-01-17 11:14:05.852
+246,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.460421424020616,-0.9325623689024974,2020-01-17 11:13:36.674
+247,6c:76:56:10:19:88,11,Randy Maddox,Laboratory Technician,3.0,employee,0,51.460404181488286,-0.9326794798551163,2020-01-17 11:13:15.525
+248,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460573893119935,-0.932289476419884,2019-10-31 12:33:54.763
+249,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460573893119935,-0.932289476419884,2019-10-31 12:33:44.639
+250,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460589467773445,-0.932286969083486,2019-10-31 12:33:34.608
+251,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.46078026127663,-0.932340879536305,2019-10-31 12:33:12.741
+252,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460589467773445,-0.932286969083486,2019-10-31 12:33:08.523
+253,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.46057489,-0.93228285,2019-10-31 12:32:53.381
+254,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.46078026127663,-0.932340879536305,2019-10-31 12:32:42.550
+255,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.46078026127663,-0.932340879536305,2019-10-31 12:32:37.530
+256,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460589467773445,-0.932286969083486,2019-10-31 12:32:27.806
+257,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460589467773445,-0.932286969083486,2019-10-31 12:32:17.775
+258,24:46:c8:e0:9a:02,11,Ariana Stephens,Legal Assistant,3.0,employee,0,51.460589467773445,-0.932286969083486,2019-10-31 12:32:02.643
+259,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46047143165221,-0.9324013747810171,2019-08-30 11:28:06.155
+260,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:58:54.338
+261,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:58:49.321
+262,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:58:39.292
+263,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:58:29.261
+264,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:58:19.226
+265,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:58:09.103
+266,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:57:58.667
+267,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:57:48.637
+268,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:57:38.607
+269,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:57:28.575
+270,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:57:18.543
+271,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:57:08.515
+272,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-08-15 08:56:57.987
+273,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:18:37.982
+274,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:18:27.953
+275,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:18:17.836
+276,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:18:07.792
+277,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:17:57.758
+278,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:17:47.328
+279,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:17:37.297
+280,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:17:27.268
+281,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:17:17.141
+282,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:17:07.105
+283,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:16:57.078
+284,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46059815,-0.93239386,2019-10-10 09:16:46.649
+285,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:29:35.404
+286,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:29:25.285
+287,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:29:19.873
+288,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:29:09.239
+289,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:28:59.111
+290,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:28:48.984
+291,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:28:38.950
+292,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:28:28.826
+293,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:28:18.401
+294,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:27:58.234
+295,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:27:48.110
+296,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46034429,-0.93265962,2019-08-30 11:27:38.076
+297,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093109512172,-0.932174221384693,2019-10-18 12:02:01.319
+298,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:01:52.994
+299,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 12:01:48.380
+300,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:00:41.390
+301,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:00:36.878
+302,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:00:01.574
+303,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:58:56.890
+304,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:58:26.608
+305,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 11:58:18.385
+306,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 11:58:06.048
+307,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093109512172,-0.932174221384693,2019-10-18 11:57:27.841
+308,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:57:15.511
+309,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:57:06.080
+310,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 11:56:56.757
+311,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:56:28.982
+312,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-18 11:56:08.623
+313,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:55:51.377
+314,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:55:39.339
+315,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:55:11.161
+316,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:54:52.306
+317,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-18 11:54:46.690
+318,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:54:25.681
+319,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:54:14.102
+320,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46070134282136,-0.9324023936784128,2019-10-18 11:54:04.672
+321,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:52:40.423
+322,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:49:03.011
+323,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:53:21.714
+324,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:53:16.702
+325,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:53:06.269
+326,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:52:56.243
+327,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:52:46.213
+328,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:52:36.090
+329,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:52:26.066
+330,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:52:16.037
+331,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:52:05.512
+332,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:51:55.483
+333,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:51:45.452
+334,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:51:35.422
+335,80:58:f8:16:c8:7a,77,Jenna Middleton,Quality Assurance Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-09-10 13:51:25.396
+336,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:16:40.888
+337,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:15:40.620
+338,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:14:32.329
+339,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:14:27.115
+340,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:14:10.864
+341,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:14:05.691
+342,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:13:40.579
+343,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:13:27.851
+344,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:13:17.920
+345,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:13:00.373
+346,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:12:29.784
+347,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:12:19.047
+348,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:12:09.126
+349,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:11:54.189
+350,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:11:48.870
+351,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:11:36.940
+352,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:14.679
+353,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:10:57.313
+354,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:10:43.679
+355,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:13.457
+356,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 13:09:57.171
+357,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:08:08.005
+358,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:59.793
+359,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:07:44.653
+360,80:58:f8:cd:09:a8,25,Katelyn Johnson,Systems Analyst,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:39.740

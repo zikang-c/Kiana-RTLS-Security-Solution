@@ -1,0 +1,104 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:15:23.323
+1,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:15:18.308
+2,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:15:08.178
+3,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46035254503874,-0.9326897725252032,2019-11-11 10:14:57.639
+4,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:14:48.110
+5,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:14:37.981
+6,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:14:27.638
+7,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:14:17.509
+8,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:14:07.472
+9,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:13:57.331
+10,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:13:47.209
+11,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:13:37.172
+12,88:b4:a6:dd:5a:f7,13,Katrina Peterson,Sales Executive,1.0,employee,0,51.46047956,-0.93315371,2019-11-11 10:13:26.741
+13,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:24:40.550
+14,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:21:28.521
+15,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:20:49.025
+16,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:20:13.522
+17,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:18:47.083
+18,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:18:25.526
+19,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:18:17.599
+20,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:17:44.101
+21,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-18 16:17:14.019
+22,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:17:09.406
+23,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.460703154673006,-0.9324017269704103,2019-10-18 16:16:47.171
+24,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:16:37.014
+25,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:15:35.046
+26,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:15:26.829
+27,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46091887352097,-0.9321823601230697,2019-10-18 16:14:58.047
+28,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:14:44.712
+29,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:14:32.380
+30,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.460703154673006,-0.9324017269704103,2019-10-18 16:14:04.496
+31,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:13:53.265
+32,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:13:44.639
+33,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46091887352097,-0.9321823601230697,2019-10-18 16:13:37.125
+34,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:13:18.768
+35,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.460703154673006,-0.9324017269704103,2019-10-18 16:13:07.141
+36,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:12:56.203
+37,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:12:20.911
+38,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46082701901487,-0.9322800904909624,2019-10-18 16:11:18.239
+39,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46091887352097,-0.9321823601230697,2019-10-18 16:11:02.396
+40,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-18 16:10:50.061
+41,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:10:47.959
+42,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-18 16:10:24.688
+43,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:10:15.163
+44,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:10:08.949
+45,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:09:58.922
+46,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:09:47.890
+47,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:09:05.477
+48,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46091887352097,-0.9321823601230697,2019-10-18 16:08:50.835
+49,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:08:19.751
+50,80:58:f8:56:81:20,38,Brian Elliott,Civil Engineer,2.0,employee,0,51.460703154673006,-0.9324017269704103,2019-10-18 16:08:08.317
+51,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:30:57.944
+52,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:30:23.652
+53,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.4607572590253,-0.9322337198949084,2019-10-15 08:29:53.872
+54,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:29:33.213
+55,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:29:27.196
+56,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:29:19.071
+57,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:29:00.523
+58,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:28:52.697
+59,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:28:44.777
+60,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.4607572590253,-0.9322337198949084,2019-10-15 08:28:33.650
+61,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46071507691696,-0.932288578521494,2019-10-15 08:28:29.742
+62,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.4607572590253,-0.9322337198949084,2019-10-15 08:28:12.093
+63,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:28:04.681
+64,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.4607572590253,-0.9322337198949084,2019-10-15 08:27:58.246
+65,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:27:42.602
+66,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.460701286358315,-0.9322900552835296,2019-10-15 08:27:31.571
+67,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:27:28.265
+68,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46071507691696,-0.932288578521494,2019-10-15 08:27:13.926
+69,80:58:f8:9b:5a:7a,19,Jeff Ferguson,Logistics Coordinator,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:26:38.124
+70,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:40:39.295
+71,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:39:55.173
+72,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:38:18.605
+73,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:38:09.376
+74,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:37:29.964
+75,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:37:04.189
+76,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:36:54.560
+77,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:36:23.071
+78,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46077715803997,-0.9322274033596124,2019-10-18 11:36:12.938
+79,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46057648064623,-0.9323711236561046,2019-10-18 11:36:01.608
+80,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:35:51.883
+81,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:35:43.255
+82,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:35:38.543
+83,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:35:27.412
+84,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46057648064623,-0.9323711236561046,2019-10-18 11:35:18.388
+85,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:35:07.459
+86,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:34:24.633
+87,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:33:12.629
+88,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076220184297,-0.932241310881894,2019-10-18 11:32:54.679
+89,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:32:47.855
+90,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:32:31.511
+91,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:32:28.300
+92,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:31:57.607
+93,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076220184297,-0.932241310881894,2019-10-18 11:31:46.173
+94,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:31:31.231
+95,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:31:26.217
+96,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46077715803997,-0.9322274033596124,2019-10-18 11:31:14.482
+97,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:31:04.857
+98,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:30:59.941
+99,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46077715803997,-0.9322274033596124,2019-10-18 11:30:47.710
+100,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46077715803997,-0.9322274033596124,2019-10-18 11:30:32.661
+101,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:30:24.238
+102,80:58:f8:04:a1:9d,33,Claudia Swanson,Quality Assurance Specialist,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:29:12.234

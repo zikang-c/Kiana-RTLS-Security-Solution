@@ -1,0 +1,296 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46059815,-0.93239386,2020-01-17 08:53:23.497
+1,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46093752,-0.93238226,2020-01-17 08:53:11.649
+2,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.460583248018935,-0.9323826692772476,2020-01-17 08:53:03.199
+3,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46093752,-0.93238226,2020-01-17 08:52:47.974
+4,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46089088151669,-0.9323823138797056,2020-01-17 08:52:21.506
+5,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46089088151669,-0.9323823138797056,2020-01-17 08:52:01.439
+6,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.460583248018935,-0.9323826692772476,2020-01-17 08:51:52.107
+7,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46059815,-0.93239386,2020-01-17 08:51:43.418
+8,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46093039897478,-0.9323807552046096,2020-01-17 08:51:36.371
+9,60:1d:91:07:bd:15,10,Rebecca Jackson,Receptionist,1.0,employee,0,51.46089088151669,-0.9323823138797056,2020-01-17 08:51:21.350
+10,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:58:51.197
+11,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:57:45.016
+12,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:56:46.157
+13,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-15 10:56:30.707
+14,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:56:10.155
+15,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:56:04.861
+16,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:55:55.218
+17,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:55:32.658
+18,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:55:07.600
+19,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:54:37.504
+20,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:54:29.882
+21,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:53:52.288
+22,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:53:41.364
+23,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-15 10:53:38.553
+24,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:53:25.517
+25,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:53:06.071
+26,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:52:58.546
+27,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:52:46.916
+28,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:52:18.835
+29,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-15 10:52:00.584
+30,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-15 10:51:54.266
+31,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:51:42.037
+32,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:51:28.795
+33,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-15 10:51:11.244
+34,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:51:04.323
+35,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46088192558799,-0.9322285907212524,2019-10-15 10:50:52.294
+36,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:50:23.212
+37,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:49:49.327
+38,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:49:38.103
+39,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:49:25.873
+40,80:58:f8:c2:13:33,31,Kevin Walker,UX/UI Designer,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:48:06.769
+41,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:30:14.804
+42,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:30:09.786
+43,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:29:59.661
+44,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:29:49.626
+45,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:29:39.500
+46,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:29:29.467
+47,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:29:19.436
+48,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:29:09.018
+49,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:28:58.969
+50,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:28:48.839
+51,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:28:38.806
+52,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:28:28.681
+53,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46039305206178,-0.9325628031241412,2019-10-07 10:28:18.654
+54,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:20:59.061
+55,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:18:30.823
+56,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:17:42.208
+57,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:17:38.499
+58,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:17:09.730
+59,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:16:38.162
+60,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:16:15.214
+61,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:16:08.791
+62,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:15:35.714
+63,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:15:22.688
+64,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:15:16.875
+65,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:15:07.952
+66,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:14:59.735
+67,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:14:43.297
+68,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:14:33.070
+69,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:14:22.453
+70,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:14:16.231
+71,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:14:07.206
+72,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:13:49.160
+73,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:13:30.917
+74,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:12:46.915
+75,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:12:27.065
+76,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:11:55.089
+77,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46089230061144,-0.9322179892414024,2019-10-14 14:11:49.874
+78,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:11:23.609
+79,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:10:58.151
+80,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:10:49.934
+81,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:09:59.915
+82,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:09:40.477
+83,80:58:f8:1a:c4:63,43,Gabriela Sanchez,Receptionist,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:09:05.918
+84,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:56:31.732
+85,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:55:41.903
+86,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:54:25.597
+87,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:53:04.788
+88,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:52:36.819
+89,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:52:23.879
+90,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46086423879813,-0.9322074302900069,2019-10-15 13:52:13.255
+91,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46068928,-0.9322374,2019-10-15 13:51:35.058
+92,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:51:28.439
+93,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46068928,-0.9322374,2019-10-15 13:51:11.998
+94,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:50:58.760
+95,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076932902431,-0.9322540760187508,2019-10-15 13:50:42.516
+96,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46068928,-0.9322374,2019-10-15 13:50:31.184
+97,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46096035,-0.93229387,2019-10-15 13:50:17.459
+98,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:50:07.523
+99,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460754264197504,-0.9322085793089656,2019-10-15 13:49:48.672
+100,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46064270587153,-0.9322268696196082,2019-10-15 13:49:27.211
+101,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46081040942952,-0.932238612867375,2019-10-15 13:49:11.774
+102,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:49:03.551
+103,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4608432308427,-0.9322126477890408,2019-10-15 13:48:50.414
+104,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4607742936952,-0.9322113569971168,2019-10-15 13:48:45.809
+105,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46072844900737,-0.9321980591798352,2019-10-15 13:48:39.588
+106,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460784556273275,-0.932205115129615,2019-10-15 13:48:29.554
+107,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4608405630079,-0.9321861369506202,2019-10-15 13:48:12.110
+108,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:48:03.507
+109,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46081040942952,-0.932238612867375,2019-10-15 13:47:59.983
+110,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46079910532194,-0.9322272511180482,2019-10-15 13:47:49.653
+111,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46079910532194,-0.9322272511180482,2019-10-15 13:47:21.879
+112,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:47:19.172
+113,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460954935,-0.93224006,2019-10-15 13:47:01.624
+114,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:46:54.112
+115,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46075287071946,-0.9322315236256488,2019-10-15 13:46:49.796
+116,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:46:37.365
+117,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080192506948,-0.932207397883586,2019-10-15 13:46:26.952
+118,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:46:17.026
+119,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076613084328,-0.9322222950175472,2019-10-15 13:46:04.497
+120,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:45:51.746
+121,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:45:47.737
+122,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078623644449,-0.9322218113463356,2019-10-15 13:45:38.410
+123,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46075287071946,-0.9322315236256488,2019-10-15 13:45:24.680
+124,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46075304916316,-0.9322443839904582,2019-10-15 13:45:19.568
+125,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:45:01.526
+126,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:44:53.099
+127,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077226620156,-0.932191209364072,2019-10-15 13:44:43.578
+128,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:44:38.059
+129,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:44:27.736
+130,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078623644449,-0.9322218113463356,2019-10-15 13:44:19.812
+131,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4608432308427,-0.9322126477890408,2019-10-15 13:44:09.183
+132,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076613084328,-0.9322222950175472,2019-10-15 13:43:59.865
+133,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4608432308427,-0.9322126477890408,2019-10-15 13:43:49.439
+134,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:43:35.502
+135,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:43:21.559
+136,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46086423879813,-0.9322074302900069,2019-10-15 13:43:10.028
+137,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:43:04.813
+138,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078623644449,-0.9322218113463356,2019-10-15 13:42:56.694
+139,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:42:43.963
+140,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:42:37.947
+141,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:42:26.632
+142,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:42:19.602
+143,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46086423879813,-0.9322074302900069,2019-10-15 13:42:09.774
+144,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:41:52.425
+145,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46086423879813,-0.9322074302900069,2019-10-15 13:41:48.212
+146,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076653849351,-0.932248536400992,2019-10-15 13:41:36.788
+147,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:41:20.841
+148,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460774538098654,-0.932307002490461,2019-10-15 13:41:16.532
+149,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078623644449,-0.9322218113463356,2019-10-15 13:41:08.811
+150,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080192506948,-0.932207397883586,2019-10-15 13:40:57.484
+151,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080816614683,-0.9322170353005312,2019-10-15 13:40:43.749
+152,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46075287071946,-0.9322315236256488,2019-10-15 13:40:33.416
+153,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:40:27.107
+154,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:40:18.484
+155,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46074664077632,-0.9322054726351452,2019-10-15 13:40:07.354
+156,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076836052272,-0.9323137371226344,2019-10-15 13:39:55.619
+157,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:39:43.893
+158,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:39:39.694
+159,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460745516806064,-0.9322713319397372,2019-10-15 13:39:28.960
+160,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46073050816474,-0.9322685187783106,2019-10-15 13:39:17.635
+161,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:39:05.108
+162,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:38:59.785
+163,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46075831140292,-0.9322254737537584,2019-10-15 13:38:49.662
+164,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46084346460892,-0.9323304312943596,2019-10-15 13:38:38.634
+165,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460706532701245,-0.9322358238176172,2019-10-15 13:38:28.521
+166,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46075287071946,-0.9322315236256488,2019-10-15 13:38:16.978
+167,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776135574235,-0.9323062064527564,2019-10-15 13:38:00.073
+168,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460778692029095,-0.9322724370393078,2019-10-15 13:37:57.928
+169,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:37:45.297
+170,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:37:31.362
+171,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460774538098654,-0.932307002490461,2019-10-15 13:37:29.952
+172,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46069819037176,-0.9322729021562292,2019-10-15 13:37:05.002
+173,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:36:58.674
+174,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076836052272,-0.9323137371226344,2019-10-15 13:36:49.547
+175,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080192506948,-0.932207397883586,2019-10-15 13:36:37.529
+176,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077714655254,-0.932314894038683,2019-10-15 13:36:23.382
+177,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:36:14.959
+178,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077476893901,-0.932309296399882,2019-10-15 13:36:03.832
+179,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:35:55.316
+180,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077240090075,-0.93231769122905,2019-10-15 13:35:46.591
+181,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:35:39.069
+182,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076620058369,-0.9323056179365942,2019-10-15 13:35:28.846
+183,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:35:17.115
+184,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:35:08.296
+185,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:34:56.462
+186,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:34:45.433
+187,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46074664077632,-0.9322054726351452,2019-10-15 13:34:35.809
+188,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080192506948,-0.932207397883586,2019-10-15 13:34:29.497
+189,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:34:11.943
+190,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:34:09.340
+191,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460779876667374,-0.9323204280315068,2019-10-15 13:33:53.192
+192,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:33:42.872
+193,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:33:34.848
+194,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46074664077632,-0.9322054726351452,2019-10-15 13:33:25.324
+195,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:33:15.496
+196,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:33:08.479
+197,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:32:52.636
+198,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:32:46.414
+199,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:32:38.995
+200,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:32:28.064
+201,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460748042197366,-0.9322193988524023,2019-10-15 13:32:13.935
+202,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:32:08.012
+203,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:31:54.780
+204,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766876475965,-0.932303533227762,2019-10-15 13:31:47.355
+205,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076836052272,-0.9323137371226344,2019-10-15 13:31:39.632
+206,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076753412381,-0.9323076806924824,2019-10-15 13:31:25.598
+207,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078875304075,-0.9322294215282662,2019-10-15 13:31:14.571
+208,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:31:07.442
+209,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:30:58.022
+210,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46069514787146,-0.9322336711406204,2019-10-15 13:30:42.683
+211,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:30:33.458
+212,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076812632192,-0.9323114098196954,2019-10-15 13:30:28.842
+213,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077714819625,-0.9323055058676482,2019-10-15 13:30:14.500
+214,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:30:04.293
+215,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:29:59.864
+216,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460765794697195,-0.932304295402927,2019-10-15 13:29:48.031
+217,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460716294166495,-0.932209507081736,2019-10-15 13:29:37.609
+218,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077476893901,-0.932309296399882,2019-10-15 13:29:29.998
+219,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776361106475,-0.9323084476143376,2019-10-15 13:29:18.553
+220,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:29:00.600
+221,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460781446852,-0.9323167049927528,2019-10-15 13:28:58.895
+222,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080547916991,-0.9322049282919777,2019-10-15 13:28:42.258
+223,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:28:32.125
+224,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460769048218246,-0.932314602698027,2019-10-15 13:28:29.618
+225,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076836052272,-0.9323137371226344,2019-10-15 13:28:17.889
+226,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460767468760224,-0.9323054564697681,2019-10-15 13:28:00.439
+227,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460766703339374,-0.9323060638114636,2019-10-15 13:27:56.232
+228,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460774538098654,-0.932307002490461,2019-10-15 13:27:46.092
+229,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076617342429,-0.9322984047621108,2019-10-15 13:27:35.365
+230,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077625773181,-0.9323047960309274,2019-10-15 13:27:28.944
+231,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080961142175,-0.9322117182401602,2019-10-15 13:27:14.210
+232,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4607766589643,-0.932310207333462,2019-10-15 13:27:07.385
+233,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460769226192795,-0.9323106509198128,2019-10-15 13:26:59.464
+234,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077974151657,-0.9323098384042808,2019-10-15 13:26:44.925
+235,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4607767525204,-0.932314909830707,2019-10-15 13:26:39.809
+236,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.4607712565557,-0.9323077077926852,2019-10-15 13:26:26.298
+237,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077637331966,-0.9323141373035304,2019-10-15 13:26:19.750
+238,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076131459543,-0.9322020446066586,2019-10-15 13:26:05.232
+239,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460776137159904,-0.9323057386680382,2019-10-15 13:25:56.296
+240,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077772787688,-0.932320197711785,2019-10-15 13:25:48.867
+241,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078151574337,-0.9323182595765716,2019-10-15 13:25:39.845
+242,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077686378371,-0.932302721530384,2019-10-15 13:25:25.809
+243,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46074364948418,-0.9322273809658704,2019-10-15 13:25:13.473
+244,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078239376178,-0.932305453011752,2019-10-15 13:25:03.355
+245,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078353190769,-0.9323104948270902,2019-10-15 13:24:58.926
+246,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.460772484272624,-0.9323109088159076,2019-10-15 13:24:43.688
+247,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46088943815429,-0.9321997601385512,2019-10-15 13:24:34.377
+248,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46085208734842,-0.9321990544165292,2019-10-15 13:24:26.748
+249,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46072679581104,-0.93221948217105,2019-10-15 13:24:12.607
+250,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46078754610674,-0.932304533006431,2019-10-15 13:24:03.088
+251,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46091875183998,-0.9322386634680568,2019-10-15 13:23:52.550
+252,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46076727229483,-0.9323077284420108,2019-10-15 13:23:46.837
+253,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46082816333838,-0.9322021984651065,2019-10-15 13:23:34.899
+254,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:23:29.884
+255,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46080495,-0.9321861,2019-10-15 13:23:01.817
+256,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46095426563189,-0.9322334083475802,2019-10-15 13:22:53.107
+257,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077773723279,-0.932308774287258,2019-10-15 13:22:34.336
+258,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:22:16.699
+259,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46094952,-0.93218625,2019-10-15 13:21:14.518
+260,a4:34:d9:bd:e3:c7,177,Michelle Flores,Clinical Research Associate,2.0,employee,0,51.46077483,-0.93232188,2019-10-15 13:19:47.177
+261,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:37:13.469
+262,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:36:56.522
+263,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:36:45.303
+264,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:36:28.362
+265,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:35:54.992
+266,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:35:31.435
+267,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:35:24.416
+268,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:35:18.802
+269,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:35:07.674
+270,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:34:45.621
+271,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:34:32.687
+272,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:34:20.458
+273,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:34:17.953
+274,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:34:08.936
+275,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46089527889429,-0.9323609108988304,2019-10-14 14:33:49.188
+276,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46089527889429,-0.9323609108988304,2019-10-14 14:33:35.350
+277,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:33:28.839
+278,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:33:16.308
+279,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:33:01.169
+280,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:32:54.760
+281,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:32:47.739
+282,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:32:32.921
+283,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:32:20.874
+284,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:32:10.946
+285,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46089527889429,-0.9323609108988304,2019-10-14 14:32:07.951
+286,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:31:55.925
+287,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:31:45.794
+288,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46089527889429,-0.9323609108988304,2019-10-14 14:31:39.174
+289,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:31:29.454
+290,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:31:17.424
+291,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:31:01.189
+292,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:30:51.066
+293,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46089527889429,-0.9323609108988304,2019-10-14 14:30:45.252
+294,80:58:f8:af:4c:48,34,Susan Schmidt,Security Guard,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:29:47.212

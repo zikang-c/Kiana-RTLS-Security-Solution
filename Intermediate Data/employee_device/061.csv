@@ -1,0 +1,132 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46049051,-0.93277142,2019-10-22 10:04:10.011
+1,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46047104510764,-0.9330658940026691,2019-10-22 10:04:07.302
+2,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.460412762577214,-0.932968059193082,2019-10-22 10:03:55.376
+3,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.460433077439994,-0.9330543445052616,2019-10-22 10:03:49.564
+4,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46042860765398,-0.9330374304975064,2019-10-22 10:03:37.130
+5,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46043916898412,-0.9330243363163708,2019-10-22 10:03:27.813
+6,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46043916898412,-0.9330243363163708,2019-10-22 10:03:13.079
+7,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46042604146937,-0.932979758774352,2019-10-22 10:03:06.461
+8,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46043916898412,-0.9330243363163708,2019-10-22 10:02:53.033
+9,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46043916898412,-0.9330243363163708,2019-10-22 10:02:42.212
+10,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46042860765398,-0.9330374304975064,2019-10-22 10:02:39.708
+11,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46043916898412,-0.9330243363163708,2019-10-22 10:02:29.589
+12,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46042503683192,-0.9330060819444662,2019-10-22 10:02:17.254
+13,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46043916898412,-0.9330243363163708,2019-10-22 10:02:05.826
+14,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46049150476612,-0.9329292917505329,2019-10-22 10:01:59.011
+15,d0:77:14:ae:e8:60,16,Jeffrey Alexander,Laboratory Technician,2.0,employee,0,51.46049427,-0.93322055,2019-10-22 10:01:47.987
+16,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.460428878809054,-0.9328636530594492,2019-11-04 15:38:15.826
+17,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46034575,-0.93307374,2019-11-04 15:38:07.501
+18,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46034575,-0.93307374,2019-11-04 15:37:57.471
+19,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.460429120874174,-0.932953136451322,2019-11-04 15:37:42.736
+20,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46034575,-0.93307374,2019-11-04 15:37:36.921
+21,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.460429120874174,-0.932953136451322,2019-11-04 15:37:27.292
+22,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46034575,-0.93307374,2019-11-04 15:37:16.758
+23,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46039473038858,-0.9328598593646016,2019-11-04 15:37:04.318
+24,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.460428878809054,-0.9328636530594492,2019-11-04 15:36:59.301
+25,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.460428878809054,-0.9328636530594492,2019-11-04 15:36:49.177
+26,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46039473038858,-0.9328598593646016,2019-11-04 15:36:38.749
+27,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46039473038858,-0.9328598593646016,2019-11-04 15:36:28.720
+28,88:b4:a6:c4:41:83,13,Stacy Bernard,Forklift Operator,3.0,employee,2,51.46042847,-0.93271253,2019-11-04 15:36:18.592
+29,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.460782340855786,-0.9322257581807116,2019-10-14 14:44:26.203
+30,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:43:43.602
+31,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:43:31.471
+32,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.460782340855786,-0.9322257581807116,2019-10-14 14:41:57.850
+33,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:41:25.178
+34,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46058185355017,-0.9323767611196384,2019-10-14 14:41:12.940
+35,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:40:21.315
+36,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:40:13.500
+37,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:38:47.186
+38,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:38:39.470
+39,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077247888192,-0.9322347587130172,2019-10-14 14:38:12.799
+40,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-14 14:37:40.634
+41,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-14 14:37:26.196
+42,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46058185355017,-0.9323767611196384,2019-10-14 14:37:02.437
+43,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-14 14:36:58.531
+44,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:36:49.609
+45,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077247888192,-0.9322347587130172,2019-10-14 14:36:00.298
+46,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-14 14:35:45.568
+47,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:35:31.735
+48,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:35:25.343
+49,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.460782340855786,-0.9322257581807116,2019-10-14 14:35:19.902
+50,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:35:04.866
+51,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46058185355017,-0.9323767611196384,2019-10-14 14:34:54.447
+52,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46077600151962,-0.9322337217578596,2019-10-14 14:34:24.968
+53,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:34:07.437
+54,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:33:57.705
+55,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:33:24.328
+56,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-14 14:33:17.614
+57,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:32:54.154
+58,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:31:06.200
+59,80:58:f8:33:f2:12,31,Rebekah Allen,Digital Marketing Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 14:29:25.863
+60,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:43:16.069
+61,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:43:05.938
+62,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:42:55.702
+63,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:42:45.474
+64,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:42:35.741
+65,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:42:25.308
+66,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:42:14.976
+67,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:42:09.957
+68,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:41:55.114
+69,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:41:45.482
+70,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:41:39.666
+71,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 13:41:29.633
+72,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-15 08:28:10.385
+73,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:28:04.078
+74,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.460566394726655,-0.932336034266715,2019-10-15 08:27:43.919
+75,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:27:31.574
+76,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46078621,-0.93222453,2019-10-15 08:27:27.362
+77,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46054688097471,-0.9323005001050918,2019-10-15 08:27:12.722
+78,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.460566394726655,-0.932336034266715,2019-10-15 08:27:04.810
+79,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.460566394726655,-0.932336034266715,2019-10-15 08:26:55.680
+80,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.460566394726655,-0.932336034266715,2019-10-15 08:26:48.661
+81,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:26:39.230
+82,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46055064991814,-0.932344021033522,2019-10-15 08:26:25.592
+83,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.460566394726655,-0.932336034266715,2019-10-15 08:26:19.685
+84,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46054688097471,-0.9323005001050918,2019-10-15 08:26:02.043
+85,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46062624202328,-0.932368565826329,2019-10-15 08:25:59.315
+86,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.460566394726655,-0.932336034266715,2019-10-15 08:25:44.573
+87,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46055064991814,-0.932344021033522,2019-10-15 08:25:33.246
+88,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46054688097471,-0.9323005001050918,2019-10-15 08:25:28.325
+89,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46059815,-0.93239386,2019-10-15 08:25:15.086
+90,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46055064991814,-0.932344021033522,2019-10-15 08:25:06.058
+91,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46051793,-0.93230969,2019-10-15 08:24:50.905
+92,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46062624202328,-0.932368565826329,2019-10-15 08:24:41.977
+93,80:58:f8:2b:93:7c,34,Christopher Sandoval,Cybersecurity Analyst,3.0,employee,0,51.46062624202328,-0.932368565826329,2019-10-15 08:24:31.150
+94,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:19:31.362
+95,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:19:26.344
+96,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-11 15:19:16.315
+97,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-11 15:19:06.183
+98,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:18:56.151
+99,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46043688165952,-0.9327784645978556,2019-11-11 15:18:45.826
+100,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:18:35.697
+101,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:18:25.660
+102,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:18:15.626
+103,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:18:05.499
+104,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:17:55.468
+105,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:17:45.441
+106,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-11 15:17:35.007
+107,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:02:38.485
+108,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:02:28.509
+109,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:02:18.602
+110,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:02:08.288
+111,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:01:58.252
+112,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:01:48.123
+113,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:01:37.789
+114,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:01:27.660
+115,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:01:17.629
+116,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:01:07.503
+117,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:00:57.467
+118,88:b4:a6:e1:ec:89,25,Brittany Melton,Security Guard,0.0,employee,0,51.460396,-0.9332149,2019-11-11 16:00:47.341
+119,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:57:40.162
+120,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:57:37.488
+121,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:57:29.817
+122,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:57:18.401
+123,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460490839488926,-0.9326557813719,2020-03-05 15:57:06.440
+124,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:56:59.313
+125,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460472372488525,-0.932745745002676,2020-03-05 15:56:47.195
+126,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460491501669466,-0.932684325314767,2020-03-05 15:56:35.741
+127,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:56:25.613
+128,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:56:17.724
+129,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:56:07.599
+130,58:d9:c3:3b:a3:49,12,Natasha Romero,Quality Assurance Specialist,2.0,employee,0,51.460344809914815,-0.9325477091634186,2020-03-05 15:55:58.688

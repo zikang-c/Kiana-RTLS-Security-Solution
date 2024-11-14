@@ -1,0 +1,206 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:05:52.047
+1,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.460769171939305,-0.9323164684527196,2020-03-12 12:05:45.864
+2,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:05:37.322
+3,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:05:29.664
+4,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:05:19.632
+5,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:05:08.446
+6,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:04:57.183
+7,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:04:46.890
+8,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:04:32.074
+9,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.460769171939305,-0.9323164684527196,2020-03-12 12:04:22.088
+10,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.460769171939305,-0.9323164684527196,2020-03-12 12:04:17.042
+11,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.46083184,-0.93224795,2020-03-12 12:04:08.133
+12,24:46:c8:fb:b5:06,13,Jennifer Miller,UX/UI Designer,0.0,employee,0,51.460769171939305,-0.9323164684527196,2020-03-12 12:03:56.952
+13,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:20:34.283
+14,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:20:29.268
+15,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:20:19.144
+16,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:20:09.109
+17,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:19:58.981
+18,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:19:48.949
+19,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:19:38.549
+20,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:19:28.485
+21,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:19:18.449
+22,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:19:08.309
+23,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:18:58.271
+24,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46069095152711,-0.9323957999934592,2019-08-28 14:18:48.235
+25,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-08-28 14:18:37.803
+26,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:39:26.082
+27,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:36:09.820
+28,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:35:50.577
+29,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:33:41.782
+30,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:32:46.450
+31,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:32:32.014
+32,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:32:09.974
+33,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:31:38.091
+34,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:31:19.647
+35,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:30:47.363
+36,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46092538737067,-0.9321841802950844,2019-10-14 11:30:23.908
+37,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:30:19.905
+38,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:30:05.262
+39,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:29:53.841
+40,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:29:44.714
+41,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:29:32.189
+42,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:29:23.161
+43,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:29:17.649
+44,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:29:02.126
+45,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:28:51.686
+46,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46092538737067,-0.9321841802950844,2019-10-14 11:28:43.871
+47,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46092538737067,-0.9321841802950844,2019-10-14 11:28:36.948
+48,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:28:23.612
+49,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:28:08.176
+50,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:27:48.433
+51,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:27:25.107
+52,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:26:57.909
+53,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:26:42.777
+54,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:26:28.952
+55,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46092538737067,-0.9321841802950844,2019-10-14 11:26:18.119
+56,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:26:05.192
+57,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:25:58.576
+58,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:25:28.699
+59,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:24:32.564
+60,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:21:58.583
+61,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:06:32.478
+62,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:06:27.463
+63,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:06:17.346
+64,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:06:07.323
+65,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:05:57.198
+66,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:05:47.175
+67,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:05:37.049
+68,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:05:27.017
+69,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:05:16.986
+70,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:05:06.868
+71,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:04:56.834
+72,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:04:46.810
+73,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46038837,-0.93313945,2020-01-15 15:04:36.700
+74,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:14:24.384
+75,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:14:13.214
+76,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:14:09.442
+77,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:13:55.477
+78,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:13:49.325
+79,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:13:37.838
+80,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:13:23.085
+81,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:13:19.222
+82,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:13:09.123
+83,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:12:56.494
+84,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:12:45.258
+85,80:58:f8:61:00:7b,73,Gabrielle Hensley,Database Administrator,1.0,employee,0,51.46093752,-0.93238226,2020-02-19 09:12:32.896
+86,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:30:32.740
+87,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:30:27.725
+88,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:30:17.598
+89,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:30:07.568
+90,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:29:57.445
+91,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:29:47.314
+92,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:29:36.992
+93,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:29:26.860
+94,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:29:16.831
+95,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:29:06.696
+96,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:28:56.661
+97,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:28:46.530
+98,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,2,51.4603587,-0.93284249,2019-11-04 10:28:36.100
+99,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:49:40.162
+100,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:49:35.149
+101,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:49:25.117
+102,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.46051021,-0.93242014,2019-11-06 14:49:14.996
+103,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.46051021,-0.93242014,2019-11-06 14:49:09.681
+104,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:48:59.640
+105,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.46051021,-0.93242014,2019-11-06 14:48:49.511
+106,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:48:39.481
+107,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:48:29.451
+108,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:48:19.412
+109,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:48:08.985
+110,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.46051021,-0.93242014,2019-11-06 14:47:58.946
+111,88:b4:a6:33:f8:bd,26,Nicolas Sullivan,Supply Chain Analyst,3.0,employee,0,51.460434455,-0.932631315,2019-11-06 14:47:48.819
+112,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.460351632875366,-0.932686440738445,2019-11-05 12:02:49.623
+113,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:02:36.983
+114,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:02:26.948
+115,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:02:16.223
+116,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:02:06.189
+117,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.460351632875366,-0.932686440738445,2019-11-05 12:01:58.869
+118,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.460351632875366,-0.932686440738445,2019-11-05 12:01:48.735
+119,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.460351632875366,-0.932686440738445,2019-11-05 12:01:38.701
+120,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.460351632875366,-0.932686440738445,2019-11-05 12:01:28.573
+121,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:01:15.528
+122,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:01:05.405
+123,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:00:54.969
+124,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46047956,-0.93315371,2019-11-05 12:00:49.952
+125,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:38:44.766
+126,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:38:39.656
+127,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:38:29.315
+128,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:38:19.186
+129,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:38:09.155
+130,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:37:59.119
+131,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:37:48.994
+132,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:37:38.952
+133,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:37:28.525
+134,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:37:18.487
+135,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:37:08.467
+136,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:36:58.333
+137,88:b4:a6:7a:3f:ba,26,Joshua Krause,Operations Manager,0.0,employee,0,51.46036480785378,-0.9328009434360514,2019-11-01 09:36:48.292
+138,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46052764,-0.93242922,2020-01-17 11:14:51.960
+139,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46042011,-0.93261704,2020-01-17 11:14:43.751
+140,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46052764,-0.93242922,2020-01-17 11:14:25.127
+141,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46042011,-0.93261704,2020-01-17 11:14:18.279
+142,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46052764,-0.93242922,2020-01-17 11:14:04.843
+143,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46042011,-0.93261704,2020-01-17 11:13:42.486
+144,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46052764,-0.93242922,2020-01-17 11:13:29.342
+145,04:04:39:91:60:92,8,Destiny Torres,,,visitor,0,51.46042011,-0.93261704,2020-01-17 11:13:01.498
+146,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46042847,-0.93271253,2019-11-11 10:19:00.025
+147,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:18:56.707
+148,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46042631613307,-0.9327233264648732,2019-11-11 10:18:49.983
+149,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46042631613307,-0.9327233264648732,2019-11-11 10:18:39.855
+150,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:18:26.414
+151,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:18:16.373
+152,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:18:06.249
+153,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:17:55.817
+154,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:17:25.516
+155,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:17:15.384
+156,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:17:09.859
+157,88:b4:a6:e1:ec:c0,12,Stephen Craig,Data Scientist,1.0,employee,0,51.46037997847077,-0.932955598447914,2019-11-11 10:16:59.426
+158,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:42:30.527
+159,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:42:27.318
+160,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:42:17.282
+161,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:42:07.248
+162,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:41:56.817
+163,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:41:46.784
+164,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:41:36.790
+165,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:41:26.714
+166,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.4604571692603,-0.9326988288651858,2019-10-08 10:41:18.994
+167,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.4604571692603,-0.9326988288651858,2019-10-08 10:41:08.958
+168,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.460478714349314,-0.932872957723282,2019-10-08 10:40:56.220
+169,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.4604571692603,-0.9326988288651858,2019-10-08 10:40:48.796
+170,f0:d7:aa:69:89:e0,13,Megan Rodriguez DDS,Chief Marketing Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:40:38.368
+171,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.460921038671096,-0.932386071689002,2020-01-17 15:01:04.643
+172,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:00:57.117
+173,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.46089478051572,-0.932376508232649,2020-01-17 15:00:49.602
+174,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.460921038671096,-0.932386071689002,2020-01-17 15:00:34.574
+175,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:00:27.534
+176,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:00:06.419
+177,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.460921038671096,-0.932386071689002,2020-01-17 14:59:59.482
+178,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.460921038671096,-0.932386071689002,2020-01-17 14:59:44.456
+179,60:1d:91:0a:6f:63,9,Timothy Carey,,,visitor,0,51.46085533,-0.93236214,2020-01-17 14:59:31.014
+180,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:34:14.184
+181,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:34:04.755
+182,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:33:59.735
+183,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:33:49.606
+184,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:33:39.576
+185,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:33:29.237
+186,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:33:19.206
+187,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:33:09.084
+188,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:32:59.055
+189,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:32:49.020
+190,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:32:38.988
+191,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:32:28.561
+192,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46046421767945,-0.933132778587584,2019-10-08 11:32:18.528
+193,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46051391016054,-0.9327446132646148,2019-10-08 11:07:17.059
+194,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46051391016054,-0.9327446132646148,2019-10-08 11:07:06.623
+195,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46051391016054,-0.9327446132646148,2019-10-08 11:06:56.590
+196,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 11:06:49.868
+197,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 11:06:39.832
+198,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460529243825015,-0.9326807677859356,2019-10-08 11:06:26.490
+199,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460529243825015,-0.9326807677859356,2019-10-08 11:06:16.459
+200,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460529243825015,-0.9326807677859356,2019-10-08 11:06:06.028
+201,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460529243825015,-0.9326807677859356,2019-10-08 11:05:45.875
+202,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460529243825015,-0.9326807677859356,2019-10-08 11:05:35.843
+203,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460529243825015,-0.9326807677859356,2019-10-08 11:05:25.807
+204,f0:d7:aa:12:c6:1d,25,Tonya Ellison,Research Scientist,3.0,employee,0,51.460543745096174,-0.9323367762209532,2019-10-08 11:05:18.986

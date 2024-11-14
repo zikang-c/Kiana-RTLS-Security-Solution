@@ -1,0 +1,71 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:59:21.888
+1,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:59:16.872
+2,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:59:06.746
+3,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-11-12 11:58:54.106
+4,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:58:46.678
+5,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:58:36.644
+6,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:58:26.513
+7,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:58:16.178
+8,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:58:06.046
+9,24:46:c8:c8:cb:c6,10,Matthew Stanley,Content Strategist,0.0,employee,0,51.4606371,-0.93246087,2019-11-12 11:57:56.012
+10,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:23:49.079
+11,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:23:38.957
+12,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:23:28.927
+13,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:23:18.504
+14,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:23:08.472
+15,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:22:58.446
+16,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:22:48.324
+17,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:22:38.293
+18,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:22:28.267
+19,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:22:17.841
+20,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:22:07.843
+21,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46059815,-0.93239386,2019-10-11 14:21:57.685
+22,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:40:33.529
+23,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:40:26.709
+24,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:33:49.806
+25,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:30:25.235
+26,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-18 09:29:13.335
+27,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:28:42.053
+28,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:28:18.384
+29,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:27:50.202
+30,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:27:37.566
+31,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:27:01.375
+32,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:26:40.205
+33,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-18 09:26:15.233
+34,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:26:07.408
+35,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:25:57.776
+36,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:25:44.436
+37,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:25:28.799
+38,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:25:09.162
+39,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:24:48.473
+40,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:24:24.404
+41,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:24:19.388
+42,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:24:06.356
+43,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:23:58.235
+44,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:23:40.678
+45,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:23:39.374
+46,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:23:18.512
+47,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:23:01.569
+48,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-18 09:22:59.565
+49,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:22:42.312
+50,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:22:05.606
+51,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:21:41.338
+52,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:21:31.726
+53,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:21:00.727
+54,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:20:41.368
+55,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:18:47.835
+56,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:18:27.679
+57,80:58:f8:2e:c7:66,48,Dr. Melissa Acosta MD,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:16:22.724
+58,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46063548846022,-0.9322723734707308,2019-10-08 10:32:18.090
+59,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46063548846022,-0.9322723734707308,2019-10-08 10:32:08.057
+60,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:31:57.928
+61,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:31:47.894
+62,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46063548846022,-0.9322723734707308,2019-10-08 10:31:37.862
+63,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:31:27.427
+64,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:31:17.300
+65,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:31:07.267
+66,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:30:57.146
+67,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:30:47.110
+68,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46057254238349,-0.9324932354237092,2019-10-08 10:30:37.078
+69,f0:d7:aa:b5:69:52,12,Alex Drake,Supply Chain Analyst,1.0,employee,0,51.46053762088948,-0.932850122207059,2019-10-08 10:30:22.437

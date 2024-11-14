@@ -1,0 +1,128 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46035034,-0.93249794,2019-10-08 11:56:42.580
+1,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.460467007335815,-0.9329130850198198,2019-10-08 11:56:37.673
+2,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46036770765337,-0.9326487466747726,2019-10-08 11:56:27.740
+3,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46036770765337,-0.9326487466747726,2019-10-08 11:56:12.597
+4,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46036770765337,-0.9326487466747726,2019-10-08 11:56:07.578
+5,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46036770765337,-0.9326487466747726,2019-10-08 11:55:52.130
+6,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46036770765337,-0.9326487466747726,2019-10-08 11:55:47.019
+7,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.46036770765337,-0.9326487466747726,2019-10-08 11:55:36.984
+8,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.460467007335815,-0.9329130850198198,2019-10-08 11:55:26.955
+9,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.460467007335815,-0.9329130850198198,2019-10-08 11:55:16.923
+10,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.460467007335815,-0.9329130850198198,2019-10-08 11:55:06.795
+11,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.460467007335815,-0.9329130850198198,2019-10-08 11:54:56.372
+12,f0:d7:aa:6e:e9:64,13,Cheryl Booth,Laboratory Technician,0.0,employee,0,51.460467007335815,-0.9329130850198198,2019-10-08 11:54:46.344
+13,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46040529419168,-0.9325288734395402,2020-08-18 14:43:35.374
+14,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:43:28.050
+15,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:43:16.322
+16,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:43:06.204
+17,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:42:53.978
+18,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:42:46.068
+19,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:42:37.263
+20,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:42:28.606
+21,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:42:16.996
+22,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:42:09.845
+23,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:41:58.297
+24,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:41:46.782
+25,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.46048952167102,-0.93303395578653,2020-08-18 14:41:38.099
+26,34:f6:4b:f9:96:23,14,Jennifer Jones,Cybersecurity Analyst,1.0,employee,0,51.460448412713326,-0.9324690506493734,2020-08-18 14:41:28.863
+27,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46045131839343,-0.9325142683019692,2020-08-19 10:24:00.322
+28,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:23:53.089
+29,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:23:48.024
+30,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:23:37.999
+31,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:23:28.022
+32,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:23:19.320
+33,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:23:09.360
+34,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:22:55.830
+35,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:22:44.365
+36,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:22:39.301
+37,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:22:29.249
+38,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:22:15.673
+39,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46046224774475,-0.9330633025556676,2020-08-19 10:22:09.163
+40,34:f6:4b:ac:4b:e0,14,Katherine Smith,Civil Engineer,2.0,employee,0,51.46047140277572,-0.9330056066339298,2020-08-19 10:21:57.742
+41,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 14:09:10.509
+42,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 14:04:56.541
+43,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 14:03:50.970
+44,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 14:02:40.379
+45,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 14:01:57.769
+46,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 14:01:38.934
+47,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 14:01:24.582
+48,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 14:01:02.131
+49,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 14:00:44.981
+50,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 14:00:04.383
+51,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:59:57.968
+52,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:59:43.334
+53,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:59:31.098
+54,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:59:28.593
+55,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:59:14.559
+56,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:59:08.542
+57,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:58:59.923
+58,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:58:42.773
+59,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:58:38.870
+60,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:58:21.011
+61,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:57:48.227
+62,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:57:38.601
+63,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:57:21.154
+64,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:57:14.035
+65,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.460394282859326,-0.932681231759866,2019-10-15 13:57:08.120
+66,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:56:59.597
+67,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:56:47.573
+68,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:56:33.234
+69,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:56:24.315
+70,f4:f5:24:ca:b5:30,30,Amy Hopkins,Public Relations Manager,0.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:55:01.097
+71,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:58:40.803
+72,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:57:48.572
+73,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:55:38.885
+74,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:55:13.325
+75,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:54:39.142
+76,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:53:52.327
+77,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:53:40.601
+78,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:53:34.586
+79,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:53:25.670
+80,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:53:16.347
+81,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:52:52.792
+82,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:52:42.471
+83,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:52:32.843
+84,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:52:10.792
+85,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:52:05.983
+86,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:51:44.868
+87,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:51:39.321
+88,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:51:22.479
+89,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:51:10.753
+90,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:51:05.746
+91,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:50:57.027
+92,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 14:50:48.404
+93,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:56.491
+94,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:49:41.652
+95,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:49:30.033
+96,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:49:29.126
+97,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:49:00.366
+98,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:48:44.625
+99,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:48:28.691
+100,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 14:47:49.297
+101,80:58:f8:ca:50:cb,31,Jennifer Atkins,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 14:47:32.858
+102,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460473328977926,-0.9328713834889534,2019-11-05 16:18:03.536
+103,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.46044001615032,-0.932757184060886,2019-11-05 16:17:59.625
+104,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.46044001615032,-0.932757184060886,2019-11-05 16:17:49.498
+105,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460473328977926,-0.9328713834889534,2019-11-05 16:17:38.052
+106,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460473328977926,-0.9328713834889534,2019-11-05 16:17:27.930
+107,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460369625721896,-0.9328817646919398,2019-11-05 16:17:17.598
+108,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460473328977926,-0.9328713834889534,2019-11-05 16:17:07.764
+109,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460369625721896,-0.9328817646919398,2019-11-05 16:16:56.831
+110,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460369625721896,-0.9328817646919398,2019-11-05 16:16:46.795
+111,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460369625721896,-0.9328817646919398,2019-11-05 16:16:36.666
+112,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460369625721896,-0.9328817646919398,2019-11-05 16:16:26.227
+113,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.460473328977926,-0.9328713834889534,2019-11-05 16:16:11.988
+114,88:b4:a6:eb:c1:3a,13,John Higgins,Database Administrator,3.0,employee,0,51.46044001615032,-0.932757184060886,2019-11-05 16:16:02.983
+115,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46032165,-0.93252614,2019-11-05 16:51:47.400
+116,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46032165,-0.93252614,2019-11-05 16:51:37.267
+117,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46032165,-0.93252614,2019-11-05 16:51:27.235
+118,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46041699883772,-0.932999862585559,2019-11-04 12:34:52.830
+119,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46041699883772,-0.932999862585559,2019-11-04 12:34:47.816
+120,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46041699883772,-0.932999862585559,2019-11-04 12:34:37.786
+121,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46041699883772,-0.932999862585559,2019-11-04 12:34:27.453
+122,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46050376,-0.93231244,2019-11-04 12:34:19.434
+123,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46041699883772,-0.932999862585559,2019-11-04 12:34:07.296
+124,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46041699883772,-0.932999862585559,2019-11-04 12:33:57.268
+125,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46050376,-0.93231244,2019-11-04 12:33:48.835
+126,88:b4:a6:6c:31:75,12,Richard Becker,Product Designer,1.0,employee,0,51.46050376,-0.93231244,2019-11-04 12:33:38.805

@@ -1,0 +1,296 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46079327110892,-0.9324156208967288,2020-02-12 14:57:34.567
+1,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46079327110892,-0.9324156208967288,2020-02-12 14:57:29.606
+2,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:57:15.298
+3,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:57:09.661
+4,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:56:59.870
+5,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:56:44.254
+6,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:56:37.914
+7,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:56:25.230
+8,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:56:18.032
+9,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:56:09.475
+10,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:55:54.194
+11,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46074004326835,-0.9323946501144248,2020-02-12 14:55:46.942
+12,24:46:c8:5d:57:37,13,Sean Lopez,Cybersecurity Analyst,2.0,employee,0,51.46044905,-0.93249523,2020-02-12 14:55:38.887
+13,f0:d7:aa:62:4d:6d,4,Mr. Derrick Oliver,,,visitor,0,51.460437834655565,-0.9328645940156904,2019-10-08 10:34:04.048
+14,f0:d7:aa:62:4d:6d,4,Mr. Derrick Oliver,,,visitor,0,51.460437834655565,-0.9328645940156904,2019-10-08 10:33:58.616
+15,f0:d7:aa:62:4d:6d,4,Mr. Derrick Oliver,,,visitor,0,51.46047156253138,-0.932830479207793,2019-10-08 10:33:48.579
+16,f0:d7:aa:62:4d:6d,4,Mr. Derrick Oliver,,,visitor,0,51.460437834655565,-0.9328645940156904,2019-10-08 10:33:38.552
+17,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:48:45.895
+18,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:47:31.720
+19,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:46:26.457
+20,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:46:15.734
+21,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:45:49.366
+22,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:45:34.729
+23,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:45:28.015
+24,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:45:08.767
+25,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:44:54.231
+26,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:44:49.820
+27,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:44:38.493
+28,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:44:23.855
+29,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:44:14.832
+30,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:44:01.600
+31,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:43:55.792
+32,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:43:44.865
+33,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:43:22.915
+34,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:43:01.472
+35,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:42:56.749
+36,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:42:46.122
+37,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:42:37.703
+38,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:42:12.444
+39,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:42:03.952
+40,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:41:56.209
+41,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:41:21.224
+42,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:41:19.122
+43,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:41:06.793
+44,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-10-14 09:40:44.440
+45,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46091313973363,-0.932369937955762,2019-10-14 09:40:32.513
+46,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 09:40:11.158
+47,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:36:22.733
+48,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:36:01.876
+49,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:33:31.971
+50,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:31:59.013
+51,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:31:41.769
+52,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:31:27.830
+53,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:31:14.594
+54,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:30:57.049
+55,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:30:43.919
+56,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:29:37.045
+57,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:29:26.017
+58,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:29:02.954
+59,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:28:43.903
+60,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:28:34.881
+61,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:28:23.347
+62,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:26:43.874
+63,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:26:10.606
+64,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:26:06.575
+65,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:25:45.816
+66,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:25:33.284
+67,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:24:59.995
+68,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:23:57.123
+69,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:21:20.088
+70,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:08:20.347
+71,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:08:18.434
+72,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:05.720
+73,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:43.761
+74,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:16.482
+75,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:03.355
+76,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:03:42.789
+77,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:03:11.600
+78,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:55.359
+79,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:40.924
+80,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:35.308
+81,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:15.244
+82,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:01:07.767
+83,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:00:59.142
+84,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:00:42.799
+85,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:00:38.386
+86,80:58:f8:0e:92:31,70,Nicholas Moody,Human Resources Manager,3.0,employee,0,51.46093752,-0.93238226,2019-10-14 13:59:54.369
+87,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:34:31.210
+88,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:32:03.204
+89,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:30:21.254
+90,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:30:02.516
+91,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460690862916074,-0.932410319867986,2019-10-22 09:28:53.747
+92,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460774569323824,-0.9323511347442852,2019-10-22 09:28:23.180
+93,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46066746230005,-0.9324629753853344,2019-10-22 09:28:17.468
+94,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46066746230005,-0.9324629753853344,2019-10-22 09:27:50.603
+95,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460690862916074,-0.932410319867986,2019-10-22 09:27:48.698
+96,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460774569323824,-0.9323511347442852,2019-10-22 09:27:35.468
+97,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:26:46.961
+98,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460690862916074,-0.932410319867986,2019-10-22 09:26:28.819
+99,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46066746230005,-0.9324629753853344,2019-10-22 09:25:46.218
+100,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:25:35.192
+101,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460690862916074,-0.932410319867986,2019-10-22 09:25:24.667
+102,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460774569323824,-0.9323511347442852,2019-10-22 09:25:17.756
+103,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460690862916074,-0.932410319867986,2019-10-22 09:24:05.890
+104,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:23:59.776
+105,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.460774569323824,-0.9323511347442852,2019-10-22 09:23:24.091
+106,24:46:c8:48:49:3c,20,Jerry Barrera,Warehouse Manager,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:50.612
+107,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:05:50.040
+108,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:05:45.023
+109,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:05:39.710
+110,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:05:29.675
+111,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:05:19.557
+112,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:05:09.522
+113,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:04:59.395
+114,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:04:49.365
+115,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:04:38.935
+116,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:04:28.909
+117,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:04:18.879
+118,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:04:08.751
+119,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:03:58.722
+120,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-09-16 09:03:48.604
+121,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:51:06.623
+122,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:50:56.558
+123,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:50:46.876
+124,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:50:36.806
+125,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:50:25.320
+126,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:50:12.824
+127,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:50:09.083
+128,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:49:56.280
+129,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:49:46.323
+130,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:49:37.689
+131,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:49:27.609
+132,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:49:12.600
+133,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2020-02-18 10:49:06.447
+134,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:27:38.984
+135,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:27:28.951
+136,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:27:18.918
+137,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:27:08.883
+138,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:26:58.745
+139,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:26:48.317
+140,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:26:38.280
+141,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:26:28.250
+142,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:26:18.215
+143,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:26:08.180
+144,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:25:58.040
+145,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46091579528702,-0.9323726415978943,2019-11-05 09:25:47.700
+146,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:36:11.266
+147,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:36:05.102
+148,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:35:53.829
+149,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:35:47.641
+150,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:35:38.812
+151,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:35:29.871
+152,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:35:17.605
+153,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:35:07.552
+154,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:34:59.850
+155,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:34:49.802
+156,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:34:36.012
+157,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:34:24.714
+158,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46032117,-0.93237729,2020-02-21 11:34:19.751
+159,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:24:45.722
+160,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:24:15.171
+161,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:23:05.406
+162,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:21:32.085
+163,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051036,-0.93312872,2019-10-14 17:21:25.174
+164,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059258797192,-0.932413628293072,2019-10-14 17:20:56.911
+165,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:20:35.059
+166,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:19:03.451
+167,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:18:33.387
+168,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:18:25.168
+169,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46065684252511,-0.9326485748690132,2019-10-14 17:18:16.947
+170,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46053856547188,-0.9323031396914234,2019-10-14 17:18:01.015
+171,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051036,-0.93312872,2019-10-14 17:17:59.210
+172,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.4605927924939,-0.9324387058472559,2019-10-14 17:17:41.970
+173,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:17:20.621
+174,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460569016220845,-0.9323495024206424,2019-10-14 17:17:01.473
+175,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:16:58.766
+176,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460474335428955,-0.933131888650278,2019-10-14 17:16:41.625
+177,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46053856547188,-0.9323031396914234,2019-10-14 17:16:32.803
+178,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:16:26.897
+179,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2019-10-14 17:15:50.806
+180,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46056052861579,-0.9323543861542098,2019-10-14 17:15:48.800
+181,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460587695026696,-0.9324561795619336,2019-10-14 17:15:36.669
+182,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46053856547188,-0.9323031396914234,2019-10-14 17:15:25.142
+183,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460474335428955,-0.933131888650278,2019-10-14 17:15:15.919
+184,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.4605138078902,-0.9323874334673222,2019-10-14 17:15:07.802
+185,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46056052861579,-0.9323543861542098,2019-10-14 17:14:50.563
+186,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051036,-0.93312872,2019-10-14 17:14:49.060
+187,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.4605927924939,-0.9324387058472559,2019-10-14 17:14:30.217
+188,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46060553174016,-0.9324009869396832,2019-10-14 17:14:24.106
+189,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46056052861579,-0.9323543861542098,2019-10-14 17:14:13.177
+190,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460558074219485,-0.9323655784944552,2019-10-14 17:14:05.467
+191,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460587695026696,-0.9324561795619336,2019-10-14 17:13:53.334
+192,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46053440821473,-0.9323262879060024,2019-10-14 17:13:42.508
+193,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460587695026696,-0.9324561795619336,2019-10-14 17:13:20.665
+194,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460587695026696,-0.9324561795619336,2019-10-14 17:13:16.152
+195,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051036,-0.93312872,2019-10-14 17:12:57.812
+196,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46056052861579,-0.9323543861542098,2019-10-14 17:12:45.587
+197,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46061104087818,-0.932382253000098,2019-10-14 17:12:38.472
+198,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:12:22.937
+199,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46056713060916,-0.9323745517975324,2019-10-14 17:11:51.261
+200,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:11:46.249
+201,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46061104087818,-0.932382253000098,2019-10-14 17:11:33.723
+202,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.460517411102046,-0.9323658317417443,2019-10-14 17:11:23.399
+203,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46061104087818,-0.932382253000098,2019-10-14 17:11:13.379
+204,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:10:41.996
+205,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46065684252511,-0.9326485748690132,2019-10-14 17:10:39.394
+206,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46053856547188,-0.9323031396914234,2019-10-14 17:10:18.542
+207,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:09:58.193
+208,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051793,-0.93230969,2019-10-14 17:09:22.310
+209,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:09:17.701
+210,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051036,-0.93312872,2019-10-14 17:08:59.660
+211,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46078621,-0.93222453,2019-10-14 17:08:23.385
+212,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46051036,-0.93312872,2019-10-14 17:07:22.444
+213,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:44:35.294
+214,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:44:27.940
+215,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:44:18.056
+216,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:44:08.547
+217,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:43:57.968
+218,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:43:47.775
+219,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:43:39.945
+220,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:43:24.594
+221,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:43:15.788
+222,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:43:06.502
+223,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:42:56.541
+224,80:58:f8:59:8c:88,118,Scott Herman,Chief Technology Officer,0.0,employee,0,51.46059815,-0.93239386,2020-02-04 12:42:43.227
+225,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:48:56.764
+226,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:46:46.590
+227,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:46:04.672
+228,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46049414477271,-0.9325572949549708,2019-10-14 13:45:59.957
+229,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.460519287053074,-0.932856446992676,2019-10-14 13:45:45.315
+230,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:45:32.886
+231,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46050732,-0.932584,2019-10-14 13:45:15.033
+232,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:44:59.894
+233,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051689644976,-0.932802021506157,2019-10-14 13:44:28.801
+234,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051689644976,-0.932802021506157,2019-10-14 13:44:18.371
+235,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:44:04.049
+236,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051689644976,-0.932802021506157,2019-10-14 13:43:37.953
+237,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:43:18.495
+238,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:42:49.810
+239,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46050732,-0.932584,2019-10-14 13:42:39.986
+240,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.460519287053074,-0.932856446992676,2019-10-14 13:42:18.628
+241,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:42:05.591
+242,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:41:25.181
+243,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46049414477271,-0.9325572949549708,2019-10-14 13:41:19.569
+244,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051995808908,-0.9328115891942486,2019-10-14 13:40:25.325
+245,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46050732,-0.932584,2019-10-14 13:39:54.845
+246,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46051689644976,-0.932802021506157,2019-10-14 13:39:47.327
+247,80:58:f8:e4:b4:d4,23,Leslie Barber,Customer Service Manager,2.0,employee,0,51.46050732,-0.932584,2019-10-14 13:39:36.802
+248,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 09:04:44.555
+249,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 09:01:27.121
+250,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040834100178,-0.93300977773767,2019-10-22 08:58:35.942
+251,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:56:45.498
+252,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:55:48.479
+253,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:55:22.414
+254,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:54:50.748
+255,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:53:37.794
+256,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.4603602329174,-0.9327671161897828,2019-10-22 08:52:04.600
+257,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:51:40.944
+258,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:51:33.931
+259,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:51:28.721
+260,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46036910783562,-0.932818344769354,2019-10-22 08:51:13.787
+261,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:51:01.660
+262,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:50:48.832
+263,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46044376965931,-0.9324294613217134,2019-10-22 08:50:39.015
+264,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:50:22.172
+265,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.460375018037375,-0.932704070143097,2019-10-22 08:50:04.336
+266,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040834100178,-0.93300977773767,2019-10-22 08:49:52.311
+267,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:48:46.763
+268,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46044344728881,-0.9324343381884712,2019-10-22 08:48:29.928
+269,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:48:08.185
+270,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.460375018037375,-0.932704070143097,2019-10-22 08:47:57.760
+271,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:47:45.837
+272,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.4603602329174,-0.9327671161897828,2019-10-22 08:47:25.296
+273,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:47:04.351
+274,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040834100178,-0.93300977773767,2019-10-22 08:46:43.301
+275,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46044344728881,-0.9324343381884712,2019-10-22 08:46:25.162
+276,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:46:14.839
+277,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:45:40.968
+278,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040834100178,-0.93300977773767,2019-10-22 08:45:33.351
+279,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:45:29.544
+280,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.4603602329174,-0.9327671161897828,2019-10-22 08:45:10.702
+281,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:45:04.186
+282,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46035849,-0.9327721,2019-10-22 08:44:49.263
+283,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:44:17.787
+284,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.460376292961726,-0.932700570829662,2019-10-22 08:43:46.724
+285,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:43:28.085
+286,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:43:10.848
+287,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:43:03.940
+288,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46044376965931,-0.9324294613217134,2019-10-22 08:42:40.693
+289,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:42:07.818
+290,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46044376965931,-0.9324294613217134,2019-10-22 08:41:33.447
+291,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46043985,-0.93243722,2019-10-22 08:41:07.694
+292,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46040423,-0.93302108,2019-10-22 08:40:39.032
+293,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.46042433907701,-0.9327201946162962,2019-10-22 08:40:01.948
+294,d0:77:14:89:0f:2a,47,Billy Andrews,Cloud Architect,0.0,employee,0,51.460422040000005,-0.93272915,2019-10-22 08:39:34.291

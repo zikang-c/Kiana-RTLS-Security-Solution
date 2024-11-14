@@ -1,0 +1,186 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:45:58.334
+1,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46045558980048,-0.9329609378575222,2019-11-01 10:45:49.513
+2,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:45:33.069
+3,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:45:28.048
+4,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46045558980048,-0.9329609378575222,2019-11-01 10:45:19.413
+5,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:45:07.376
+6,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:44:51.930
+7,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:44:46.818
+8,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:44:36.790
+9,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:44:26.664
+10,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:44:16.632
+11,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46039436042366,-0.9328154331887372,2019-11-01 10:44:06.503
+12,88:b4:a6:39:24:c1,13,Michael Warren,Technical Writer,1.0,employee,0,51.46047956,-0.93315371,2019-11-01 10:43:58.174
+13,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:35:43.827
+14,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:35:38.812
+15,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:35:28.778
+16,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:35:18.659
+17,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:35:08.624
+18,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:34:58.200
+19,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46063957,-0.9324208,2019-09-11 10:34:48.166
+20,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46048011535972,-0.932982793099809,2019-10-15 13:49:00.243
+21,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46043546977806,-0.933022887810773,2019-10-15 13:48:40.690
+22,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:48:35.375
+23,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:47:52.457
+24,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:47:42.836
+25,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:47:29.698
+26,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:47:00.225
+27,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:46:59.918
+28,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:46:38.772
+29,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46048011535972,-0.932982793099809,2019-10-15 13:46:22.834
+30,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:46:17.730
+31,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:46:06.086
+32,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:59.365
+33,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:47.638
+34,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:36.305
+35,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:27.590
+36,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:45:11.242
+37,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:45:08.737
+38,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:44:53.001
+39,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:44:44.178
+40,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:44:38.662
+41,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46048011535972,-0.932982793099809,2019-10-15 13:44:21.317
+42,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:44:17.212
+43,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46048011535972,-0.932982793099809,2019-10-15 13:44:09.987
+44,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:45.226
+45,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:33.791
+46,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:43:26.876
+47,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:43:15.141
+48,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:07.418
+49,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042964839812,-0.93308344972606,2019-10-15 13:42:48.478
+50,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46043546977806,-0.933022887810773,2019-10-15 13:42:39.454
+51,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:42:23.613
+52,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46048011535972,-0.932982793099809,2019-10-15 13:42:09.376
+53,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:41:56.844
+54,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:41:41.294
+55,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46048011535972,-0.932982793099809,2019-10-15 13:41:27.457
+56,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:41:18.334
+57,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:34.423
+58,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:09.354
+59,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:39:25.249
+60,f4:f5:24:d5:52:04,48,Joel Hardy,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:39:17.635
+61,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:34:41.658
+62,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:33:39.821
+63,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:30:58.550
+64,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:30:41.707
+65,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:30:22.964
+66,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:30:17.853
+67,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:29:45.879
+68,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:29:38.061
+69,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:29:29.644
+70,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:29:15.816
+71,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:29:04.985
+72,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:28:45.073
+73,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:28:37.021
+74,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:28:19.281
+75,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:28:00.038
+76,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:27:54.532
+77,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:27:38.482
+78,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:27:08.712
+79,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:26:53.786
+80,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:26:48.862
+81,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:26:22.506
+82,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:26:18.090
+83,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:26:04.463
+84,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:25:53.740
+85,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:25:22.556
+86,80:58:f8:da:c1:bd,26,Regina Perez,Supply Chain Analyst,0.0,employee,0,51.46090135021295,-0.9322087421135838,2019-10-14 12:25:17.455
+87,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:01:11.166
+88,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 16:01:03.668
+89,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 16:00:51.319
+90,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 16:00:16.121
+91,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46078155185392,-0.9322564445943476,2019-10-15 16:00:00.583
+92,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46079984330351,-0.9322604328319232,2019-10-15 15:59:56.172
+93,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:59:47.854
+94,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:59:34.615
+95,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:59:22.782
+96,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46078155185392,-0.9322564445943476,2019-10-15 15:59:19.174
+97,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:59:03.537
+98,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46067322615864,-0.9322337702368304,2019-10-15 15:58:50.700
+99,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46089328679952,-0.932279506304102,2019-10-15 15:58:12.002
+100,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46089328679952,-0.932279506304102,2019-10-15 15:58:07.891
+101,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46079984330351,-0.9322604328319232,2019-10-15 15:57:58.872
+102,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46079984330351,-0.9322604328319232,2019-10-15 15:57:47.248
+103,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46067322615864,-0.9322337702368304,2019-10-15 15:57:38.422
+104,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46067322615864,-0.9322337702368304,2019-10-15 15:56:53.606
+105,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46079984330351,-0.9322604328319232,2019-10-15 15:56:47.795
+106,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46078155185392,-0.9322564445943476,2019-10-15 15:56:38.973
+107,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46078155185392,-0.9322564445943476,2019-10-15 15:56:29.154
+108,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46079984330351,-0.9322604328319232,2019-10-15 15:56:12.410
+109,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:56:03.285
+110,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:55:58.575
+111,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:55:47.051
+112,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:55:33.210
+113,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46078155185392,-0.9322564445943476,2019-10-15 15:55:10.152
+114,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46067322615864,-0.9322337702368304,2019-10-15 15:55:05.548
+115,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46089328679952,-0.932279506304102,2019-10-15 15:54:52.611
+116,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:52:58.111
+117,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:52:11.389
+118,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:36:58.084
+119,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:31:51.901
+120,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:31:28.140
+121,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:31:10.495
+122,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:29:11.083
+123,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:28:25.167
+124,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:28:11.331
+125,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:28:02.935
+126,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:27:48.178
+127,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:27:38.749
+128,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:27:26.419
+129,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:27:16.292
+130,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:27:05.474
+131,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:26:52.834
+132,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:26:41.301
+133,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:26:26.160
+134,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:26:14.630
+135,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:26:04.098
+136,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:25:43.836
+137,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:25:37.922
+138,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:25:27.197
+139,f4:f5:24:a8:25:d7,53,Charles Robinson,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:25:04.634
+140,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.4604796699506,-0.9325547244132926,2019-10-08 10:59:39.019
+141,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.4604914430365,-0.9327749162825844,2019-10-08 10:59:28.894
+142,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.4604796699506,-0.9325547244132926,2019-10-08 10:59:18.860
+143,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.4604796699506,-0.9325547244132926,2019-10-08 10:59:08.745
+144,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:58:58.700
+145,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:58:48.272
+146,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:58:38.235
+147,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:58:28.200
+148,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:58:18.074
+149,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:58:07.438
+150,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.4604796699506,-0.9325547244132926,2019-10-08 10:57:57.316
+151,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.4604914430365,-0.9327749162825844,2019-10-08 10:57:46.974
+152,f0:d7:aa:5b:7b:9b,13,Gordon Wallace,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-08 10:57:36.851
+153,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:27:24.423
+154,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:26:50.036
+155,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:26:39.208
+156,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:25:53.391
+157,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:24:51.133
+158,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-15 16:24:44.107
+159,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:24:37.392
+160,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.460681663516574,-0.9324096350824989,2019-10-15 16:24:23.657
+161,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-15 16:23:38.046
+162,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:23:25.609
+163,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-15 16:23:11.075
+164,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46088881611031,-0.9322166812400136,2019-10-15 16:23:03.299
+165,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:22:42.599
+166,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46092603423158,-0.9321775915864888,2019-10-15 16:22:33.874
+167,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:22:13.713
+168,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-15 16:22:07.908
+169,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-15 16:21:51.961
+170,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46092603423158,-0.9321775915864888,2019-10-15 16:21:38.737
+171,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46088881611031,-0.9322166812400136,2019-10-15 16:21:17.872
+172,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46092603423158,-0.9321775915864888,2019-10-15 16:20:44.795
+173,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.460681663516574,-0.9324096350824989,2019-10-15 16:20:26.948
+174,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:20:17.315
+175,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-15 16:20:08.792
+176,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.460681663516574,-0.9324096350824989,2019-10-15 16:19:56.165
+177,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46092603423158,-0.9321775915864888,2019-10-15 16:19:47.144
+178,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:19:33.109
+179,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:19:20.082
+180,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46088881611031,-0.9322166812400136,2019-10-15 16:18:55.915
+181,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46092603423158,-0.9321775915864888,2019-10-15 16:18:46.187
+182,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46092603423158,-0.9321775915864888,2019-10-15 16:17:50.638
+183,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:16:24.415
+184,80:58:f8:b4:16:ec,32,Charlene Pierce,Social Media Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:14:37.547

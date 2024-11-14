@@ -1,0 +1,110 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 13:58:14.479
+1,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.460814580749535,-0.9323371935522344,2020-01-17 13:58:01.958
+2,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.460832103108174,-0.9323138466539466,2020-01-17 13:57:52.075
+3,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.460832103108174,-0.9323138466539466,2020-01-17 13:57:31.588
+4,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.46078091771962,-0.9322074220104278,2020-01-17 13:57:18.350
+5,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 13:57:06.326
+6,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.460832103108174,-0.9323138466539466,2020-01-17 13:56:51.091
+7,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.46078091771962,-0.9322074220104278,2020-01-17 13:56:43.174
+8,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 13:56:35.948
+9,60:1d:91:9c:b4:5d,10,Leslie Daugherty,DevOps Engineer,3.0,employee,0,51.46078091771962,-0.9322074220104278,2020-01-17 13:56:28.461
+10,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:09:00.769
+11,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:07:28.253
+12,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:06:25.783
+13,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:04:48.947
+14,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:04:09.959
+15,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:02:06.210
+16,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:00:30.879
+17,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.460770163714685,-0.9322813905392032,2019-10-17 12:00:14.838
+18,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:59:09.393
+19,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46072596009985,-0.9323783326539196,2019-10-17 11:58:21.682
+20,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.460770163714685,-0.9322813905392032,2019-10-17 11:58:06.858
+21,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.4607405633439,-0.9323741111926092,2019-10-17 11:57:55.319
+22,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:57:30.060
+23,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.4607405633439,-0.9323741111926092,2019-10-17 11:57:29.256
+24,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46092013420608,-0.9321990607028784,2019-10-17 11:56:46.256
+25,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46072596009985,-0.9323783326539196,2019-10-17 11:56:32.133
+26,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071626165843,-0.9323990722838328,2019-10-17 11:56:26.811
+27,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:55:59.550
+28,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.460742015092286,-0.932371555053504,2019-10-17 11:55:48.923
+29,80:58:f8:cb:09:29,20,Benjamin Williams,IT Support Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:55:24.865
+30,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 08:45:34.728
+31,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:44:57.730
+32,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 08:44:16.705
+33,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 08:43:38.205
+34,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:43:02.806
+35,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:42:57.580
+36,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 08:42:46.447
+37,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:42:30.303
+38,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:42:26.904
+39,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:42:13.253
+40,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:42:04.338
+41,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:41:54.095
+42,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:41:49.682
+43,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:41:20.400
+44,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:41:16.292
+45,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 08:41:00.953
+46,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:40:49.211
+47,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 08:40:32.464
+48,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:40:27.647
+49,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 08:40:18.124
+50,80:58:f8:d2:4d:36,21,Victor Mckee,Machine Learning Engineer,3.0,employee,0,51.460920262959625,-0.9323735381094496,2019-10-15 08:39:58.967
+51,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.460396,-0.9332149,2019-11-01 14:59:55.685
+52,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:59:49.564
+53,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:59:39.431
+54,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:59:29.402
+55,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:59:13.953
+56,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:59:08.843
+57,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.460396,-0.9332149,2019-11-01 14:58:59.315
+58,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.460396,-0.9332149,2019-11-01 14:58:49.281
+59,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.460396,-0.9332149,2019-11-01 14:58:39.248
+60,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.460396,-0.9332149,2019-11-01 14:58:29.122
+61,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:58:13.073
+62,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.4603558731753,-0.9327840041728264,2019-11-01 14:58:08.056
+63,88:b4:a6:ab:81:f4,13,William Fitzgerald,Data Scientist,0.0,employee,0,51.460396,-0.9332149,2019-11-01 14:57:58.623
+64,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.4604404588437,-0.9328906929692804,2019-11-04 11:35:23.130
+65,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.4604404588437,-0.9328906929692804,2019-11-04 11:35:18.121
+66,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.4604404588437,-0.9328906929692804,2019-11-04 11:35:08.084
+67,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:34:57.657
+68,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:34:47.627
+69,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:34:37.504
+70,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:34:27.465
+71,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:34:17.429
+72,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:34:07.304
+73,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.4604404588437,-0.9328906929692804,2019-11-04 11:33:56.968
+74,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.4604404588437,-0.9328906929692804,2019-11-04 11:33:46.846
+75,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.46045267007933,-0.9331734011709653,2019-11-04 11:33:36.806
+76,88:b4:a6:9c:e2:c9,13,Patrick Baker,Warehouse Manager,2.0,employee,2,51.4604404588437,-0.9328906929692804,2019-11-04 11:33:26.680
+77,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:10:24.583
+78,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:10:19.571
+79,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:10:09.527
+80,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:09:59.001
+81,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:09:48.972
+82,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:09:38.937
+83,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:09:28.909
+84,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:09:18.872
+85,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:09:08.840
+86,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:08:58.008
+87,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:08:47.967
+88,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:08:37.935
+89,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46090795433806,-0.9323680242501066,2019-11-05 14:08:27.905
+90,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:00:55.723
+91,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:00:45.998
+92,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 10:58:48.977
+93,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:57:59.746
+94,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46086167034432,-0.9322456889290288,2019-10-18 10:57:30.562
+95,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46092792207601,-0.9321763344130416,2019-10-18 10:57:13.209
+96,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:57:07.792
+97,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:56:55.858
+98,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:56:49.241
+99,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 10:56:34.097
+100,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46092792207601,-0.9321763344130416,2019-10-18 10:56:17.451
+101,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46086167034432,-0.9322456889290288,2019-10-18 10:56:02.210
+102,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:55:51.873
+103,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46069617784755,-0.9323870071560392,2019-10-18 10:55:32.314
+104,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46092792207601,-0.9321763344130416,2019-10-18 10:55:27.098
+105,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:55:18.376
+106,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:55:06.338
+107,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:54:48.688
+108,80:58:f8:95:2e:cd,32,Billy Page,Database Administrator,1.0,employee,0,51.46092792207601,-0.9321763344130416,2019-10-18 10:53:53.428

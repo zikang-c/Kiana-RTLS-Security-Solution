@@ -1,0 +1,232 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:04:48.302
+1,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:04:39.673
+2,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:04:27.833
+3,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:04:19.164
+4,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:04:04.801
+5,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:03:54.887
+6,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:03:44.557
+7,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:03:32.046
+8,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.460502490281335,-0.9330256157706066,2020-03-12 09:03:26.048
+9,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.46043416937314,-0.932686769298348,2020-03-12 09:03:17.842
+10,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.460502490281335,-0.9330256157706066,2020-03-12 09:03:07.457
+11,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.460502490281335,-0.9330256157706066,2020-03-12 09:02:57.179
+12,d0:77:14:16:65:15,13,Jeremy Parks,Cashier,2.0,employee,0,51.460502490281335,-0.9330256157706066,2020-03-12 09:02:47.352
+13,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:27:08.357
+14,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:26:48.017
+15,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:25:36.951
+16,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:25:25.729
+17,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:23:49.411
+18,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:23:38.583
+19,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:23:22.348
+20,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:23:19.946
+21,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:23:05.919
+22,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46076906142133,-0.9322365162708706,2019-10-14 16:22:51.577
+23,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:22:46.767
+24,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077990849698,-0.9322265302832732,2019-10-14 16:22:10.087
+25,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:21:50.837
+26,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077990849698,-0.9322265302832732,2019-10-14 16:21:49.734
+27,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077990849698,-0.9322265302832732,2019-10-14 16:21:35.401
+28,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077473337856,-0.9322348635973052,2019-10-14 16:21:24.363
+29,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:21:19.343
+30,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:21:02.836
+31,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46076906142133,-0.9322365162708706,2019-10-14 16:20:58.770
+32,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077473337856,-0.9322348635973052,2019-10-14 16:20:35.280
+33,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:20:15.103
+34,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077990849698,-0.9322265302832732,2019-10-14 16:20:04.072
+35,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077473337856,-0.9322348635973052,2019-10-14 16:19:50.620
+36,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:19:45.705
+37,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:19:36.674
+38,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:19:22.223
+39,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46057648064623,-0.9323711236561046,2019-10-14 16:19:13.191
+40,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077473337856,-0.9322348635973052,2019-10-14 16:19:07.472
+41,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46057648064623,-0.9323711236561046,2019-10-14 16:18:58.933
+42,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46077990849698,-0.9322265302832732,2019-10-14 16:18:45.988
+43,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:18:13.072
+44,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46057648064623,-0.9323711236561046,2019-10-14 16:17:55.916
+45,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46076906142133,-0.9322365162708706,2019-10-14 16:17:46.786
+46,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:17:36.754
+47,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46076906142133,-0.9322365162708706,2019-10-14 16:17:08.262
+48,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:16:57.424
+49,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:15:52.422
+50,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 16:15:48.313
+51,80:58:f8:09:f0:ec,39,Jacqueline Middleton,Cybersecurity Analyst,1.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:15:23.833
+52,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46042011,-0.93261704,2020-01-17 14:01:43.501
+53,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46050632540279,-0.9326968670532838,2020-01-17 14:01:30.479
+54,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46041163946616,-0.9326526791824412,2020-01-17 14:01:22.963
+55,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46050632540279,-0.9326968670532838,2020-01-17 14:01:10.322
+56,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46041163946616,-0.9326526791824412,2020-01-17 14:01:02.456
+57,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46050632540279,-0.9326968670532838,2020-01-17 14:00:55.251
+58,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.460398587051536,-0.9326272533832772,2020-01-17 14:00:49.481
+59,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46041678474758,-0.9327067064384492,2020-01-17 14:00:39.542
+60,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46042117326306,-0.9326164484881702,2020-01-17 14:00:26.526
+61,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46040380103612,-0.9327168470734832,2020-01-17 14:00:19.402
+62,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.460428013891146,-0.932657057939766,2020-01-17 14:00:00.954
+63,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46048399586601,-0.9327760660908804,2020-01-17 13:59:59.644
+64,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.460411335785,-0.9326733778639442,2020-01-17 13:59:45.413
+65,d0:77:14:5f:a1:63,14,Thomas Williams,DevOps Engineer,1.0,employee,0,51.46047760027975,-0.9327806276296856,2020-01-17 13:59:37.090
+66,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.46044376,-0.93227792,2019-10-08 11:26:30.861
+67,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.4603920678812,-0.9325748546676956,2019-10-08 11:26:27.447
+68,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:26:16.820
+69,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.4603920678812,-0.9325748546676956,2019-10-08 11:26:07.294
+70,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:25:56.652
+71,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:25:46.622
+72,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.4603920678812,-0.9325748546676956,2019-10-08 11:25:36.889
+73,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.4603920678812,-0.9325748546676956,2019-10-08 11:25:26.763
+74,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:25:11.115
+75,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:25:06.003
+76,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:24:55.970
+77,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:24:45.940
+78,f0:d7:aa:c7:42:bd,13,Peter Ramirez,Sales Executive,1.0,employee,0,51.460446309034474,-0.9327706277826175,2019-10-08 11:24:35.508
+79,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:52:39.822
+80,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:52:29.789
+81,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:52:19.758
+82,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:52:09.445
+83,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:51:59.326
+84,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:51:49.266
+85,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:51:39.235
+86,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:51:29.115
+87,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:51:19.082
+88,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:51:08.750
+89,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:50:58.623
+90,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:50:48.588
+91,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065363205695,-0.9322407183438725,2019-10-04 15:50:38.562
+92,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:31:17.959
+93,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:27:01.574
+94,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:26:20.062
+95,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:25:23.924
+96,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:25:19.912
+97,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:24:57.958
+98,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:24:07.541
+99,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:23:56.007
+100,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:23:48.592
+101,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:23:18.518
+102,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:23:09.993
+103,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:22:57.763
+104,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:22:48.839
+105,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:22:23.772
+106,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:22:17.355
+107,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:21:55.403
+108,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:21:46.882
+109,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:21:39.769
+110,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:21:27.540
+111,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46092026295963,-0.9323735381094496,2019-10-17 12:21:19.317
+112,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:20:48.948
+113,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:20:34.012
+114,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:20:21.083
+115,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:19:54.523
+116,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:19:49.614
+117,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:19:30.064
+118,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:19:00.996
+119,80:58:f8:21:2e:4e,41,Luis Cooper,E-commerce Manager,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:17:05.732
+120,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:59:59.225
+121,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:57:14.165
+122,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:56:41.492
+123,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.4604219752249,-0.93260270773959,2019-10-22 08:55:36.051
+124,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:55:27.326
+125,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:55:15.097
+126,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:54:19.978
+127,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:53:45.006
+128,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:53:37.790
+129,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:52:16.821
+130,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:51:12.880
+131,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:51:09.374
+132,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:50:45.525
+133,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.4604219752249,-0.93260270773959,2019-10-22 08:50:16.159
+134,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.4604219752249,-0.93260270773959,2019-10-22 08:50:04.039
+135,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:49:52.211
+136,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049401932131,-0.933210767044517,2019-10-22 08:49:22.646
+137,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:48:40.150
+138,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 08:48:29.028
+139,d0:77:14:dd:eb:6e,20,Sierra Montoya,Production Worker,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 08:48:19.405
+140,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:21:47.032
+141,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:17:58.920
+142,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:14:48.328
+143,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:14:32.281
+144,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:14:11.523
+145,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:12:40.590
+146,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:12:39.386
+147,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:12:03.697
+148,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:11:36.226
+149,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:11:29.208
+150,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:11:13.773
+151,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:10:53.217
+152,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:10:48.204
+153,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:10:38.486
+154,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:10:21.427
+155,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:09:45.129
+156,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:09:38.416
+157,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:08:36.649
+158,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:08:18.499
+159,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:07:49.936
+160,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:43:31.189
+161,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:42:53.284
+162,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:41:39.691
+163,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:39:22.244
+164,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:38:47.556
+165,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:37:23.944
+166,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:37:07.697
+167,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:36:55.171
+168,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:36:40.137
+169,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:36:39.035
+170,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:36:06.150
+171,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:35:59.062
+172,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:35:40.876
+173,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:35:31.957
+174,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:35:27.649
+175,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:35:13.014
+176,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:34:58.270
+177,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:34:49.751
+178,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:34:34.107
+179,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:34:11.650
+180,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:33:46.683
+181,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:33:37.358
+182,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:33:25.118
+183,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 13:33:19.408
+184,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:33:05.082
+185,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:32:42.308
+186,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:32:15.338
+187,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:32:01.503
+188,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:31:37.933
+189,80:58:f8:7d:2b:14,50,Caitlin Rodriguez,E-commerce Manager,2.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:29:56.859
+190,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:16:22.999
+191,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:15:38.180
+192,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:14:44.444
+193,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:10:58.131
+194,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:10:39.387
+195,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:10:29.349
+196,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:08:42.442
+197,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:08:38.734
+198,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:06:34.270
+199,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:05:41.521
+200,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:05:31.895
+201,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:05:27.485
+202,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:05:12.341
+203,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-18 10:04:39.951
+204,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-18 10:04:26.513
+205,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-18 10:04:18.593
+206,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:03:44.295
+207,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:03:32.463
+208,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:03:16.215
+209,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:02:48.342
+210,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:02:31.891
+211,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:02:11.936
+212,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:01:37.540
+213,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:01:20.190
+214,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:01:13.973
+215,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 10:01:04.342
+216,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 10:00:38.666
+217,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:59:48.022
+218,80:58:f8:1b:c7:e7,29,Susan Taylor,Social Media Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 09:58:11.440
+219,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:55:05.172
+220,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:54:52.037
+221,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:54:44.618
+222,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:54:38.409
+223,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:54:27.580
+224,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-22 11:54:19.162
+225,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:54:08.332
+226,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:53:57.407
+227,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:53:44.676
+228,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:53:37.457
+229,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-22 11:53:27.236
+230,80:58:f8:55:2b:6f,12,Kevin Cantu DDS,Data Engineer,3.0,employee,0,51.460905379221806,-0.9322046251632694,2019-10-22 11:53:19.316

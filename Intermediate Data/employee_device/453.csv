@@ -1,0 +1,227 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f4:f5:24:56:41:98,4,Carlos Lee,,,visitor,0,51.46061268329736,-0.9323520852469978,2020-01-14 13:07:40.720
+1,f4:f5:24:56:41:98,4,Carlos Lee,,,visitor,0,51.46063707282668,-0.93231556775868,2020-01-14 13:07:35.708
+2,f4:f5:24:56:41:98,4,Carlos Lee,,,visitor,0,51.46055602,-0.93220727,2020-01-14 13:07:25.086
+3,f4:f5:24:56:41:98,4,Carlos Lee,,,visitor,0,51.46068928,-0.9322374,2020-01-14 13:07:14.466
+4,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46062620972094,-0.9323373210800684,2019-12-03 13:18:34.159
+5,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:18:28.748
+6,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:18:18.720
+7,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:18:08.689
+8,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46071382606597,-0.932381445864687,2019-12-03 13:17:57.065
+9,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46071382606597,-0.932381445864687,2019-12-03 13:17:47.032
+10,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46073040558635,-0.932340121489672,2019-12-03 13:17:36.907
+11,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46073040558635,-0.932340121489672,2019-12-03 13:17:26.873
+12,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:17:13.036
+13,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:17:08.023
+14,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:16:57.901
+15,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46064336593811,-0.9323080675301192,2019-12-03 13:16:47.873
+16,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46063864517991,-0.932306329023635,2019-12-03 13:16:37.839
+17,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:16:27.419
+18,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:16:17.296
+19,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:16:07.270
+20,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:15:57.235
+21,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:15:47.207
+22,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:15:37.082
+23,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:15:26.745
+24,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:15:16.628
+25,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46059059042664,-0.9322893835620908,2019-12-03 13:15:06.598
+26,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:21:00.012
+27,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:20:33.741
+28,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:17:34.052
+29,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:17:09.489
+30,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:15:28.436
+31,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:15:18.907
+32,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:15:02.869
+33,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:14:43.011
+34,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:14:28.774
+35,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460857818654574,-0.9322725104062554,2019-10-15 15:13:53.181
+36,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460857818654574,-0.9322725104062554,2019-10-15 15:13:48.469
+37,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:13:30.520
+38,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:13:26.711
+39,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:13:01.551
+40,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:12:27.959
+41,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:12:16.332
+42,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460857818654574,-0.9322725104062554,2019-10-15 15:11:55.474
+43,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:11:43.948
+44,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:11:33.919
+45,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460857818654574,-0.9322725104062554,2019-10-15 15:11:23.094
+46,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:11:16.673
+47,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460667177158015,-0.9322324025616928,2019-10-15 15:11:09.055
+48,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:10:55.825
+49,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460857818654574,-0.9322725104062554,2019-10-15 15:10:45.696
+50,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:10:30.051
+51,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:10:27.644
+52,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:10:10.095
+53,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:10:04.932
+54,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:09:59.665
+55,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:09:29.089
+56,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:09:17.559
+57,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:08:57.804
+58,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:08:22.213
+59,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:48:46.125
+60,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:48:36.089
+61,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:48:26.050
+62,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:48:16.017
+63,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:48:05.891
+64,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:47:55.850
+65,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:47:45.818
+66,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:47:35.784
+67,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:47:25.755
+68,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:47:15.630
+69,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:47:05.637
+70,f4:f5:24:f4:a8:5a,67,Dean Fitzpatrick,Public Relations Manager,1.0,employee,0,51.460396644046405,-0.9330107563872742,2019-12-11 09:46:55.557
+71,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:30:15.598
+72,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:30:05.471
+73,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:29:55.437
+74,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:29:45.413
+75,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:29:35.382
+76,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:29:29.985
+77,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:29:19.945
+78,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:29:09.918
+79,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:28:59.784
+80,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:28:49.752
+81,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:28:39.724
+82,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:28:29.300
+83,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46087389560798,-0.932368739885366,2019-08-20 12:28:19.270
+84,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46073786130808,-0.932386602650117,2020-02-24 12:14:42.170
+85,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:14:38.326
+86,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:14:28.240
+87,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:14:18.282
+88,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:14:04.277
+89,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:13:55.794
+90,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:13:46.933
+91,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:13:30.653
+92,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:13:29.060
+93,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:13:16.772
+94,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:13:06.697
+95,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:12:59.073
+96,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072172109569,-0.932380958221776,2020-02-24 12:12:48.991
+97,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:32:05.894
+98,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050728914403,-0.9329840228159642,2020-01-16 12:31:55.739
+99,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:31:45.621
+100,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050869,-0.93299578,2020-01-16 12:31:35.492
+101,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050728914403,-0.9329840228159642,2020-01-16 12:31:25.367
+102,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050728914403,-0.9329840228159642,2020-01-16 12:31:15.242
+103,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:31:05.150
+104,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:30:55.002
+105,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:30:49.886
+106,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:30:39.754
+107,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:30:29.723
+108,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050532035008,-0.9329802433731416,2020-01-16 12:30:19.594
+109,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46050869,-0.93299578,2020-01-16 12:30:09.524
+110,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:35:31.060
+111,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:32:41.132
+112,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044376,-0.93227792,2019-10-21 09:32:21.477
+113,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:29:41.301
+114,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:26:34.042
+115,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044595078487,-0.9323021411123928,2019-10-21 09:26:20.504
+116,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:26:10.373
+117,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460605833791845,-0.9322511911982952,2019-10-21 09:25:55.539
+118,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:25:25.543
+119,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044368187532,-0.932314109378694,2019-10-21 09:25:16.007
+120,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065328253094,-0.9322468887018102,2019-10-21 09:24:39.595
+121,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065328253094,-0.9322468887018102,2019-10-21 09:24:23.053
+122,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:24:16.632
+123,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460655588691885,-0.9322727674310052,2019-10-21 09:24:09.715
+124,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044376,-0.93227792,2019-10-21 09:23:54.669
+125,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065220587417,-0.9322435436312264,2019-10-21 09:23:49.953
+126,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:23:35.816
+127,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044595078487,-0.9323021411123928,2019-10-21 09:23:23.881
+128,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:23:15.652
+129,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460655588691885,-0.9322727674310052,2019-10-21 09:22:59.606
+130,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460605833791845,-0.9322511911982952,2019-10-21 09:22:43.964
+131,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4606565668272,-0.9322679532007508,2019-10-21 09:22:21.597
+132,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460655588691885,-0.9322727674310052,2019-10-21 09:22:11.170
+133,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065513943572,-0.9323303188790996,2019-10-21 09:21:43.692
+134,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065720866153,-0.9323365731833106,2019-10-21 09:21:25.536
+135,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:21:18.015
+136,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044595078487,-0.9323021411123928,2019-10-21 09:21:04.279
+137,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:20:55.748
+138,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460605833791845,-0.9322511911982952,2019-10-21 09:20:46.519
+139,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:20:37.590
+140,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460915840944246,-0.932394944214012,2019-10-21 09:20:26.757
+141,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4606601222533,-0.9323236410740248,2019-10-21 09:20:17.929
+142,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065328253094,-0.9322468887018102,2019-10-21 09:19:31.390
+143,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:19:16.945
+144,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460706707392674,-0.93226560486937,2019-10-21 09:19:02.919
+145,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044376,-0.93227792,2019-10-21 09:18:53.973
+146,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460655588691885,-0.9322727674310052,2019-10-21 09:18:25.390
+147,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:17:43.465
+148,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:17:21.406
+149,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065328253094,-0.9322468887018102,2019-10-21 09:17:13.077
+150,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46093752,-0.93238226,2019-10-21 09:17:03.655
+151,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46044376,-0.93227792,2019-10-21 09:16:50.506
+152,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:16:05.678
+153,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46065474,-0.93223934,2019-10-21 09:11:38.699
+154,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.460779457485216,-0.9323156912995956,2019-12-16 10:23:32.135
+155,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:23:29.623
+156,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:23:19.497
+157,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:23:09.553
+158,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:22:59.519
+159,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:22:49.484
+160,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:22:39.449
+161,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:22:29.421
+162,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:22:19.383
+163,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:22:09.354
+164,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:21:59.316
+165,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:21:49.284
+166,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.4609207916178,-0.9323752147706844,2019-12-16 10:21:39.250
+167,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:53:00.988
+168,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:52:55.971
+169,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:52:45.943
+170,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:52:35.910
+171,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:52:25.465
+172,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:52:15.429
+173,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:52:05.403
+174,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:51:55.372
+175,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:51:45.248
+176,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:51:35.215
+177,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:51:29.898
+178,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:51:19.773
+179,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46039235,-0.93249525,2019-08-22 13:51:09.744
+180,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:44:27.261
+181,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:40:21.606
+182,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:39:19.742
+183,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:38:04.254
+184,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:36:39.003
+185,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:36:11.033
+186,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:35:47.669
+187,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:35:20.298
+188,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:35:13.073
+189,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:34:54.121
+190,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:34:48.704
+191,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:34:28.147
+192,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:33:55.261
+193,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:33:41.125
+194,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:33:26.684
+195,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:33:07.848
+196,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:32:46.075
+197,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:32:19.999
+198,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:31:40.599
+199,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:31:20.743
+200,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:30:48.453
+201,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:28:10.214
+202,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:11:36.775
+203,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:11:26.647
+204,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:11:16.444
+205,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:11:06.301
+206,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:10:56.171
+207,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:10:46.050
+208,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:10:35.918
+209,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:10:25.789
+210,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:10:15.659
+211,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:10:05.451
+212,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:09:55.319
+213,80:58:f8:2e:2a:5d,143,David Davis,Database Administrator,3.0,employee,0,51.46072515776751,-0.9323383674159348,2020-01-21 09:09:45.192
+214,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:20:09.435
+215,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:19:59.313
+216,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:19:49.277
+217,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.46035286675192,-0.9327517201507878,2019-11-01 15:19:39.553
+218,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.46035286675192,-0.9327517201507878,2019-11-01 15:19:29.520
+219,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.46035286675192,-0.9327517201507878,2019-11-01 15:19:19.387
+220,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.46035286675192,-0.9327517201507878,2019-11-01 15:19:09.355
+221,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.46035286675192,-0.9327517201507878,2019-11-01 15:18:59.235
+222,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:18:48.496
+223,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:18:38.466
+224,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:18:28.337
+225,88:b4:a6:db:fb:52,12,Brandy Robertson,Systems Analyst,2.0,employee,0,51.460396,-0.9332149,2019-11-01 15:18:17.909

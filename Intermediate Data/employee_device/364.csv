@@ -1,0 +1,195 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:11:38.644
+1,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.46039540034428,-0.932616494754768,2019-11-11 17:11:28.414
+2,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:11:18.486
+3,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:11:08.452
+4,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:10:58.025
+5,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:10:47.989
+6,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:10:37.959
+7,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.46039540034428,-0.932616494754768,2019-11-11 17:10:27.524
+8,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.46039540034428,-0.932616494754768,2019-11-11 17:10:17.388
+9,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.46039540034428,-0.932616494754768,2019-11-11 17:10:07.355
+10,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:09:57.326
+11,88:b4:a6:b3:9a:70,12,Warren Middleton,IT Support Specialist,2.0,employee,0,51.460376952420106,-0.9327916094664896,2019-11-11 17:09:47.203
+12,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:33:13.772
+13,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:32:41.188
+14,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:32:29.459
+15,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46059039888844,-0.9322866862332644,2019-10-15 10:32:17.134
+16,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:31:55.568
+17,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:31:42.632
+18,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46059039888844,-0.9322866862332644,2019-10-15 10:31:31.197
+19,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:31:24.684
+20,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:31:18.672
+21,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:30:52.805
+22,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:30:47.991
+23,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:30:34.755
+24,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:30:05.081
+25,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46059039888844,-0.9322866862332644,2019-10-15 10:29:55.955
+26,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:29:41.804
+27,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46059039888844,-0.9322866862332644,2019-10-15 10:29:37.830
+28,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:29:21.048
+29,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:29:09.413
+30,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:28:55.980
+31,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46059039888844,-0.9322866862332644,2019-10-15 10:28:48.562
+32,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:28:38.638
+33,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:28:25.610
+34,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:28:12.175
+35,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:27:14.636
+36,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 10:27:05.209
+37,80:58:f8:5c:3f:28,26,Laurie Shepard,Environmental Consultant,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:24:31.195
+38,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:04:08.742
+39,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:03:59.980
+40,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:03:49.920
+41,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:03:34.818
+42,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:03:29.807
+43,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:03:18.264
+44,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:03:03.446
+45,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:02:58.455
+46,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:02:44.466
+47,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:02:36.668
+48,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:02:29.336
+49,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46046388129034,-0.933111901131886,2020-03-06 10:02:14.301
+50,d0:77:14:c5:17:ab,13,Sara Sullivan,Food Service Worker,1.0,employee,0,51.46033603,-0.93223681,2020-03-06 10:02:07.604
+51,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:28:46.293
+52,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:28:36.261
+53,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:28:26.231
+54,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:28:16.202
+55,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:28:06.172
+56,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:27:56.142
+57,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:27:46.115
+58,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:27:35.985
+59,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:27:25.966
+60,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:27:15.926
+61,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:27:05.899
+62,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46081434702883,-0.9323562555355446,2019-08-20 08:26:55.871
+63,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:34:47.470
+64,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:25:57.779
+65,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:25:34.407
+66,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:24:40.853
+67,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:24:04.647
+68,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:23:12.595
+69,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:23:06.480
+70,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:22:27.264
+71,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:21:59.191
+72,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:21:21.087
+73,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:21:06.848
+74,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:20:37.061
+75,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:19:55.342
+76,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:19:46.107
+77,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:19:35.575
+78,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:19:12.210
+79,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:19:00.290
+80,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:18:51.948
+81,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:18:07.324
+82,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:17:35.442
+83,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:17:24.703
+84,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:17:04.846
+85,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:16:54.112
+86,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:16:41.075
+87,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:16:39.271
+88,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:16:10.200
+89,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:16:02.569
+90,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-18 09:15:31.982
+91,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:15:08.617
+92,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:14:49.659
+93,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:14:24.287
+94,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:14:12.853
+95,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:13:05.768
+96,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 09:12:25.760
+97,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:11:19.069
+98,80:58:f8:81:8e:09,48,Melanie Sullivan,Sales Executive,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 09:08:36.404
+99,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:37:34.771
+100,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:37:29.756
+101,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:37:19.640
+102,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:37:09.613
+103,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:36:59.181
+104,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:36:49.146
+105,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:36:39.117
+106,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:36:29.091
+107,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:36:18.969
+108,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:36:08.945
+109,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:35:58.510
+110,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:35:48.480
+111,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-24 08:35:38.452
+112,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:12:20.959
+113,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:12:15.528
+114,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:12:09.387
+115,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:11:57.566
+116,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:11:45.166
+117,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:11:38.798
+118,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:11:27.517
+119,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:11:15.010
+120,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:11:09.641
+121,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:10:57.051
+122,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:10:45.699
+123,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:10:39.503
+124,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46059815,-0.93239386,2020-02-28 17:10:27.725
+125,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:42:33.966
+126,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-14 13:42:29.859
+127,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:40:38.957
+128,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:38:50.372
+129,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:38:08.358
+130,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-14 13:37:54.724
+131,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46048125791034,-0.932727861144351,2019-10-14 13:36:29.285
+132,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:36:10.835
+133,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:35:45.563
+134,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-14 13:35:34.441
+135,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:34:30.060
+136,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:34:29.555
+137,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46048125791034,-0.932727861144351,2019-10-14 13:34:13.515
+138,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050380519098,-0.9326034015312432,2019-10-14 13:34:02.793
+139,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:33:54.362
+140,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:33:27.187
+141,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:33:12.850
+142,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-14 13:33:06.840
+143,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050380519098,-0.9326034015312432,2019-10-14 13:32:50.682
+144,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-14 13:32:42.557
+145,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-14 13:32:29.124
+146,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:32:09.673
+147,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-14 13:31:56.140
+148,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:31:42.406
+149,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:31:33.282
+150,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46048125791034,-0.932727861144351,2019-10-14 13:31:14.666
+151,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-14 13:31:09.731
+152,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:30:59.003
+153,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:30:43.065
+154,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-14 13:30:37.652
+155,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:30:19.905
+156,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-14 13:29:58.457
+157,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050380519098,-0.9326034015312432,2019-10-14 13:29:23.377
+158,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-14 13:29:16.761
+159,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46033603,-0.93223681,2019-10-14 13:29:03.558
+160,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46050903150462,-0.9326148211118452,2019-10-14 13:28:58.016
+161,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:33:11.914
+162,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:29:58.698
+163,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:29:03.654
+164,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:42.100
+165,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:25.252
+166,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:14.726
+167,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:27:22.881
+168,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:26:36.655
+169,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:25:59.954
+170,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:25:46.121
+171,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:25:21.154
+172,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:25:17.743
+173,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:24:58.287
+174,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:24:34.126
+175,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:24:02.843
+176,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:23:56.721
+177,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:22:27.274
+178,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:22:10.025
+179,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:21:08.756
+180,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:19:32.198
+181,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.46078621,-0.93222453,2020-01-22 16:25:51.736
+182,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:25:46.725
+183,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:25:36.708
+184,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:25:26.682
+185,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:25:16.654
+186,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:25:06.539
+187,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:24:56.515
+188,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:24:46.488
+189,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:24:36.469
+190,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:24:26.438
+191,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:24:16.323
+192,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:24:06.299
+193,80:58:f8:e0:22:c1,95,Samantha Barnes,Warehouse Manager,1.0,employee,0,51.4607771981753,-0.9322255451755068,2020-01-22 16:23:56.275

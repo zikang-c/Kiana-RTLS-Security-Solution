@@ -1,0 +1,145 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46042011,-0.93261704,2020-01-17 16:25:13.659
+1,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46036918655713,-0.9325301117780436,2020-01-17 16:23:15.423
+2,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46047625368446,-0.9326949740621794,2020-01-17 16:25:07.026
+3,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.4603656570043,-0.932587031836895,2020-01-17 16:24:53.934
+4,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46047920576556,-0.9326800437707968,2020-01-17 16:24:46.316
+5,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.4603948895292,-0.9325914045131504,2020-01-17 16:24:38.704
+6,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.4603351204993,-0.932516116099918,2020-01-17 16:24:23.591
+7,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46047597860553,-0.9327324833962964,2020-01-17 16:24:10.556
+8,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.4603351204993,-0.932516116099918,2020-01-17 16:24:03.326
+9,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46047814881123,-0.9327224021806952,2020-01-17 16:23:50.087
+10,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46036089958762,-0.9326028049910028,2020-01-17 16:23:43.085
+11,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.46047625368446,-0.9326949740621794,2020-01-17 16:23:35.043
+12,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.4603656570043,-0.932587031836895,2020-01-17 16:23:22.832
+13,60:1d:91:24:21:6c,14,Michael Sanchez,Facilities Manager,2.0,employee,0,51.4604851363262,-0.9326645664863508,2020-01-17 16:23:09.219
+14,a8:c8:3a:03:d3:55,2,Michelle King,,,visitor,0,51.460410055651664,-0.932958254422186,2019-12-09 13:40:27.911
+15,a8:c8:3a:03:d3:55,2,Michelle King,,,visitor,0,51.46042151036534,-0.9330453626123116,2019-12-09 13:40:17.884
+16,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:09:36.301
+17,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:09:26.275
+18,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:09:16.242
+19,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:09:06.114
+20,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:08:56.087
+21,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:08:46.054
+22,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:08:35.628
+23,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:08:25.603
+24,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:08:15.574
+25,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:08:05.444
+26,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:07:55.420
+27,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.460913139733634,-0.9323699379557618,2019-10-03 16:07:45.393
+28,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 12:08:25.129
+29,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 12:04:41.843
+30,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:59:58.768
+31,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:58:48.051
+32,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-21 11:58:10.335
+33,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:57:55.193
+34,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:57:42.049
+35,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-21 11:57:34.324
+36,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:57:27.508
+37,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:57:04.840
+38,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:56:50.089
+39,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:56:38.257
+40,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:56:28.027
+41,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:56:16.792
+42,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:56:05.254
+43,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:55:54.719
+44,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:55:49.002
+45,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:55:33.557
+46,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:55:24.529
+47,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:55:19.718
+48,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:55:01.962
+49,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:54:47.621
+50,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46065474,-0.93223934,2019-10-21 11:54:32.169
+51,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:54:19.529
+52,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-21 11:53:21.452
+53,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:52:46.851
+54,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:52:21.169
+55,80:58:f8:50:81:e9,40,Sandra Willis DDS,Corporate Trainer,2.0,employee,0,51.46093752,-0.93238226,2019-10-21 11:50:36.043
+56,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46049051,-0.93277142,2019-10-22 15:57:40.944
+57,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.460505100353714,-0.9323555347700264,2019-10-22 15:57:33.724
+58,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46045250783924,-0.9325821275570918,2019-10-22 15:57:27.809
+59,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:57:17.584
+60,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:57:03.546
+61,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:56:57.430
+62,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:56:42.098
+63,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:56:32.468
+64,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:56:29.159
+65,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042691081604,-0.9326543222264142,2019-10-22 15:56:13.214
+66,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46046243333162,-0.9326090845090724,2019-10-22 15:56:08.801
+67,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46043810585199,-0.9325850293967812,2019-10-22 15:55:57.273
+68,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46046243333162,-0.9326090845090724,2019-10-22 15:55:45.948
+69,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.4604385706234,-0.932638588085688,2019-10-22 15:55:37.933
+70,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46052764,-0.93242922,2019-10-22 15:55:10.858
+71,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46042601785216,-0.932571644468717,2019-10-22 15:55:07.446
+72,d0:77:14:22:f2:6f,17,Mariah Smith DDS,Healthcare Administrator,0.0,employee,0,51.46048177470512,-0.9324901033246328,2019-10-22 15:55:25.997
+73,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:17:40.323
+74,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:15:32.594
+75,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:15:19.155
+76,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:14:52.287
+77,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:14:49.582
+78,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:14:30.832
+79,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:14:14.977
+80,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:13:20.027
+81,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:13:17.920
+82,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:12:21.159
+83,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:12:00.906
+84,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:11:58.801
+85,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-14 13:11:43.971
+86,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:11:36.940
+87,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:27.108
+88,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:14.679
+89,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-14 13:11:03.859
+90,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-14 13:10:57.313
+91,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:45.998
+92,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-14 13:10:28.140
+93,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:19.429
+94,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:10:04.196
+95,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-14 13:09:45.844
+96,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:09:34.614
+97,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:09:25.690
+98,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:25.150
+99,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:16.026
+100,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-14 13:08:08.005
+101,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:53.473
+102,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:39.740
+103,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:22.293
+104,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:07:02.643
+105,80:58:f8:eb:f2:a4,33,Katherine Padilla,Environmental Consultant,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:04:04.967
+106,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46077487513325,-0.9322258068645056,2020-01-17 15:56:27.737
+107,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:56:10.422
+108,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46077487513325,-0.9322258068645056,2020-01-17 15:56:02.278
+109,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:55:55.257
+110,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46077487513325,-0.9322258068645056,2020-01-17 15:55:47.644
+111,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:55:35.005
+112,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46077487513325,-0.9322258068645056,2020-01-17 15:55:27.191
+113,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:55:19.778
+114,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46077487513325,-0.9322258068645056,2020-01-17 15:55:07.155
+115,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.4607933784341,-0.9322571612514324,2020-01-17 15:54:52.108
+116,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46081039731518,-0.9323346324787078,2020-01-17 15:54:39.172
+117,60:1d:91:72:47:10,12,Russell Little,Facilities Manager,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 15:54:23.955
+118,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:40:30.859
+119,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:40:25.844
+120,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:40:15.719
+121,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:40:05.682
+122,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:39:55.349
+123,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:39:45.222
+124,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:39:35.184
+125,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:39:25.146
+126,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:39:15.018
+127,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.460368231627015,-0.9327659119240116,2019-11-05 09:39:01.167
+128,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.46045897604108,-0.933168783389732,2019-11-05 09:38:59.656
+129,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.460368231627015,-0.9327659119240116,2019-11-05 09:38:46.021
+130,88:b4:a6:20:f6:01,13,Joe Cline,Graphic Designer,0.0,employee,0,51.460368231627015,-0.9327659119240116,2019-11-05 09:38:35.883
+131,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:35:18.055
+132,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:35:07.921
+133,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:34:57.887
+134,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:34:47.460
+135,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:34:37.425
+136,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:34:27.390
+137,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:34:17.251
+138,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:34:07.217
+139,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:33:57.182
+140,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:33:46.747
+141,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:33:36.715
+142,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46060051376343,-0.932379496197957,2019-11-12 12:33:26.682
+143,24:46:c8:f5:31:6c,13,Reginald Garrett,Biomedical Engineer,3.0,employee,0,51.46045652,-0.93302278,2019-11-12 12:33:19.859

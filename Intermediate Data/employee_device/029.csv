@@ -1,0 +1,204 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460612573971694,-0.9323049030682672,2020-02-25 16:14:19.166
+1,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460612573971694,-0.9323049030682672,2020-02-25 16:14:01.318
+2,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.46063064848613,-0.9323066683698836,2020-02-25 16:13:52.711
+3,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460557562364656,-0.9322831402867225,2020-02-25 16:13:47.614
+4,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460612573971694,-0.9323049030682672,2020-02-25 16:13:31.436
+5,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.46041432,-0.93228554,2020-02-25 16:13:25.565
+6,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460557562364656,-0.9322831402867225,2020-02-25 16:13:15.805
+7,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.46057489,-0.93228285,2020-02-25 16:13:03.466
+8,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.46063064848613,-0.9323066683698836,2020-02-25 16:12:56.517
+9,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460696723590594,-0.9323541483363889,2020-02-25 16:12:45.573
+10,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460612573971694,-0.9323049030682672,2020-02-25 16:12:32.204
+11,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.460612573971694,-0.9323049030682672,2020-02-25 16:12:26.526
+12,24:46:c8:ee:00:4a,13,Selena Navarro,Project Manager,2.0,employee,0,51.46080124,-0.93237954,2020-02-25 16:12:18.753
+13,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:14:14.243
+14,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:14:09.035
+15,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:13:58.872
+16,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:13:48.561
+17,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:13:37.929
+18,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:13:27.695
+19,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:13:17.364
+20,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.4606371,-0.93246087,2019-11-06 12:13:05.525
+21,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:12:56.293
+22,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:12:45.961
+23,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:12:35.423
+24,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.460492181206234,-0.9323468175172284,2019-11-06 12:12:25.088
+25,24:46:c8:5d:d2:6b,13,Melissa Keller,Systems Analyst,2.0,employee,0,51.4606371,-0.93246087,2019-11-06 12:12:14.962
+26,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:00:39.227
+27,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:58:14.825
+28,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:55:50.017
+29,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:55:32.169
+30,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46092391451826,-0.9321790031685276,2019-10-18 13:54:54.275
+31,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 13:54:49.926
+32,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-18 13:54:36.767
+33,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46092391451826,-0.9321790031685276,2019-10-18 13:54:23.201
+34,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46085929943607,-0.932247122787036,2019-10-18 13:54:19.908
+35,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46085929943607,-0.932247122787036,2019-10-18 13:54:06.034
+36,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46085929943607,-0.932247122787036,2019-10-18 13:53:58.426
+37,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 13:53:37.972
+38,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 13:53:28.453
+39,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:53:19.322
+40,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46085929943607,-0.932247122787036,2019-10-18 13:52:57.659
+41,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:52:22.164
+42,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:52:06.818
+43,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46085929943607,-0.932247122787036,2019-10-18 13:51:46.962
+44,80:58:f8:16:e8:63,19,Michael Glover,Database Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:50:29.758
+45,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:27:28.438
+46,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:26:51.938
+47,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:21:37.229
+48,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:21:13.962
+49,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:17:41.153
+50,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:17:24.405
+51,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46055692630832,-0.9323158021019344,2019-10-18 09:13:35.355
+52,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46055800512498,-0.9322969689710634,2019-10-18 09:13:16.801
+53,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:12:57.948
+54,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:12:34.892
+55,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:12:23.252
+56,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:11:57.877
+57,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:11:32.710
+58,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:11:03.138
+59,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:08:46.434
+60,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:08:32.697
+61,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:07:15.375
+62,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:06:53.809
+63,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:06:27.130
+64,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-18 09:06:13.392
+65,80:58:f8:c8:19:5d,21,David Brown,Sales Associate,1.0,employee,0,51.46055800512498,-0.9322969689710634,2019-10-18 09:05:43.805
+66,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46057489,-0.93228285,2019-10-22 11:59:54.539
+67,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:59:45.812
+68,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:59:36.187
+69,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:59:23.349
+70,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46067969407584,-0.9322686150817404,2019-10-22 11:59:18.634
+71,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46067969407584,-0.9322686150817404,2019-10-22 11:59:07.698
+72,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:58:55.057
+73,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46067969407584,-0.9322686150817404,2019-10-22 11:58:45.627
+74,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:58:38.016
+75,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:58:28.983
+76,24:46:c8:04:8e:93,11,Mr. James Conway,Customer Service Representative,2.0,employee,0,51.46083184,-0.93224795,2019-10-22 11:58:19.655
+77,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:18:26.700
+78,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:18:16.475
+79,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:18:06.044
+80,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:17:56.620
+81,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:17:45.987
+82,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:17:35.963
+83,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:17:27.037
+84,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:17:15.900
+85,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:17:05.377
+86,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:16:55.538
+87,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:16:45.314
+88,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-11 09:16:35.383
+89,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:24:35.495
+90,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:24:25.464
+91,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:24:15.332
+92,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:24:04.994
+93,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:23:59.982
+94,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:23:49.948
+95,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:23:39.918
+96,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:23:29.885
+97,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:23:19.662
+98,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:23:09.626
+99,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:22:59.292
+100,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:22:49.260
+101,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-23 09:22:39.231
+102,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:50:06.511
+103,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:49:56.284
+104,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:48:56.805
+105,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:48:37.350
+106,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-21 12:48:28.825
+107,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46092153700096,-0.9321805864301425,2019-10-21 12:48:17.489
+108,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:48:08.462
+109,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46092153700096,-0.9321805864301425,2019-10-21 12:47:33.057
+110,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:47:26.041
+111,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-21 12:46:49.727
+112,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:46:01.991
+113,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46068874478084,-0.9324070293859744,2019-10-21 12:45:38.018
+114,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:45:15.445
+115,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46086822844277,-0.932237027780357,2019-10-21 12:45:01.302
+116,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:44:55.288
+117,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:44:42.244
+118,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:42:21.627
+119,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:33:42.875
+120,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:33:37.497
+121,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:33:25.071
+122,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:33:18.915
+123,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:33:07.670
+124,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:32:54.996
+125,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:32:49.918
+126,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:32:38.693
+127,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:32:24.727
+128,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:32:18.558
+129,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:32:09.745
+130,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044370213879,-0.9323231651025387,2020-02-21 11:31:54.699
+131,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46044346276465,-0.9325103459016024,2020-02-21 11:31:49.316
+132,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:33:19.815
+133,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:31:52.906
+134,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:29:44.207
+135,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:29:19.252
+136,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-14 14:28:29.534
+137,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:28:18.835
+138,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:28:08.289
+139,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093411527385,-0.9323815405226696,2019-10-14 14:27:57.357
+140,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46092072484047,-0.9323747248635792,2019-10-14 14:27:34.803
+141,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:27:19.373
+142,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-14 14:26:57.818
+143,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-14 14:26:43.484
+144,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093411527385,-0.9323815405226696,2019-10-14 14:26:30.559
+145,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-14 14:26:22.234
+146,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093411527385,-0.9323815405226696,2019-10-14 14:26:16.130
+147,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46092387681075,-0.9323753645879927,2019-10-14 14:26:07.801
+148,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-14 14:25:50.660
+149,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-14 14:25:38.229
+150,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:25:12.870
+151,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:25:05.059
+152,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093411527385,-0.9323815405226696,2019-10-14 14:24:53.220
+153,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:24:48.712
+154,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:24:34.073
+155,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:24:13.528
+156,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46062932322491,-0.93224398773525,2019-10-14 14:24:08.015
+157,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:23:59.893
+158,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:23:43.552
+159,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093411527385,-0.9323815405226696,2019-10-14 14:22:52.027
+160,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:29:10.981
+161,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:28:23.651
+162,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:24:33.041
+163,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:23:14.939
+164,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:23:01.209
+165,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:22:53.089
+166,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:22:35.855
+167,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:21:54.440
+168,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:21:21.361
+169,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:21:17.351
+170,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:21:06.825
+171,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:20:58.502
+172,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:20:22.019
+173,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:20:12.997
+174,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:19:57.564
+175,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:19:47.839
+176,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:19:29.500
+177,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:19:19.376
+178,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:17:58.095
+179,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:09:48.829
+180,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:09:38.807
+181,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:09:28.779
+182,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:09:18.759
+183,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:09:08.730
+184,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:08:58.710
+185,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:08:48.683
+186,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:08:38.659
+187,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:08:28.633
+188,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:08:18.607
+189,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:08:08.581
+190,80:58:f8:11:8c:3e,114,William Lynch,Machine Learning Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-21 16:07:58.468
+191,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46090362616411,-0.9323469280673176,2020-01-17 15:40:14.416
+192,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46090362616411,-0.9323469280673176,2020-01-17 15:39:54.355
+193,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:39:47.230
+194,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46090362616411,-0.9323469280673176,2020-01-17 15:39:39.311
+195,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46090362616411,-0.9323469280673176,2020-01-17 15:39:29.566
+196,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:39:16.889
+197,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:39:01.621
+198,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:38:54.204
+199,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:38:46.480
+200,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46090362616411,-0.9323469280673176,2020-01-17 15:38:39.163
+201,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 15:38:26.244
+202,60:1d:91:46:cf:79,12,David Wilson,Graphic Designer,3.0,employee,0,51.46093752,-0.93238226,2020-01-17 15:38:19.134

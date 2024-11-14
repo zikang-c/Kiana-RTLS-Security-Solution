@@ -1,0 +1,99 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:06:27.182
+1,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:06:17.156
+2,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:06:07.034
+3,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:05:57.012
+4,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:05:46.892
+5,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46083184,-0.93224795,2020-01-21 17:05:39.069
+6,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.4606371,-0.93246087,2020-01-21 17:04:56.672
+7,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.4606371,-0.93246087,2020-01-21 17:04:46.551
+8,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:04:36.530
+9,60:1d:91:f3:e3:96,10,Tammy Peters,Human Resources Manager,0.0,employee,0,51.46066618986819,-0.9324290644400988,2020-01-21 17:04:26.496
+10,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:17:29.595
+11,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:14:17.958
+12,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:13:34.931
+13,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:13:26.813
+14,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-17 12:13:16.983
+15,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:13:02.057
+16,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:12:31.483
+17,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:12:18.955
+18,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:11:43.264
+19,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-17 12:11:37.149
+20,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:11:21.416
+21,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-17 12:11:09.182
+22,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:10:40.310
+23,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:09:54.196
+24,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:09:40.663
+25,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:09:37.957
+26,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:09:21.214
+27,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:08:31.508
+28,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:08:27.688
+29,80:58:f8:80:f3:92,20,Stanley Brown MD,Maintenance Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:07:19.918
+30,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:02:20.129
+31,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:02:15.111
+32,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:02:04.685
+33,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:01:59.673
+34,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:01:49.646
+35,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:01:34.601
+36,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46084539805081,-0.9322025803413319,2019-09-09 13:01:29.585
+37,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46051793,-0.93230969,2019-09-09 13:00:57.290
+38,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46051793,-0.93230969,2019-09-09 13:00:47.167
+39,80:58:f8:be:39:22,10,James Church,Warehouse Manager,1.0,employee,0,51.46094269,-0.9321665,2019-09-09 13:00:37.538
+40,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460681457992074,-0.9324253214292888,2020-01-21 15:45:47.726
+41,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460815590714994,-0.932317827235743,2020-01-21 15:45:37.297
+42,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460681457992074,-0.9324253214292888,2020-01-21 15:45:22.570
+43,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460815590714994,-0.932317827235743,2020-01-21 15:45:17.046
+44,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460681457992074,-0.9324253214292888,2020-01-21 15:45:07.519
+45,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460681457992074,-0.9324253214292888,2020-01-21 15:44:57.402
+46,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460681457992074,-0.9324253214292888,2020-01-21 15:44:47.378
+47,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460681457992074,-0.9324253214292888,2020-01-21 15:44:37.350
+48,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460815590714994,-0.932317827235743,2020-01-21 15:44:26.435
+49,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460815590714994,-0.932317827235743,2020-01-21 15:44:16.309
+50,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460815590714994,-0.932317827235743,2020-01-21 15:44:06.181
+51,60:1d:91:71:ec:be,12,Lucas Lewis,Copywriter,2.0,employee,0,51.460815590714994,-0.932317827235743,2020-01-21 15:43:56.146
+52,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:59:20.584
+53,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:58:54.727
+54,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:58:12.429
+55,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.460830215,-0.93228143,2019-10-17 12:56:40.226
+56,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:55:51.418
+57,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:55:46.510
+58,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:55:35.485
+59,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:55:27.368
+60,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:53:24.878
+61,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:53:05.948
+62,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:52:56.821
+63,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:52:40.283
+64,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:52:35.767
+65,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.460830215,-0.93228143,2019-10-17 12:52:29.762
+66,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:52:18.026
+67,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.460830215,-0.93228143,2019-10-17 12:52:06.309
+68,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.460830215,-0.93228143,2019-10-17 12:51:56.674
+69,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:51:37.338
+70,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:51:10.279
+71,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:50:53.266
+72,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:50:45.519
+73,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:50:34.003
+74,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:50:29.388
+75,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:50:00.921
+76,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.460830215,-0.93228143,2019-10-17 12:49:55.615
+77,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.460830215,-0.93228143,2019-10-17 12:49:48.285
+78,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:49:31.647
+79,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:49:24.125
+80,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:49:19.115
+81,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:48:59.367
+82,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:48:12.460
+83,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:48:03.045
+84,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:46:34.145
+85,80:58:f8:a5:1c:05,34,Elizabeth Brennan,Sales Associate,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:46:08.088
+86,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46041432,-0.93228554,2019-10-22 16:29:00.114
+87,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:28:55.202
+88,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:28:49.894
+89,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:28:34.964
+90,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.4606371,-0.93246087,2019-10-22 16:28:28.140
+91,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:28:19.816
+92,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:28:07.088
+93,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:27:58.570
+94,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:27:46.738
+95,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:27:34.409
+96,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.46041432,-0.93228554,2019-10-22 16:27:29.400
+97,24:46:c8:17:db:20,12,Monica Singh,Network Administrator,1.0,employee,0,51.4606371,-0.93246087,2019-10-22 16:27:18.065

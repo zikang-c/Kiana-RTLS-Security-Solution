@@ -1,0 +1,159 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46044195832658,-0.932374097076364,2019-10-22 12:43:41.683
+1,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46040952813826,-0.9322699505484808,2019-10-22 12:43:37.174
+2,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46040952813826,-0.9322699505484808,2019-10-22 12:43:25.342
+3,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46050376,-0.93231244,2019-10-22 12:43:18.926
+4,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46050376,-0.93231244,2019-10-22 12:43:08.391
+5,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46050376,-0.93231244,2019-10-22 12:42:58.464
+6,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.46041606326577,-0.9325216654178125,2019-10-22 12:42:49.444
+7,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.4604303137446,-0.9324725622953264,2019-10-22 12:42:39.007
+8,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.460467341622966,-0.9325651488525072,2019-10-22 12:42:25.777
+9,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.4604303137446,-0.9324725622953264,2019-10-22 12:42:14.144
+10,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.4604303137446,-0.9324725622953264,2019-10-22 12:42:08.828
+11,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.4604303137446,-0.9324725622953264,2019-10-22 12:41:59.001
+12,58:d9:c3:3b:47:b8,13,Diane Austin,Data Scientist,2.0,employee,0,51.4604303137446,-0.9324725622953264,2019-10-22 12:41:48.475
+13,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047544746583,-0.9328337517248886,2020-01-13 14:33:31.927
+14,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46048136904016,-0.9326648651089416,2020-01-13 14:33:25.110
+15,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047544746583,-0.9328337517248886,2020-01-13 14:33:16.885
+16,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46048136904016,-0.9326648651089416,2020-01-13 14:33:04.758
+17,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047544746583,-0.9328337517248886,2020-01-13 14:32:56.732
+18,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047544746583,-0.9328337517248886,2020-01-13 14:32:46.614
+19,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047544746583,-0.9328337517248886,2020-01-13 14:32:36.584
+20,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047544746583,-0.9328337517248886,2020-01-13 14:32:26.462
+21,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047533144565,-0.9328411890784888,2020-01-13 14:32:11.418
+22,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047533144565,-0.9328411890784888,2020-01-13 14:31:56.284
+23,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047533144565,-0.9328411890784888,2020-01-13 14:31:41.155
+24,60:1d:91:e9:00:51,12,David Alvarez,Janitor,0.0,employee,0,51.46047533144565,-0.9328411890784888,2020-01-13 14:31:36.135
+25,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:11:40.238
+26,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:10:47.823
+27,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:10:38.501
+28,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:09:29.840
+29,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:09:03.192
+30,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:08:53.764
+31,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:06:48.276
+32,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:06:31.834
+33,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:05:51.550
+34,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:05:04.751
+35,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:04:58.627
+36,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:04:44.092
+37,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:04:14.830
+38,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 16:04:09.716
+39,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:03:40.552
+40,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:03:21.211
+41,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-17 16:02:53.451
+42,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:02:49.040
+43,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:02:39.116
+44,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:02:24.480
+45,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:01:52.515
+46,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:01:45.296
+47,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:01:24.851
+48,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:01:16.338
+49,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 16:01:02.108
+50,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 16:00:11.989
+51,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:59:06.042
+52,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:58:52.814
+53,80:58:f8:b8:40:60,29,Colin Holland,Network Administrator,3.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:57:46.871
+54,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:58:50.188
+55,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:58:45.166
+56,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:58:35.038
+57,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:58:25.003
+58,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46046873912794,-0.93300971311931,2019-11-01 10:58:15.770
+59,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:58:03.947
+60,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:57:58.924
+61,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:57:48.812
+62,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:57:38.765
+63,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:57:28.632
+64,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46038590479359,-0.932776688340597,2019-11-01 10:57:13.187
+65,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46046873912794,-0.93300971311931,2019-11-01 10:57:05.056
+66,88:b4:a6:9f:bf:03,13,Raymond Hubbard,Customer Service Manager,2.0,employee,0,51.46046873912794,-0.93300971311931,2019-11-01 10:56:55.019
+67,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 10:00:34.719
+68,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 10:00:26.805
+69,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 10:00:18.984
+70,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 10:00:09.665
+71,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 09:59:58.341
+72,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 09:59:47.915
+73,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 09:59:24.559
+74,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 09:59:13.639
+75,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 09:59:09.027
+76,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46093752,-0.93238226,2019-10-22 09:58:56.998
+77,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:49:05.269
+78,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:48:54.290
+79,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:48:47.583
+80,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:48:32.760
+81,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:48:23.790
+82,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:48:17.579
+83,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:48:05.912
+84,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:47:54.584
+85,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:47:48.366
+86,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:47:36.970
+87,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:47:25.243
+88,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:47:17.876
+89,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46085533,-0.93236214,2020-02-24 09:47:06.521
+90,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:42:52.803
+91,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:42:48.495
+92,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:42:38.894
+93,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:42:24.984
+94,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:42:17.681
+95,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:42:08.442
+96,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:41:58.926
+97,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:41:47.197
+98,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:41:37.740
+99,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:41:27.991
+100,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:41:18.757
+101,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:41:07.311
+102,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460913248670415,-0.9323763184115944,2020-02-07 13:40:59.877
+103,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:13:04.291
+104,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:12:07.929
+105,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:42.353
+106,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:08.952
+107,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:35.761
+108,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 13:10:26.936
+109,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:19.429
+110,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:10:04.196
+111,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:09:58.269
+112,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:09:45.642
+113,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 13:09:34.614
+114,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 13:09:25.690
+115,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 13:09:08.149
+116,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:08:55.019
+117,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:45.596
+118,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:08:34.167
+119,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:29.659
+120,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:16.330
+121,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:04.407
+122,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:53.473
+123,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:07:45.353
+124,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:22.293
+125,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 13:07:12.967
+126,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:07:02.643
+127,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:06:53.928
+128,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:06:33.060
+129,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:06:00.879
+130,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:05:55.864
+131,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:05:36.205
+132,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:04:04.967
+133,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:07:04.431
+134,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:06:59.405
+135,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:06:49.183
+136,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:06:39.066
+137,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:06:28.938
+138,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:06:18.905
+139,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:06:08.783
+140,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:05:58.648
+141,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:05:48.438
+142,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:05:38.303
+143,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:05:28.170
+144,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:05:18.063
+145,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46050869,-0.93299578,2020-01-15 10:05:07.920
+146,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:49:36.078
+147,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:49:26.050
+148,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:49:16.027
+149,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:49:06.002
+150,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:48:55.974
+151,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:48:45.858
+152,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:48:35.833
+153,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:48:25.806
+154,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:48:15.779
+155,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:48:05.750
+156,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:47:55.636
+157,80:58:f8:ee:c4:1b,91,Courtney Esparza,Data Scientist,0.0,employee,0,51.46065474,-0.93223934,2020-01-06 11:47:45.602

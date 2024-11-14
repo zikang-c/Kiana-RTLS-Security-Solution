@@ -1,0 +1,186 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:24:06.047
+1,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:22:40.306
+2,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:20:46.296
+3,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:20:21.430
+4,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:19:36.712
+5,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:19:24.978
+6,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:19:14.846
+7,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:18:54.690
+8,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:18:42.357
+9,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:18:32.528
+10,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:17:51.521
+11,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 14:17:01.882
+12,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:15:29.731
+13,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 14:15:11.983
+14,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:15:06.068
+15,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:14:54.138
+16,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:14:45.510
+17,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:14:18.939
+18,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 14:13:39.140
+19,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:13:27.205
+20,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:13:16.574
+21,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 14:12:42.883
+22,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 14:12:29.943
+23,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:12:07.985
+24,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:11:31.491
+25,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:11:27.581
+26,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:11:11.334
+27,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:11:02.633
+28,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:10:57.803
+29,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:10:12.677
+30,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:10:05.157
+31,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:09:53.529
+32,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:09:30.768
+33,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:09:21.346
+34,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:09:18.537
+35,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:08:33.317
+36,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:08:24.094
+37,80:58:f8:9a:6e:6a,38,Joseph King,Inventory Clerk,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:04:08.916
+38,24:46:c8:9e:e7:46,5,Barbara Sanford,,,visitor,0,51.4606371,-0.93246087,2019-11-12 09:50:23.270
+39,24:46:c8:9e:e7:46,5,Barbara Sanford,,,visitor,0,51.4606371,-0.93246087,2019-11-12 09:50:18.248
+40,24:46:c8:9e:e7:46,5,Barbara Sanford,,,visitor,0,51.460518798832894,-0.9323677658451032,2019-11-12 09:50:06.109
+41,24:46:c8:9e:e7:46,5,Barbara Sanford,,,visitor,0,51.4606371,-0.93246087,2019-11-12 09:49:58.269
+42,24:46:c8:9e:e7:46,5,Barbara Sanford,,,visitor,0,51.4606371,-0.93246087,2019-11-12 09:49:47.736
+43,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 16:02:49.137
+44,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 16:01:11.774
+45,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 16:00:59.538
+46,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 16:00:47.010
+47,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46079947681433,-0.9321869820988936,2019-10-15 16:00:38.782
+48,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460948770209015,-0.9321863342396884,2019-10-15 16:00:27.359
+49,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:59:54.865
+50,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460948770209015,-0.9321863342396884,2019-10-15 15:59:10.452
+51,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460937055698736,-0.9321862370675436,2019-10-15 15:58:29.342
+52,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 15:58:14.806
+53,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 15:57:59.876
+54,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:57:23.785
+55,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460948770209015,-0.9321863342396884,2019-10-15 15:57:13.759
+56,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460937055698736,-0.9321862370675436,2019-10-15 15:57:00.425
+57,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460948770209015,-0.9321863342396884,2019-10-15 15:56:59.524
+58,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 15:56:46.991
+59,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:56:25.644
+60,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460937055698736,-0.9321862370675436,2019-10-15 15:56:17.925
+61,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.460937055698736,-0.9321862370675436,2019-10-15 15:56:09.903
+62,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:55:38.930
+63,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:55:19.974
+64,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46079947681433,-0.9321869820988936,2019-10-15 15:55:05.147
+65,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:54:59.724
+66,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:54:33.057
+67,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 15:54:22.528
+68,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46094952,-0.93218625,2019-10-15 15:53:31.895
+69,f4:f5:24:7f:fa:ac,27,Jody Martinez,Production Worker,1.0,employee,0,51.46080495,-0.9321861,2019-10-15 15:52:52.723
+70,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46083184,-0.93224795,2019-10-31 13:41:58.639
+71,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46056944708392,-0.932550160132014,2019-10-31 13:41:43.680
+72,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46083184,-0.93224795,2019-10-31 13:41:38.565
+73,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46083184,-0.93224795,2019-10-31 13:41:28.531
+74,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46083184,-0.93224795,2019-10-31 13:41:18.492
+75,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46056944708392,-0.932550160132014,2019-10-31 13:41:03.043
+76,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46083184,-0.93224795,2019-10-31 13:40:57.923
+77,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46056944708392,-0.932550160132014,2019-10-31 13:40:47.885
+78,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46056944708392,-0.932550160132014,2019-10-31 13:40:27.411
+79,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46056944708392,-0.932550160132014,2019-10-31 13:40:16.875
+80,24:46:c8:7b:4b:00,11,Luis Fields,Supply Chain Analyst,1.0,employee,0,51.46056944708392,-0.932550160132014,2019-10-31 13:40:06.747
+81,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:25:51.752
+82,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:24:45.976
+83,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:24:11.790
+84,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:24:06.170
+85,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:23:58.354
+86,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:21:55.658
+87,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:21:19.160
+88,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:21:09.034
+89,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:20:49.885
+90,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:20:30.742
+91,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:20:24.030
+92,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:20:08.493
+93,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:19:32.405
+94,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:19:28.596
+95,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:19:14.665
+96,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:18:52.214
+97,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:18:44.699
+98,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:18:36.879
+99,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:18:21.044
+100,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:18:15.534
+101,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:18:07.415
+102,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:17:48.670
+103,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:17:34.940
+104,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-17 16:17:11.292
+105,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:16:59.260
+106,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:16:45.529
+107,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:16:25.387
+108,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:16:07.850
+109,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:15:47.298
+110,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 16:15:32.575
+111,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:14:45.162
+112,80:58:f8:91:87:39,32,Teresa Wagner,Digital Marketing Manager,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 16:14:36.844
+113,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:42:44.334
+114,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:42:12.249
+115,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:41:41.068
+116,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:41:32.344
+117,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:41:23.020
+118,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:40:54.537
+119,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:40:21.845
+120,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:40:17.234
+121,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:39:56.476
+122,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:38:30.744
+123,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:38:02.871
+124,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:37:44.011
+125,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:37:32.972
+126,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:36:17.055
+127,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076387516965,-0.932240842466865,2019-10-18 11:34:43.593
+128,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:33:49.632
+129,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46058018051011,-0.9323750056997788,2019-10-18 11:33:00.095
+130,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:32:50.564
+131,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:32:47.153
+132,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:32:36.328
+133,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.4607790969249,-0.9322267879002376,2019-10-18 11:32:13.051
+134,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:32:03.844
+135,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.4607790969249,-0.9322267879002376,2019-10-18 11:31:59.411
+136,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:31:11.474
+137,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:30:19.124
+138,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46058018051011,-0.9323750056997788,2019-10-18 11:30:01.472
+139,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:29:56.362
+140,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46058018051011,-0.9323750056997788,2019-10-18 11:29:19.255
+141,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:28:57.892
+142,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:28:33.624
+143,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:28:29.617
+144,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:28:15.070
+145,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:27:41.678
+146,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-18 11:24:50.395
+147,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:01:15.764
+148,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:01:05.731
+149,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:00:55.604
+150,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:00:45.480
+151,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:00:35.355
+152,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:00:25.233
+153,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:00:15.109
+154,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 14:00:04.995
+155,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 13:59:59.973
+156,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 13:59:49.859
+157,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 13:59:39.727
+158,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 13:59:29.597
+159,80:58:f8:3d:b8:33,47,Lisa Chandler,Maintenance Technician,0.0,employee,0,51.460896992089374,-0.9322131953622422,2020-01-06 13:59:19.472
+160,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:45:25.423
+161,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46077986472042,-0.9322302433159132,2019-10-15 12:45:08.020
+162,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:44:30.865
+163,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46058185355016,-0.932376761119638,2019-10-15 12:40:58.968
+164,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:40:37.215
+165,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:39:47.778
+166,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:39:19.606
+167,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:39:09.171
+168,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:38:37.490
+169,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46058185355016,-0.932376761119638,2019-10-15 12:38:19.140
+170,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:38:00.388
+171,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:37:52.065
+172,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46077986472042,-0.9322302433159132,2019-10-15 12:37:35.330
+173,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:37:20.986
+174,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:37:11.153
+175,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:37:07.546
+176,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46058185355016,-0.932376761119638,2019-10-15 12:36:52.202
+177,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46058185355016,-0.932376761119638,2019-10-15 12:36:32.544
+178,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46077986472042,-0.9322302433159132,2019-10-15 12:36:20.909
+179,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:35:55.349
+180,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:35:39.306
+181,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:35:27.973
+182,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:34:55.691
+183,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:34:49.975
+184,80:58:f8:0d:03:23,25,Edward Collins,Supply Chain Analyst,2.0,employee,0,51.460783842815886,-0.932225281414192,2019-10-15 12:34:32.319

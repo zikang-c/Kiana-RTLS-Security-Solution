@@ -1,0 +1,127 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.46079658352446,-0.932254877614481,2019-12-10 10:48:54.035
+1,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.46079658352446,-0.932254877614481,2019-12-10 10:48:49.019
+2,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.46079658352446,-0.932254877614481,2019-12-10 10:48:38.995
+3,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:48:28.964
+4,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:48:18.933
+5,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.46079658352446,-0.932254877614481,2019-12-10 10:48:08.910
+6,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:47:58.881
+7,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:47:48.761
+8,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:47:38.732
+9,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:47:28.706
+10,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:47:18.676
+11,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.46079658352446,-0.932254877614481,2019-12-10 10:47:08.652
+12,80:58:f8:2a:c9:9f,13,Mitchell Smith,Machine Learning Engineer,2.0,employee,0,51.460923298521465,-0.9322605500317388,2019-12-10 10:46:58.618
+13,80:58:f8:12:0e:9c,6,Adrian King,,,visitor,0,51.46047804,-0.93266756,2020-01-06 08:43:29.262
+14,80:58:f8:12:0e:9c,6,Adrian King,,,visitor,0,51.46046791685633,-0.9325524963565422,2020-01-06 08:43:19.040
+15,80:58:f8:12:0e:9c,6,Adrian King,,,visitor,0,51.46047804,-0.93266756,2020-01-06 08:43:08.907
+16,80:58:f8:12:0e:9c,6,Adrian King,,,visitor,0,51.46046791685633,-0.9325524963565422,2020-01-06 08:42:58.689
+17,80:58:f8:12:0e:9c,6,Adrian King,,,visitor,0,51.46046791685633,-0.9325524963565422,2020-01-06 08:42:48.563
+18,80:58:f8:12:0e:9c,6,Adrian King,,,visitor,0,51.46046791685633,-0.9325524963565422,2020-01-06 08:42:38.331
+19,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:39:26.502
+20,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:35:59.481
+21,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:35:42.097
+22,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:35:26.958
+23,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:35:14.423
+24,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:34:03.530
+25,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:33:39.361
+26,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:31:30.016
+27,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:31:20.587
+28,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:31:19.982
+29,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:31:00.233
+30,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:30:30.249
+31,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:30:24.334
+32,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:30:18.919
+33,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:30:04.375
+34,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:29:15.643
+35,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:28:26.717
+36,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:28:02.450
+37,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:27:30.564
+38,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:27:09.005
+39,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:26:56.070
+40,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:21:57.406
+41,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:21:37.071
+42,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:21:02.401
+43,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:19:58.251
+44,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:17:43.515
+45,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:17:32.800
+46,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:17:10.944
+47,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:16:46.577
+48,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:16:36.158
+49,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-17 12:16:03.398
+50,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:15:46.343
+51,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-17 12:15:26.994
+52,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:15:17.572
+53,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:14:50.209
+54,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:14:44.597
+55,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:14:34.580
+56,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:14:00.994
+57,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:13:52.071
+58,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:13:42.650
+59,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46059815,-0.93239386,2019-10-17 12:13:13.381
+60,80:58:f8:c8:50:70,42,Makayla Mitchell,Chief Financial Officer,2.0,employee,0,51.46078621,-0.93222453,2019-10-17 12:10:09.631
+61,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46051672862891,-0.9324210272960644,2020-01-22 14:14:54.951
+62,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46051672862891,-0.9324210272960644,2020-01-22 14:14:49.941
+63,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46051672862891,-0.9324210272960644,2020-01-22 14:14:34.902
+64,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46051672862891,-0.9324210272960644,2020-01-22 14:14:29.796
+65,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46077181285322,-0.932455748589732,2020-01-22 14:14:16.066
+66,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46077181285322,-0.932455748589732,2020-01-22 14:14:05.933
+67,60:1d:91:1a:85:a0,7,Zachary Hatfield,,,visitor,0,51.46077181285322,-0.932455748589732,2020-01-22 14:13:55.712
+68,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:34:51.935
+69,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:29:58.180
+70,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:29:37.428
+71,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:29:07.767
+72,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:28:10.143
+73,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:28:06.939
+74,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:27:59.412
+75,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46093802460212,-0.9321732347944022,2019-10-17 13:27:49.792
+76,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:27:25.945
+77,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:27:19.825
+78,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:27:03.014
+79,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46093802460212,-0.9321732347944022,2019-10-17 13:26:49.960
+80,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:26:36.634
+81,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:26:24.803
+82,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46081631155072,-0.9322956369208804,2019-10-17 13:26:13.179
+83,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46093802460212,-0.9321732347944022,2019-10-17 13:25:52.426
+84,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:25:47.315
+85,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:25:28.473
+86,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46081631155072,-0.9322956369208804,2019-10-17 13:25:09.825
+87,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46081481142745,-0.9322980368217112,2019-10-17 13:24:57.798
+88,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:24:46.272
+89,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:24:33.939
+90,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:24:27.026
+91,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:24:18.503
+92,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:24:08.579
+93,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46081631155072,-0.9322956369208804,2019-10-17 13:23:49.230
+94,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:23:08.740
+95,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:22:50.101
+96,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:22:44.786
+97,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:22:37.770
+98,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:22:28.450
+99,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071584787347,-0.932399831446837,2019-10-17 13:21:58.578
+100,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 13:21:12.175
+101,80:58:f8:61:da:d6,34,Angela Gonzales,Production Worker,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 13:20:29.879
+102,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:32:42.489
+103,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:30:39.124
+104,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46088727638633,-0.9322231231306388,2019-10-15 11:26:33.784
+105,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:26:19.244
+106,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:25:44.739
+107,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:25:38.729
+108,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:25:14.053
+109,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:25:09.946
+110,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:24:56.013
+111,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:24:43.158
+112,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:24:23.206
+113,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:24:10.267
+114,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:24:01.743
+115,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:23:55.530
+116,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:23:45.198
+117,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46088727638633,-0.9322231231306388,2019-10-15 11:23:09.332
+118,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:22:56.367
+119,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:22:35.298
+120,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:22:19.751
+121,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:21:50.968
+122,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:21:25.193
+123,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:21:06.454
+124,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:20:50.890
+125,80:58:f8:7b:df:36,24,Rhonda Cain,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:18:02.312

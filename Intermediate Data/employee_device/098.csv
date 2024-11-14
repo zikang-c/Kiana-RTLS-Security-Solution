@@ -1,0 +1,108 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:46:53.602
+1,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:38.715
+2,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:44:54.505
+3,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:44:48.086
+4,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:44:07.279
+5,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:37.203
+6,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:29.484
+7,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46048152068074,-0.9329429506114116,2019-10-15 13:43:18.850
+8,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:42:36.446
+9,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:09.878
+10,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46042964839811,-0.9330834497260596,2019-10-15 13:41:33.272
+11,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:41:20.440
+12,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:41:01.989
+13,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460436950184544,-0.9330074866080716,2019-10-15 13:40:52.067
+14,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:42.343
+15,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:31.917
+16,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:29.210
+17,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46042964839811,-0.9330834497260596,2019-10-15 13:40:19.883
+18,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:39:50.303
+19,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460436950184544,-0.9330074866080716,2019-10-15 13:39:48.401
+20,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:39:14.427
+21,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46042964839811,-0.9330834497260596,2019-10-15 13:38:53.169
+22,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46048152068074,-0.9329429506114116,2019-10-15 13:38:48.356
+23,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46048152068074,-0.9329429506114116,2019-10-15 13:38:39.937
+24,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:38:28.114
+25,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46048152068074,-0.9329429506114116,2019-10-15 13:38:17.882
+26,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46048152068074,-0.9329429506114116,2019-10-15 13:37:55.626
+27,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460436950184544,-0.9330074866080716,2019-10-15 13:37:34.569
+28,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460423766368194,-0.9329462423576684,2019-10-15 13:37:21.335
+29,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460436950184544,-0.9330074866080716,2019-10-15 13:37:13.416
+30,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460423766368194,-0.9329462423576684,2019-10-15 13:37:01.280
+31,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:36:56.271
+32,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460423766368194,-0.9329462423576684,2019-10-15 13:36:35.814
+33,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:36:16.667
+34,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460423766368194,-0.9329462423576684,2019-10-15 13:36:07.346
+35,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:35:48.798
+36,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:35:25.542
+37,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46048152068074,-0.9329429506114116,2019-10-15 13:35:13.112
+38,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:34:55.261
+39,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:34:35.808
+40,f4:f5:24:80:a0:f7,41,Edward Barnett,Environmental Consultant,1.0,employee,0,51.460423766368194,-0.9329462423576684,2019-10-15 13:34:29.892
+41,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46041615,-0.9329718999999999,2019-11-11 10:39:49.065
+42,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-11-11 10:39:39.730
+43,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-11-11 10:39:29.597
+44,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-11-11 10:39:19.165
+45,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-11-11 10:38:53.891
+46,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-11-11 10:38:48.869
+47,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46041615,-0.9329718999999999,2019-11-11 10:38:38.133
+48,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46041615,-0.9329718999999999,2019-11-11 10:38:28.097
+49,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46041615,-0.9329718999999999,2019-11-11 10:38:17.968
+50,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46034575,-0.93307374,2019-11-11 10:38:07.626
+51,88:b4:a6:45:3f:de,11,Renee Estrada,Chief Marketing Officer,2.0,employee,0,51.46041615,-0.9329718999999999,2019-11-11 10:37:51.875
+52,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:44:38.088
+53,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:40:57.765
+54,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:40:38.013
+55,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:40:20.065
+56,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:40:14.196
+57,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:39:54.794
+58,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:39:42.554
+59,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:39:19.803
+60,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:39:08.494
+61,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:38:47.503
+62,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:38:23.535
+63,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:38:19.923
+64,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:38:08.091
+65,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:37:59.870
+66,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:37:41.218
+67,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:37:39.315
+68,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:37:28.088
+69,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:37:13.656
+70,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:36:56.703
+71,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:36:41.454
+72,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:36:37.038
+73,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:36:12.977
+74,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:36:07.464
+75,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:35:56.229
+76,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:35:37.271
+77,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:35:22.529
+78,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46088192558799,-0.932228590721252,2019-10-15 11:35:16.324
+79,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:35:09.397
+80,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:34:43.317
+81,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:34:21.356
+82,80:58:f8:79:f0:a2,31,Robert Snyder,Laboratory Technician,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:32:24.037
+83,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.46048221851717,-0.932620694321375,2020-01-20 11:51:37.281
+84,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.46042076322048,-0.9327197116485804,2020-01-20 11:51:27.155
+85,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.46042076322048,-0.9327197116485804,2020-01-20 11:51:17.035
+86,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.46042076322048,-0.9327197116485804,2020-01-20 11:51:07.001
+87,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.46048221851717,-0.932620694321375,2020-01-20 11:50:56.882
+88,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.460481120198565,-0.932374664980782,2020-01-20 11:50:44.544
+89,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.46048221851717,-0.932620694321375,2020-01-20 11:50:36.630
+90,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.460481120198565,-0.932374664980782,2020-01-20 11:50:29.410
+91,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.460481120198565,-0.932374664980782,2020-01-20 11:50:14.290
+92,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.460481120198565,-0.932374664980782,2020-01-20 11:50:09.262
+93,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.460481120198565,-0.932374664980782,2020-01-20 11:49:59.227
+94,00:38:7b:45:a8:9a,12,Michelle Sandoval,Laboratory Technician,1.0,employee,0,51.460481120198565,-0.932374664980782,2020-01-20 11:49:49.099
+95,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46042847,-0.93271253,2020-01-17 14:00:20.219
+96,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46042847,-0.93271253,2020-01-17 14:00:00.050
+97,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46044026877595,-0.9327445317419908,2020-01-17 13:59:29.881
+98,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.460430791546734,-0.9325446270569656,2020-01-17 14:00:33.840
+99,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.460430791546734,-0.9325446270569656,2020-01-17 14:00:13.709
+100,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46036754,-0.93271575,2020-01-17 13:59:52.531
+101,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.4604487947752,-0.9324847455192888,2020-01-17 13:59:43.755
+102,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46036754,-0.93271575,2020-01-17 13:59:37.393
+103,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46036754,-0.93271575,2020-01-17 13:59:17.382
+104,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.4604487947752,-0.9324847455192888,2020-01-17 13:59:03.219
+105,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46036754,-0.93271575,2020-01-17 13:58:57.191
+106,60:1d:91:93:f1:03,12,Monica Carr,Social Media Manager,3.0,employee,0,51.46037892558979,-0.9326503478381952,2020-01-17 13:58:42.058

@@ -1,0 +1,170 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.46041432,-0.93228554,2019-11-04 14:40:50.124
+1,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460460346096326,-0.9326475486157532,2019-11-04 14:40:45.008
+2,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460460346096326,-0.9326475486157532,2019-11-04 14:40:39.893
+3,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:40:29.969
+4,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:40:19.931
+5,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460460346096326,-0.9326475486157532,2019-11-04 14:40:09.100
+6,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460460346096326,-0.9326475486157532,2019-11-04 14:39:58.567
+7,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:39:49.748
+8,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:39:39.614
+9,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:39:29.181
+10,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:39:19.146
+11,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:39:09.116
+12,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:38:58.989
+13,88:b4:a6:f3:7f:2f,14,Michael West,Chief Financial Officer,2.0,employee,2,51.460508511633925,-0.933026384558534,2019-11-04 14:38:48.959
+14,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:39:56.732
+15,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:39:40.299
+16,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-17 15:37:07.074
+17,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:35:06.705
+18,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:34:32.126
+19,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:34:23.705
+20,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:33:06.025
+21,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:31:52.561
+22,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:31:11.669
+23,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:30:57.739
+24,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46087445710702,-0.9322331910970468,2019-10-17 15:30:33.784
+25,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:30:21.460
+26,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 15:30:08.527
+27,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-17 15:29:57.609
+28,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46087445710702,-0.9322331910970468,2019-10-17 15:29:45.977
+29,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46070134282135,-0.9324023936784126,2019-10-17 15:29:32.250
+30,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:29:22.527
+31,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-17 15:29:13.399
+32,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:29:09.391
+33,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46070134282135,-0.9324023936784126,2019-10-17 15:28:59.168
+34,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:28:39.822
+35,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:28:19.873
+36,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 15:27:52.009
+37,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-17 15:27:47.200
+38,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:27:34.071
+39,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:27:13.422
+40,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:27:08.009
+41,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.4609310951217,-0.932174221384693,2019-10-17 15:26:49.267
+42,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:26:36.440
+43,80:58:f8:15:0d:2d,30,Tiffany Guzman,IT Support Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:24:44.971
+44,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:51:28.739
+45,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:49:19.580
+46,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:48:42.583
+47,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039449793821,-0.932701926875859,2019-10-15 12:47:23.054
+48,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:47:08.420
+49,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:46:51.265
+50,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:46:06.042
+51,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:45:10.986
+52,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039449793821,-0.932701926875859,2019-10-15 12:45:04.593
+53,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039449793821,-0.932701926875859,2019-10-15 12:44:46.923
+54,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039449793821,-0.932701926875859,2019-10-15 12:44:39.794
+55,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:44:15.028
+56,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:44:07.605
+57,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:43:54.666
+58,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:43:41.217
+59,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:43:36.402
+60,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039449793821,-0.932701926875859,2019-10-15 12:43:20.054
+61,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:43:08.328
+62,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:42:58.798
+63,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:42:49.271
+64,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:42:39.446
+65,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:42:25.711
+66,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:42:13.377
+67,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:42:08.074
+68,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:41:43.292
+69,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:41:14.420
+70,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:40:55.362
+71,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.46039235,-0.93249525,2019-10-15 12:40:43.727
+72,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:39:58.610
+73,f4:f5:24:a2:1d:98,30,Christopher Powers,Mechanical Engineer,1.0,employee,0,51.4603952,-0.93276948,2019-10-15 12:37:12.659
+74,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46077473337856,-0.9322348635973056,2019-10-18 09:51:58.278
+75,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:48:23.562
+76,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:48:06.009
+77,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:47:45.148
+78,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:47:28.916
+79,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46077473337856,-0.9322348635973056,2019-10-18 09:46:18.103
+80,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:45:41.796
+81,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:45:32.668
+82,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:45:20.735
+83,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:45:01.183
+84,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:44:38.414
+85,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:44:00.115
+86,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:43:38.150
+87,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:43:13.074
+88,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:43:04.363
+89,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:42:44.292
+90,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:42:18.828
+91,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:41:51.353
+92,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:41:40.224
+93,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 09:40:47.773
+94,80:58:f8:4b:87:5d,21,Laurie Campbell,Research Scientist,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 09:40:31.223
+95,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:37:43.909
+96,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:37:33.882
+97,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:37:28.875
+98,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:37:18.842
+99,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.460488525,-0.9327443699999995,2019-11-05 12:37:08.813
+100,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.460488525,-0.9327443699999995,2019-11-05 12:36:58.592
+101,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.460488525,-0.9327443699999995,2019-11-05 12:36:48.555
+102,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.460488525,-0.9327443699999995,2019-11-05 12:36:38.219
+103,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.460488525,-0.9327443699999995,2019-11-05 12:36:28.188
+104,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:36:18.153
+105,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:36:08.123
+106,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:35:57.983
+107,88:b4:a6:bf:f0:58,13,Daniel Williams,Maintenance Technician,0.0,employee,0,51.46050376,-0.93231244,2019-11-05 12:35:47.951
+108,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46093752,-0.93238226,2020-01-17 14:02:12.383
+109,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46091339164919,-0.9322933920104732,2020-01-17 14:01:52.321
+110,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46094269,-0.9321665,2020-01-17 14:01:43.614
+111,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46089494980295,-0.9323732641834886,2020-01-17 14:01:37.194
+112,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46094269,-0.9321665,2020-01-17 14:01:23.374
+113,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46093752,-0.93238226,2020-01-17 14:01:17.162
+114,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46093962872572,-0.9322942563907244,2020-01-17 14:01:02.455
+115,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46094269,-0.9321665,2020-01-17 14:00:32.724
+116,60:1d:91:e7:2f:dd,9,Matthew Simmons,,,visitor,0,51.46093752,-0.93238226,2020-01-17 14:00:27.015
+117,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-08-28 15:20:11.097
+118,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:20:06.083
+119,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:19:56.045
+120,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:19:46.005
+121,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:19:35.972
+122,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:19:25.937
+123,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:19:15.791
+124,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:19:05.457
+125,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:18:55.425
+126,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:18:45.387
+127,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:18:35.349
+128,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:18:25.311
+129,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46091676843388,-0.9321752383676734,2019-08-28 15:18:15.080
+130,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:53:29.816
+131,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:53:19.695
+132,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:53:09.560
+133,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:52:59.345
+134,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:52:49.214
+135,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:52:39.087
+136,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:52:28.955
+137,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:52:18.751
+138,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:52:08.603
+139,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:51:58.391
+140,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:51:48.257
+141,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46083803585745,-0.932351552629216,2020-01-09 10:51:38.125
+142,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46065474,-0.93223934,2020-01-09 10:51:29.805
+143,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:30:52.203
+144,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:27:09.400
+145,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:26:05.736
+146,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:25:51.896
+147,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:25:29.638
+148,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:25:04.688
+149,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:24:53.957
+150,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:24:07.543
+151,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:58.424
+152,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:23:34.961
+153,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:22:50.848
+154,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:22:47.432
+155,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:22:29.299
+156,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:22:10.549
+157,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:21:47.181
+158,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:21:35.960
+159,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:21:29.339
+160,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:21:14.206
+161,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:20:34.614
+162,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:20:19.382
+163,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46090135021295,-0.9322087421135836,2019-10-17 12:20:05.752
+164,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:19:53.015
+165,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:19:34.193
+166,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:19:10.321
+167,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:18:59.997
+168,80:58:f8:2d:f0:a2,52,Wanda Nguyen,Healthcare Administrator,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:16:52.596

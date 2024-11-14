@@ -1,0 +1,174 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46093507008031,-0.9321774998318813,2019-10-18 15:31:57.584
+1,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:30:36.070
+2,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:30:12.904
+3,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:28:53.981
+4,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:26:59.982
+5,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:26:46.644
+6,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46083021500001,-0.93228143,2019-10-18 15:25:21.406
+7,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46083021500001,-0.93228143,2019-10-18 15:25:02.556
+8,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:24:47.710
+9,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:24:16.725
+10,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:24:04.695
+11,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:23:36.717
+12,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071378652795,-0.9324036133564246,2019-10-18 15:23:24.380
+13,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.460900130148914,-0.9321948419087772,2019-10-18 15:22:57.909
+14,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:22:35.952
+15,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:22:25.422
+16,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:21:44.503
+17,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.460900130148914,-0.9321948419087772,2019-10-18 15:21:24.255
+18,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46081039147998,-0.932295381287186,2019-10-18 15:21:19.635
+19,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.460900130148914,-0.9321948419087772,2019-10-18 15:20:34.714
+20,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46083021500001,-0.93228143,2019-10-18 15:20:25.388
+21,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46082729787907,-0.9322860307910964,2019-10-18 15:20:09.844
+22,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46093507008031,-0.9321774998318813,2019-10-18 15:19:53.095
+23,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:19:48.185
+24,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 15:19:18.102
+25,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:18:35.483
+26,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.460900130148914,-0.9321948419087772,2019-10-18 15:18:25.556
+27,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071378652795,-0.9324036133564246,2019-10-18 15:18:11.714
+28,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:17:35.625
+29,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:17:20.778
+30,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:17:02.439
+31,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46093507008031,-0.9321774998318813,2019-10-18 15:16:58.819
+32,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071378652795,-0.9324036133564246,2019-10-18 15:16:44.479
+33,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:16:37.863
+34,80:58:f8:1c:a4:c4,35,Kyle Ross,Environmental Consultant,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:16:05.472
+35,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:47:06.246
+36,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:05.634
+37,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:13.035
+38,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:53.585
+39,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:25.319
+40,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:06.171
+41,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:41:52.625
+42,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:40:53.368
+43,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:35.020
+44,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:40:27.605
+45,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:39:55.227
+46,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:39:46.299
+47,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:39:39.484
+48,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46048011535973,-0.932982793099809,2019-10-15 13:39:26.251
+49,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46044369219823,-0.933015503528884,2019-10-15 13:39:18.935
+50,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46042668569863,-0.932923112035024,2019-10-15 13:39:07.213
+51,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:38:59.085
+52,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:38:44.045
+53,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46042668569863,-0.932923112035024,2019-10-15 13:38:38.834
+54,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:38:23.195
+55,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:38:03.255
+56,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46048011535973,-0.932982793099809,2019-10-15 13:37:36.673
+57,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:37:10.709
+58,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:37:07.200
+59,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46048011535973,-0.932982793099809,2019-10-15 13:36:50.051
+60,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46044369219823,-0.933015503528884,2019-10-15 13:36:49.749
+61,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:36:38.238
+62,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:36:23.286
+63,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46048011535973,-0.932982793099809,2019-10-15 13:36:17.881
+64,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:36:06.849
+65,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:35:30.856
+66,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46048011535973,-0.932982793099809,2019-10-15 13:35:24.840
+67,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:35:13.608
+68,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46048011535973,-0.932982793099809,2019-10-15 13:35:03.494
+69,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:34:54.157
+70,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:34:22.377
+71,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:34:07.539
+72,f4:f5:24:c3:1a:71,38,Sophia Oliver,Sales Executive,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:31:45.753
+73,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460355788438,-0.9326241977274168,2019-11-11 18:16:40.448
+74,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:16:35.033
+75,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:16:25.003
+76,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:16:19.887
+77,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:16:09.855
+78,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:15:59.731
+79,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:15:49.697
+80,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:15:39.568
+81,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:15:29.139
+82,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:15:19.110
+83,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:15:08.378
+84,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:14:58.342
+85,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46036138206741,-0.9326933902811332,2019-11-11 18:14:48.215
+86,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46041432,-0.93228554,2019-11-11 18:14:39.887
+87,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 09:38:55.950
+88,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 09:38:45.911
+89,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 09:38:35.477
+90,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 09:38:25.384
+91,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 09:38:15.311
+92,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460436954946175,-0.9325478053776808,2019-11-06 10:53:18.542
+93,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460454496076224,-0.9327972652614585,2019-11-06 10:53:04.904
+94,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460454496076224,-0.9327972652614585,2019-11-06 10:52:59.492
+95,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46046501165439,-0.9327221889312016,2019-11-06 10:52:44.433
+96,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46046501165439,-0.9327221889312016,2019-11-06 10:52:39.416
+97,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460454496076224,-0.9327972652614585,2019-11-06 10:52:29.287
+98,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460436954946175,-0.9325478053776808,2019-11-06 10:52:05.514
+99,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46047745121155,-0.9330896462934072,2019-11-06 10:51:43.639
+100,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460454496076224,-0.9327972652614585,2019-11-06 10:51:38.615
+101,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.46047745121155,-0.9330896462934072,2019-11-06 10:51:28.572
+102,88:b4:a6:da:e7:60,30,Kevin Ramirez,Product Designer,2.0,employee,0,51.460454496076224,-0.9327972652614585,2019-11-06 10:51:18.450
+103,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46068510166959,-0.9323801876985148,2020-01-22 12:30:06.528
+104,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052620854496,-0.9324147237867993,2020-01-22 12:29:58.820
+105,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052620854496,-0.9324147237867993,2020-01-22 12:29:48.784
+106,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46068510166959,-0.9323801876985148,2020-01-22 12:29:35.954
+107,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052620854496,-0.9324147237867993,2020-01-22 12:29:28.640
+108,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052620854496,-0.9324147237867993,2020-01-22 12:29:18.619
+109,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052620854496,-0.9324147237867993,2020-01-22 12:29:08.590
+110,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46068510166959,-0.9323801876985148,2020-01-22 12:28:55.352
+111,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46068510166959,-0.9323801876985148,2020-01-22 12:28:45.128
+112,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46068510166959,-0.9323801876985148,2020-01-22 12:28:35.012
+113,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052620854496,-0.9324147237867993,2020-01-22 12:28:28.292
+114,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46068510166959,-0.9323801876985148,2020-01-22 12:28:19.767
+115,60:1d:91:1c:8a:91,13,Christopher Patterson,Product Manager,0.0,employee,0,51.46052654680505,-0.9324147115964768,2020-01-22 12:28:08.240
+116,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:51:39.764
+117,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:49:49.970
+118,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:48:54.738
+119,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:48:24.643
+120,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:47:30.900
+121,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:46:47.791
+122,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:46:29.064
+123,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:46:17.321
+124,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:45:51.042
+125,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:45:18.360
+126,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:45:01.624
+127,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:44:50.306
+128,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:44:47.398
+129,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:44:19.107
+130,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:56.854
+131,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:30.384
+132,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:13.237
+133,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46043173713825,-0.933026239970346,2019-10-15 13:43:07.822
+134,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46043173713825,-0.933026239970346,2019-10-15 13:42:57.896
+135,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:48.375
+136,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:32.739
+137,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:26.229
+138,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:11.479
+139,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:42:04.459
+140,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:41:57.052
+141,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46043173713825,-0.933026239970346,2019-10-15 13:41:47.810
+142,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:41:34.080
+143,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:41:28.063
+144,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:41:18.538
+145,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.460419326393,-0.9329814209922558,2019-10-15 13:41:02.195
+146,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:50.067
+147,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:49.557
+148,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:39.934
+149,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:40:26.798
+150,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:40:07.253
+151,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:39:57.325
+152,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:39:42.486
+153,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:39:29.658
+154,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:39:05.510
+155,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:38:41.542
+156,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:38:02.945
+157,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:37:58.731
+158,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:37:24.741
+159,f4:f5:24:4a:35:fa,44,Michael Adams,IT Support Specialist,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:34:09.137
+160,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:25:25.657
+161,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460598291995126,-0.9326315424520654,2019-11-05 13:25:10.208
+162,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460601084968566,-0.932573505479674,2019-11-05 13:25:05.188
+163,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:24:55.158
+164,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460601084968566,-0.932573505479674,2019-11-05 13:24:45.032
+165,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460601084968566,-0.932573505479674,2019-11-05 13:24:35.002
+166,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:24:29.990
+167,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:24:19.953
+168,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:24:09.519
+169,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:23:59.483
+170,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460601084968566,-0.932573505479674,2019-11-05 13:23:49.451
+171,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460574647798566,-0.9326997261709268,2019-11-05 13:23:39.420
+172,88:b4:a6:d2:cc:6b,13,Edward Dawson,Mechanical Engineer,3.0,employee,0,51.460601084968566,-0.932573505479674,2019-11-05 13:23:29.296

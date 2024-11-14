@@ -1,0 +1,82 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 15:07:45.035
+1,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:07:20.680
+2,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 15:07:03.440
+3,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:06:33.977
+4,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:06:24.758
+5,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 15:06:18.242
+6,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:06:00.300
+7,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:05:53.286
+8,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:05:45.169
+9,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:05:30.635
+10,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:05:19.912
+11,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:04:50.241
+12,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 15:04:37.212
+13,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:04:28.994
+14,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:04:13.557
+15,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:04:06.246
+16,80:58:f8:c5:a8:23,17,Erin Wu,Technical Writer,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:02:46.156
+17,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:22:04.188
+18,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:21:58.752
+19,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:21:48.722
+20,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:21:38.692
+21,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:21:28.658
+22,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:21:18.631
+23,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:21:08.511
+24,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:20:58.167
+25,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:20:48.045
+26,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:20:38.005
+27,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46039636996698,-0.932550142227215,2019-10-08 10:20:27.975
+28,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:20:17.949
+29,f0:d7:aa:ec:a0:9c,13,Helen Mcdonald,Network Administrator,0.0,employee,0,51.46036754,-0.93271575,2019-10-08 10:20:07.912
+30,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.460789221620544,-0.9322537386026194,2019-10-22 16:05:48.508
+31,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 16:05:36.375
+32,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.460789221620544,-0.9322537386026194,2019-10-22 16:05:24.847
+33,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 16:05:19.635
+34,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 16:05:08.104
+35,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 16:04:58.382
+36,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 16:04:48.756
+37,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 16:04:19.081
+38,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46083184,-0.93224795,2019-10-22 16:04:08.053
+39,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 16:03:59.027
+40,24:46:c8:88:0a:a7,11,Courtney Harrington,Biomedical Engineer,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 16:03:27.447
+41,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:50:53.441
+42,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:49:30.307
+43,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:47:59.170
+44,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:46:56.219
+45,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:45:29.403
+46,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:45:00.429
+47,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:44:28.140
+48,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:44:11.001
+49,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:43:53.754
+50,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:43:43.232
+51,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:43:26.486
+52,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:42:58.515
+53,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:42:49.595
+54,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:42:32.853
+55,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:42:29.545
+56,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:42:16.711
+57,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:41:57.963
+58,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:41:44.930
+59,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:41:33.102
+60,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:41:24.581
+61,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:41:13.558
+62,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:41:09.842
+63,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:40:39.067
+64,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:40:23.931
+65,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:40:11.995
+66,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46089699208937,-0.9322131953622422,2019-10-15 14:40:09.991
+67,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:39:35.909
+68,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:39:21.463
+69,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:39:07.228
+70,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:38:51.087
+71,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:37:07.525
+72,80:58:f8:1e:ee:8d,32,Joseph Young,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:34:34.031
+73,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46085533,-0.93236214,2020-01-17 08:53:10.965
+74,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46093597047257,-0.932181548172498,2020-01-17 08:52:54.879
+75,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46085533,-0.93236214,2020-01-17 08:52:40.646
+76,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46094269,-0.9321665,2020-01-17 08:52:34.638
+77,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46094269,-0.9321665,2020-01-17 08:52:14.390
+78,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46085533,-0.93236214,2020-01-17 08:52:00.236
+79,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46093597047257,-0.932181548172498,2020-01-17 08:51:44.088
+80,60:1d:91:8f:60:1b,8,Derek Fox,,,visitor,0,51.46085533,-0.93236214,2020-01-17 08:51:29.886

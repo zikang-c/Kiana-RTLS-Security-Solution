@@ -1,0 +1,150 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:27:14.609
+1,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:27:09.407
+2,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:26:59.066
+3,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.46083184,-0.93224795,2019-11-06 12:26:49.036
+4,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:26:39.009
+5,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:26:28.973
+6,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:26:18.942
+7,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:26:08.715
+8,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:25:58.384
+9,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:25:48.348
+10,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:25:38.318
+11,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.460700906708446,-0.932282323930433,2019-11-06 12:25:28.280
+12,24:46:c8:a1:6b:af,13,Ethan Reyes,Operations Manager,2.0,employee,0,51.46083184,-0.93224795,2019-11-06 12:25:18.260
+13,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.46049858581006,-0.9323518580019696,2019-11-06 15:47:42.957
+14,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.46049858581006,-0.9323518580019696,2019-11-06 15:47:37.741
+15,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 15:47:25.203
+16,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 15:47:15.076
+17,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.46049858581006,-0.9323518580019696,2019-11-06 15:47:00.929
+18,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.46049858581006,-0.9323518580019696,2019-11-06 15:46:55.813
+19,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 15:46:49.904
+20,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 15:46:39.866
+21,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 15:46:29.436
+22,24:46:c8:0b:3a:83,10,Tricia Walsh,Legal Consultant,1.0,employee,0,51.4606371,-0.93246087,2019-11-06 15:46:19.306
+23,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:58:43.543
+24,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:58:38.433
+25,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:58:28.499
+26,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:58:18.278
+27,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:58:08.343
+28,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:57:58.220
+29,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:57:47.886
+30,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:57:37.855
+31,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:57:27.832
+32,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:57:17.699
+33,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:57:07.775
+34,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:56:57.647
+35,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-11 08:56:47.118
+36,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:44:38.366
+37,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:44:25.960
+38,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:44:16.992
+39,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:44:05.277
+40,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:43:59.165
+41,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:43:48.969
+42,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:43:35.229
+43,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:43:25.085
+44,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:43:18.883
+45,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:43:08.671
+46,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:42:58.516
+47,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2020-02-18 11:42:43.294
+48,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:57.909
+49,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:58:45.685
+50,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:57:36.014
+51,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:57:10.347
+52,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:57:07.343
+53,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:56:53.506
+54,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:56:34.563
+55,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:56:12.611
+56,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:55:53.962
+57,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:55:42.937
+58,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:55:26.895
+59,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:55:19.775
+60,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:55:00.725
+61,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:54:48.098
+62,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:54:39.672
+63,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:54:20.723
+64,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:54:12.198
+65,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:53:50.945
+66,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:53:46.530
+67,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:53:30.593
+68,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:53:17.960
+69,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:53:06.735
+70,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:52:59.012
+71,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:52:33.347
+72,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:52:25.930
+73,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:51:51.235
+74,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:51:40.114
+75,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:51:30.679
+76,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:51:26.569
+77,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:51:05.710
+78,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:50:43.262
+79,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:50:38.639
+80,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:50:19.295
+81,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:29:47.796
+82,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:29:37.772
+83,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:29:27.753
+84,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:29:17.723
+85,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:29:07.604
+86,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:28:57.582
+87,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:28:47.564
+88,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:28:37.542
+89,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:28:27.514
+90,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:28:17.486
+91,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:28:07.464
+92,80:58:f8:10:52:f1,70,Blake Williams,Digital Marketing Manager,2.0,employee,0,51.46077607889139,-0.9322262798967376,2020-01-10 16:27:57.440
+93,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.46085533,-0.93236214,2020-01-17 13:56:42.061
+94,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.46091967413575,-0.9321849590104736,2020-01-17 13:56:28.857
+95,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.460923838843655,-0.932173490878086,2020-01-17 13:56:10.166
+96,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.46085533,-0.93236214,2020-01-17 13:56:01.682
+97,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.46091967413575,-0.9321849590104736,2020-01-17 13:55:48.429
+98,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.460923838843655,-0.932173490878086,2020-01-17 13:55:33.199
+99,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.460923838843655,-0.932173490878086,2020-01-17 13:55:12.966
+100,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.46085533,-0.93236214,2020-01-17 13:55:06.137
+101,80:58:f8:01:fd:8b,9,Mario Morris,,,visitor,0,51.46091967413575,-0.9321849590104736,2020-01-17 13:54:57.887
+102,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:56:34.502
+103,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:55:28.603
+104,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:54:59.420
+105,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:54:25.935
+106,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:52:19.661
+107,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:51:48.272
+108,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:48:35.429
+109,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:47:35.461
+110,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:47:23.632
+111,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-18 10:46:38.904
+112,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460584844507096,-0.9323798993500724,2019-10-18 10:46:23.159
+113,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:46:04.301
+114,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460584844507096,-0.9323798993500724,2019-10-18 10:45:34.418
+115,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:45:27.699
+116,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460584844507096,-0.9323798993500724,2019-10-18 10:45:13.359
+117,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:45:09.647
+118,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-18 10:44:56.511
+119,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46075780820038,-0.9322464442271272,2019-10-18 10:44:40.868
+120,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-18 10:44:34.348
+121,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:44:29.537
+122,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460584844507096,-0.9323798993500724,2019-10-18 10:44:07.778
+123,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:43:55.645
+124,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460779096924895,-0.9322267879002372,2019-10-18 10:43:37.187
+125,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:43:25.254
+126,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:43:18.135
+127,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.460584844507096,-0.9323798993500724,2019-10-18 10:43:00.581
+128,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:42:50.057
+129,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:42:16.960
+130,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:42:04.130
+131,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:41:19.294
+132,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46076355439888,-0.9322449291967309,2019-10-18 10:40:41.388
+133,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:40:00.962
+134,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 10:37:26.215
+135,80:58:f8:fd:81:20,34,Kristy Rodriguez,Facilities Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 10:37:17.484
+136,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46049427,-0.93322055,2019-09-25 10:42:42.124
+137,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46049427,-0.93322055,2019-09-25 10:42:37.110
+138,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46049427,-0.93322055,2019-09-25 10:42:26.779
+139,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46049427,-0.93322055,2019-09-25 10:42:16.649
+140,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46047236999025,-0.933042328925513,2019-09-25 10:42:06.506
+141,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46049427,-0.93322055,2019-09-25 10:41:56.475
+142,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.460467025800746,-0.9330184879207676,2019-09-25 10:41:46.346
+143,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.460467025800746,-0.9330184879207676,2019-09-25 10:41:36.317
+144,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.460467025800746,-0.9330184879207676,2019-09-25 10:41:25.982
+145,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.460467025800746,-0.9330184879207676,2019-09-25 10:41:15.953
+146,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.460467025800746,-0.9330184879207676,2019-09-25 10:41:05.823
+147,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46048548647279,-0.9331764517259264,2019-09-25 10:40:55.790
+148,d0:77:14:1a:6a:8c,13,Spencer Riddle,Biomedical Engineer,3.0,employee,0,51.46048548647279,-0.9331764517259264,2019-09-25 10:40:45.753

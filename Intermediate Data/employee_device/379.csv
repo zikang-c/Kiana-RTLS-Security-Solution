@@ -1,0 +1,175 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:46:51.730
+1,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46088030097569,-0.932277193981249,2019-08-28 12:46:46.408
+2,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:46:36.384
+3,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:46:26.357
+4,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:46:16.220
+5,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:46:06.191
+6,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:45:56.163
+7,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:45:45.740
+8,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46096035,-0.93229387,2019-08-28 12:45:35.704
+9,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46088030097569,-0.932277193981249,2019-08-28 12:45:25.680
+10,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46088030097569,-0.932277193981249,2019-08-28 12:45:15.548
+11,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46088030097569,-0.932277193981249,2019-08-28 12:45:05.525
+12,88:b4:a6:b3:0e:36,13,Daniel Estes,Machine Learning Engineer,1.0,employee,0,51.46068928,-0.9322374,2019-08-28 12:44:58.198
+13,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:47:24.485
+14,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:46:02.084
+15,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:45:25.276
+16,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:44:10.690
+17,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:48.332
+18,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047784154711,-0.9330472583365766,2019-10-15 13:43:23.566
+19,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:51.381
+20,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:42:44.163
+21,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:42:38.650
+22,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:42:28.924
+23,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:11.879
+24,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:09.283
+25,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:41:46.003
+26,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:41:30.668
+27,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:41:21.541
+28,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46044110748242,-0.9330457563325468,2019-10-15 13:41:15.831
+29,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:41:05.298
+30,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:40:50.461
+31,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047784154711,-0.9330472583365766,2019-10-15 13:40:45.147
+32,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:20.682
+33,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:40:14.466
+34,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:40:09.654
+35,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:39:52.812
+36,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:39:42.989
+37,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:39:33.470
+38,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46044110748242,-0.9330457563325468,2019-10-15 13:39:28.663
+39,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:39:14.926
+40,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:39:01.491
+41,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:38:53.570
+42,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:38:35.227
+43,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:38:19.282
+44,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047784154711,-0.9330472583365766,2019-10-15 13:37:52.918
+45,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:37:23.140
+46,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46042133118706,-0.9329655366878544,2019-10-15 13:37:05.496
+47,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:36:47.950
+48,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46043661984206,-0.9330982819148969,2019-10-15 13:36:19.079
+49,f4:f5:24:eb:d4:2b,37,Kelsey Salazar,Software Engineer,3.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:35:38.577
+50,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:52:53.257
+51,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:52:43.533
+52,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:52:30.300
+53,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:52:21.481
+54,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:52:18.671
+55,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:52:06.945
+56,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:51:59.323
+57,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.46040930539845,-0.933011559318129,2019-10-22 11:51:41.584
+58,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:51:39.477
+59,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:51:28.556
+60,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.4604137429945,-0.9330316333342004,2019-10-22 11:51:18.425
+61,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.46040930539845,-0.933011559318129,2019-10-22 11:51:03.893
+62,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.460416351000205,-0.9330309893734848,2019-10-22 11:50:58.377
+63,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.46049342775016,-0.9331199437049024,2019-10-22 11:50:48.654
+64,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.46049051,-0.93277142,2019-10-22 11:50:33.617
+65,58:d9:c3:34:4c:c0,16,Gina Holloway,Customer Service Representative,2.0,employee,0,51.46049427,-0.93322055,2019-10-22 11:50:26.100
+66,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:14:25.061
+67,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:13:05.354
+68,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:12:28.560
+69,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:12:00.292
+70,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.460771744863415,-0.932237554468662,2019-10-15 15:11:14.767
+71,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:10:52.717
+72,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.460771744863415,-0.932237554468662,2019-10-15 15:10:25.942
+73,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:10:01.970
+74,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:09:53.855
+75,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:09:45.231
+76,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:09:29.792
+77,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:09:08.036
+78,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:08:52.987
+79,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.460771744863415,-0.932237554468662,2019-10-15 15:08:42.861
+80,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:08:38.253
+81,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:08:29.431
+82,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:07:55.242
+83,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:07:44.914
+84,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:07:32.583
+85,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:07:29.982
+86,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:07:09.424
+87,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:06:40.354
+88,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:06:27.625
+89,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:06:16.289
+90,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:05:57.445
+91,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.460771744863415,-0.932237554468662,2019-10-15 15:05:48.828
+92,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:05:36.887
+93,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:04:43.044
+94,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:04:22.491
+95,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 15:04:15.072
+96,80:58:f8:04:b2:64,31,Seth Gilmore,Supply Chain Analyst,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 15:03:34.168
+97,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:25:08.779
+98,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:23:47.164
+99,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:23:09.262
+100,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:22:45.501
+101,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:22:23.044
+102,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:21:30.104
+103,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:21:28.698
+104,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:21:16.273
+105,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:21:02.765
+106,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:20:55.518
+107,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:20:46.499
+108,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:20:34.464
+109,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:20:23.735
+110,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:20:16.821
+111,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:20:09.499
+112,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:19:53.762
+113,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:19:40.728
+114,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:19:37.121
+115,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:19:29.295
+116,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:19:18.671
+117,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:18:53.914
+118,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:18:47.187
+119,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:18:33.653
+120,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:18:26.429
+121,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 16:18:15.207
+122,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:17:16.685
+123,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:17:08.431
+124,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:16:57.798
+125,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:16:30.430
+126,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:14:09.573
+127,80:58:f8:3f:c7:e7,31,Holly Moody,Marketing Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:13:03.232
+128,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46044918385846,-0.9328194159677524,2020-01-13 14:41:38.757
+129,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:41:25.417
+130,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:41:15.300
+131,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:41:00.258
+132,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46044918385846,-0.9328194159677524,2020-01-13 14:40:52.736
+133,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46044918385846,-0.9328194159677524,2020-01-13 14:40:47.623
+134,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46047804,-0.93266756,2020-01-13 14:40:37.391
+135,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:40:29.978
+136,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46044918385846,-0.9328194159677524,2020-01-13 14:40:16.843
+137,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:40:09.929
+138,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:39:54.789
+139,60:1d:91:00:0c:0c,12,Gregory Foster,Customer Service Representative,0.0,employee,0,51.46038837,-0.93313945,2020-01-13 14:39:44.667
+140,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 09:16:26.425
+141,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 09:15:01.934
+142,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 09:14:10.306
+143,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 09:07:57.659
+144,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 09:07:31.303
+145,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 09:03:53.407
+146,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:56:42.710
+147,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 08:56:04.731
+148,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:55:55.807
+149,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:54:40.842
+150,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:54:23.808
+151,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 08:54:17.594
+152,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:54:08.771
+153,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:53:25.075
+154,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:53:15.656
+155,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051588516072,-0.9325309297260383,2019-10-14 08:53:07.939
+156,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051588516072,-0.9325309297260383,2019-10-14 08:52:51.401
+157,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051588516072,-0.9325309297260383,2019-10-14 08:52:48.594
+158,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:52:36.668
+159,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051588516072,-0.9325309297260383,2019-10-14 08:52:12.514
+160,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 08:52:07.003
+161,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051588516072,-0.9325309297260383,2019-10-14 08:51:53.574
+162,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051588516072,-0.9325309297260383,2019-10-14 08:51:46.255
+163,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:51:33.832
+164,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051036,-0.93312872,2019-10-14 08:51:05.677
+165,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 08:50:26.789
+166,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 09:06:48.602
+167,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:56:22.766
+168,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:53:35.496
+169,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:52:27.952
+170,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:51:23.812
+171,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:51:13.692
+172,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:50:56.857
+173,80:58:f8:4e:a1:66,34,Kristen Walter,Research Scientist,3.0,employee,0,51.46034429,-0.93265962,2019-10-14 08:49:59.426

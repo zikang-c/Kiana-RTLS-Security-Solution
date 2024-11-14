@@ -1,0 +1,324 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 14:52:34.708
+1,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 14:52:27.682
+2,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:52:15.451
+3,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:52:08.432
+4,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:51:58.505
+5,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.460569178611046,-0.9322850266388848,2019-10-22 14:51:45.675
+6,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:51:31.736
+7,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:51:29.934
+8,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.460569178611046,-0.9322850266388848,2019-10-22 14:51:15.488
+9,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:51:03.963
+10,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46059139310502,-0.9322818908952788,2019-10-22 14:50:55.839
+11,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 14:50:47.211
+12,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.460734160855246,-0.932273593715868,2019-10-22 14:50:39.889
+13,24:46:c8:ca:e7:c2,14,Jason Chung,Security Guard,3.0,employee,0,51.460734160855246,-0.932273593715868,2019-10-22 14:50:29.365
+14,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46089065970396,-0.9324137656922404,2020-03-04 12:10:11.661
+15,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46090031,-0.93241827,2020-03-04 12:10:04.245
+16,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46090031,-0.93241827,2020-03-04 12:09:22.597
+17,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46089065970396,-0.9324137656922404,2020-03-04 12:09:16.445
+18,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46089065970396,-0.9324137656922404,2020-03-04 12:09:05.201
+19,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46070029,-0.93232491,2020-03-04 12:08:59.064
+20,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46070029,-0.93232491,2020-03-04 12:08:47.404
+21,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46089065970396,-0.9324137656922404,2020-03-04 12:08:35.034
+22,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46089065970396,-0.9324137656922404,2020-03-04 12:08:29.172
+23,38:80:df:55:86:e2,10,Glenn Mclaughlin,Retail Associate,2.0,employee,0,51.46089065970396,-0.9324137656922404,2020-03-04 12:08:17.282
+24,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:44:40.439
+25,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:44:36.139
+26,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:44:21.889
+27,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:44:14.070
+28,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:43:41.786
+29,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:43:24.145
+30,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:43:16.329
+31,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46083177662885,-0.9322743459472628,2019-10-17 08:43:01.894
+32,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46083177662885,-0.9322743459472628,2019-10-17 08:42:54.083
+33,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46084411844928,-0.9322672230791196,2019-10-17 08:42:43.650
+34,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46083177662885,-0.9322743459472628,2019-10-17 08:42:34.729
+35,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46083177662885,-0.9322743459472628,2019-10-17 08:42:28.512
+36,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46084411844928,-0.9322672230791196,2019-10-17 08:42:08.067
+37,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46083177662885,-0.9322743459472628,2019-10-17 08:41:51.125
+38,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:41:44.008
+39,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46083177662885,-0.9322743459472628,2019-10-17 08:41:37.292
+40,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:41:27.169
+41,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46069932220749,-0.9324031372047497,2019-10-17 08:41:16.144
+42,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:41:07.435
+43,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46069932220749,-0.9324031372047497,2019-10-17 08:40:54.594
+44,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:40:48.777
+45,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46084411844928,-0.9322672230791196,2019-10-17 08:40:32.940
+46,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:40:22.715
+47,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46069932220749,-0.9324031372047497,2019-10-17 08:40:15.197
+48,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46091589368896,-0.9321843444845048,2019-10-17 08:40:09.682
+49,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46091589368896,-0.9321843444845048,2019-10-17 08:39:58.155
+50,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:39:31.088
+51,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 08:39:25.679
+52,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46091589368896,-0.9321843444845048,2019-10-17 08:39:12.040
+53,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:38:49.587
+54,80:58:f8:28:c1:60,31,Edward Johnson,Data Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 08:35:55.279
+55,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:46:47.590
+56,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:46:14.002
+57,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:46:03.596
+58,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:45:19.868
+59,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:45:02.429
+60,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:44:47.196
+61,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:44:20.814
+62,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:44:04.294
+63,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:54.157
+64,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.460419326393,-0.9329814209922556,2019-10-15 13:43:40.710
+65,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:43:30.684
+66,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.460431737138265,-0.933026239970346,2019-10-15 13:43:23.871
+67,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:43:12.837
+68,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:43:02.427
+69,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:42:56.994
+70,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:35.940
+71,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:42:29.225
+72,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:42:06.171
+73,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:41:56.740
+74,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:41:43.401
+75,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:41:33.805
+76,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:41:20.743
+77,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:41:11.916
+78,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:40:52.766
+79,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:40:43.844
+80,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:40:33.317
+81,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.460431737138265,-0.933026239970346,2019-10-15 13:40:24.997
+82,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.460419326393,-0.9329814209922556,2019-10-15 13:40:10.774
+83,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.460431737138265,-0.933026239970346,2019-10-15 13:40:06.950
+84,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46048011535972,-0.9329827930998088,2019-10-15 13:39:57.024
+85,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:39:39.382
+86,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:39:27.057
+87,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:39:07.715
+88,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:38:59.684
+89,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.460419326393,-0.9329814209922556,2019-10-15 13:38:29.910
+90,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:38:14.272
+91,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:38:09.061
+92,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46042661567947,-0.9330769974249236,2019-10-15 13:37:46.102
+93,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:37:35.173
+94,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:37:19.131
+95,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46047329,-0.9331763,2019-10-15 13:36:08.446
+96,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46041136,-0.93304454,2019-10-15 13:35:57.019
+97,f4:f5:24:29:dd:d9,43,Annette Parker,Copywriter,0.0,employee,0,51.46050376,-0.93231244,2019-10-15 13:34:50.953
+98,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:30:29.012
+99,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:29:59.443
+100,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:28:36.747
+101,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:27:35.915
+102,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:27:25.387
+103,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:24:56.633
+104,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:22:37.515
+105,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:22:23.285
+106,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:21:48.508
+107,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:21:36.885
+108,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:21:09.524
+109,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:20:47.171
+110,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:20:12.191
+111,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:20:02.574
+112,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:19:51.544
+113,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:19:40.313
+114,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:19:32.999
+115,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:19:21.166
+116,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:19:16.659
+117,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:19:04.232
+118,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:18:57.112
+119,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:18:41.472
+120,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:18:37.365
+121,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:18:28.139
+122,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:18:19.418
+123,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:18:06.586
+124,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:17:49.550
+125,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:17:25.679
+126,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:17:14.051
+127,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:17:06.830
+128,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:16:32.447
+129,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46087030024827,-0.9322404698081068,2019-10-14 09:15:53.948
+130,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:14:46.691
+131,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:07:11.958
+132,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:04:44.320
+133,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:03:16.724
+134,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:01:16.850
+135,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:01:04.723
+136,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:59:12.063
+137,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:58:51.818
+138,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:58:48.610
+139,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:58:28.563
+140,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:58:07.519
+141,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:57:50.472
+142,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:57:31.526
+143,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:57:29.322
+144,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:57:14.788
+145,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:56:43.814
+146,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:56:36.698
+147,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:56:08.935
+148,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 08:55:53.502
+149,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:40:32.279
+150,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:38:26.775
+151,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:36:14.231
+152,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:35:57.693
+153,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:35:29.225
+154,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:35:06.167
+155,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:34:39.793
+156,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:34:14.330
+157,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:33:26.304
+158,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:33:09.863
+159,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:32:30.372
+160,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:31:48.971
+161,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:31:35.836
+162,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:31:20.299
+163,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:31:08.327
+164,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:30:59.851
+165,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:30:45.813
+166,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:30:08.624
+167,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:29:20.407
+168,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:29:16.301
+169,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:28:49.233
+170,80:58:f8:9c:c9:e9,73,Terri Brooks,Public Relations Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:27:02.276
+171,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:41:36.559
+172,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:41:27.142
+173,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:41:14.601
+174,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:41:01.165
+175,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:40:54.648
+176,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:40:44.022
+177,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:40:33.490
+178,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:40:25.080
+179,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:40:19.254
+180,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:40:07.122
+181,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:39:53.592
+182,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:39:48.574
+183,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-22 13:39:32.033
+184,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-29 15:34:18.933
+185,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-29 15:34:08.803
+186,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-29 15:33:58.368
+187,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-29 15:33:48.344
+188,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:33:38.308
+189,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:33:28.278
+190,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:33:18.251
+191,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-29 15:33:08.115
+192,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:32:57.683
+193,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:32:47.667
+194,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:32:37.627
+195,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-29 15:32:27.597
+196,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:41:03.561
+197,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:40:58.544
+198,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:40:48.128
+199,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:40:38.089
+200,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:40:28.054
+201,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:40:18.032
+202,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:40:07.798
+203,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:39:57.763
+204,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:39:47.335
+205,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:39:37.304
+206,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:39:27.267
+207,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:39:17.237
+208,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-08-29 08:39:07.010
+209,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:56:42.989
+210,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:56:37.887
+211,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:56:27.858
+212,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:56:17.828
+213,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:56:07.801
+214,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:55:57.366
+215,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:55:47.246
+216,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:55:37.216
+217,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:55:27.184
+218,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:55:17.154
+219,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:55:07.125
+220,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:54:56.602
+221,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-09-16 11:54:46.574
+222,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:15:03.658
+223,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:14:58.549
+224,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:14:48.420
+225,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:14:38.299
+226,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:14:28.078
+227,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:14:17.952
+228,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:14:07.826
+229,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:13:57.703
+230,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:13:47.577
+231,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:13:37.451
+232,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:13:27.327
+233,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:13:17.201
+234,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2020-01-03 14:13:06.981
+235,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:20:12.800
+236,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:20:07.777
+237,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:19:57.650
+238,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:19:47.611
+239,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:19:37.478
+240,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:19:27.441
+241,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:19:17.310
+242,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:19:07.184
+243,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:18:57.148
+244,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:18:47.009
+245,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:18:36.880
+246,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:18:26.840
+247,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46085533,-0.93236214,2019-12-16 16:18:16.712
+248,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 12:37:41.841
+249,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.460631907804895,-0.9322589991718646,2019-10-18 12:36:51.603
+250,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:36:35.460
+251,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 12:34:30.308
+252,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:33:14.702
+253,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:33:04.575
+254,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 12:32:33.585
+255,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:32:12.224
+256,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:32:00.090
+257,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:31:42.243
+258,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:31:37.729
+259,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:31:27.803
+260,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:30:43.281
+261,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46092350465501,-0.9323766072706337,2019-10-18 12:30:34.157
+262,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:30:21.516
+263,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:28:50.860
+264,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:28:46.343
+265,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:28:23.075
+266,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:28:13.046
+267,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:27:56.904
+268,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093549759748,-0.9323827324751554,2019-10-18 12:27:46.375
+269,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 12:27:32.338
+270,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093549759748,-0.9323827324751554,2019-10-18 12:27:23.413
+271,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:27:12.384
+272,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:27:08.494
+273,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:26:54.928
+274,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:26:44.200
+275,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46092540257623,-0.932376135725988,2019-10-18 12:26:03.014
+276,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:25:38.223
+277,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:25:21.088
+278,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:24:21.711
+279,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:24:13.391
+280,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:24:07.578
+281,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:23:52.130
+282,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:23:35.988
+283,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:23:10.522
+284,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:23:03.918
+285,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 12:22:54.587
+286,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 12:22:39.639
+287,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:49:03.018
+288,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:48:57.921
+289,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:48:45.452
+290,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:48:35.406
+291,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:48:25.291
+292,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:48:12.749
+293,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:48:08.917
+294,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:47:57.655
+295,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:47:45.971
+296,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:47:34.731
+297,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:47:27.276
+298,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:47:17.137
+299,80:58:f8:31:99:01,129,Teresa Wright,Customer Service Representative,3.0,employee,0,51.46059815,-0.93239386,2020-03-02 15:47:01.986
+300,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:38:25.022
+301,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46092153700096,-0.9321805864301426,2019-10-18 11:36:44.732
+302,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:36:24.875
+303,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:36:16.755
+304,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:35:07.361
+305,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:34:51.414
+306,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 11:34:24.137
+307,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-18 11:33:45.926
+308,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:33:26.667
+309,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:33:16.741
+310,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.460685370897245,-0.9324082708756912,2019-10-18 11:32:36.275
+311,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:31:57.306
+312,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:31:48.786
+313,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.460685370897245,-0.9324082708756912,2019-10-18 11:31:11.074
+314,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:30:52.418
+315,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.460685370897245,-0.9324082708756912,2019-10-18 11:30:38.581
+316,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46087297277315,-0.932232004639207,2019-10-18 11:30:07.989
+317,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:29:27.581
+318,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:28:20.283
+319,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:27:39.471
+320,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:27:09.383
+321,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 11:26:41.003
+322,80:58:f8:4c:46:c1,23,Zachary King,E-commerce Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 11:25:36.122

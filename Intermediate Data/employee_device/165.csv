@@ -1,0 +1,100 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:57:33.719
+1,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 09:57:15.174
+2,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:57:08.450
+3,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:56:53.207
+4,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 09:56:44.783
+5,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:56:38.065
+6,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 09:56:24.550
+7,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:56:17.843
+8,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46085533,-0.93236214,2020-01-17 09:56:04.367
+9,60:1d:91:c9:0d:33,10,Mario Moore,Mechanical Engineer,3.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:55:57.561
+10,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:46:40.876
+11,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:43:57.017
+12,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:42:31.721
+13,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:42:18.189
+14,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:42:00.151
+15,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:41:55.637
+16,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:41:46.820
+17,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:41:23.166
+18,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:41:14.547
+19,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:40:44.578
+20,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:40:27.745
+21,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:40:08.403
+22,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:39:40.139
+23,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:39:33.225
+24,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:39:16.485
+25,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:38:36.207
+26,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:38:17.757
+27,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:37:53.003
+28,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:37:41.579
+29,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:37:39.681
+30,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:37:29.956
+31,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:37:13.221
+32,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:37:03.413
+33,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-14 16:36:53.880
+34,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:36:49.366
+35,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:36:21.809
+36,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:36:17.397
+37,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:35:23.578
+38,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46051793,-0.93230969,2019-10-14 16:35:17.770
+39,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:35:04.147
+40,80:58:f8:26:40:60,31,Ryan Mcdaniel,Quality Assurance Specialist,3.0,employee,0,51.46078621,-0.93222453,2019-10-14 16:34:42.287
+41,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.46083184,-0.93224795,2020-01-21 11:19:45.805
+42,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:19:34.693
+43,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:19:29.669
+44,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:19:19.640
+45,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:19:09.519
+46,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:18:59.488
+47,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.46083184,-0.93224795,2020-01-21 11:18:45.568
+48,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.46083184,-0.93224795,2020-01-21 11:18:20.495
+49,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.46083184,-0.93224795,2020-01-21 11:18:15.392
+50,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:18:04.095
+51,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606581150321,-0.9324378931044636,2020-01-21 11:17:59.058
+52,60:1d:91:47:c1:81,12,Debbie Hall,Content Strategist,1.0,employee,0,51.4606371,-0.93246087,2020-01-21 11:17:49.024
+53,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:38:06.688
+54,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:36:25.522
+55,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:35:46.427
+56,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:35:29.880
+57,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:35:07.025
+58,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:33:05.304
+59,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:32:31.724
+60,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:32:21.296
+61,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:32:12.973
+62,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:32:04.766
+63,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:31:34.378
+64,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:30:14.060
+65,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:29:44.288
+66,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:29:35.962
+67,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:29:28.141
+68,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:28:48.033
+69,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:28:32.892
+70,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:28:10.035
+71,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:28:05.035
+72,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:27:56.899
+73,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:27:41.355
+74,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:27:24.139
+75,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:27:11.071
+76,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:27:03.385
+77,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:26:57.546
+78,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:26:48.411
+79,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:26:20.838
+80,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 14:25:52.768
+81,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:25:36.227
+82,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:25:04.948
+83,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:24:52.510
+84,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:24:43.686
+85,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:24:18.120
+86,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:23:50.443
+87,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:23:05.931
+88,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:52:16.190
+89,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:51:47.610
+90,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:50:43.034
+91,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:49:39.152
+92,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:48:27.057
+93,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:47:18.567
+94,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:46:32.436
+95,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:46:29.126
+96,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:46:16.391
+97,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:45:51.922
+98,80:58:f8:83:fa:1a,46,David Coleman,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:43:46.266

@@ -1,0 +1,105 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:20:48.364
+1,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:20:23.285
+2,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:20:18.268
+3,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:20:08.242
+4,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:19:58.131
+5,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:19:47.685
+6,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:19:37.657
+7,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.46050376,-0.93231244,2019-11-04 12:19:27.626
+8,88:b4:a6:af:cf:94,9,Nicole Baker,,,visitor,0,51.460458533100926,-0.933134773550691,2019-11-04 12:19:10.971
+9,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:24:44.498
+10,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:22:58.405
+11,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:22:00.146
+12,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:21:58.338
+13,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46063655006932,-0.9322426662277268,2019-10-15 13:21:48.011
+14,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:21:22.941
+15,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:21:13.817
+16,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46063655006932,-0.9322426662277268,2019-10-15 13:21:07.411
+17,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:20:46.753
+18,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:20:37.521
+19,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:20:27.093
+20,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46090601587693,-0.9323676479775584,2019-10-15 13:20:19.368
+21,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46091022560135,-0.932368465122514,2019-10-15 13:20:03.335
+22,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46091022560135,-0.932368465122514,2019-10-15 13:19:53.205
+23,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:19:42.772
+24,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:19:30.535
+25,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:19:26.026
+26,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:19:15.901
+27,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:19:04.675
+28,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:18:52.537
+29,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:18:46.223
+30,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46063655006932,-0.9322426662277268,2019-10-15 13:18:37.399
+31,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093259264686,-0.932381218765339,2019-10-15 13:18:20.150
+32,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46090601587693,-0.9323676479775584,2019-10-15 13:18:09.928
+33,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:17:57.690
+34,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:17:32.639
+35,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:17:29.620
+36,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:17:11.575
+37,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:16:56.726
+38,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46091022560135,-0.932368465122514,2019-10-15 13:16:24.143
+39,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:15:30.096
+40,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 13:15:12.845
+41,80:58:f8:23:cd:6c,33,Dr. Cindy Clayton DVM,Systems Analyst,2.0,employee,0,51.46093752,-0.93238226,2019-10-15 13:14:53.195
+42,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:42:44.488
+43,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:40:30.144
+44,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:37:48.734
+45,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:37:10.336
+46,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:36:14.793
+47,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46069707299187,-0.9324039648497998,2019-10-15 14:35:01.906
+48,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:34:55.991
+49,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:34:33.232
+50,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:34:02.055
+51,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.460923914518254,-0.9321790031685272,2019-10-15 14:33:30.969
+52,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-15 14:33:26.056
+53,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.460923914518254,-0.9321790031685272,2019-10-15 14:33:00.792
+54,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46069707299187,-0.9324039648497998,2019-10-15 14:32:59.188
+55,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:32:46.260
+56,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.460923914518254,-0.9321790031685272,2019-10-15 14:32:38.437
+57,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:32:24.502
+58,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46085929943606,-0.9322471227870358,2019-10-15 14:32:17.488
+59,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:32:03.960
+60,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:31:53.328
+61,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-15 14:31:35.278
+62,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.460923914518254,-0.9321790031685272,2019-10-15 14:31:23.749
+63,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46085929943606,-0.9322471227870358,2019-10-15 14:30:52.864
+64,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:30:48.558
+65,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46085929943606,-0.9322471227870358,2019-10-15 14:30:30.506
+66,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46069707299187,-0.9324039648497998,2019-10-15 14:30:25.394
+67,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:30:07.445
+68,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:29:57.525
+69,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.460923914518254,-0.9321790031685272,2019-10-15 14:29:46.499
+70,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:29:32.455
+71,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:29:20.119
+72,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:29:10.691
+73,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:29:03.676
+74,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46085929943606,-0.9322471227870358,2019-10-15 14:28:57.562
+75,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 14:28:45.126
+76,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:27:36.843
+77,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 14:26:07.507
+78,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:56:53.954
+79,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:54:13.894
+80,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:53:39.811
+81,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:53:09.746
+82,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:52:34.970
+83,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:52:26.256
+84,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:52:13.428
+85,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:52:02.815
+86,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:51:51.577
+87,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:51:36.347
+88,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:51:07.785
+89,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:50:56.354
+90,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:50:46.226
+91,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:50:13.756
+92,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:49:44.088
+93,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:49:35.568
+94,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:49:24.843
+95,80:58:f8:26:9d:bd,54,Christopher Bartlett,Customer Service Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 16:47:09.538
+96,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:02:45.348
+97,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:02:38.933
+98,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:02:28.973
+99,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:02:15.254
+100,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:02:08.430
+101,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:01:57.418
+102,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46085533,-0.93236214,2020-02-17 13:01:45.447
+103,80:58:f8:c9:8e:1c,8,Stephen Williams,,,visitor,0,51.46057993508624,-0.9323193289056708,2020-02-17 13:01:38.705

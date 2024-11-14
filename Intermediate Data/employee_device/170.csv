@@ -1,0 +1,343 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:54:05.582
+1,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:53:05.241
+2,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:51:07.411
+3,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:50:11.065
+4,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:48:50.262
+5,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:48:14.364
+6,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:47:47.690
+7,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:47:14.904
+8,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:46:52.544
+9,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:46:41.412
+10,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:46:27.872
+11,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:46:15.245
+12,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:46:06.720
+13,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:45:55.394
+14,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:45:48.072
+15,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:45:28.018
+16,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:45:14.283
+17,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:45:09.877
+18,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:44:52.530
+19,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:44:42.001
+20,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:44:39.091
+21,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:44:12.826
+22,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.460892300611455,-0.9322179892414026,2019-10-15 15:44:09.723
+23,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:43:38.043
+24,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:43:15.388
+25,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:43:04.354
+26,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:42:59.537
+27,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:42:31.467
+28,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:42:19.337
+29,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:41:16.360
+30,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:53:46.505
+31,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:53:36.469
+32,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:53:26.441
+33,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:53:16.408
+34,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:53:06.274
+35,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:52:56.242
+36,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:52:45.810
+37,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:52:35.779
+38,80:58:f8:89:cd:ed,39,Joshua Walsh,Corporate Trainer,2.0,employee,0,51.46071774,-0.93239636,2019-11-12 14:52:25.746
+39,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:33:27.067
+40,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:33:17.044
+41,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:33:07.021
+42,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:32:56.996
+43,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:32:46.973
+44,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:32:36.949
+45,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:32:26.925
+46,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:32:16.804
+47,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:32:06.878
+48,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:31:56.757
+49,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:31:46.735
+50,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46093047526736,-0.9323838892575737,2020-01-03 08:31:36.711
+51,10:f6:f6:d9:79:3d,13,Thomas Marquez,Technical Writer,1.0,employee,0,51.46044905,-0.93249523,2020-01-03 08:31:29.098
+52,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46089387527012,-0.9323715758295982,2020-01-17 16:12:10.231
+53,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46092456888998,-0.9323852552441264,2020-01-17 16:11:55.564
+54,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.4608894352148,-0.932370651983882,2020-01-17 16:11:49.752
+55,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46083855429916,-0.932363694664322,2020-01-17 16:11:34.508
+56,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-17 16:11:20.480
+57,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46083855429916,-0.932363694664322,2020-01-17 16:11:19.623
+58,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46093752,-0.93238226,2020-01-17 16:11:00.427
+59,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46092456888998,-0.9323852552441264,2020-01-17 16:10:45.392
+60,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.46089387527012,-0.9323715758295982,2020-01-17 16:10:38.776
+61,60:1d:91:6d:d0:aa,10,Jack Castillo,DevOps Engineer,0.0,employee,0,51.460845787079755,-0.9323652660885492,2020-01-17 16:10:23.551
+62,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:52:18.095
+63,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:52:07.965
+64,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:51:57.930
+65,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:51:47.897
+66,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:51:37.774
+67,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:51:27.433
+68,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:51:17.401
+69,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:51:07.278
+70,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:50:57.244
+71,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:50:47.215
+72,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:50:37.092
+73,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:50:26.752
+74,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46071774,-0.93239636,2019-08-22 09:50:16.720
+75,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46093752,-0.93238226,2019-10-28 11:47:01.989
+76,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:46:56.977
+77,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:46:46.950
+78,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:46:36.913
+79,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:46:26.881
+80,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:46:16.943
+81,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:46:06.713
+82,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:45:56.376
+83,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:45:46.348
+84,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:45:36.321
+85,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:45:26.293
+86,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:45:16.262
+87,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46091717644694,-0.9323729187502142,2019-10-28 11:45:06.036
+88,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:47:59.601
+89,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:47:25.111
+90,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:47:00.650
+91,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:45:18.602
+92,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:44:20.264
+93,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:44:18.960
+94,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:44:05.326
+95,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:43:52.397
+96,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:43:48.991
+97,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46043205784175,-0.9328805476845438,2019-10-14 10:43:33.552
+98,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46043205784175,-0.9328805476845438,2019-10-14 10:43:18.613
+99,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:43:09.590
+100,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46043205784175,-0.9328805476845438,2019-10-14 10:42:59.466
+101,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:42:43.531
+102,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:42:31.299
+103,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46043205784175,-0.9328805476845438,2019-10-14 10:42:23.282
+104,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:42:15.262
+105,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:42:00.227
+106,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:41:40.784
+107,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:41:11.114
+108,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:41:05.897
+109,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:40:52.367
+110,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46043205784175,-0.9328805476845438,2019-10-14 10:40:42.446
+111,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:40:17.584
+112,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:39:59.441
+113,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:39:42.301
+114,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:39:18.645
+115,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:39:01.010
+116,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:38:45.265
+117,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:38:38.247
+118,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:38:29.334
+119,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:37:59.357
+120,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:37:41.313
+121,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:37:28.690
+122,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:37:19.163
+123,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46050376,-0.93231244,2019-10-14 10:36:15.213
+124,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46041136,-0.93304454,2019-10-14 10:35:32.109
+125,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46082424456406,-0.93228166970503,2019-11-11 16:20:20.484
+126,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46082424456406,-0.93228166970503,2019-11-11 16:20:15.468
+127,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46082424456406,-0.93228166970503,2019-11-11 16:20:05.442
+128,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:19:55.408
+129,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:19:45.376
+130,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:19:35.346
+131,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:19:25.014
+132,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:19:19.806
+133,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:19:09.767
+134,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:18:59.739
+135,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:18:49.702
+136,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:18:39.674
+137,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46083719348568,-0.9322742991944074,2019-11-11 16:18:29.340
+138,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:07:38.361
+139,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:07:28.329
+140,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:07:18.302
+141,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:07:07.970
+142,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:06:57.745
+143,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:06:47.716
+144,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:06:37.686
+145,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:06:27.655
+146,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:06:17.630
+147,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:06:07.089
+148,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:05:57.057
+149,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.460901504904406,-0.9323734435536764,2019-08-30 09:05:47.031
+150,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-08-30 09:05:39.813
+151,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:22:19.891
+152,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:22:09.960
+153,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:21:59.410
+154,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:21:49.136
+155,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:21:38.223
+156,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:21:28.345
+157,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:21:18.652
+158,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:21:09.451
+159,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:20:59.727
+160,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:20:41.107
+161,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:20:36.215
+162,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46078621,-0.93222453,2020-02-13 10:20:26.912
+163,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:03:32.550
+164,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:03:27.427
+165,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:03:17.289
+166,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:03:07.247
+167,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:02:57.110
+168,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:02:46.974
+169,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:02:36.844
+170,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:02:26.798
+171,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:02:16.572
+172,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:02:06.526
+173,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:01:56.391
+174,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:01:46.262
+175,80:58:f8:ed:68:88,114,Michael Wilkerson,Recruitment Specialist,2.0,employee,0,51.46085533,-0.93236214,2019-12-13 10:01:36.120
+176,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.460896425,-0.9323722,2020-01-17 15:07:50.592
+177,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.46093752,-0.93238226,2020-01-17 15:07:43.709
+178,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:07:30.074
+179,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:07:14.957
+180,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.46093752,-0.93238226,2020-01-17 15:07:08.618
+181,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.46093752,-0.93238226,2020-01-17 15:06:53.576
+182,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.460896425,-0.9323722,2020-01-17 15:06:39.544
+183,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.46093752,-0.93238226,2020-01-17 15:06:23.516
+184,60:1d:91:18:67:38,9,Trevor Ford,,,visitor,0,51.460896425,-0.9323722,2020-01-17 15:06:09.197
+185,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46064027803319,-0.9322419845287672,2019-12-05 15:56:01.170
+186,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:55:58.363
+187,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:55:48.339
+188,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:55:38.312
+189,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:55:28.282
+190,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:55:18.254
+191,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:55:08.227
+192,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:54:57.697
+193,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:54:47.670
+194,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:54:37.642
+195,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:54:27.612
+196,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:54:17.496
+197,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.460792854372805,-0.9323139888899608,2019-12-05 15:54:07.360
+198,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46065474,-0.93223934,2019-12-05 15:53:59.842
+199,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:37:53.978
+200,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:37:48.962
+201,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:37:38.838
+202,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:37:28.617
+203,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:37:18.493
+204,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:37:08.272
+205,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:36:58.144
+206,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:36:48.019
+207,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:36:37.891
+208,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:36:27.673
+209,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:36:17.543
+210,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:36:07.317
+211,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46041136,-0.93304454,2020-01-03 13:35:57.199
+212,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:53:43.321
+213,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:50:49.506
+214,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:50:12.528
+215,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:49:56.786
+216,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:49:37.239
+217,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:49:17.595
+218,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:48:54.537
+219,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:48:36.091
+220,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:47:36.741
+221,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:47:13.487
+222,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:46:32.888
+223,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:46:26.871
+224,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:46:09.725
+225,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:45:53.083
+226,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:45:45.369
+227,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:45:32.037
+228,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:45:18.703
+229,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:45:06.571
+230,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:44:52.077
+231,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:44:45.425
+232,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:44:22.675
+233,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 10:44:02.529
+234,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:43:49.993
+235,80:58:f8:39:9b:3a,51,Bryan Kelly,Human Resources Manager,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 10:43:26.835
+236,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:32:08.763
+237,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:31:58.326
+238,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:31:48.302
+239,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:31:38.261
+240,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:31:28.227
+241,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:31:18.100
+242,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:31:08.059
+243,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:30:57.634
+244,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:30:47.601
+245,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:30:37.569
+246,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:30:27.442
+247,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.460417693708095,-0.932994357016311,2019-10-31 13:30:17.413
+248,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:50:49.232
+249,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:49:16.571
+250,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:48:44.594
+251,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:47:05.208
+252,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:46:36.921
+253,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:46:18.371
+254,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:44:53.227
+255,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:44:45.508
+256,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:44:34.679
+257,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46077986472042,-0.9322302433159134,2019-10-15 12:43:39.507
+258,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:43:14.841
+259,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:42:49.277
+260,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46077986472042,-0.9322302433159134,2019-10-15 12:42:38.342
+261,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46056780704603,-0.9323620229713921,2019-10-15 12:42:25.114
+262,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46077986472042,-0.9322302433159134,2019-10-15 12:42:11.774
+263,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46056780704603,-0.9323620229713921,2019-10-15 12:42:07.591
+264,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 12:41:57.635
+265,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46077459630132,-0.93223184126531,2019-10-15 12:41:43.691
+266,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:41:39.485
+267,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 12:41:21.741
+268,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 12:41:18.028
+269,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:41:00.573
+270,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:40:53.354
+271,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46077459630132,-0.93223184126531,2019-10-15 12:40:48.241
+272,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 12:40:39.213
+273,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:40:25.779
+274,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:40:15.653
+275,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:40:03.431
+276,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:39:59.208
+277,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46056780704603,-0.9323620229713921,2019-10-15 12:39:38.444
+278,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:39:19.304
+279,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46077459630132,-0.93223184126531,2019-10-15 12:39:07.775
+280,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:38:58.140
+281,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:38:47.020
+282,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46056780704603,-0.9323620229713921,2019-10-15 12:38:37.189
+283,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:38:11.812
+284,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:38:07.108
+285,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078062945069,-0.9322263014312636,2019-10-15 12:37:49.958
+286,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:37:13.061
+287,80:58:f8:88:ec:0c,52,Amy Lynch,Retail Associate,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:35:31.686
+288,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:46:31.578
+289,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:45:31.533
+290,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:45:28.421
+291,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:44:50.932
+292,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:44:22.870
+293,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:44:15.552
+294,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:43:34.562
+295,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:43:00.571
+296,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:42:52.749
+297,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:42:45.337
+298,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:42:31.699
+299,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:42:07.566
+300,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:41:33.996
+301,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:40:23.401
+302,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:40:15.988
+303,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:40:09.869
+304,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:39:28.173
+305,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:39:14.937
+306,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:38:53.986
+307,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46052318,-0.93286961,2019-10-14 10:36:56.815
+308,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:37:55.739
+309,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:37:02.019
+310,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:29:18.249
+311,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:24:47.113
+312,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:24:12.938
+313,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:23:33.643
+314,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:23:26.326
+315,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:22:59.069
+316,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:22:34.912
+317,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:22:04.554
+318,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:21:55.425
+319,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:21:39.790
+320,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:21:27.763
+321,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:21:17.741
+322,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:21:09.626
+323,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:58.097
+324,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:20:45.671
+325,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:20:31.335
+326,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:20:27.322
+327,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:12.291
+328,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:04.478
+329,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:19:56.954
+330,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:19:39.811
+331,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:19:28.085
+332,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:19:16.359
+333,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:18:54.409
+334,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:18:49.495
+335,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:18:36.565
+336,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:18:26.437
+337,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:17:44.333
+338,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:17:37.714
+339,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:17:19.267
+340,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:17:09.639
+341,80:58:f8:c0:b6:9f,54,Benjamin Myers,Biomedical Engineer,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:16:32.949

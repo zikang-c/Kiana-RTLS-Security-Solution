@@ -1,0 +1,222 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.46048655,-0.93287006,2019-11-05 10:29:01.198
+1,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4604649707936,-0.9328892579827796,2019-11-05 10:28:56.183
+2,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4604649707936,-0.9328892579827796,2019-11-05 10:28:45.743
+3,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4603408474997,-0.9329996845117334,2019-11-05 10:28:39.528
+4,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4603408474997,-0.9329996845117334,2019-11-05 10:28:29.091
+5,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4604649707936,-0.9328892579827796,2019-11-05 10:28:10.554
+6,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4604649707936,-0.9328892579827796,2019-11-05 10:28:05.506
+7,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4604649707936,-0.9328892579827796,2019-11-05 10:27:55.475
+8,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.4604649707936,-0.9328892579827796,2019-11-05 10:27:45.049
+9,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 10:27:38.726
+10,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.46046764505798,-0.932897407717238,2019-11-05 10:27:24.883
+11,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 10:27:18.153
+12,88:b4:a6:19:28:fe,13,Mr. Ryan Sanchez,Cashier,2.0,employee,0,51.46034575,-0.93307374,2019-11-05 10:27:07.521
+13,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-18 13:27:56.242
+14,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-18 13:26:24.495
+15,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:25:50.698
+16,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:25:40.674
+17,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:25:16.606
+18,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:24:39.812
+19,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050063402665,-0.932793376540534,2019-10-18 13:24:11.737
+20,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:23:13.176
+21,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:22:53.926
+22,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-18 13:22:45.202
+23,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:22:35.678
+24,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-18 13:22:21.437
+25,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:22:18.935
+26,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:22:00.680
+27,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:21:42.035
+28,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:21:33.403
+29,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-18 13:21:27.189
+30,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:21:12.551
+31,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:21:00.911
+32,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:20:55.799
+33,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:20:47.983
+34,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:20:38.052
+35,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:19:51.724
+36,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:19:40.193
+37,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:19:23.851
+38,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050063402665,-0.932793376540534,2019-10-18 13:19:17.640
+39,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:19:05.194
+40,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:18:59.680
+41,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46051054191092,-0.9326420208057512,2019-10-18 13:18:40.731
+42,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:18:34.420
+43,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.4605058175325,-0.9326310509574534,2019-10-18 13:18:20.882
+44,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050063402665,-0.932793376540534,2019-10-18 13:18:19.478
+45,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:18:02.835
+46,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:17:49.592
+47,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46050154055227,-0.932572285559842,2019-10-18 13:17:28.939
+48,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:15:21.575
+49,80:58:f8:ea:d1:cd,37,Reginald Brown,IT Support Specialist,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:14:37.349
+50,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46047334876066,-0.9325076464706648,2019-10-22 12:43:43.785
+51,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46047334876066,-0.9325076464706648,2019-10-22 12:43:39.878
+52,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46047334876066,-0.9325076464706648,2019-10-22 12:43:28.251
+53,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46046360924667,-0.9324369007115588,2019-10-22 12:43:16.815
+54,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46046360924667,-0.9324369007115588,2019-10-22 12:43:06.385
+55,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46047334876066,-0.9325076464706648,2019-10-22 12:42:56.262
+56,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46047334876066,-0.9325076464706648,2019-10-22 12:42:45.928
+57,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.460418037849365,-0.9325140986298914,2019-10-22 12:42:37.104
+58,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46033603,-0.93223681,2019-10-22 12:42:26.982
+59,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46033603,-0.93223681,2019-10-22 12:42:11.937
+60,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46042509838476,-0.9322769712230357,2019-10-22 12:42:05.616
+61,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46050376,-0.93231244,2019-10-22 12:41:55.695
+62,58:d9:c3:f1:a6:f1,13,Jill Mitchell,IT Support Specialist,1.0,employee,0,51.46051286754527,-0.932573740257322,2019-10-22 12:41:45.670
+63,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:17:08.277
+64,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:16:58.046
+65,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:16:47.726
+66,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:16:37.800
+67,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:16:27.567
+68,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:16:17.431
+69,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:16:07.405
+70,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:15:57.069
+71,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:15:46.941
+72,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:15:37.007
+73,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:15:27.691
+74,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-11 09:15:16.759
+75,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-10 11:21:57.099
+76,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-10 11:21:47.065
+77,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-10 11:21:36.640
+78,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-10 11:21:26.610
+79,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46094269,-0.9321665,2019-10-10 11:21:16.475
+80,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:56:56.584
+81,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:56:46.540
+82,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:56:36.508
+83,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:56:26.480
+84,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:56:16.345
+85,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:56:06.316
+86,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:55:56.287
+87,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:55:46.254
+88,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:55:36.132
+89,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:55:26.095
+90,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:55:16.065
+91,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46085533,-0.93236214,2019-09-12 13:55:06.034
+92,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:20:15.057
+93,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:17:20.891
+94,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:16:59.433
+95,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:15:56.872
+96,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:15:36.214
+97,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:15:13.242
+98,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:14:57.309
+99,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:14:37.348
+100,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:14:23.818
+101,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46057233490383,-0.9323667737790464,2019-10-15 13:14:07.193
+102,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:13:56.151
+103,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:13:46.714
+104,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:13:38.291
+105,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:13:29.670
+106,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:12:57.888
+107,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:12:42.942
+108,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:12:39.127
+109,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:12:23.587
+110,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:12:12.250
+111,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46057233490383,-0.9323667737790464,2019-10-15 13:12:06.934
+112,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077818403239,-0.9322270776792948,2019-10-15 13:11:53.604
+113,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077818403239,-0.9322270776792948,2019-10-15 13:11:48.288
+114,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:11:32.745
+115,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:11:23.522
+116,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077818403239,-0.9322270776792948,2019-10-15 13:11:05.982
+117,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:10:49.923
+118,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:10:36.890
+119,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46076750639877,-0.9322369693674935,2019-10-15 13:10:26.975
+120,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:10:11.722
+121,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46077473337855,-0.9322348635973055,2019-10-15 13:09:56.587
+122,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:09:47.756
+123,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:09:14.567
+124,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:09:05.244
+125,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 13:08:48.797
+126,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:08:36.966
+127,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:06:08.272
+128,80:58:f8:66:60:12,66,Donald Mclaughlin,Barista,0.0,employee,0,51.46052764,-0.93242922,2019-10-11 09:15:07.429
+129,60:1d:91:df:32:6b,6,James Kane,,,visitor,0,51.4607771981753,-0.9322255451755068,2020-01-17 12:22:34.129
+130,60:1d:91:df:32:6b,6,James Kane,,,visitor,0,51.46065474,-0.93223934,2020-01-17 12:22:14.176
+131,60:1d:91:df:32:6b,6,James Kane,,,visitor,0,51.46065474,-0.93223934,2020-01-17 12:21:59.459
+132,60:1d:91:df:32:6b,6,James Kane,,,visitor,0,51.4607771981753,-0.9322255451755068,2020-01-17 12:21:38.986
+133,60:1d:91:df:32:6b,6,James Kane,,,visitor,0,51.46065474,-0.93223934,2020-01-17 12:21:23.745
+134,60:1d:91:df:32:6b,6,James Kane,,,visitor,0,51.4607771981753,-0.9322255451755068,2020-01-17 12:21:03.807
+135,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.460925105399056,-0.932172514900479,2020-01-17 16:14:26.250
+136,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.460925105399056,-0.932172514900479,2020-01-17 16:14:06.293
+137,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46094269,-0.9321665,2020-01-17 16:13:45.617
+138,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46076657127672,-0.9322267422879114,2020-01-17 16:13:31.492
+139,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46094269,-0.9321665,2020-01-17 16:13:25.393
+140,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46078621,-0.93222453,2020-01-17 16:13:11.526
+141,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46094269,-0.9321665,2020-01-17 16:13:05.121
+142,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46076657127672,-0.9322267422879114,2020-01-17 16:12:51.305
+143,60:1d:91:9f:b2:d9,9,Nichole Bailey,,,visitor,0,51.46094269,-0.9321665,2020-01-17 16:12:44.786
+144,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:11:41.267
+145,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:11:36.252
+146,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:11:26.222
+147,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46055602,-0.93220727,2020-01-14 14:11:15.003
+148,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46055602,-0.93220727,2020-01-14 14:11:09.988
+149,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46055602,-0.93220727,2020-01-14 14:10:59.966
+150,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46055602,-0.93220727,2020-01-14 14:10:49.840
+151,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46055602,-0.93220727,2020-01-14 14:10:39.804
+152,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:10:25.874
+153,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:10:15.851
+154,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:10:05.822
+155,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:09:55.794
+156,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46062421574701,-0.9323815589031866,2020-01-14 14:09:45.679
+157,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:02:47.951
+158,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:02:36.416
+159,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:01:53.906
+160,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:01:43.275
+161,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:00:22.865
+162,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:59:36.629
+163,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 14:59:24.303
+164,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 14:59:12.369
+165,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:59:01.042
+166,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:58:59.937
+167,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.460667177158015,-0.9322324025616926,2019-10-15 14:58:47.404
+168,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46084156898088,-0.9322691252324115,2019-10-15 14:57:48.248
+169,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46084156898088,-0.9322691252324115,2019-10-15 14:57:26.181
+170,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:57:19.571
+171,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46084156898088,-0.9322691252324115,2019-10-15 14:57:09.941
+172,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.460667177158015,-0.9322324025616926,2019-10-15 14:56:58.811
+173,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46084156898088,-0.9322691252324115,2019-10-15 14:56:30.242
+174,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46090606139772,-0.9322822423865236,2019-10-15 14:56:24.630
+175,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46081868272636,-0.9322641676430417,2019-10-15 14:56:02.991
+176,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.460667177158015,-0.9322324025616926,2019-10-15 14:55:44.520
+177,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46084156898088,-0.9322691252324115,2019-10-15 14:55:17.703
+178,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46084156898088,-0.9322691252324115,2019-10-15 14:55:04.208
+179,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 14:54:33.927
+180,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:54:24.903
+181,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:54:04.546
+182,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:53:43.688
+183,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:53:32.857
+184,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 14:53:27.242
+185,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.460667177158015,-0.9322324025616926,2019-10-15 14:53:13.110
+186,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 14:52:34.804
+187,f4:f5:24:7d:fa:ac,44,Timothy Wagner PhD,Cybersecurity Analyst,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 14:52:21.672
+188,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:16:18.529
+189,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:16:03.502
+190,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:15:06.057
+191,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:13:23.996
+192,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:12:55.525
+193,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:12:47.042
+194,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:12:23.041
+195,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:12:19.528
+196,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:12:06.908
+197,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:11:40.832
+198,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:11:32.810
+199,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:11:02.843
+200,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-17 10:10:58.423
+201,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:10:44.185
+202,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:10:39.376
+203,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:10:08.105
+204,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:09:54.864
+205,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:09:35.419
+206,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-17 10:09:20.882
+207,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:09:06.643
+208,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:08:57.428
+209,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:08:47.394
+210,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:08:20.925
+211,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-17 10:08:00.068
+212,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:07:44.632
+213,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-17 10:07:38.116
+214,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:07:02.240
+215,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:06:54.810
+216,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:06:44.187
+217,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46087030024827,-0.932240469808107,2019-10-17 10:06:19.823
+218,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:06:04.186
+219,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:05:51.751
+220,80:58:f8:dc:f4:5c,33,Patricia Solomon,Receptionist,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:05:20.674

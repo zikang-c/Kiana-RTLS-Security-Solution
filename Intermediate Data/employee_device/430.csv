@@ -1,0 +1,149 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46044905,-0.93249523,2019-10-22 11:24:21.033
+1,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46077850189016,-0.932325238619686,2019-10-22 11:24:15.513
+2,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46077850189016,-0.932325238619686,2019-10-22 11:24:05.291
+3,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46087640991783,-0.9322106379373905,2019-10-22 11:23:57.374
+4,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46077850189016,-0.932325238619686,2019-10-22 11:23:44.145
+5,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46087640991783,-0.9322106379373905,2019-10-22 11:23:36.030
+6,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46087640991783,-0.9322106379373905,2019-10-22 11:23:25.702
+7,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:23:15.779
+8,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:23:06.260
+9,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:22:55.738
+10,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:22:46.815
+11,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:22:37.093
+12,80:58:f8:d4:05:ee,13,Matthew Kennedy Jr.,Quality Assurance Specialist,0.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:22:26.773
+13,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:06:24.486
+14,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:06:19.471
+15,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:06:07.440
+16,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:05:53.705
+17,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:05:47.586
+18,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:05:39.964
+19,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:05:20.608
+20,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:05:18.903
+21,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:05:06.370
+22,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:04:51.832
+23,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:04:48.522
+24,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 15:04:33.184
+25,24:46:c8:82:7b:cc,13,Helen Hall,Systems Analyst,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 15:04:21.038
+26,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:45:48.336
+27,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:43:49.335
+28,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:41:58.643
+29,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:41:41.193
+30,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:41:08.305
+31,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:40:16.274
+32,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46051995808908,-0.9328115891942484,2019-10-15 13:39:58.625
+33,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:39:24.849
+34,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:38:52.467
+35,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:38:49.764
+36,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46051995808908,-0.9328115891942484,2019-10-15 13:38:07.051
+37,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:37:49.807
+38,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:37:26.846
+39,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:37:19.833
+40,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:36:50.450
+41,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:36:49.452
+42,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:36:34.311
+43,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:36:29.811
+44,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:36:14.364
+45,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:36:02.031
+46,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:35:47.592
+47,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:35:36.675
+48,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:35:12.406
+49,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46051995808908,-0.9328115891942484,2019-10-15 13:35:08.794
+50,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46051995808908,-0.9328115891942484,2019-10-15 13:34:41.829
+51,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:34:35.512
+52,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46051995808908,-0.9328115891942484,2019-10-15 13:34:23.775
+53,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:34:12.850
+54,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:34:07.747
+55,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:33:55.100
+56,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:33:42.467
+57,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:33:37.154
+58,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46051995808908,-0.9328115891942484,2019-10-15 13:33:27.027
+59,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:33:07.692
+60,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:32:56.554
+61,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:32:29.586
+62,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:32:03.515
+63,f4:f5:24:17:cb:90,38,Danny Daniel,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-10-15 13:31:56.802
+64,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46059815,-0.93239386,2020-01-17 08:56:14.240
+65,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46059730205936,-0.9323969458778508,2020-01-17 08:55:53.654
+66,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46072402597781,-0.9322288344770514,2020-01-17 08:55:45.023
+67,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46059712602868,-0.9323981354808688,2020-01-17 08:55:38.398
+68,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46059815,-0.93239386,2020-01-17 08:55:23.236
+69,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.460638056295565,-0.932301072364878,2020-01-17 08:55:10.494
+70,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46070555968827,-0.9322440065680696,2020-01-17 08:54:54.885
+71,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.460594073217415,-0.9323962821846374,2020-01-17 08:54:47.675
+72,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.4605908189829,-0.93239736722221,2020-01-17 08:54:32.636
+73,80:58:f8:9d:43:85,10,Michael Reyes,Inventory Clerk,2.0,employee,0,51.46032165,-0.93252614,2020-01-17 08:54:12.589
+74,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:07:16.587
+75,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:05:49.296
+76,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 11:00:36.093
+77,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:58:32.099
+78,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 10:58:18.367
+79,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 10:57:39.263
+80,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:57:26.733
+81,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:57:18.814
+82,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:56:51.046
+83,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:56:33.507
+84,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:56:26.890
+85,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:56:18.769
+86,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:55:45.187
+87,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:55:29.946
+88,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:55:12.201
+89,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 10:55:00.080
+90,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:54:59.170
+91,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 10:54:34.625
+92,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 10:54:25.587
+93,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:54:02.753
+94,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:53:48.789
+95,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:53:37.574
+96,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:53:26.228
+97,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:53:03.184
+98,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 10:52:25.884
+99,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:52:17.155
+100,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:52:01.212
+101,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 10:51:47.176
+102,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:51:39.154
+103,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:51:26.023
+104,80:58:f8:24:3c:a4,31,Donna Boyd,Chief Technology Officer,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 10:50:09.437
+105,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:23:17.893
+106,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:20:55.701
+107,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:19:25.557
+108,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050227624891,-0.9326636768407358,2019-10-18 13:17:18.303
+109,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:17:04.869
+110,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:16:54.339
+111,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:16:36.487
+112,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:16:13.519
+113,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:16:08.602
+114,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:15:50.650
+115,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049522391069,-0.9327750836130688,2019-10-18 13:15:44.732
+116,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:15:34.603
+117,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:15:13.547
+118,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049522391069,-0.9327750836130688,2019-10-18 13:15:00.812
+119,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46051331899339,-0.9326920310531144,2019-10-18 13:14:54.295
+120,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:14:40.057
+121,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049078680266,-0.9325504886403972,2019-10-18 13:14:37.952
+122,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:14:18.692
+123,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050227624891,-0.9326636768407358,2019-10-18 13:13:56.931
+124,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049522391069,-0.9327750836130688,2019-10-18 13:13:49.811
+125,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:13:37.883
+126,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46051331899339,-0.9326920310531144,2019-10-18 13:13:26.449
+127,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:13:16.821
+128,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:13:01.177
+129,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049522391069,-0.9327750836130688,2019-10-18 13:12:58.370
+130,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:12:34.910
+131,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050227624891,-0.9326636768407358,2019-10-18 13:12:29.795
+132,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049078680266,-0.9325504886403972,2019-10-18 13:12:16.155
+133,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050227624891,-0.9326636768407358,2019-10-18 13:12:06.528
+134,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:11:48.886
+135,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:11:31.633
+136,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46049078680266,-0.9325504886403972,2019-10-18 13:11:20.204
+137,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:11:14.986
+138,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:10:41.894
+139,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:10:35.681
+140,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:10:20.534
+141,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:09:40.828
+142,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050227624891,-0.9326636768407358,2019-10-18 13:09:27.293
+143,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46052318,-0.93286961,2019-10-18 13:09:18.969
+144,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46051331899339,-0.9326920310531144,2019-10-18 13:08:32.539
+145,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:08:22.812
+146,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46050732,-0.932584,2019-10-18 13:07:40.600
+147,80:58:f8:fb:7f:1e,43,Christine Thornton,Cybersecurity Analyst,1.0,employee,0,51.46033603,-0.93223681,2019-10-18 13:07:36.590

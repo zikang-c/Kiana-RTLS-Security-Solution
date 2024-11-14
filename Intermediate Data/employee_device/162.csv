@@ -1,0 +1,344 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:00:24.888
+1,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:00:11.551
+2,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:57:55.986
+3,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:56:16.898
+4,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:55:57.552
+5,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:54:11.148
+6,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:53:40.673
+7,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:52:50.743
+8,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:52:10.031
+9,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:51:45.264
+10,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:51:35.133
+11,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093194812438,-0.9323810825666274,2019-10-15 11:51:11.972
+12,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 11:51:02.783
+13,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:50:59.838
+14,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:50:46.103
+15,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 11:50:34.579
+16,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:50:21.231
+17,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46090546462345,-0.9323675409743548,2019-10-15 11:50:12.707
+18,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 11:49:52.154
+19,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093194812438,-0.9323810825666274,2019-10-15 11:49:08.641
+20,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46063437585747,-0.9322430638061392,2019-10-15 11:48:53.792
+21,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 11:48:41.464
+22,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46090546462345,-0.9323675409743548,2019-10-15 11:48:34.642
+23,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46063437585747,-0.9322430638061392,2019-10-15 11:48:28.531
+24,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093194812438,-0.9323810825666274,2019-10-15 11:48:12.491
+25,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:48:09.380
+26,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46090546462345,-0.9323675409743548,2019-10-15 11:47:59.154
+27,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:47:28.560
+28,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46091022560135,-0.9323684651225138,2019-10-15 11:46:49.252
+29,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46090546462345,-0.9323675409743548,2019-10-15 11:46:36.022
+30,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:46:19.771
+31,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:46:02.122
+32,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 11:45:38.256
+33,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:45:13.892
+34,80:58:f8:5d:9b:16,35,Timothy Newton,Legal Assistant,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 11:45:07.271
+35,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:42:41.008
+36,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:42:35.994
+37,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:42:25.968
+38,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:42:15.855
+39,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:42:05.830
+40,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:41:55.801
+41,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:41:45.775
+42,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:41:35.746
+43,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:41:25.721
+44,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:41:15.606
+45,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080495,-0.9321861,2020-01-14 13:41:05.581
+46,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:15:02.262
+47,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:14:33.488
+48,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:12:59.136
+49,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:12:48.915
+50,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:12:23.847
+51,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:12:05.501
+52,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46066717715801,-0.9322324025616926,2019-10-15 15:11:20.092
+53,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:10:55.424
+54,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080050764998,-0.9322603570056784,2019-10-15 15:10:41.689
+55,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:10:37.686
+56,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.460824814999995,-0.932265635,2019-10-15 15:10:19.620
+57,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:10:07.392
+58,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:09:27.483
+59,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.460893286799504,-0.9322795063041018,2019-10-15 15:08:36.948
+60,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:08:26.924
+61,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.460824814999995,-0.932265635,2019-10-15 15:08:17.500
+62,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080050764998,-0.9322603570056784,2019-10-15 15:08:08.276
+63,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46080050764998,-0.9322603570056784,2019-10-15 15:07:51.432
+64,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46066717715801,-0.9322324025616926,2019-10-15 15:07:42.012
+65,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.460824814999995,-0.932265635,2019-10-15 15:07:36.591
+66,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:07:28.072
+67,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:07:13.030
+68,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.460824814999995,-0.932265635,2019-10-15 15:07:09.727
+69,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46066717715801,-0.9322324025616926,2019-10-15 15:06:46.371
+70,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:05:59.448
+71,f4:f5:24:88:cc:47,37,Shannon Lawrence,Customer Service Manager,0.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:05:23.853
+72,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:37:35.406
+73,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:37:24.976
+74,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:37:19.864
+75,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:37:09.828
+76,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46044109380154,-0.9326754845482208,2019-11-11 11:36:58.076
+77,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46043618503426,-0.9326654422093908,2019-11-11 11:36:42.931
+78,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46044109380154,-0.9326754845482208,2019-11-11 11:36:37.506
+79,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:36:29.685
+80,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:36:19.248
+81,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.46057489,-0.93228285,2019-11-11 11:36:09.217
+82,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.460493807399175,-0.9323137509846304,2019-11-11 11:35:59.183
+83,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.460493807399175,-0.9323137509846304,2019-11-11 11:35:49.056
+84,88:b4:a6:72:b6:fa,13,Jesse Jones,Janitor,3.0,employee,0,51.460493807399175,-0.9323137509846304,2019-11-11 11:35:39.028
+85,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46093936728288,-0.9321739411215608,2020-01-17 14:57:30.831
+86,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:57:21.602
+87,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:57:15.708
+88,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:57:01.275
+89,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:56:55.441
+90,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46093936728288,-0.9321739411215608,2020-01-17 14:56:40.304
+91,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46093936728288,-0.9321739411215608,2020-01-17 14:56:20.065
+92,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:56:05.427
+93,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46085533,-0.93236214,2020-01-17 14:55:50.348
+94,60:1d:91:c1:2e:12,10,Olivia Powers,Copywriter,1.0,employee,0,51.46094269,-0.9321665,2020-01-17 14:55:44.672
+95,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:20:18.522
+96,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:18:00.143
+97,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 14:16:21.976
+98,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:15:58.514
+99,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:15:38.261
+100,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:15:14.897
+101,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:13:44.953
+102,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 14:13:32.319
+103,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:13:25.897
+104,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:12:53.511
+105,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:12:44.786
+106,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:12:23.928
+107,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:12:17.910
+108,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.460581853550174,-0.9323767611196384,2019-10-18 14:11:56.156
+109,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.460581853550174,-0.9323767611196384,2019-10-18 14:11:49.842
+110,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607781840324,-0.9322270776792948,2019-10-18 14:11:06.923
+111,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607781840324,-0.9322270776792948,2019-10-18 14:10:58.302
+112,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:10:35.038
+113,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:10:22.204
+114,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:10:06.261
+115,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 14:09:58.646
+116,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 14:09:44.203
+117,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:09:33.381
+118,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.460581853550174,-0.9323767611196384,2019-10-18 14:09:27.564
+119,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:08:59.790
+120,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.460759276145126,-0.932244593819306,2019-10-18 14:08:34.020
+121,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607781840324,-0.9322270776792948,2019-10-18 14:08:29.713
+122,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46059815,-0.93239386,2019-10-18 14:07:33.960
+123,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:07:26.840
+124,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:07:19.722
+125,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.4607659158286,-0.9322428029556696,2019-10-18 14:07:08.291
+126,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.460581853550174,-0.9323767611196384,2019-10-18 14:06:25.487
+127,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:05:02.680
+128,80:58:f8:2b:e8:63,34,David Hoffman,Inventory Clerk,0.0,employee,0,51.46078621,-0.93222453,2019-10-18 14:04:17.142
+129,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:30:52.203
+130,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:27:50.179
+131,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:26:05.736
+132,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-17 12:25:59.819
+133,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-17 12:25:30.441
+134,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:25:29.638
+135,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:25:05.792
+136,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46092792207601,-0.9321763344130416,2019-10-17 12:24:53.957
+137,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:24:46.728
+138,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:24:26.999
+139,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:24:07.543
+140,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:23:58.424
+141,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-17 12:23:41.069
+142,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:23:05.681
+143,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46087732240209,-0.932229303834437,2019-10-17 12:22:58.563
+144,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:22:46.131
+145,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-17 12:22:29.299
+146,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-17 12:22:10.549
+147,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46069457452235,-0.9324048842129434,2019-10-17 12:21:40.269
+148,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46088727638634,-0.9322231231306388,2019-10-17 12:21:35.960
+149,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:21:29.339
+150,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46092792207601,-0.9321763344130416,2019-10-17 12:21:14.206
+151,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:20:19.382
+152,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:20:08.752
+153,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:19:53.015
+154,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:19:34.193
+155,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:19:10.321
+156,80:58:f8:e8:28:48,28,Barry Dickerson,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:16:52.596
+157,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:28:09.053
+158,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050869,-0.93299578,2019-10-17 18:27:35.867
+159,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:26:30.694
+160,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:26:01.817
+161,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047518,-0.93284138,2019-10-17 18:25:26.117
+162,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047518,-0.93284138,2019-10-17 18:24:40.407
+163,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050869,-0.93299578,2019-10-17 18:24:29.569
+164,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047518,-0.93284138,2019-10-17 18:23:45.048
+165,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460388848797166,-0.9329265213059544,2019-10-17 18:23:02.858
+166,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46048073805369,-0.9328669891760581,2019-10-17 18:22:18.514
+167,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040912235704,-0.9329065271751243,2019-10-17 18:22:09.091
+168,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:21:58.860
+169,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050869,-0.93299578,2019-10-17 18:21:42.627
+170,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:21:38.913
+171,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:21:29.781
+172,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:21:15.648
+173,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460380407705216,-0.9329120681623654,2019-10-17 18:21:07.025
+174,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:20:59.301
+175,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:20:46.365
+176,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 18:20:30.720
+177,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:20:25.204
+178,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:20:18.686
+179,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46046072738666,-0.9328245119043762,2019-10-17 18:20:06.152
+180,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050869,-0.93299578,2019-10-17 18:19:56.323
+181,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:19:45.999
+182,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46046072738666,-0.9328245119043762,2019-10-17 18:19:38.093
+183,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040912235704,-0.9329065271751243,2019-10-17 18:19:11.908
+184,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460380407705216,-0.9329120681623654,2019-10-17 18:19:09.400
+185,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040766110751,-0.9328998230564,2019-10-17 18:18:54.863
+186,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460409888668536,-0.9328986333519688,2019-10-17 18:18:44.833
+187,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042177750595,-0.932934302251685,2019-10-17 18:18:35.512
+188,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460380407705216,-0.9329120681623654,2019-10-17 18:18:24.879
+189,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:18:14.751
+190,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460406407552384,-0.9329489790420694,2019-10-17 18:18:07.344
+191,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:17:51.402
+192,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042423209931,-0.933008566760524,2019-10-17 18:17:40.767
+193,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460388848797166,-0.9329265213059544,2019-10-17 18:17:39.958
+194,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040766110751,-0.9328998230564,2019-10-17 18:17:28.527
+195,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042423209931,-0.933008566760524,2019-10-17 18:17:17.795
+196,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038788060822,-0.9329169446766394,2019-10-17 18:17:07.384
+197,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038788060822,-0.9329169446766394,2019-10-17 18:16:54.836
+198,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460380407705216,-0.9329120681623654,2019-10-17 18:16:43.004
+199,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460406407552384,-0.9329489790420694,2019-10-17 18:16:39.794
+200,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038788060822,-0.9329169446766394,2019-10-17 18:16:22.450
+201,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047317014134,-0.932814754949345,2019-10-17 18:16:18.038
+202,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:16:08.309
+203,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:15:59.493
+204,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040766110751,-0.9328998230564,2019-10-17 18:15:41.839
+205,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038803967913,-0.9329892673610596,2019-10-17 18:15:33.315
+206,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46039872897332,-0.9330922558813166,2019-10-17 18:15:26.993
+207,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460446839035846,-0.9328730727701824,2019-10-17 18:15:16.067
+208,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:15:00.924
+209,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46039891782376,-0.9330049849722492,2019-10-17 18:14:59.420
+210,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:14:45.483
+211,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040766110751,-0.9328998230564,2019-10-17 18:14:37.162
+212,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038788060822,-0.9329169446766394,2019-10-17 18:14:26.935
+213,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040766110751,-0.9328998230564,2019-10-17 18:14:12.998
+214,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040766110751,-0.9328998230564,2019-10-17 18:14:06.586
+215,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460388848797166,-0.9329265213059544,2019-10-17 18:13:55.553
+216,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460467771327,-0.9328496648758936,2019-10-17 18:13:44.622
+217,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460410823280654,-0.9330110071275826,2019-10-17 18:13:36.602
+218,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460418231862064,-0.933009475184674,2019-10-17 18:13:23.263
+219,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040334266982,-0.9329713979303432,2019-10-17 18:13:18.952
+220,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038788060822,-0.9329169446766394,2019-10-17 18:13:01.304
+221,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044196298153,-0.933042907591854,2019-10-17 18:12:55.689
+222,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042423209931,-0.933008566760524,2019-10-17 18:12:42.955
+223,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044196298153,-0.933042907591854,2019-10-17 18:12:39.157
+224,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041033882173,-0.932985793553891,2019-10-17 18:12:27.012
+225,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038214207303,-0.932901536016067,2019-10-17 18:12:11.771
+226,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040334266982,-0.9329713979303432,2019-10-17 18:12:03.362
+227,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460409888668536,-0.9328986333519688,2019-10-17 18:11:58.735
+228,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044196298153,-0.933042907591854,2019-10-17 18:11:47.001
+229,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460383101677735,-0.9329890008104204,2019-10-17 18:11:38.280
+230,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041033882173,-0.932985793553891,2019-10-17 18:11:28.458
+231,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46039726347687,-0.93300454930315,2019-10-17 18:11:19.527
+232,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46039726347687,-0.93300454930315,2019-10-17 18:11:07.797
+233,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042177750595,-0.932934302251685,2019-10-17 18:10:56.667
+234,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040967622044,-0.932901737004716,2019-10-17 18:10:41.634
+235,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460483199406326,-0.9329409624127588,2019-10-17 18:10:37.521
+236,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042423209931,-0.933008566760524,2019-10-17 18:10:28.395
+237,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040212084614,-0.9330123611433448,2019-10-17 18:10:16.161
+238,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040334266982,-0.9329713979303432,2019-10-17 18:10:04.128
+239,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040212084614,-0.9330123611433448,2019-10-17 18:09:58.413
+240,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040334266982,-0.9329713979303432,2019-10-17 18:09:42.571
+241,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040212084614,-0.9330123611433448,2019-10-17 18:09:37.557
+242,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460397671442585,-0.9329611021631848,2019-10-17 18:09:24.319
+243,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042499637083,-0.9329207384334391,2019-10-17 18:09:16.900
+244,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040507942064,-0.932974337809482,2019-10-17 18:09:03.269
+245,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46049107785624,-0.932847963793418,2019-10-17 18:08:57.948
+246,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050994861643,-0.9330959718968628,2019-10-17 18:08:47.721
+247,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040212084614,-0.9330123611433448,2019-10-17 18:08:30.474
+248,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46043007487554,-0.9331024949764176,2019-10-17 18:08:26.764
+249,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044196298153,-0.933042907591854,2019-10-17 18:08:13.028
+250,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460418565240815,-0.9329879749133264,2019-10-17 18:08:09.824
+251,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460417857356845,-0.9331094402828096,2019-10-17 18:07:58.324
+252,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46043815718746,-0.9330309062385712,2019-10-17 18:07:41.951
+253,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46039726347687,-0.93300454930315,2019-10-17 18:07:36.834
+254,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040212084614,-0.9330123611433448,2019-10-17 18:07:29.313
+255,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044365567578,-0.9330417120850474,2019-10-17 18:07:11.969
+256,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040135412582,-0.9331239460990904,2019-10-17 18:07:04.950
+257,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460443521791525,-0.9330448633092636,2019-10-17 18:06:55.425
+258,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040212084614,-0.9330123611433448,2019-10-17 18:06:41.095
+259,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040029881415,-0.9330047379839876,2019-10-17 18:06:30.563
+260,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041633592597,-0.9331294490191604,2019-10-17 18:06:27.349
+261,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038803967913,-0.9329892673610596,2019-10-17 18:06:19.433
+262,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460408271707834,-0.9329151606195426,2019-10-17 18:06:08.210
+263,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041329785928,-0.932956918493448,2019-10-17 18:05:59.180
+264,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041618267285,-0.9329941441941008,2019-10-17 18:05:44.446
+265,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604221657929,-0.9330153473946948,2019-10-17 18:05:31.707
+266,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46043609778162,-0.9330067703194928,2019-10-17 18:05:26.093
+267,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041346785275,-0.9329864000627872,2019-10-17 18:05:17.193
+268,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460421371471895,-0.9330343285700992,2019-10-17 18:05:08.656
+269,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044196298153,-0.933042907591854,2019-10-17 18:04:57.515
+270,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460427508031984,-0.9330240310450266,2019-10-17 18:04:42.777
+271,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46049345804055,-0.932965561044256,2019-10-17 18:04:36.584
+272,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042680374877,-0.932986439863069,2019-10-17 18:04:24.631
+273,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460442960845775,-0.9329368457806164,2019-10-17 18:04:16.807
+274,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040666627049,-0.9329449894161632,2019-10-17 18:04:08.196
+275,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46044229555091,-0.933089905927706,2019-10-17 18:03:53.750
+276,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604219967527,-0.9330819962883043,2019-10-17 18:03:44.528
+277,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46048964358298,-0.9330174860341122,2019-10-17 18:03:37.416
+278,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040755365261,-0.933014434350591,2019-10-17 18:03:27.881
+279,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041257526305,-0.932987719377621,2019-10-17 18:03:18.160
+280,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042888896866,-0.9330182279440588,2019-10-17 18:03:05.130
+281,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041501118752,-0.9330088868809056,2019-10-17 18:02:55.801
+282,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041881960791,-0.932972195659822,2019-10-17 18:02:43.369
+283,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46046462157943,-0.9329985847192358,2019-10-17 18:02:35.046
+284,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460416881996046,-0.9330202310710158,2019-10-17 18:02:21.905
+285,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460424142836885,-0.932991632907182,2019-10-17 18:02:10.882
+286,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042292026474,-0.9330032531786788,2019-10-17 18:02:06.468
+287,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460419907377,-0.9329844996651788,2019-10-17 18:01:59.350
+288,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041529720065,-0.9329873207959168,2019-10-17 18:01:46.314
+289,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460403804248045,-0.933008106589635,2019-10-17 18:01:32.479
+290,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040842409405,-0.9330101161378463,2019-10-17 18:01:29.775
+291,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604211784861,-0.9329644211229497,2019-10-17 18:01:15.236
+292,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042782175252,-0.9329628353369912,2019-10-17 18:01:05.511
+293,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042310358152,-0.9329946924647676,2019-10-17 18:00:50.065
+294,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460411741208375,-0.9330041689628146,2019-10-17 18:00:49.662
+295,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460412196442405,-0.9329931620458566,2019-10-17 18:00:38.935
+296,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042169940088,-0.9329603411712653,2019-10-17 18:00:22.693
+297,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041864746142,-0.9329910662314992,2019-10-17 18:00:11.065
+298,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040188900182,-0.9329883778139612,2019-10-17 18:00:09.763
+299,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46043405706746,-0.9330406401090158,2019-10-17 17:59:58.632
+300,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042071105455,-0.9329726920248652,2019-10-17 17:59:47.602
+301,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460397901244185,-0.932996982407848,2019-10-17 17:59:34.970
+302,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041241081287,-0.9331083050954904,2019-10-17 17:59:26.949
+303,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604092626258,-0.9329990112292628,2019-10-17 17:59:11.807
+304,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604139117366,-0.9330158353203561,2019-10-17 17:59:05.400
+305,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040760320975,-0.9330374736232272,2019-10-17 17:58:50.852
+306,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460418367645374,-0.932953495926694,2019-10-17 17:58:49.848
+307,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604003456878,-0.9329739874956804,2019-10-17 17:58:38.930
+308,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042004188918,-0.93303295529054,2019-10-17 17:58:24.080
+309,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604251874761,-0.9330503315423012,2019-10-17 17:58:17.361
+310,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46041066403892,-0.9330076897831991,2019-10-17 17:58:08.651
+311,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46043958989718,-0.9329446221006112,2019-10-17 17:57:55.603
+312,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460410871238125,-0.9330104017846208,2019-10-17 17:57:44.977
+313,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460407728514646,-0.9329546770630108,2019-10-17 17:57:38.763
+314,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460411899353126,-0.933004505379928,2019-10-17 17:57:27.529
+315,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460441528300976,-0.9329512487862096,2019-10-17 17:57:13.691
+316,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460384204399055,-0.9330238473533352,2019-10-17 17:57:05.972
+317,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460434178468766,-0.9330560931864263,2019-10-17 17:56:50.530
+318,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038448822636,-0.9330239898026624,2019-10-17 17:56:41.308
+319,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604733888767,-0.9328176525859798,2019-10-17 17:56:31.479
+320,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604371662785,-0.9329460785691184,2019-10-17 17:56:29.172
+321,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042880873001,-0.9330420560243536,2019-10-17 17:56:15.164
+322,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460482750409234,-0.9329443179836996,2019-10-17 17:56:06.722
+323,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460415094442425,-0.9330263460525926,2019-10-17 17:55:56.183
+324,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460399416715816,-0.9329896016830144,2019-10-17 17:55:45.058
+325,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46042260215492,-0.93292426470513,2019-10-17 17:55:39.948
+326,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 17:55:23.700
+327,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038402805024,-0.933018136521435,2019-10-17 17:55:16.581
+328,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047836794633,-0.9330362136395112,2019-10-17 17:55:03.461
+329,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.4604950220312,-0.9329328037427134,2019-10-17 17:54:57.333
+330,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040228571356,-0.9329518760243,2019-10-17 17:54:41.690
+331,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46049355954449,-0.9329896503460576,2019-10-17 17:54:37.284
+332,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.460407326903066,-0.9329640104784453,2019-10-17 17:54:27.647
+333,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050869,-0.93299578,2019-10-17 17:54:18.428
+334,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047518,-0.93284138,2019-10-17 17:54:05.091
+335,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038885873687,-0.9331318482401496,2019-10-17 17:53:47.643
+336,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46036754,-0.93271575,2019-10-17 17:53:21.770
+337,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46050869,-0.93299578,2019-10-17 17:53:15.658
+338,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047836794632,-0.933036213639511,2019-10-17 17:52:55.707
+339,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46040283315562,-0.9330147640670312,2019-10-17 17:52:48.187
+340,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047518,-0.93284138,2019-10-17 17:52:39.263
+341,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46038106,-0.93292202,2019-10-17 17:52:20.615
+342,4c:32:75:9d:ad:37,186,Benjamin Lucas,Digital Marketing Manager,2.0,employee,0,51.46047518,-0.93284138,2019-10-17 17:52:01.162

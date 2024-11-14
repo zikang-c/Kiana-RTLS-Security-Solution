@@ -1,0 +1,156 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:27:11.889
+1,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:25:25.826
+2,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:24:46.329
+3,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:23:17.039
+4,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:22:18.962
+5,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:20:16.269
+6,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:19:53.319
+7,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:19:08.917
+8,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:18:48.270
+9,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:17:49.928
+10,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:17:25.175
+11,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:17:17.758
+12,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46078735748976,-0.932306366280626,2019-10-17 12:17:00.826
+13,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:16:59.619
+14,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:15:56.172
+15,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:15:22.283
+16,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:15:19.680
+17,7c:91:22:bc:6e:af,18,Martin Lester,Legal Consultant,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 12:12:52.732
+18,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:24:52.676
+19,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:24:47.662
+20,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:24:37.643
+21,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:24:27.615
+22,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:24:17.595
+23,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:24:07.566
+24,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:23:57.542
+25,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:23:47.517
+26,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:23:37.491
+27,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:23:27.470
+28,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:23:17.442
+29,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:23:07.422
+30,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46093752,-0.93238226,2019-12-19 15:22:57.390
+31,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:29:56.893
+32,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:28:27.421
+33,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:27:47.500
+34,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:26:06.391
+35,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:25:42.222
+36,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:25:37.811
+37,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:25:03.908
+38,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:22:54.324
+39,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:22:47.707
+40,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:22:22.728
+41,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-21 12:21:57.049
+42,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:21:43.712
+43,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:21:12.820
+44,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:20:52.466
+45,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:20:41.832
+46,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:20:39.124
+47,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:20:28.898
+48,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:20:19.769
+49,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:20:06.626
+50,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:19:50.880
+51,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-21 12:19:47.968
+52,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-21 12:19:21.697
+53,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:18:52.004
+54,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-21 12:18:45.490
+55,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:18:18.906
+56,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-21 12:18:07.974
+57,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:17:53.533
+58,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:17:45.011
+59,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:17:39.294
+60,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:17:25.351
+61,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 12:17:10.410
+62,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:16:37.506
+63,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 12:15:59.595
+64,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:42:56.707
+65,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:42:46.675
+66,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:42:36.631
+67,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:42:26.594
+68,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:42:16.057
+69,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:42:06.023
+70,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:41:55.988
+71,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:41:45.951
+72,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:41:35.914
+73,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:41:25.874
+74,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:41:15.345
+75,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:41:05.322
+76,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.46078621,-0.93222453,2019-08-13 09:40:55.279
+77,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:24:46.152
+78,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:24:39.914
+79,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:24:25.932
+80,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:24:16.044
+81,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:24:08.291
+82,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:23:58.281
+83,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:23:44.648
+84,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:23:36.878
+85,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:23:29.313
+86,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:23:16.800
+87,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:23:05.682
+88,80:58:f8:74:a7:a3,71,Maria Strong DDS,Maintenance Technician,3.0,employee,0,51.460708441387766,-0.932388600059462,2020-03-02 10:22:59.443
+89,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46094269,-0.9321665,2020-01-17 14:10:55.147
+90,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46091254059966,-0.9323841460199224,2020-01-17 14:10:48.934
+91,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46092842713712,-0.9323803385213192,2020-01-17 14:10:33.900
+92,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46094213208836,-0.932189783369251,2020-01-17 14:10:19.664
+93,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46094213208836,-0.932189783369251,2020-01-17 14:10:04.431
+94,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46094213208836,-0.932189783369251,2020-01-17 14:09:49.299
+95,60:1d:91:46:7b:9d,7,George Wade,,,visitor,0,51.46094213208836,-0.932189783369251,2020-01-17 14:09:34.060
+96,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.460676277642975,-0.9323682610634284,2020-01-22 10:13:04.315
+97,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:12:54.664
+98,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:12:49.560
+99,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46069542941612,-0.932339662309042,2020-01-22 10:12:38.840
+100,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46069542941612,-0.932339662309042,2020-01-22 10:12:28.699
+101,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:12:14.367
+102,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:12:09.350
+103,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:11:59.229
+104,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:11:49.202
+105,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:11:39.078
+106,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:11:29.052
+107,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:11:19.017
+108,60:1d:91:9c:3e:bb,13,Michael Williams,Receptionist,0.0,employee,0,51.46052100016304,-0.9324154516826302,2020-01-22 10:11:08.898
+109,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:36:13.450
+110,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:36:08.345
+111,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:35:58.307
+112,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:35:48.277
+113,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:35:38.150
+114,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:35:28.115
+115,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:35:17.686
+116,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46045488318229,-0.932825327522557,2019-11-06 14:35:07.556
+117,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46045488318229,-0.932825327522557,2019-11-06 14:34:57.520
+118,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46045488318229,-0.932825327522557,2019-11-06 14:34:47.482
+119,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:34:37.358
+120,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46047956,-0.93315371,2019-11-06 14:34:27.226
+121,88:b4:a6:df:25:0c,13,Penny Harris,Network Administrator,1.0,employee,0,51.46045488318229,-0.932825327522557,2019-11-06 14:34:16.488
+122,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46043929929071,-0.9327360587629318,2020-03-04 13:17:38.427
+123,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:17:26.084
+124,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46043929929071,-0.9327360587629318,2020-03-04 13:17:14.433
+125,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46043929929071,-0.9327360587629318,2020-03-04 13:17:09.550
+126,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:16:50.681
+127,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:16:45.626
+128,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:16:37.835
+129,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:16:21.599
+130,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:16:10.252
+131,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:16:08.741
+132,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46040542827762,-0.9325504915521704,2020-03-04 13:15:57.547
+133,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46043929929071,-0.9327360587629318,2020-03-04 13:15:41.750
+134,38:80:df:e6:ec:54,13,Jennifer Johnson,Cybersecurity Analyst,3.0,employee,0,51.46043929929071,-0.9327360587629318,2020-03-04 13:15:35.457
+135,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.4608837726787,-0.9321891491349826,2020-01-17 12:38:56.850
+136,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.46088908692609,-0.9321853403191612,2020-01-17 12:38:26.470
+137,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.46088908692609,-0.9321853403191612,2020-01-17 12:38:06.145
+138,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.46059815,-0.93239386,2020-01-17 12:37:59.206
+139,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.46088908692609,-0.9321853403191612,2020-01-17 12:37:45.869
+140,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.4608837726787,-0.9321891491349826,2020-01-17 12:37:30.802
+141,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.46077473337856,-0.9322348635973056,2020-01-17 12:37:11.489
+142,60:1d:91:2e:75:29,8,Jeremy Woods,,,visitor,0,51.46093035103623,-0.9321696212714738,2020-01-17 12:37:05.282
+143,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:39:05.776
+144,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:38:55.746
+145,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:38:40.304
+146,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:38:30.266
+147,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:38:25.250
+148,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:38:15.222
+149,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:38:05.091
+150,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:37:55.057
+151,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 08:37:45.025
+152,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.46036473809966,-0.9324718074661532,2019-10-08 08:37:36.108
+153,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.46036473809966,-0.9324718074661532,2019-10-08 08:37:25.976
+154,f0:d7:aa:5f:24:e9,12,Amanda Jackson,DevOps Engineer,3.0,employee,0,51.46044376,-0.93227792,2019-10-08 08:37:19.555

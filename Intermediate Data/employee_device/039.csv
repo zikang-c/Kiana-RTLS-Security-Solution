@@ -1,0 +1,191 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 09:57:40.977
+1,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:57:33.719
+2,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46065474,-0.93223934,2020-01-17 09:57:28.220
+3,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46081235441508,-0.932276580534712,2020-01-17 09:57:15.287
+4,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:57:08.450
+5,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46093407557712,-0.9321686791094392,2020-01-17 09:56:53.207
+6,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46081235441508,-0.932276580534712,2020-01-17 09:56:45.173
+7,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46093407557712,-0.9321686791094392,2020-01-17 09:56:38.065
+8,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 09:56:24.550
+9,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46091016528409,-0.9321777103605652,2020-01-17 09:56:17.843
+10,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.460814580749535,-0.9323371935522344,2020-01-17 09:56:04.367
+11,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 09:55:57.561
+12,60:1d:91:5e:ac:e4,13,Melanie Patrick,Product Designer,2.0,employee,0,51.46078621,-0.93222453,2020-01-17 09:55:49.943
+13,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:26:12.331
+14,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:26:07.470
+15,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:25:55.374
+16,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:25:46.374
+17,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:25:34.223
+18,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:25:24.994
+19,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:25:18.262
+20,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:25:08.089
+21,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:24:57.819
+22,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:24:47.866
+23,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:24:38.721
+24,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:24:29.367
+25,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46032117,-0.93237729,2020-02-10 09:24:19.675
+26,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:49:05.009
+27,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 16:44:44.410
+28,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:42:45.489
+29,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:42:01.774
+30,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:41:19.873
+31,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:40:58.514
+32,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:40:34.249
+33,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 16:40:24.522
+34,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:39:50.026
+35,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:39:39.601
+36,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:39:17.843
+37,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 16:39:01.196
+38,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 16:38:30.112
+39,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:38:29.008
+40,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 16:38:12.969
+41,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:38:06.355
+42,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-18 16:37:27.849
+43,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-18 16:37:07.994
+44,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 16:36:54.359
+45,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:36:21.168
+46,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 16:36:08.431
+47,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 16:35:58.506
+48,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 16:35:49.484
+49,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:35:35.244
+50,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-18 16:35:24.715
+51,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46087626056105,-0.9322343793991512,2019-10-18 16:34:58.441
+52,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-18 16:34:28.565
+53,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 16:34:10.213
+54,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-18 16:34:08.811
+55,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:33:20.578
+56,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:33:09.644
+57,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46069707299189,-0.9324039648498,2019-10-18 16:32:58.409
+58,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:32:16.702
+59,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:32:03.372
+60,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 16:31:31.575
+61,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 16:30:17.375
+62,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:12:52.368
+63,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:12:47.359
+64,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:12:37.329
+65,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:12:27.307
+66,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:12:17.282
+67,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:12:07.258
+68,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:11:57.142
+69,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:11:47.121
+70,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:11:37.093
+71,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:11:27.066
+72,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:11:17.043
+73,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:11:07.019
+74,80:58:f8:80:fb:ad,62,Mr. Michael Barber,Chief Marketing Officer,1.0,employee,0,51.46093752,-0.93238226,2020-01-22 16:10:56.998
+75,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:29:39.630
+76,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:29:29.292
+77,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.46083184,-0.93224795,2019-11-06 13:29:17.653
+78,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.46083184,-0.93224795,2019-11-06 13:29:07.427
+79,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:28:58.300
+80,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:28:48.264
+81,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:28:38.233
+82,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:28:27.796
+83,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:28:17.668
+84,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:28:07.636
+85,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:27:57.512
+86,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.460594653994704,-0.9322801655733992,2019-11-06 13:27:47.471
+87,24:46:c8:b8:0c:a4,13,Denise Ponce,Copywriter,2.0,employee,0,51.46057489,-0.93228285,2019-11-06 13:27:37.349
+88,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:33:00.417
+89,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:31:24.997
+90,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:31:17.887
+91,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:29:49.178
+92,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:29:26.033
+93,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:29:16.601
+94,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:28:18.573
+95,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:28:00.027
+96,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:27:08.211
+97,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:26:56.082
+98,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:26:34.529
+99,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:26:27.115
+100,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:26:19.597
+101,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:26:07.470
+102,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:25:49.826
+103,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:25:36.896
+104,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:25:11.844
+105,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:25:03.721
+106,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:24:47.883
+107,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:24:34.755
+108,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:24:29.649
+109,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:24:16.011
+110,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:24:03.884
+111,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:23:45.543
+112,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46076243161739,-0.932257377330426,2019-10-22 09:23:39.526
+113,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:23:05.348
+114,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:31.067
+115,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:20.038
+116,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:22:13.421
+117,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:22:00.898
+118,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:21:15.787
+119,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:20:58.555
+120,24:46:c8:9a:4c:1a,33,Brian King,Production Worker,0.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:20:48.631
+121,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:24:43.795
+122,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:23:32.903
+123,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:22:35.837
+124,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:22:22.803
+125,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:22:00.647
+126,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:21:54.238
+127,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:21:31.067
+128,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:20:57.486
+129,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 13:20:44.744
+130,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:20:27.391
+131,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:20:07.737
+132,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:19:58.212
+133,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:19:49.391
+134,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:19:32.148
+135,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:19:06.495
+136,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:18:56.360
+137,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:18:47.829
+138,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 13:18:37.802
+139,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:18:28.589
+140,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:18:01.001
+141,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 13:17:55.193
+142,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 13:17:49.971
+143,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:17:36.137
+144,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 13:17:23.398
+145,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:17:19.492
+146,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 13:17:06.757
+147,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 13:16:49.706
+148,80:58:f8:b4:2b:14,28,Adam Donaldson,Administrative Assistant,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 13:15:22.468
+149,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:51:28.719
+150,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:49:30.096
+151,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:49:10.342
+152,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:48:58.913
+153,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:48:48.180
+154,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:48:39.255
+155,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:48:25.820
+156,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:48:19.609
+157,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:48:02.081
+158,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:47:58.650
+159,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:47:38.087
+160,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:47:17.741
+161,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:47:03.301
+162,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:46:55.875
+163,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:46:45.543
+164,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:46:38.327
+165,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:46:23.583
+166,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:46:19.270
+167,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:46:02.931
+168,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:45:58.615
+169,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:45:49.697
+170,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:45:34.552
+171,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:45:24.522
+172,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:45:14.792
+173,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:45:06.580
+174,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:44:56.745
+175,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:44:07.700
+176,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.4608640703827,-0.9322468356533972,2019-10-15 11:43:57.668
+177,f4:f5:24:a3:57:40,29,Amanda Perry,Digital Marketing Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:42:54.499
+178,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46043261542022,-0.9331880869607094,2019-11-01 11:58:27.280
+179,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46043261542022,-0.9331880869607094,2019-11-01 11:58:17.245
+180,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46043261542022,-0.9331880869607094,2019-11-01 11:58:06.209
+181,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46043261542022,-0.9331880869607094,2019-11-01 11:57:56.091
+182,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46040332453691,-0.9330128343092792,2019-11-01 11:57:46.050
+183,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46040332453691,-0.9330128343092792,2019-11-01 11:57:36.019
+184,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46040332453691,-0.9330128343092792,2019-11-01 11:57:25.892
+185,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46040332453691,-0.9330128343092792,2019-11-01 11:57:15.864
+186,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46040332453691,-0.9330128343092792,2019-11-01 11:57:05.521
+187,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46043261542022,-0.9331880869607094,2019-11-01 11:56:55.402
+188,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46040332453691,-0.9330128343092792,2019-11-01 11:56:45.365
+189,88:b4:a6:5d:6a:ac,12,James Ruiz,Janitor,0.0,employee,0,51.46043261542022,-0.9331880869607094,2019-11-01 11:56:35.331

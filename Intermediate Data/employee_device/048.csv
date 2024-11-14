@@ -1,0 +1,146 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:16:54.495
+1,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-22 16:16:48.778
+2,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:16:39.554
+3,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:16:27.725
+4,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:16:12.690
+5,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-22 16:16:08.577
+6,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460918136385565,-0.9323724633164474,2019-10-22 16:15:56.444
+7,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460933163280046,-0.9323813393499673,2019-10-22 16:15:44.010
+8,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:15:38.796
+9,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:15:22.053
+10,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:15:16.837
+11,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.460914235253306,-0.9323716858199416,2019-10-22 16:15:00.492
+12,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.46065474,-0.93223934,2019-10-22 16:14:47.361
+13,80:58:f8:a2:d3:28,14,Louis Chan,Receptionist,1.0,employee,0,51.46093752,-0.93238226,2019-10-22 16:14:25.104
+14,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:10:06.502
+15,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:08:32.244
+16,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:08:23.718
+17,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:07:06.914
+18,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:06:23.790
+19,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:06:07.753
+20,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 15:05:16.310
+21,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:05:07.592
+22,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:04:45.428
+23,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 15:04:37.305
+24,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:04:09.536
+25,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:03:54.295
+26,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:03:45.268
+27,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:03:21.304
+28,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:02:58.344
+29,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:02:15.323
+30,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:54.268
+31,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:01:30.515
+32,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:01:18.581
+33,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 15:01:09.351
+34,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:00:56.422
+35,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:00:46.427
+36,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:00:32.862
+37,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 15:00:13.599
+38,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:59:36.908
+39,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 14:59:22.273
+40,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:59:08.432
+41,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:58:57.704
+42,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 14:58:30.631
+43,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:57:59.747
+44,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-18 14:57:49.020
+45,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:57:20.443
+46,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:56:49.154
+47,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:56:15.164
+48,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:56:03.039
+49,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:55:47.187
+50,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:55:19.920
+51,80:58:f8:82:2e:e0,38,Cory Peterson,Facilities Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:54:39.508
+52,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 11:20:11.843
+53,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:20:05.730
+54,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:19:50.499
+55,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 11:19:41.375
+56,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:19:35.258
+57,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:19:20.055
+58,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 11:19:00.876
+59,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:18:59.928
+60,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46094269,-0.9321665,2020-01-17 11:18:40.527
+61,80:58:f8:f0:58:e6,10,Micheal Roberts,Content Strategist,2.0,employee,0,51.46085533,-0.93236214,2020-01-17 11:18:39.415
+62,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.460718841907095,-0.932334949531302,2020-01-21 09:26:52.033
+63,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.460718841907095,-0.932334949531302,2020-01-21 09:26:47.016
+64,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:26:39.308
+65,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:26:29.180
+66,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:26:18.948
+67,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:26:08.832
+68,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:25:58.701
+69,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:25:48.575
+70,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.460718841907095,-0.932334949531302,2020-01-21 09:25:35.936
+71,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.46080124,-0.93237954,2020-01-21 09:25:28.216
+72,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.460718841907095,-0.932334949531302,2020-01-21 09:25:10.480
+73,60:1d:91:7a:1a:1b,12,Jessica Jones,Maintenance Technician,1.0,employee,0,51.460718841907095,-0.932334949531302,2020-01-21 09:25:05.458
+74,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:06:23.313
+75,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46082504208897,-0.9323018402396342,2020-01-17 15:06:03.054
+76,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46082504208897,-0.9323018402396342,2020-01-17 15:05:52.932
+77,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46082504208897,-0.9323018402396342,2020-01-17 15:05:32.688
+78,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46082504208897,-0.9323018402396342,2020-01-17 15:05:12.453
+79,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:04:59.109
+80,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:04:44.075
+81,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46085533,-0.93236214,2020-01-17 15:04:37.053
+82,60:1d:91:61:30:29,9,Christopher Burns,,,visitor,0,51.46078621,-0.93222453,2020-01-17 15:04:29.035
+83,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46059815,-0.93239386,2020-01-17 09:25:33.493
+84,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46065474,-0.93223934,2020-01-17 09:25:21.083
+85,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46059815,-0.93239386,2020-01-17 09:25:08.120
+86,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46065474,-0.93223934,2020-01-17 09:24:50.984
+87,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46059815,-0.93239386,2020-01-17 09:24:42.767
+88,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46059815,-0.93239386,2020-01-17 09:24:22.424
+89,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46065474,-0.93223934,2020-01-17 09:24:15.888
+90,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46059815,-0.93239386,2020-01-17 09:24:02.074
+91,60:1d:91:52:3d:f8,9,Christine Knight,,,visitor,0,51.46065474,-0.93223934,2020-01-17 09:23:45.814
+92,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:47:10.865
+93,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:46:52.423
+94,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:44:51.829
+95,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:44:40.004
+96,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:44:23.769
+97,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:43:36.766
+98,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:43:23.635
+99,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:42:34.511
+100,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:42:22.285
+101,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:42:12.467
+102,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:42:08.469
+103,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:41:42.999
+104,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:41:38.486
+105,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:41:22.851
+106,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:41:18.639
+107,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:40:53.681
+108,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:40:27.217
+109,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:40:17.598
+110,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:40:09.680
+111,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:39:59.956
+112,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:39:30.291
+113,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:39:23.374
+114,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:38:46.583
+115,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:38:34.955
+116,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:38:10.797
+117,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:38:08.194
+118,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:37:58.467
+119,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.460912486401256,-0.9321973628548916,2019-10-14 11:37:36.011
+120,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:37:17.472
+121,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:36:48.503
+122,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:35:37.448
+123,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46094269,-0.9321665,2019-10-14 11:35:15.499
+124,80:58:f8:d7:83:35,33,Jerry Martinez MD,Customer Service Representative,0.0,employee,0,51.46071774,-0.93239636,2019-10-14 11:33:20.532
+125,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.46066113357741,-0.9324151967978236,2020-01-17 12:17:19.703
+126,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.46047299736238,-0.9323678513322428,2020-01-17 12:17:04.765
+127,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.460621295939326,-0.9323266566790096,2020-01-17 12:16:58.079
+128,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.460544570593306,-0.932388400700102,2020-01-17 12:16:44.557
+129,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.46046883934998,-0.9323958335165607,2020-01-17 12:16:34.528
+130,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.460652963231176,-0.932418264004038,2020-01-17 12:16:27.919
+131,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.46051633989633,-0.9323314349631932,2020-01-17 12:16:14.432
+132,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.460652963231176,-0.932418264004038,2020-01-17 12:16:07.895
+133,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.46051633989633,-0.9323314349631932,2020-01-17 12:15:54.223
+134,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.460650062961214,-0.9324217972983098,2020-01-17 12:15:47.807
+135,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.4605519925311,-0.9323611196488188,2020-01-17 12:15:34.075
+136,0c:41:c5:ea:7c:50,12,David Ward,Environmental Consultant,0.0,employee,0,51.46049621356151,-0.9323920176605004,2020-01-17 12:15:18.935
+137,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.460913164194224,-0.9321769867761664,2020-01-17 15:04:36.745
+138,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.46093799671884,-0.9321676872151408,2020-01-17 15:04:16.515
+139,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.46077473337856,-0.9322348635973055,2020-01-17 15:04:09.919
+140,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.460913164194224,-0.9321769867761664,2020-01-17 15:03:56.258
+141,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.46077609763424,-0.9322256691506579,2020-01-17 15:03:34.797
+142,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.46093829419936,-0.932169400764016,2020-01-17 15:03:21.121
+143,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.46077609763424,-0.9322256691506579,2020-01-17 15:03:14.783
+144,60:1d:91:e7:36:34,8,Theresa Estes,,,visitor,0,51.460913164194224,-0.9321769867761664,2020-01-17 15:02:55.601

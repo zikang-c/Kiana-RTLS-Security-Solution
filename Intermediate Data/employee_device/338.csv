@@ -1,0 +1,80 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:44:55.743
+1,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:44:45.702
+2,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:44:35.668
+3,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:44:25.638
+4,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:44:15.108
+5,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:44:05.071
+6,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:43:55.042
+7,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:43:45.006
+8,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:43:39.987
+9,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:43:29.962
+10,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:43:19.426
+11,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:43:09.387
+12,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-11-05 09:42:59.359
+13,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:07:37.628
+14,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:07:14.664
+15,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:06:54.413
+16,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:06:27.840
+17,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:40.208
+18,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:12.839
+19,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:05:03.715
+20,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:50.883
+21,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:04:43.359
+22,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:04:16.781
+23,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46092676452896,-0.9323768240712864,2019-10-14 14:04:09.566
+24,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:03:54.824
+25,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:03:38.275
+26,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:03:26.453
+27,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46092676452896,-0.9323768240712864,2019-10-14 14:03:00.068
+28,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:02:57.059
+29,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46092676452896,-0.9323768240712864,2019-10-14 14:02:45.729
+30,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:33.097
+31,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:20.466
+32,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:02:18.855
+33,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:02:05.528
+34,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46065474,-0.93223934,2019-10-14 14:01:45.873
+35,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:01:39.350
+36,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:01:23.813
+37,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:01:14.684
+38,80:58:f8:ce:db:8d,39,Lisa Meadows,DevOps Engineer,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:00:59.242
+39,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.460902077858734,-0.932180391585524,2020-01-17 16:14:27.226
+40,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.46065474,-0.93223934,2020-01-17 16:14:13.083
+41,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.46094269,-0.9321665,2020-01-17 16:14:06.978
+42,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.46089957277542,-0.9321901309604496,2020-01-17 16:13:51.738
+43,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.46089957277542,-0.9321901309604496,2020-01-17 16:13:31.491
+44,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.46089957277542,-0.9321901309604496,2020-01-17 16:13:11.483
+45,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.4609367017669,-0.9321799104615884,2020-01-17 16:12:50.895
+46,60:1d:91:ce:4c:cd,8,Michael Rojas,,,visitor,0,51.46076657127672,-0.9322267422879116,2020-01-17 16:12:37.272
+47,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:34:37.897
+48,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:33:16.009
+49,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:30:19.494
+50,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-14 14:30:07.765
+51,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:29:43.404
+52,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-14 14:29:00.107
+53,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:28:51.987
+54,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-14 14:28:40.661
+55,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-14 14:28:32.647
+56,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:28:00.769
+57,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:27:35.207
+58,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.460926034231576,-0.9321775915864888,2019-10-14 14:27:20.772
+59,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46086055503835,-0.9322463634344166,2019-10-14 14:27:17.671
+60,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-14 14:27:01.727
+61,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46087030024826,-0.9322404698081068,2019-10-14 14:26:57.918
+62,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:26:33.260
+63,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:26:24.139
+64,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46086055503835,-0.9322463634344166,2019-10-14 14:26:13.627
+65,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:26:05.395
+66,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46086055503835,-0.9322463634344166,2019-10-14 14:25:59.691
+67,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:25:49.359
+68,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:25:34.023
+69,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-14 14:25:24.996
+70,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-14 14:25:18.083
+71,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-14 14:24:49.213
+72,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.4606993222075,-0.9324031372047498,2019-10-14 14:24:33.875
+73,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:24:19.440
+74,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:23:51.271
+75,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:23:40.945
+76,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:23:29.018
+77,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 14:23:07.369
+78,80:58:f8:79:cc:b5,32,Mr. George Williams,Healthcare Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 14:22:47.317

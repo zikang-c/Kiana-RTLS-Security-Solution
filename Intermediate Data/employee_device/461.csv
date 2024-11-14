@@ -1,0 +1,230 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:09:15.686
+1,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:09:05.655
+2,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:08:55.629
+3,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:08:45.598
+4,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:08:35.474
+5,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:08:25.445
+6,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:08:15.419
+7,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:08:05.392
+8,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:07:55.366
+9,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:07:45.329
+10,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:07:35.205
+11,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:07:25.175
+12,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46085533,-0.93236214,2019-08-30 14:07:15.145
+13,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:20:15.933
+14,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:18:45.083
+15,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:15:59.139
+16,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:12:37.398
+17,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:12:12.933
+18,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:11:38.340
+19,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:10:30.957
+20,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:08:44.950
+21,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:06:35.776
+22,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:06:19.834
+23,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:06:09.599
+24,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:05:54.159
+25,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:05:45.735
+26,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:05:31.497
+27,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:05:21.366
+28,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.460922169824094,-0.932374501858895,2019-10-18 10:05:17.858
+29,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:05:01.713
+30,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093486037646,-0.9323816979756941,2019-10-18 10:04:59.405
+31,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093486037646,-0.9323816979756941,2019-10-18 10:04:47.474
+32,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:04:32.730
+33,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:04:19.294
+34,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:03:57.429
+35,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:03:49.410
+36,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:03:04.685
+37,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:02:55.958
+38,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:02:33.494
+39,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:02:05.218
+40,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:01:56.598
+41,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:01:32.224
+42,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46063655006931,-0.9322426662277268,2019-10-18 10:01:02.244
+43,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:00:25.728
+44,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:33:58.078
+45,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:33:47.951
+46,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:33:37.823
+47,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:33:27.699
+48,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:33:17.569
+49,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:33:07.431
+50,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:32:57.211
+51,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:32:47.180
+52,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:32:36.958
+53,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:32:26.835
+54,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:32:16.711
+55,80:58:f8:3e:5e:91,56,Jason Carroll,Warehouse Manager,0.0,employee,0,51.46094269,-0.9321665,2020-01-07 10:32:06.617
+56,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:48:39.095
+57,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:47:46.150
+58,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:47:02.426
+59,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:45:58.347
+60,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:45:21.545
+61,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:44:57.279
+62,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:44:16.267
+63,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:44:01.826
+64,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:43:59.323
+65,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:43:40.468
+66,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.460861134312395,-0.9323436538663477,2019-10-18 15:42:44.216
+67,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:42:18.052
+68,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:41:37.442
+69,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:41:12.883
+70,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:40:40.100
+71,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:39:25.400
+72,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:39:13.666
+73,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:38:57.023
+74,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:38:36.667
+75,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:38:20.621
+76,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:37:58.966
+77,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:37:46.237
+78,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:37:39.819
+79,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:37:28.488
+80,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:37:16.454
+81,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.460861134312395,-0.9323436538663477,2019-10-18 15:37:01.114
+82,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:36:47.175
+83,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:36:33.138
+84,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:35:56.836
+85,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:35:21.043
+86,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:35:19.545
+87,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:34:47.253
+88,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.460861134312395,-0.9323436538663477,2019-10-18 15:34:32.011
+89,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:34:26.892
+90,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:34:13.857
+91,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:34:08.243
+92,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:33:54.808
+93,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:33:47.888
+94,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:33:38.157
+95,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46093752,-0.93238226,2019-10-18 15:32:49.828
+96,80:58:f8:2d:93:c6,41,Ann Huber,Legal Assistant,2.0,employee,0,51.46065474,-0.93223934,2019-10-18 15:32:34.289
+97,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:28:52.080
+98,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:28:13.385
+99,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:27:45.594
+100,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:27:24.337
+101,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:27:02.789
+102,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:26:41.823
+103,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:26:28.380
+104,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:26:10.731
+105,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:26:02.123
+106,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460519719622575,-0.9328196052869167,2019-10-15 13:25:58.093
+107,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:25:29.422
+108,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460502778481306,-0.9325747947348116,2019-10-15 13:25:16.384
+109,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:25:09.563
+110,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460519719622575,-0.9328196052869167,2019-10-15 13:24:51.812
+111,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:24:43.993
+112,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460519719622575,-0.9328196052869167,2019-10-15 13:24:31.165
+113,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:24:25.945
+114,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:24:15.722
+115,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:24:02.308
+116,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052054942013,-0.9328222380001682,2019-10-15 13:23:53.353
+117,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052054942013,-0.9328222380001682,2019-10-15 13:23:30.991
+118,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:23:24.274
+119,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460502778481306,-0.9325747947348116,2019-10-15 13:23:12.341
+120,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460519719622575,-0.9328196052869167,2019-10-15 13:23:02.741
+121,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460502778481306,-0.9325747947348116,2019-10-15 13:22:54.500
+122,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:22:10.286
+123,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052054942013,-0.9328222380001682,2019-10-15 13:22:00.547
+124,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052217192209,-0.9328662014416258,2019-10-15 13:21:42.297
+125,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.460519719622575,-0.9328196052869167,2019-10-15 13:21:34.391
+126,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46050732,-0.932584,2019-10-15 13:21:29.057
+127,f4:f5:24:f5:72:24,31,Jennifer Hampton,Chief Financial Officer,3.0,employee,0,51.46052318,-0.93286961,2019-10-15 13:21:17.226
+128,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:43:19.187
+129,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:41:04.052
+130,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:40:57.236
+131,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:40:39.599
+132,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:40:18.753
+133,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:40:00.412
+134,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:39:12.806
+135,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:38:54.366
+136,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:37:51.739
+137,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:36:49.307
+138,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:35:38.161
+139,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:34:45.442
+140,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46076854358732,-0.93225654717767,2019-10-22 09:34:29.106
+141,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:33:44.715
+142,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:33:39.502
+143,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:33:23.770
+144,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46076854358732,-0.93225654717767,2019-10-22 09:33:07.635
+145,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:32:38.766
+146,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46076854358732,-0.93225654717767,2019-10-22 09:32:22.838
+147,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:32:17.517
+148,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:32:05.597
+149,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:31:58.176
+150,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:31:48.049
+151,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:31:31.016
+152,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:31:18.885
+153,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46076854358732,-0.93225654717767,2019-10-22 09:31:05.158
+154,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46076854358732,-0.93225654717767,2019-10-22 09:30:54.225
+155,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:30:49.517
+156,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:30:39.695
+157,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:30:26.964
+158,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:30:12.631
+159,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46057489,-0.93228285,2019-10-22 09:30:00.203
+160,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:29:40.358
+161,24:46:c8:f0:41:d4,34,Allison Franklin,Product Designer,3.0,employee,0,51.46083184,-0.93224795,2019-10-22 09:29:02.468
+162,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:05:03.553
+163,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46057838880823,-0.9323731257752288,2019-10-21 14:04:53.013
+164,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:04:46.492
+165,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:04:38.369
+166,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:04:28.639
+167,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:04:16.404
+168,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46057838880823,-0.9323731257752288,2019-10-21 14:04:00.248
+169,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:03:59.745
+170,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:03:46.004
+171,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:03:37.274
+172,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:03:25.037
+173,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:03:19.922
+174,80:58:f8:a7:6a:1c,13,David Taylor,E-commerce Manager,0.0,employee,0,51.46076772258752,-0.9322377488222258,2019-10-21 14:03:09.088
+175,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46062259707075,-0.9323774220277578,2020-01-14 16:22:37.627
+176,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46062259707075,-0.9323774220277578,2020-01-14 16:22:27.602
+177,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46062259707075,-0.9323774220277578,2020-01-14 16:22:17.575
+178,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46062259707075,-0.9323774220277578,2020-01-14 16:22:07.457
+179,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46062259707075,-0.9323774220277578,2020-01-14 16:21:57.426
+180,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46062259707075,-0.9323774220277578,2020-01-14 16:21:47.402
+181,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46063957,-0.9324208,2020-01-14 16:21:37.374
+182,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46063957,-0.9324208,2020-01-14 16:21:27.349
+183,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46055602,-0.93220727,2020-01-14 16:20:40.741
+184,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46051021,-0.93242014,2019-12-03 12:55:43.048
+185,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46051021,-0.93242014,2019-12-03 12:55:38.032
+186,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46051021,-0.93242014,2019-12-03 12:55:27.905
+187,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46051021,-0.93242014,2019-12-03 12:55:17.884
+188,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46051021,-0.93242014,2019-12-03 12:55:07.452
+189,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46087821158612,-0.932276277472504,2019-10-15 15:09:30.790
+190,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:09:19.067
+191,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:08:54.897
+192,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:08:21.005
+193,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:08:07.771
+194,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:07:28.775
+195,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46087821158612,-0.932276277472504,2019-10-15 15:07:19.451
+196,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:07:02.892
+197,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:06:28.225
+198,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46087821158612,-0.932276277472504,2019-10-15 15:06:07.671
+199,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46081125762733,-0.9322624999949258,2019-10-15 15:05:56.541
+200,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:05:36.789
+201,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:05:15.639
+202,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:05:05.212
+203,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:04:48.763
+204,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46081125762733,-0.9322624999949258,2019-10-15 15:04:21.285
+205,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46087821158612,-0.932276277472504,2019-10-15 15:04:17.781
+206,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:03:56.821
+207,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:03:48.117
+208,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46087821158612,-0.932276277472504,2019-10-15 15:03:31.557
+209,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.460849786696485,-0.9322708371680763,2019-10-15 15:03:27.048
+210,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46065328326497,-0.9322292611614402,2019-10-15 15:03:16.924
+211,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46065328326497,-0.9322292611614402,2019-10-15 15:03:06.705
+212,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46081125762733,-0.9322624999949258,2019-10-15 15:02:54.863
+213,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46087821158612,-0.932276277472504,2019-10-15 15:02:28.600
+214,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.460849786696485,-0.9322708371680763,2019-10-15 15:02:16.262
+215,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46065328326497,-0.9322292611614402,2019-10-15 15:01:59.218
+216,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46068928,-0.9322374,2019-10-15 15:01:49.794
+217,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:01:38.964
+218,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.460849786696485,-0.9322708371680763,2019-10-15 15:01:04.475
+219,f4:f5:24:be:72:c9,45,Linda Maynard,Chief Technology Officer,3.0,employee,0,51.46096035,-0.93229387,2019-10-15 15:00:36.324
+220,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:21:54.530
+221,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46085533,-0.93236214,2020-01-17 10:21:47.908
+222,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:21:39.389
+223,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:21:24.524
+224,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46085533,-0.93236214,2020-01-17 10:21:12.407
+225,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:20:58.782
+226,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:20:43.539
+227,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:20:28.411
+228,60:1d:91:a9:ef:55,9,Colleen Perry,,,visitor,0,51.46094269,-0.9321665,2020-01-17 10:20:08.170

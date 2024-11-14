@@ -1,0 +1,283 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:15:31.038
+1,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:15:29.931
+2,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:15:14.795
+3,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:15:09.078
+4,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:14:55.348
+5,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:14:49.234
+6,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:14:37.511
+7,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:14:27.591
+8,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46057489,-0.93228285,2019-10-22 12:14:19.361
+9,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:13:59.519
+10,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:13:48.798
+11,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:13:38.424
+12,24:46:c8:5e:89:d6,13,Dr. James Willis,Warehouse Manager,1.0,employee,0,51.46078461946973,-0.9322543636855656,2019-10-22 12:13:27.251
+13,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:34:04.371
+14,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:33:20.431
+15,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:33:08.397
+16,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46042964839811,-0.9330834497260598,2019-10-15 12:32:32.099
+17,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:31:41.763
+18,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:29:56.580
+19,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:29:39.721
+20,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46042964839811,-0.9330834497260598,2019-10-15 12:29:25.379
+21,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:29:15.350
+22,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:29:06.119
+23,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047537861565,-0.933117085313086,2019-10-15 12:28:53.083
+24,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:28:33.040
+25,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:28:28.627
+26,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46043122473394,-0.9330670505358564,2019-10-15 12:28:12.021
+27,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047537861565,-0.933117085313086,2019-10-15 12:28:08.078
+28,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:27:59.645
+29,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:27:42.701
+30,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047537861565,-0.933117085313086,2019-10-15 12:27:38.491
+31,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.460414124273925,-0.9330226382149855,2019-10-15 12:27:27.162
+32,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.460414124273925,-0.9330226382149855,2019-10-15 12:27:14.327
+33,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46043122473394,-0.9330670505358564,2019-10-15 12:27:06.012
+34,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:26:58.088
+35,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:26:40.244
+36,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46043122473394,-0.9330670505358564,2019-10-15 12:26:37.035
+37,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:26:09.246
+38,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46042964839811,-0.9330834497260598,2019-10-15 12:25:58.517
+39,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:25:41.168
+40,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46042964839811,-0.9330834497260598,2019-10-15 12:25:35.853
+41,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46042964839811,-0.9330834497260598,2019-10-15 12:25:12.896
+42,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:25:00.066
+43,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.460414124273925,-0.9330226382149855,2019-10-15 12:24:53.247
+44,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:24:24.675
+45,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46042964839811,-0.9330834497260598,2019-10-15 12:24:19.574
+46,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46047329,-0.9331763,2019-10-15 12:23:40.952
+47,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46050376,-0.93231244,2019-10-15 12:23:35.048
+48,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:22:26.751
+49,f4:f5:24:a7:22:9d,37,Gloria Gutierrez,Environmental Consultant,2.0,employee,0,51.46041136,-0.93304454,2019-10-15 12:19:44.021
+50,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:15:41.526
+51,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:15:37.842
+52,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:15:26.062
+53,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46045652,-0.93302278,2020-06-18 11:15:19.435
+54,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:15:09.177
+55,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:14:53.775
+56,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:14:47.875
+57,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:14:33.293
+58,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:14:27.396
+59,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:14:14.226
+60,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:14:09.146
+61,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:13:55.264
+62,58:d9:c3:72:b8:20,13,Ryan Martin,UX/UI Designer,1.0,employee,0,51.46038040603394,-0.9327764862468988,2020-06-18 11:13:44.882
+63,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.4604809746735,-0.9326386196048884,2019-10-25 15:57:20.706
+64,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46047673760958,-0.9326610386038228,2019-10-25 15:57:15.697
+65,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46048367870311,-0.932782754352739,2019-10-25 15:57:05.661
+66,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.460399956886334,-0.93274699762818,2019-10-25 15:56:58.339
+67,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.460448642059255,-0.93269201476089,2019-10-25 15:56:44.499
+68,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46047673760958,-0.9326610386038228,2019-10-25 15:56:35.067
+69,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46047673760958,-0.9326610386038228,2019-10-25 15:56:25.041
+70,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46047673760958,-0.9326610386038228,2019-10-25 15:56:15.006
+71,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46039467729046,-0.9327788281155128,2019-10-25 15:56:07.686
+72,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46039467729046,-0.9327788281155128,2019-10-25 15:55:57.560
+73,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.4603950177331,-0.9327753825529475,2019-10-25 15:55:47.542
+74,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.46039467729046,-0.9327788281155128,2019-10-25 15:55:37.102
+75,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.460388329139136,-0.9327008014714484,2019-10-25 15:55:27.068
+76,d0:77:14:47:0d:7d,14,Dawn Cannon,Product Manager,2.0,employee,0,51.460479211160255,-0.9326487560221304,2019-10-25 15:55:19.249
+77,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:14:25.896
+78,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:14:15.774
+79,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:14:05.747
+80,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:13:55.317
+81,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:13:45.289
+82,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:13:35.259
+83,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:13:25.229
+84,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:13:15.199
+85,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:13:05.073
+86,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:12:54.674
+87,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:12:49.627
+88,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:12:39.602
+89,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46071774,-0.93239636,2019-08-15 13:12:29.569
+90,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:08:37.279
+91,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:08:27.250
+92,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:08:17.222
+93,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:08:07.007
+94,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:07:56.977
+95,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:07:46.657
+96,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:07:36.619
+97,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:07:26.593
+98,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:07:16.565
+99,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:07:06.343
+100,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:06:56.320
+101,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46090345347398,-0.9323650424177832,2019-09-12 12:06:45.986
+102,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:40:43.448
+103,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:40:38.131
+104,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:39:11.803
+105,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093544310874,-0.9323818211170732,2019-10-18 14:37:07.256
+106,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:36:59.236
+107,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-18 14:36:31.256
+108,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:36:03.187
+109,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:35:51.347
+110,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:35:06.727
+111,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:34:55.798
+112,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:34:40.260
+113,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.4609219543507,-0.9323749744051814,2019-10-18 14:34:28.829
+114,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:34:12.079
+115,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:33:46.507
+116,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:33:18.738
+117,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093544310874,-0.9323818211170732,2019-10-18 14:33:09.307
+118,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:32:55.471
+119,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:32:48.046
+120,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:32:25.888
+121,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-18 14:31:57.811
+122,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-18 14:31:49.089
+123,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-18 14:31:38.358
+124,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093544310874,-0.9323818211170732,2019-10-18 14:31:20.609
+125,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-18 14:31:12.190
+126,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:31:07.575
+127,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:30:52.436
+128,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:30:46.123
+129,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093544310874,-0.9323818211170732,2019-10-18 14:30:21.765
+130,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.4609219543507,-0.9323749744051814,2019-10-18 14:30:06.019
+131,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:29:58.301
+132,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093544310874,-0.9323818211170732,2019-10-18 14:29:36.443
+133,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:51.020
+134,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:28:48.116
+135,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093544310874,-0.9323818211170732,2019-10-18 14:28:39.495
+136,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-18 14:28:18.737
+137,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:27:52.458
+138,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:26:50.228
+139,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46065474,-0.93223934,2019-10-18 14:26:42.569
+140,80:58:f8:ac:5e:10,64,Wesley Spencer,Food Service Worker,3.0,employee,0,51.46093752,-0.93238226,2019-10-18 14:26:26.629
+141,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:23:40.851
+142,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:21:35.918
+143,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:21:18.573
+144,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:20:52.291
+145,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:20:37.250
+146,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:20:22.716
+147,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:19:29.989
+148,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:19:01.617
+149,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-15 12:18:54.913
+150,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:18:24.217
+151,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.460867860690485,-0.9323470534489212,2019-10-15 12:18:06.380
+152,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-15 12:17:58.555
+153,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:17:48.632
+154,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-15 12:17:28.176
+155,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46063851191048,-0.9322423074836176,2019-10-15 12:17:18.950
+156,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:17:08.519
+157,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.460867860690485,-0.9323470534489212,2019-10-15 12:16:51.286
+158,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46085933045912,-0.932345662919907,2019-10-15 12:16:30.718
+159,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46092442863291,-0.93237949356845,2019-10-15 12:16:24.001
+160,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.460867860690485,-0.9323470534489212,2019-10-15 12:16:15.073
+161,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46092442863291,-0.93237949356845,2019-10-15 12:16:09.858
+162,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.460867860690485,-0.9323470534489212,2019-10-15 12:15:57.423
+163,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:15:43.385
+164,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46092442863291,-0.93237949356845,2019-10-15 12:15:39.975
+165,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:15:26.939
+166,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:15:11.602
+167,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.460867860690485,-0.9323470534489212,2019-10-15 12:15:02.988
+168,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:14:44.534
+169,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:14:25.279
+170,80:58:f8:ea:65:bc,30,Patrick Schwartz,IT Support Specialist,3.0,employee,0,51.46093752,-0.93238226,2019-10-15 12:11:32.211
+171,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:41:07.318
+172,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:40:57.293
+173,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:40:47.172
+174,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:40:37.149
+175,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:40:27.122
+176,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:40:16.994
+177,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:40:06.964
+178,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:39:56.937
+179,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:39:46.913
+180,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:39:36.782
+181,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:39:26.749
+182,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46086315958682,-0.9322586475935632,2019-08-20 15:39:16.731
+183,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46092998271656,-0.9321707837270812,2019-08-20 15:39:07.710
+184,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:28:05.032
+185,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:27:08.668
+186,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:25:22.579
+187,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46077990849698,-0.9322265302832736,2019-10-18 12:22:50.666
+188,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:22:48.162
+189,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:21:34.765
+190,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:21:01.671
+191,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:19:59.599
+192,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:19:19.495
+193,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:18:27.946
+194,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46076999614862,-0.9322391290186878,2019-10-18 12:17:43.827
+195,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46058185355017,-0.9323767611196384,2019-10-18 12:17:32.394
+196,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:17:29.586
+197,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:17:12.140
+198,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46058185355017,-0.9323767611196384,2019-10-18 12:16:58.499
+199,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:16:41.653
+200,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:16:30.426
+201,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:16:13.881
+202,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46077990849698,-0.9322265302832736,2019-10-18 12:16:03.247
+203,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:15:32.269
+204,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:15:10.307
+205,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:15:01.683
+206,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:14:38.919
+207,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:14:17.756
+208,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46077990849698,-0.9322265302832736,2019-10-18 12:13:35.531
+209,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:12:45.507
+210,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:12:20.544
+211,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:11:13.060
+212,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:10:26.635
+213,80:58:f8:2e:85:dc,43,Frederick Hoffman,Sales Executive,2.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:10:12.195
+214,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:46:45.798
+215,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:46:35.765
+216,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:46:25.650
+217,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:46:15.002
+218,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:46:09.883
+219,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:45:59.450
+220,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:45:49.415
+221,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:45:39.388
+222,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:45:29.260
+223,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:45:19.227
+224,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:45:09.193
+225,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:44:58.761
+226,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46045488409905,-0.933171779870504,2019-11-05 09:44:48.718
+227,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46039156661983,-0.9328323035595016,2019-11-01 14:14:12.408
+228,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:14:05.691
+229,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:13:55.662
+230,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:13:45.627
+231,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46039156661983,-0.9328323035595016,2019-11-01 14:13:37.102
+232,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:13:25.165
+233,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:13:15.038
+234,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:13:05.006
+235,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:12:59.995
+236,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46039156661983,-0.9328323035595016,2019-11-01 14:12:45.753
+237,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46039156661983,-0.9328323035595016,2019-11-01 14:12:35.724
+238,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46039156661983,-0.9328323035595016,2019-11-01 14:12:25.292
+239,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46039156661983,-0.9328323035595016,2019-11-01 14:12:15.160
+240,88:b4:a6:95:34:ad,27,Noah Estrada,Security Guard,3.0,employee,0,51.46047956,-0.93315371,2019-11-01 14:12:09.349
+241,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:42:18.202
+242,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:42:05.069
+243,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:41:28.474
+244,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46091256493668,-0.9321865612026352,2019-10-18 14:40:43.045
+245,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:40:20.283
+246,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:40:19.480
+247,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:39:40.581
+248,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:39:35.768
+249,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.4608576033945,-0.9322534437970268,2019-10-18 14:38:54.749
+250,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:38:04.810
+251,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.4608576033945,-0.9322534437970268,2019-10-18 14:37:13.571
+252,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:37:07.059
+253,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46084173522388,-0.9322628347475708,2019-10-18 14:36:51.911
+254,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:36:49.504
+255,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.4608576033945,-0.9322534437970268,2019-10-18 14:36:24.735
+256,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:36:19.529
+257,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:36:04.287
+258,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46091256493668,-0.9321865612026352,2019-10-18 14:35:51.545
+259,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.4606918055917,-0.9324059030977964,2019-10-18 14:35:47.839
+260,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46084173522388,-0.9322628347475708,2019-10-18 14:35:36.003
+261,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:35:29.585
+262,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:34:59.102
+263,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:34:34.741
+264,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46091256493668,-0.9321865612026352,2019-10-18 14:34:24.319
+265,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:34:03.862
+266,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46084173522388,-0.9322628347475708,2019-10-18 14:33:38.584
+267,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:33:25.350
+268,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.4608576033945,-0.9322534437970268,2019-10-18 14:32:50.353
+269,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 14:32:44.838
+270,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46091256493668,-0.9321865612026352,2019-10-18 14:32:31.004
+271,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:32:17.469
+272,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:31:30.036
+273,80:58:f8:fb:3b:5b,33,Kimberly Gardner,Chief Marketing Officer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:30:45.319
+274,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46085533,-0.93236214,2020-01-17 11:10:10.985
+275,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46085533,-0.93236214,2020-01-17 11:09:55.834
+276,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46093515813754,-0.9321833673715,2020-01-17 11:09:47.845
+277,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46085533,-0.93236214,2020-01-17 11:09:25.382
+278,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46094269,-0.9321665,2020-01-17 11:09:12.334
+279,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46094269,-0.9321665,2020-01-17 11:08:52.074
+280,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46085533,-0.93236214,2020-01-17 11:08:44.750
+281,60:1d:91:e2:bf:5b,8,Brian Smith,,,visitor,0,51.46094269,-0.9321665,2020-01-17 11:08:36.938

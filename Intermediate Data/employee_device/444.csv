@@ -1,0 +1,141 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:35:58.256
+1,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:35:18.949
+2,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:34:21.892
+3,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:33:35.672
+4,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:30:52.720
+5,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:30:29.855
+6,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:30:14.212
+7,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:29:54.961
+8,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:29:42.829
+9,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:29:32.397
+10,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:29:15.547
+11,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:29:04.645
+12,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:28:59.802
+13,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:28:48.677
+14,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:28:34.843
+15,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:28:12.281
+16,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:28:05.560
+17,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:27:49.923
+18,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:27:33.882
+19,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:27:29.969
+20,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:27:16.230
+21,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:26:53.680
+22,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:26:49.966
+23,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:26:36.832
+24,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:26:26.713
+25,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:26:16.969
+26,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:26:06.142
+27,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46094269,-0.9321665,2019-10-15 12:25:55.020
+28,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:25:28.537
+29,80:58:f8:0f:c1:18,30,Maria Mullins,Content Strategist,0.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 12:24:41.621
+30,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:00:45.147
+31,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:00:30.412
+32,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:00:22.494
+33,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:00:19.985
+34,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:59:49.795
+35,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:59:14.529
+36,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:59:04.672
+37,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 08:58:57.159
+38,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:58:46.622
+39,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:58:35.793
+40,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:58:24.857
+41,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:58:16.632
+42,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 08:58:05.199
+43,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 08:57:59.489
+44,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 08:57:44.642
+45,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 08:57:36.620
+46,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 08:57:25.190
+47,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46089230061145,-0.9322179892414024,2019-10-15 08:57:15.559
+48,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 08:57:01.623
+49,80:58:f8:96:0f:42,20,Gary Collins,Graphic Designer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 08:56:57.219
+50,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:34:07.402
+51,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:32:41.713
+52,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:31:58.510
+53,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:29:48.116
+54,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:29:03.328
+55,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:27:19.173
+56,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:26:51.006
+57,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:25:18.684
+58,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:25:05.569
+59,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:24:48.715
+60,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:23:34.850
+61,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:23:25.980
+62,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:23:15.905
+63,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:23:00.064
+64,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:22:36.017
+65,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:22:27.392
+66,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:22:15.969
+67,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:22:09.464
+68,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:21:59.835
+69,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 09:21:37.585
+70,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:21:29.669
+71,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:21:19.549
+72,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:55.891
+73,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:47.174
+74,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:20:33.842
+75,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:28.825
+76,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:20:13.592
+77,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:19:48.837
+78,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:19:29.987
+79,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:18:55.811
+80,80:58:f8:1c:ee:45,31,Chloe Foley,Supply Chain Analyst,2.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:18:43.080
+81,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:59:13.468
+82,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:57:13.936
+83,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:56:13.461
+84,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:54:19.939
+85,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:53:06.637
+86,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:52:54.603
+87,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:52:45.876
+88,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:52:20.508
+89,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.460923914518254,-0.9321790031685274,2019-10-18 12:52:16.190
+90,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.460923914518254,-0.9321790031685274,2019-10-18 12:51:56.443
+91,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.4606993222075,-0.93240313720475,2019-10-18 12:51:17.228
+92,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:51:05.896
+93,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:50:54.666
+94,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:50:49.454
+95,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:50:38.924
+96,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.4606993222075,-0.93240313720475,2019-10-18 12:50:22.776
+97,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:50:14.857
+98,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46085366374322,-0.9322530641436632,2019-10-18 12:49:55.503
+99,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:49:33.741
+100,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.460923914518254,-0.9321790031685274,2019-10-18 12:49:15.890
+101,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:48:50.618
+102,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.460923914518254,-0.9321790031685274,2019-10-18 12:48:47.509
+103,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.4606993222075,-0.93240313720475,2019-10-18 12:48:30.665
+104,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46085366374322,-0.9322530641436632,2019-10-18 12:48:27.057
+105,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:48:18.331
+106,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:47:57.777
+107,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:47:43.035
+108,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.4606993222075,-0.93240313720475,2019-10-18 12:47:07.537
+109,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-18 12:46:50.994
+110,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.460923914518254,-0.9321790031685274,2019-10-18 12:46:20.403
+111,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.4606993222075,-0.93240313720475,2019-10-18 12:46:16.295
+112,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:46:08.770
+113,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:45:42.497
+114,80:58:f8:55:d9:78,34,Angela Charles,Warehouse Worker,3.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:41:28.480
+115,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4606402780332,-0.9322419845287676,2019-10-17 08:24:29.605
+116,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 08:23:53.925
+117,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46063681487506,-0.9322475441706556,2019-10-17 08:23:47.313
+118,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46069121425977,-0.9322686675579615,2019-10-17 08:23:36.580
+119,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4606889571462,-0.932268303814375,2019-10-17 08:23:15.021
+120,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 08:23:00.586
+121,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.460815888411275,-0.9323565571484778,2019-10-17 08:22:45.853
+122,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 08:22:39.038
+123,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46079582909281,-0.9323706429131272,2019-10-17 08:22:29.315
+124,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46079582909281,-0.9323706429131272,2019-10-17 08:22:11.573
+125,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46065082163345,-0.9322453403055508,2019-10-17 08:22:08.067
+126,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4606889571462,-0.932268303814375,2019-10-17 08:21:56.739
+127,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.460639762329066,-0.9322449387140856,2019-10-17 08:21:46.120
+128,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4606889571462,-0.932268303814375,2019-10-17 08:21:39.200
+129,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4607035652111,-0.9322677309126676,2019-10-17 08:21:20.251
+130,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46069121425977,-0.9322686675579615,2019-10-17 08:21:15.739
+131,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46065082163345,-0.9322453403055508,2019-10-17 08:21:03.915
+132,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4606889571462,-0.932268303814375,2019-10-17 08:20:56.191
+133,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46065141601253,-0.9322422020481188,2019-10-17 08:20:46.467
+134,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 08:20:35.035
+135,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.4606402780332,-0.9322419845287676,2019-10-17 08:20:20.896
+136,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.460702901078506,-0.9322702120960272,2019-10-17 08:20:12.577
+137,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46093752,-0.93238226,2019-10-17 08:19:21.251
+138,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.46065474,-0.93223934,2019-10-17 08:19:11.525
+139,10:fb:c5:9b:05:47,25,Wendy Rodriguez,Network Administrator,2.0,employee,0,51.460815888411275,-0.9323565571484778,2019-10-17 08:19:06.714

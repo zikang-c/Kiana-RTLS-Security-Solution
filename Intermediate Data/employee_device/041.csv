@@ -1,0 +1,129 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46045601707132,-0.9327651043023916,2019-10-08 11:50:55.633
+1,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46045601707132,-0.9327651043023916,2019-10-08 11:50:45.599
+2,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:50:35.363
+3,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:50:25.333
+4,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:50:15.301
+5,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:50:05.173
+6,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:49:59.760
+7,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:49:49.731
+8,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:49:39.696
+9,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46045601707132,-0.9327651043023916,2019-10-08 11:49:29.773
+10,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46040093908245,-0.9325238958899724,2019-10-08 11:49:19.629
+11,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46045601707132,-0.9327651043023916,2019-10-08 11:49:09.602
+12,f0:d7:aa:c2:ad:72,13,Ian Dunlap,Legal Assistant,2.0,employee,0,51.46045601707132,-0.9327651043023916,2019-10-08 11:48:59.571
+13,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:02:56.315
+14,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:02:46.189
+15,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:02:36.163
+16,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:02:26.539
+17,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:02:16.113
+18,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:02:06.489
+19,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:01:55.559
+20,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:01:45.440
+21,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:01:36.014
+22,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:01:25.691
+23,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:01:15.564
+24,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46083719348567,-0.9322742991944076,2019-10-22 11:01:05.137
+25,80:58:f8:4f:ca:b3,13,Erica Hale,Data Engineer,1.0,employee,0,51.46094269,-0.9321665,2019-10-22 11:00:59.922
+26,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 09:18:10.697
+27,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 09:16:40.868
+28,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 09:16:21.915
+29,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 09:13:36.028
+30,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 09:09:38.496
+31,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 09:08:16.903
+32,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 09:06:46.096
+33,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 09:06:37.479
+34,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46057648064623,-0.9323711236561044,2019-10-14 09:05:20.301
+35,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:04:47.224
+36,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:04:33.995
+37,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 09:04:26.977
+38,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 09:04:01.526
+39,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46057648064623,-0.9323711236561044,2019-10-14 09:03:11.909
+40,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.460762201842975,-0.9322413108818942,2019-10-14 09:03:09.104
+41,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46077715803996,-0.9322274033596122,2019-10-14 09:02:58.575
+42,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:02:40.438
+43,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46057648064623,-0.9323711236561044,2019-10-14 09:02:30.712
+44,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:02:25.605
+45,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46057648064623,-0.9323711236561044,2019-10-14 09:02:14.390
+46,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46077715803996,-0.9322274033596122,2019-10-14 09:02:02.082
+47,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46077715803996,-0.9322274033596122,2019-10-14 09:01:53.027
+48,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:01:48.918
+49,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46057648064623,-0.9323711236561044,2019-10-14 09:01:38.899
+50,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:01:22.559
+51,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 09:01:08.230
+52,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46057648064623,-0.9323711236561044,2019-10-14 09:00:57.803
+53,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46076999614862,-0.9322391290186876,2019-10-14 09:00:45.576
+54,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46059815,-0.93239386,2019-10-14 08:59:58.064
+55,80:58:f8:f4:6d:69,30,Ashley Taylor,Chief Financial Officer,1.0,employee,0,51.46078621,-0.93222453,2019-10-14 08:59:30.304
+56,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:06:14.852
+57,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:06:09.982
+58,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:05:57.208
+59,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:05:48.236
+60,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:05:34.635
+61,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:05:24.287
+62,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:05:14.699
+63,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:05:08.960
+64,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:04:59.210
+65,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:04:46.587
+66,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:04:35.724
+67,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46078621,-0.93222453,2020-02-13 14:04:22.728
+68,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:20:02.869
+69,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:17:34.941
+70,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:12:31.710
+71,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:12:14.369
+72,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:11:51.116
+73,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:11:10.822
+74,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:10:19.907
+75,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:09:28.188
+76,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:08:26.352
+77,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-17 11:08:08.415
+78,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:06:52.747
+79,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:06:39.505
+80,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:06:28.080
+81,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:06:19.361
+82,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:06:02.331
+83,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:05:48.693
+84,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:05:12.015
+85,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:04:26.807
+86,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:04:04.561
+87,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:03:13.452
+88,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:02:21.742
+89,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:02:10.118
+90,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:02:06.822
+91,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-17 11:01:49.968
+92,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:01:12.283
+93,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:01:03.259
+94,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 11:00:51.931
+95,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-17 11:00:47.520
+96,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 11:00:15.542
+97,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-17 10:59:58.010
+98,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 10:59:34.451
+99,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46092216982408,-0.9323745018588948,2019-10-17 10:59:16.103
+100,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 10:59:09.687
+101,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 10:58:40.416
+102,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 10:58:22.171
+103,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46093752,-0.93238226,2019-10-17 10:58:17.661
+104,80:58:f8:a9:da:55,49,Jerry Strickland,Chief Marketing Officer,3.0,employee,0,51.46065474,-0.93223934,2019-10-17 10:58:07.039
+105,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46044905,-0.93249523,2019-10-15 09:34:03.129
+106,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46033592315102,-0.9325114774095224,2019-10-15 09:33:46.185
+107,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46038106,-0.93292202,2019-10-15 09:33:26.829
+108,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46043655525841,-0.932573662574856,2019-10-15 09:33:05.785
+109,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.4604119769369,-0.932444737989353,2019-10-15 09:32:56.962
+110,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.460425200173056,-0.9328842016451881,2019-10-15 09:32:34.780
+111,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46040257166696,-0.9325348353794728,2019-10-15 09:32:24.151
+112,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.4604183531104,-0.9324847527948472,2019-10-15 09:32:11.123
+113,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.460385670648805,-0.932558299352104,2019-10-15 09:32:09.822
+114,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46036782442427,-0.9325018592065928,2019-10-15 09:31:59.789
+115,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.4604183531104,-0.9324847527948472,2019-10-15 09:31:49.364
+116,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46036080585717,-0.932570425097021,2019-10-15 09:31:33.315
+117,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.460385670648805,-0.932558299352104,2019-10-15 09:31:29.805
+118,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46045719490065,-0.9325991778579346,2019-10-15 09:31:17.980
+119,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46040257166696,-0.9325348353794728,2019-10-15 09:31:04.637
+120,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46036782442427,-0.9325018592065928,2019-10-15 09:30:56.114
+121,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46035566864296,-0.9324812473742384,2019-10-15 09:30:45.682
+122,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46040257166696,-0.9325348353794728,2019-10-15 09:30:38.662
+123,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46036080585717,-0.932570425097021,2019-10-15 09:30:27.732
+124,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46038673972838,-0.9324739627801798,2019-10-15 09:30:11.718
+125,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.460425200173056,-0.9328842016451881,2019-10-15 09:30:08.290
+126,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46038106,-0.93292202,2019-10-15 09:29:52.634
+127,f4:f5:24:79:f6:4d,23,Cynthia Calhoun,Cashier,0.0,employee,0,51.46032117,-0.93237729,2019-10-15 09:29:49.621

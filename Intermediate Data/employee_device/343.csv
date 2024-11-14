@@ -1,0 +1,50 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46042847,-0.93271253,2019-11-06 15:15:10.988
+1,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46056226619845,-0.932319895451779,2019-11-06 15:15:07.883
+2,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46056226619845,-0.932319895451779,2019-11-06 15:14:57.548
+3,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46055992492733,-0.9323369074570392,2019-11-06 15:14:47.419
+4,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46055992492733,-0.9323369074570392,2019-11-06 15:14:37.385
+5,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46056226619845,-0.932319895451779,2019-11-06 15:14:27.358
+6,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46056226619845,-0.932319895451779,2019-11-06 15:14:17.322
+7,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46057489,-0.93228285,2019-11-06 15:14:07.195
+8,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46057489,-0.93228285,2019-11-06 15:13:56.861
+9,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46056226619845,-0.932319895451779,2019-11-06 15:13:46.731
+10,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46057489,-0.93228285,2019-11-06 15:13:36.701
+11,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46057489,-0.93228285,2019-11-06 15:13:26.668
+12,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.4605719093449,-0.9323026628874828,2019-11-06 15:13:16.634
+13,24:46:c8:7a:5b:b7,14,Dr. Eric Thomas,Warehouse Manager,1.0,employee,0,51.46042847,-0.93271253,2019-11-06 15:13:08.608
+14,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 10:13:41.906
+15,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 10:13:28.654
+16,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 10:13:13.619
+17,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46077037180008,-0.9322263141617172,2020-01-17 10:12:58.570
+18,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 10:12:43.744
+19,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 10:12:31.694
+20,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 10:12:23.488
+21,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 10:12:16.894
+22,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46078621,-0.93222453,2020-01-17 10:12:03.402
+23,60:1d:91:db:5f:1a,10,Jeremy Thomas,Sales Executive,1.0,employee,0,51.46065474,-0.93223934,2020-01-17 10:11:56.514
+24,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:47:56.376
+25,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:47:46.661
+26,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:47:36.628
+27,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:47:24.780
+28,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:47:15.513
+29,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:47:05.534
+30,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46072238238549,-0.9323952053926028,2020-02-07 09:46:58.789
+31,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089230061145,-0.9322179892414024,2020-02-07 09:46:49.682
+32,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:46:30.810
+33,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46072238238549,-0.9323952053926028,2020-02-07 09:46:22.949
+34,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46094269,-0.9321665,2020-02-07 09:46:17.831
+35,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46089201367443,-0.9322191080270136,2020-02-07 09:46:00.630
+36,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:59:44.886
+37,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:59:39.873
+38,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:59:29.838
+39,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:59:19.807
+40,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:59:09.373
+41,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:58:59.255
+42,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:58:49.224
+43,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:58:39.191
+44,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:58:29.155
+45,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:58:19.123
+46,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:58:08.694
+47,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:57:58.566
+48,80:58:f8:95:db:7a,25,Renee Acosta,Machine Learning Engineer,1.0,employee,0,51.46078621,-0.93222453,2019-10-07 09:57:48.532

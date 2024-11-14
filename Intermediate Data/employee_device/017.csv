@@ -1,0 +1,87 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 15:41:16.936
+1,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:41:01.902
+2,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.46051021,-0.93242014,2019-10-22 15:40:55.583
+3,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:40:41.144
+4,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:40:39.139
+5,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:40:20.695
+6,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:40:18.287
+7,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:39:58.637
+8,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460499976772255,-0.9324310392273004,2019-10-22 15:39:33.404
+9,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460773460504775,-0.932422316054449,2019-10-22 15:39:28.165
+10,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:39:17.238
+11,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:39:09.821
+12,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460773460504775,-0.932422316054449,2019-10-22 15:38:52.273
+13,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460785110515054,-0.9324188222251648,2019-10-22 15:38:47.264
+14,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460773460504775,-0.932422316054449,2019-10-22 15:38:34.532
+15,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.46090031,-0.93241827,2019-10-22 15:38:29.218
+16,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.460499976772255,-0.9324310392273004,2019-10-22 15:38:14.180
+17,24:46:c8:fa:ce:a4,18,Roberto Rhodes,Chief Financial Officer,2.0,employee,0,51.46087905073031,-0.9324231888735924,2019-10-22 15:38:08.873
+18,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:09:52.238
+19,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:09:32.199
+20,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:09:02.550
+21,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:08:37.668
+22,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:08:02.607
+23,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:07:59.678
+24,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:07:48.053
+25,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:07:28.705
+26,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:06:36.586
+27,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:06:12.331
+28,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:06:04.919
+29,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:05:47.168
+30,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.460915769221934,-0.93237126692694,2019-10-17 14:05:16.206
+31,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:05:03.691
+32,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.460915769221934,-0.93237126692694,2019-10-17 14:04:53.144
+33,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.460915769221934,-0.93237126692694,2019-10-17 14:04:46.831
+34,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:04:20.664
+35,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:04:19.364
+36,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.460915769221934,-0.93237126692694,2019-10-17 14:03:59.214
+37,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:03:37.565
+38,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:02:56.472
+39,80:58:f8:b2:86:b9,22,Dr. Denise Lambert,Environmental Consultant,0.0,employee,0,51.46065474,-0.93223934,2019-10-17 14:02:16.871
+40,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:44:07.055
+41,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:43:57.023
+42,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:43:46.902
+43,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:43:36.870
+44,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:43:26.833
+45,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:43:16.705
+46,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:43:06.674
+47,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:42:56.634
+48,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:42:46.600
+49,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:42:36.475
+50,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:42:26.445
+51,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46047518,-0.93284138,2019-12-11 12:42:16.414
+52,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:14:16.151
+53,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:13:17.003
+54,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:12:59.854
+55,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:10:46.370
+56,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:10:38.850
+57,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:10:21.313
+58,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:09:53.320
+59,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:09:23.343
+60,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:09:19.331
+61,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-15 11:08:43.631
+62,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:08:34.711
+63,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:08:21.174
+64,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-15 11:08:12.140
+65,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-15 11:07:49.788
+66,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-15 11:07:37.755
+67,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:07:22.213
+68,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:07:11.488
+69,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:07:06.680
+70,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:06:52.128
+71,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:06:43.003
+72,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:06:22.644
+73,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:06:19.434
+74,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:06:08.308
+75,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:05:57.184
+76,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:05:42.936
+77,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:05:29.699
+78,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:05:14.958
+79,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:04:43.475
+80,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:04:30.742
+81,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 11:04:24.828
+82,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-15 11:04:12.092
+83,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:04:04.280
+84,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 11:03:44.806
+85,f4:f5:24:08:15:90,46,Matthew Brown,Office Clerk,1.0,employee,0,51.46086407038271,-0.9322468356533972,2019-10-15 11:03:19.236

@@ -1,0 +1,648 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:22:27.623
+1,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:19:01.092
+2,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:17:51.260
+3,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:17:26.794
+4,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:15:50.033
+5,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:15:16.341
+6,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:15:03.212
+7,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:14:59.594
+8,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:14:23.398
+9,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:13:24.233
+10,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:13:08.690
+11,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:12:45.427
+12,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460932421689435,-0.9321733379826131,2019-10-18 15:12:39.410
+13,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460932421689435,-0.9321733379826131,2019-10-18 15:12:20.762
+14,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:11:55.497
+15,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 15:11:44.365
+16,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460932421689435,-0.9321733379826131,2019-10-18 15:11:24.615
+17,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 15:11:01.250
+18,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 15:10:09.908
+19,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 15:09:31.103
+20,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:09:01.026
+21,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 15:08:33.147
+22,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:08:26.734
+23,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 15:08:17.599
+24,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46094269,-0.9321665,2019-10-18 15:07:57.642
+25,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 15:06:48.663
+26,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46089364136212,-0.9322136249155863,2019-10-18 15:06:38.831
+27,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:06:26.602
+28,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460932421689435,-0.9321733379826131,2019-10-18 15:06:19.984
+29,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 15:06:00.335
+30,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46090135021296,-0.9322087421135836,2019-10-18 15:05:07.689
+31,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.460694574522336,-0.9324048842129432,2019-10-18 15:04:55.055
+32,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:04:38.610
+33,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:04:21.062
+34,80:58:f8:aa:21:41,35,Krystal Hendricks,Customer Service Manager,0.0,employee,0,51.46071774,-0.93239636,2019-10-18 15:03:37.853
+35,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:52:08.619
+36,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:51:58.496
+37,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:51:48.158
+38,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:51:38.127
+39,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:51:28.095
+40,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:51:17.963
+41,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:51:07.927
+42,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:50:57.891
+43,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:50:47.462
+44,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:50:37.432
+45,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:50:27.404
+46,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-10 08:50:17.274
+47,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:11:08.703
+48,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:10:52.466
+49,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:10:48.663
+50,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:10:32.025
+51,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:10:24.707
+52,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:10:09.071
+53,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:58.947
+54,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:41.505
+55,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:09:39.901
+56,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:09:28.875
+57,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:08:57.602
+58,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:08:46.980
+59,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:08:36.259
+60,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:08:28.745
+61,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:08:18.924
+62,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.460896992089374,-0.9322131953622425,2019-10-14 12:08:08.998
+63,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:07:57.376
+64,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:07:04.858
+65,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:06:58.537
+66,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:06:15.139
+67,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:05:55.595
+68,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:03:29.459
+69,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:14:48.320
+70,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:14:30.179
+71,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:12:52.345
+72,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:12:45.224
+73,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:12:25.479
+74,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:12:09.847
+75,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:11:58.915
+76,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:52:27.700
+77,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:52:17.561
+78,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:52:07.432
+79,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:51:57.304
+80,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:51:47.178
+81,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:51:37.058
+82,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:51:26.933
+83,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:51:16.806
+84,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:51:06.683
+85,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:50:56.554
+86,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:50:46.433
+87,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.4605049975924,-0.9329562393140552,2020-01-15 14:50:36.307
+88,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:51:28.373
+89,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:51:18.245
+90,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:51:08.122
+91,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:50:57.901
+92,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:50:47.776
+93,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:50:37.553
+94,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:50:27.328
+95,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:50:17.200
+96,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:50:06.985
+97,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:49:56.846
+98,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:49:46.631
+99,80:58:f8:23:1d:cf,65,Cheyenne Johnson,Research Scientist,3.0,employee,0,51.46080145858756,-0.9323251386391636,2020-01-07 16:49:36.495
+100,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46050376,-0.93231244,2019-09-11 13:33:38.990
+101,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46050376,-0.93231244,2019-09-11 13:33:23.642
+102,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.460478889570176,-0.9330175456615312,2019-09-11 13:33:14.415
+103,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.460478889570176,-0.9330175456615312,2019-09-11 13:33:04.385
+104,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46050376,-0.93231244,2019-09-11 13:32:58.565
+105,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46050376,-0.93231244,2019-09-11 13:32:48.536
+106,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46050376,-0.93231244,2019-09-11 13:32:38.503
+107,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46050376,-0.93231244,2019-09-11 13:32:28.476
+108,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.460478889570176,-0.9330175456615312,2019-09-11 13:32:13.733
+109,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.460478889570176,-0.9330175456615312,2019-09-11 13:32:07.922
+110,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.460478889570176,-0.9330175456615312,2019-09-11 13:31:57.896
+111,80:58:f8:84:7e:e6,12,Shannon Fox,Content Strategist,2.0,employee,0,51.46044435786161,-0.9330313494015272,2019-09-11 13:31:41.241
+112,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:09:38.337
+113,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:09:28.308
+114,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:09:18.276
+115,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:09:08.241
+116,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:08:57.816
+117,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:08:47.787
+118,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:08:37.664
+119,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:08:27.637
+120,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:08:17.610
+121,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:08:07.485
+122,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:07:57.051
+123,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46078621,-0.93222453,2019-09-02 13:07:47.023
+124,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:31:05.147
+125,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:29:49.123
+126,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:29:31.267
+127,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:29:27.255
+128,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:28:06.113
+129,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460710616054314,-0.9323989814020252,2019-10-21 09:27:43.547
+130,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:27:23.388
+131,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:26:47.589
+132,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:26:25.417
+133,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:25:46.204
+134,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460650394557305,-0.932361148490558,2019-10-21 09:25:29.048
+135,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:25:19.519
+136,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:24:54.543
+137,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460650394557305,-0.932361148490558,2019-10-21 09:24:29.268
+138,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071477854336,-0.9323948116048248,2019-10-21 09:24:11.716
+139,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:24:09.911
+140,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460710616054314,-0.9323989814020252,2019-10-21 09:23:59.485
+141,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46072188257839,-0.9323921270012502,2019-10-21 09:23:31.300
+142,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46072188257839,-0.9323921270012502,2019-10-21 09:23:20.877
+143,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:23:14.050
+144,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:23:06.933
+145,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:22:48.975
+146,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:22:38.245
+147,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071477854336,-0.9323948116048248,2019-10-21 09:22:21.399
+148,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460710616054314,-0.9323989814020252,2019-10-21 09:22:17.691
+149,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:22:08.260
+150,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:21:23.127
+151,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460650394557305,-0.932361148490558,2019-10-21 09:21:04.075
+152,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:20:43.812
+153,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:20:25.354
+154,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.460650394557305,-0.932361148490558,2019-10-21 09:20:18.330
+155,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:20:00.168
+156,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46094269,-0.9321665,2019-10-21 09:19:59.869
+157,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:19:46.532
+158,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:19:11.126
+159,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:19:08.619
+160,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071477854336,-0.9323948116048248,2019-10-21 09:18:59.289
+161,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46044905,-0.93249523,2019-10-21 09:18:41.137
+162,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:18:21.677
+163,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:17:59.213
+164,80:58:f8:90:8a:60,53,Mrs. Samantha Kennedy,Software Engineer,3.0,employee,0,51.46071774,-0.93239636,2019-10-21 09:17:29.123
+165,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:53:05.876
+166,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:52:55.849
+167,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:52:45.821
+168,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:52:35.698
+169,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:52:25.368
+170,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:52:15.334
+171,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:52:05.109
+172,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:51:55.075
+173,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:51:45.047
+174,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:51:35.023
+175,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:51:24.692
+176,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:51:19.678
+177,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091817577828,-0.9323736955368886,2019-10-10 12:51:09.647
+178,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:04:07.251
+179,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:03:57.220
+180,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:03:46.795
+181,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:03:36.660
+182,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:03:26.631
+183,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:03:16.608
+184,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:03:06.478
+185,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:02:56.342
+186,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:02:46.011
+187,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:02:35.979
+188,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:02:25.854
+189,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460628843269966,-0.9323902886041384,2019-08-28 16:02:15.818
+190,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-28 16:02:08.995
+191,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:58:25.632
+192,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:58:15.205
+193,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:58:05.166
+194,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:57:04.453
+195,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:56:59.439
+196,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:56:49.406
+197,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:56:39.367
+198,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-08-14 10:56:29.247
+199,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:12:27.216
+200,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:12:17.190
+201,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:12:07.064
+202,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:11:57.036
+203,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:11:46.610
+204,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:11:36.584
+205,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:11:26.555
+206,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:11:16.428
+207,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:11:06.400
+208,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:10:56.376
+209,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:10:45.947
+210,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460849041772605,-0.9322009850242732,2019-09-16 15:10:35.917
+211,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:20:26.269
+212,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:20:13.839
+213,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:20:06.417
+214,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:19:56.376
+215,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:19:48.807
+216,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:19:37.600
+217,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:19:24.797
+218,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:19:19.744
+219,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:19:07.444
+220,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:18:56.165
+221,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:18:49.693
+222,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:18:37.365
+223,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093814283026,-0.93235626737798,2020-02-24 13:18:26.076
+224,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:57:19.327
+225,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:57:08.242
+226,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:56:59.279
+227,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:56:48.069
+228,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:56:35.382
+229,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:56:24.203
+230,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:56:17.991
+231,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:56:06.512
+232,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:55:54.075
+233,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:55:47.940
+234,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:55:35.245
+235,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2020-02-28 11:55:22.859
+236,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:22:26.984
+237,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:22:17.044
+238,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:22:06.915
+239,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:21:56.883
+240,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:21:46.848
+241,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:21:36.814
+242,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:21:26.787
+243,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:21:16.754
+244,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:21:06.719
+245,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:20:56.687
+246,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:20:46.656
+247,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46094269,-0.9321665,2019-12-17 15:20:36.624
+248,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:32:48.529
+249,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:32:38.496
+250,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:32:28.460
+251,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:32:18.428
+252,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:32:08.392
+253,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:31:58.355
+254,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:31:48.321
+255,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:31:38.286
+256,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:31:28.250
+257,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-12-16 11:31:18.226
+258,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:41:31.194
+259,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:39:41.119
+260,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46049870616843,-0.9324557220131457,2019-10-14 13:39:09.925
+261,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:38:49.972
+262,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:38:04.351
+263,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:37:15.515
+264,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:37:00.174
+265,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:36:34.801
+266,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:36:12.438
+267,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:36:06.138
+268,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:35:56.793
+269,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:35:48.980
+270,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:35:26.112
+271,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:35:13.683
+272,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:35:02.157
+273,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:34:59.541
+274,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:34:45.901
+275,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460442325,-0.93311042,2019-10-14 13:34:38.486
+276,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460442325,-0.93311042,2019-10-14 13:34:27.656
+277,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:34:17.026
+278,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:34:08.801
+279,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:33:54.070
+280,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460442325,-0.93311042,2019-10-14 13:33:44.336
+281,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:33:34.211
+282,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:33:27.186
+283,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46049870616843,-0.9324557220131457,2019-10-14 13:32:57.203
+284,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46048627978299,-0.932539490762172,2019-10-14 13:32:45.670
+285,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46049870616843,-0.9324557220131457,2019-10-14 13:32:33.537
+286,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:32:28.426
+287,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:32:19.702
+288,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:32:05.162
+289,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:31:54.144
+290,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:31:45.017
+291,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46049870616843,-0.9324557220131457,2019-10-14 13:31:38.497
+292,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460488434301375,-0.9324338679649758,2019-10-14 13:31:22.460
+293,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.460442325,-0.93311042,2019-10-14 13:31:16.957
+294,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:31:05.215
+295,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:30:58.404
+296,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:30:42.261
+297,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047329,-0.9331763,2019-10-14 13:30:26.221
+298,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46049870616843,-0.9324557220131457,2019-10-14 13:29:50.143
+299,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050376,-0.93231244,2019-10-14 13:29:40.148
+300,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46041136,-0.93304454,2019-10-14 13:29:24.276
+301,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:58:26.991
+302,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:57:31.313
+303,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:57:26.295
+304,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:57:16.261
+305,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:57:05.821
+306,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:56:55.790
+307,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:56:45.752
+308,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050732,-0.932584,2019-08-13 12:56:35.718
+309,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:34:06.101
+310,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:33:56.072
+311,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:33:45.945
+312,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:33:35.915
+313,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:33:25.877
+314,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:33:15.749
+315,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:33:05.316
+316,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:32:55.288
+317,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:32:45.253
+318,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:32:35.223
+319,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:32:25.187
+320,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:32:15.057
+321,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46059815,-0.93239386,2019-09-11 09:32:09.640
+322,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 11:04:45.475
+323,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 11:04:03.464
+324,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:59:10.337
+325,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:58:26.018
+326,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:58:12.580
+327,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:57:35.479
+328,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:57:01.874
+329,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:56:29.484
+330,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46092676452896,-0.9323768240712867,2019-10-18 10:56:15.040
+331,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:56:04.910
+332,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46092313900783,-0.932376081679074,2019-10-18 10:55:23.189
+333,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:55:07.842
+334,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:54:36.251
+335,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:54:04.463
+336,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093366834932,-0.9323814460798102,2019-10-18 10:53:40.389
+337,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:53:05.992
+338,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:52:07.324
+339,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:51:27.405
+340,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:50:18.412
+341,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46093752,-0.93238226,2019-10-18 10:48:04.344
+342,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46065474,-0.93223934,2019-10-18 10:47:17.206
+343,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:01:07.549
+344,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:00:57.422
+345,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:00:47.395
+346,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:00:37.175
+347,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:00:27.052
+348,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:00:16.919
+349,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 16:00:06.700
+350,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 15:59:56.575
+351,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 15:59:46.446
+352,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 15:59:36.320
+353,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 15:59:26.200
+354,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.4604723659094,-0.9329306598901884,2020-01-15 15:59:16.070
+355,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46050869,-0.93299578,2020-01-15 15:59:05.944
+356,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:59:49.383
+357,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:59:39.266
+358,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:59:29.242
+359,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:59:19.223
+360,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:59:09.185
+361,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:58:59.153
+362,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:58:49.041
+363,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:58:39.008
+364,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:58:28.975
+365,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:58:18.948
+366,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:58:08.847
+367,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46047518,-0.93284138,2020-01-15 10:57:58.809
+368,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:48:04.206
+369,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:47:41.638
+370,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:44:27.109
+371,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:44:16.282
+372,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:43:26.268
+373,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:42:35.151
+374,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:42:02.182
+375,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:41:17.178
+376,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:41:06.755
+377,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:40:56.129
+378,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:40:06.620
+379,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:39:57.202
+380,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:39:28.137
+381,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:39:10.700
+382,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:38:24.898
+383,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:38:16.782
+384,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:38:09.168
+385,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:37:43.212
+386,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:37:34.187
+387,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:36:47.691
+388,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 11:34:28.480
+389,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:14:16.521
+390,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:14:06.298
+391,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:13:56.281
+392,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:13:45.943
+393,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:13:35.912
+394,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:13:25.886
+395,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:13:15.765
+396,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:13:05.636
+397,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:12:55.613
+398,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:12:45.185
+399,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:12:35.159
+400,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:12:25.137
+401,80:58:f8:3f:70:0f,237,Deborah Rodriguez,Human Resources Manager,1.0,employee,0,51.46091984314428,-0.9323745459143707,2019-10-23 14:12:15.101
+402,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:59:55.980
+403,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:59:45.947
+404,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:59:35.821
+405,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:59:25.788
+406,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:59:15.757
+407,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:59:05.626
+408,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:58:55.597
+409,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:58:45.563
+410,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:58:35.435
+411,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:58:25.399
+412,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:58:15.367
+413,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:58:05.242
+414,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546620279594,-0.932395790726454,2019-12-06 12:57:55.201
+415,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055104471529,-0.9323957244703072,2019-12-06 12:57:48.377
+416,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054768907247,-0.9323989982185164,2019-12-06 12:57:38.256
+417,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054768907247,-0.9323989982185164,2019-12-06 12:57:28.228
+418,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460550854694525,-0.932350639591058,2019-12-06 12:55:04.075
+419,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:54:59.059
+420,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:54:49.028
+421,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:54:38.993
+422,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:54:28.866
+423,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:54:18.834
+424,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:54:08.711
+425,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:53:58.677
+426,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:53:48.641
+427,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:53:38.511
+428,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:53:28.477
+429,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:53:18.445
+430,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:53:08.313
+431,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:52:58.283
+432,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:52:48.251
+433,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:52:38.123
+434,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055322197876,-0.9323797033199354,2019-12-06 12:52:28.092
+435,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055322197876,-0.9323797033199354,2019-12-06 12:52:18.058
+436,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055322197876,-0.9323797033199354,2019-12-06 12:52:07.931
+437,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055480813375,-0.932380203112453,2019-12-06 12:51:57.896
+438,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055712941876,-0.9323776783875896,2019-12-06 12:51:47.866
+439,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056329581254,-0.9323817564437316,2019-12-06 12:51:37.739
+440,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056329581254,-0.9323817564437316,2019-12-06 12:51:27.712
+441,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056086989722,-0.932384165960821,2019-12-06 12:51:17.676
+442,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055824448935,-0.9323867736219804,2019-12-06 12:51:07.551
+443,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460556556511406,-0.93238354611111,2019-12-06 12:50:57.517
+444,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460556556511406,-0.93238354611111,2019-12-06 12:50:47.390
+445,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460556556511406,-0.93238354611111,2019-12-06 12:50:37.362
+446,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460556556511406,-0.93238354611111,2019-12-06 12:50:27.319
+447,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460560637424216,-0.9323815050783418,2019-12-06 12:50:17.191
+448,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055712941876,-0.9323776783875898,2019-12-06 12:50:07.162
+449,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460557780606514,-0.9323746478036852,2019-12-06 12:49:57.133
+450,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605530102045,-0.9323767653683264,2019-12-06 12:49:47.007
+451,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460546614170006,-0.932378703534006,2019-12-06 12:49:36.975
+452,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605474036862,-0.9323752948025376,2019-12-06 12:49:26.941
+453,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054241246888,-0.9323813812305948,2019-12-06 12:49:16.813
+454,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054241246888,-0.9323813812305948,2019-12-06 12:49:06.782
+455,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054241246888,-0.9323813812305948,2019-12-06 12:48:56.752
+456,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054549914394,-0.9323924261515854,2019-12-06 12:48:46.625
+457,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054431512624,-0.9323957830577714,2019-12-06 12:48:36.593
+458,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460547479216025,-0.9323924800751766,2019-12-06 12:48:26.558
+459,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460547479216025,-0.9323924800751766,2019-12-06 12:48:16.429
+460,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460547479216025,-0.9323924800751766,2019-12-06 12:48:06.402
+461,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460547479216025,-0.9323924800751766,2019-12-06 12:47:56.276
+462,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460547479216025,-0.9323924800751766,2019-12-06 12:47:46.244
+463,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605507680795,-0.932401694710629,2019-12-06 12:47:36.213
+464,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460541282770585,-0.9323923214726292,2019-12-06 12:47:26.086
+465,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054075916251,-0.932388592615491,2019-12-06 12:47:16.052
+466,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054211551933,-0.9323849130994004,2019-12-06 12:47:06.027
+467,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46053683414782,-0.932396050288894,2019-12-06 12:46:55.893
+468,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46053267516804,-0.932396103390952,2019-12-06 12:46:45.858
+469,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052207484828,-0.9324212586960808,2019-12-06 12:46:37.240
+470,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042011,-0.93261704,2019-10-15 12:19:25.676
+471,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042493827666,-0.9325980723360864,2019-10-15 12:16:51.482
+472,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042482827447,-0.9325992589265992,2019-10-15 12:16:45.062
+473,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042683664736,-0.9325932580913364,2019-10-15 12:16:15.873
+474,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042232518958,-0.9326103611813804,2019-10-15 12:15:39.675
+475,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042281183544,-0.932608217503504,2019-10-15 12:14:57.176
+476,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46041946830399,-0.9326150346482914,2019-10-15 12:13:29.736
+477,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042382874767,-0.9325945754337748,2019-10-15 12:12:11.620
+478,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46042105054963,-0.9326022290606678,2019-10-15 12:12:01.590
+479,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46044376,-0.93227792,2019-10-15 12:41:34.469
+480,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46046273668565,-0.932273682166406,2019-10-15 12:40:31.597
+481,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46060361216146,-0.9323789454711086,2019-10-15 12:40:17.256
+482,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:39:52.483
+483,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46044342241203,-0.9322831708064596,2019-10-15 12:39:06.478
+484,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46058700085571,-0.932394129984157,2019-10-15 12:38:42.301
+485,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:38:18.841
+486,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:37:14.466
+487,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46069027645055,-0.9322394929092735,2019-10-15 12:36:32.446
+488,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46060836414769,-0.9324279271595818,2019-10-15 12:36:19.307
+489,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050774889894,-0.9322723499548367,2019-10-15 12:36:06.683
+490,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46058686658036,-0.9323950742927856,2019-10-15 12:35:53.343
+491,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46032962686509,-0.9325792940372164,2019-10-15 12:35:40.507
+492,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054779641093,-0.9323587949645392,2019-10-15 12:35:37.804
+493,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048224125994,-0.932275327130002,2019-10-15 12:35:24.368
+494,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048255806874,-0.9324872793435592,2019-10-15 12:35:13.530
+495,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46079313494376,-0.932244198320347,2019-10-15 12:34:52.579
+496,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46060842327934,-0.9323790311526988,2019-10-15 12:34:47.464
+497,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460704728151754,-0.9322759217193348,2019-10-15 12:34:39.448
+498,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:34:26.609
+499,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460601497424506,-0.9323886984982864,2019-10-15 12:34:15.880
+500,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:34:08.162
+501,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46059987902185,-0.9323996267917876,2019-10-15 12:33:57.329
+502,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:33:43.590
+503,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056139888528,-0.932364925176534,2019-10-15 12:33:37.477
+504,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46045823476081,-0.9324467822321983,2019-10-15 12:33:25.141
+505,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460518959003274,-0.9324472400692516,2019-10-15 12:33:19.527
+506,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460495682517994,-0.9324370959549044,2019-10-15 12:33:05.103
+507,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055532735655,-0.932357907065393,2019-10-15 12:32:58.575
+508,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055282799573,-0.9323658906810156,2019-10-15 12:32:45.135
+509,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:32:36.613
+510,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:32:24.581
+511,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056139888528,-0.932364925176534,2019-10-15 12:32:19.676
+512,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460491416266265,-0.9323119208008044,2019-10-15 12:32:04.433
+513,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46061315980808,-0.9323868494671528,2019-10-15 12:31:52.989
+514,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055282799573,-0.9323658906810156,2019-10-15 12:31:48.685
+515,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46045823476081,-0.9324467822321983,2019-10-15 12:31:36.749
+516,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:31:20.497
+517,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:31:14.685
+518,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:31:09.567
+519,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46071091150886,-0.932364338196584,2019-10-15 12:30:59.839
+520,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:30:47.607
+521,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605347466272,-0.9323644859662285,2019-10-15 12:30:38.482
+522,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:30:22.938
+523,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:30:18.737
+524,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:30:02.402
+525,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056139888528,-0.932364925176534,2019-10-15 12:29:56.267
+526,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054283530962,-0.9323635747820278,2019-10-15 12:29:43.932
+527,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460491416266265,-0.9323119208008044,2019-10-15 12:29:34.102
+528,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460495682517994,-0.9324370959549044,2019-10-15 12:29:24.780
+529,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46071091150886,-0.932364338196584,2019-10-15 12:29:17.152
+530,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:29:07.423
+531,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46047284321139,-0.93242688747626,2019-10-15 12:28:55.391
+532,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:28:46.774
+533,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:28:37.850
+534,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46061315980808,-0.9323868494671528,2019-10-15 12:28:27.220
+535,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050567128332,-0.9324228593530434,2019-10-15 12:28:13.784
+536,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:28:09.373
+537,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055282799573,-0.9323658906810156,2019-10-15 12:27:57.065
+538,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:27:47.912
+539,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:27:39.593
+540,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46047284321139,-0.93242688747626,2019-10-15 12:27:24.858
+541,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:27:10.919
+542,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:27:06.213
+543,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056139888528,-0.932364925176534,2019-10-15 12:26:54.278
+544,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:26:44.657
+545,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056139888528,-0.932364925176534,2019-10-15 12:26:37.233
+546,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050567128332,-0.9324228593530434,2019-10-15 12:26:24.696
+547,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:26:11.457
+548,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:26:09.947
+549,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46061315980808,-0.9323868494671528,2019-10-15 12:25:59.820
+550,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:25:49.591
+551,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:25:34.869
+552,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:25:29.542
+553,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:25:16.903
+554,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46047284321139,-0.93242688747626,2019-10-15 12:25:07.786
+555,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:24:55.555
+556,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:24:47.734
+557,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:24:30.691
+558,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:24:29.086
+559,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460521525450005,-0.932440066216119,2019-10-15 12:24:16.453
+560,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:24:09.832
+561,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055282799573,-0.9323658906810156,2019-10-15 12:23:56.495
+562,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460521525450005,-0.932440066216119,2019-10-15 12:23:42.762
+563,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46044892637535,-0.9324424373380418,2019-10-15 12:23:39.248
+564,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050567128332,-0.9324228593530434,2019-10-15 12:23:24.907
+565,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460521525450005,-0.932440066216119,2019-10-15 12:23:19.300
+566,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605347466272,-0.9323644859662285,2019-10-15 12:23:05.356
+567,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:22:58.740
+568,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605347466272,-0.9323644859662285,2019-10-15 12:22:49.918
+569,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605347466272,-0.9323644859662285,2019-10-15 12:22:32.072
+570,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:22:27.858
+571,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:22:17.227
+572,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:22:09.508
+573,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460515509820624,-0.932455906347266,2019-10-15 12:21:59.479
+574,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:21:48.955
+575,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:21:34.515
+576,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:21:20.475
+577,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050112548405,-0.932452584986925,2019-10-15 12:21:17.272
+578,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460501316272186,-0.932423349941884,2019-10-15 12:21:05.937
+579,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:20:51.290
+580,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605347466272,-0.9323644859662285,2019-10-15 12:20:46.172
+581,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:20:36.147
+582,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46071091150886,-0.932364338196584,2019-10-15 12:20:28.024
+583,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:20:14.798
+584,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:20:08.689
+585,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:19:57.758
+586,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605347466272,-0.9323644859662285,2019-10-15 12:19:47.935
+587,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054283530962,-0.9323635747820278,2019-10-15 12:19:38.715
+588,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46053571544203,-0.9323634755498642,2019-10-15 12:19:10.742
+589,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048676142167,-0.9324347982419626,2019-10-15 12:19:03.835
+590,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:18:52.495
+591,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:18:41.469
+592,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460491416266265,-0.9323119208008044,2019-10-15 12:18:37.355
+593,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:18:26.022
+594,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:18:19.007
+595,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048779638408,-0.9324342256874696,2019-10-15 12:18:02.091
+596,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:17:58.452
+597,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050567128332,-0.9324228593530434,2019-10-15 12:17:42.615
+598,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:17:30.983
+599,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057023736213,-0.9323407778674384,2019-10-15 12:17:24.163
+600,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055282799573,-0.9323658906810156,2019-10-15 12:17:19.250
+601,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052548094471,-0.9323081205951976,2019-10-15 12:17:06.413
+602,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057453201083,-0.9323429122609376,2019-10-15 12:16:36.232
+603,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46054283530962,-0.9323635747820278,2019-10-15 12:16:29.013
+604,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056139888528,-0.932364925176534,2019-10-15 12:16:01.634
+605,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460570938969774,-0.932339935650128,2019-10-15 12:15:54.620
+606,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4606236480638,-0.9323736569692764,2019-10-15 12:15:43.891
+607,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056750783465,-0.9323496760049252,2019-10-15 12:15:24.931
+608,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056818819614,-0.9324112420111192,2019-10-15 12:15:19.824
+609,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46048371159839,-0.9324357198404376,2019-10-15 12:15:00.781
+610,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460491416266265,-0.9323119208008044,2019-10-15 12:14:42.232
+611,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46044904958245,-0.9324463607274291,2019-10-15 12:14:38.316
+612,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46052554680861,-0.9323602237989423,2019-10-15 12:14:28.689
+613,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460491416266265,-0.9323119208008044,2019-10-15 12:14:10.043
+614,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460538163592,-0.9323621459103718,2019-10-15 12:14:06.553
+615,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055282799573,-0.9323658906810156,2019-10-15 12:13:57.715
+616,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050112548405,-0.932452584986925,2019-10-15 12:13:49.590
+617,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46049410860703,-0.9323107243289644,2019-10-15 12:13:30.029
+618,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46056227861136,-0.9323413018620332,2019-10-15 12:13:12.593
+619,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.4605385482887,-0.9323449823161308,2019-10-15 12:13:07.988
+620,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460525631917406,-0.9324252790565158,2019-10-15 12:12:55.550
+621,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460559385739394,-0.9323624817552966,2019-10-15 12:12:41.897
+622,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46046070173331,-0.932431813533427,2019-10-15 12:12:39.092
+623,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460625222035915,-0.9323689679956576,2019-10-15 12:12:27.255
+624,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46053722304941,-0.9323669948882928,2019-10-15 12:11:55.769
+625,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460526836134655,-0.9323449529242892,2019-10-15 12:11:41.134
+626,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460503788403216,-0.932319924632098,2019-10-15 12:11:34.519
+627,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46051678762273,-0.9323449557589538,2019-10-15 12:11:27.600
+628,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46051752815198,-0.9324591915299228,2019-10-15 12:11:11.353
+629,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46046369716899,-0.932315867453583,2019-10-15 12:11:08.156
+630,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46055827055984,-0.9323749578648892,2019-10-15 12:10:55.609
+631,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46049430246542,-0.9323590644128958,2019-10-15 12:10:47.891
+632,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050112811121,-0.9323001909272552,2019-10-15 12:10:30.755
+633,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46051111573286,-0.93234244687467,2019-10-15 12:10:28.543
+634,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460613852951546,-0.9323897488133268,2019-10-15 12:10:13.513
+635,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46051602149774,-0.9322993974584785,2019-10-15 12:10:05.692
+636,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46059203732171,-0.9323967949634993,2019-10-15 12:09:51.060
+637,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460672086863966,-0.9324885970244402,2019-10-15 12:09:48.754
+638,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46050560230522,-0.9323443374345954,2019-10-15 12:09:38.922
+639,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46057320214764,-0.9323550423103372,2019-10-15 12:09:28.392
+640,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46075115809682,-0.9323665397597062,2019-10-15 12:09:08.348
+641,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46066852610654,-0.9323400315891294,2019-10-15 12:08:39.461
+642,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46044237662299,-0.9322790413489958,2019-10-15 12:08:26.321
+643,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 12:08:17.300
+644,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.460491020072006,-0.9322692779790596,2019-10-15 12:07:56.850
+645,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46065474,-0.93223934,2019-10-15 12:07:28.968
+646,28:cf:e9:2c:cd:dd,245,Wayne Salas,Inventory Clerk,2.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:05:13.093

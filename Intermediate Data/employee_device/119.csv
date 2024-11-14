@@ -1,0 +1,323 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46071774,-0.93239636,2020-03-09 15:00:11.719
+1,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 15:00:01.940
+2,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:59:58.069
+3,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:59:43.344
+4,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:59:38.049
+5,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46051793,-0.93230969,2020-03-09 14:59:25.020
+6,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:59:11.712
+7,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:59:06.072
+8,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:58:52.862
+9,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:58:49.107
+10,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:58:37.789
+11,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:58:26.548
+12,24:46:c8:12:e6:78,13,Kelly Martin,Digital Marketing Manager,2.0,employee,0,51.46068459900602,-0.9323819846937242,2020-03-09 14:58:15.037
+13,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.46080495,-0.9321861,2020-03-10 16:12:01.491
+14,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:11:54.208
+15,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:11:47.887
+16,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:11:37.915
+17,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:11:22.868
+18,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:11:13.935
+19,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:11:07.953
+20,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:10:58.892
+21,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:10:47.794
+22,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:10:35.435
+23,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:10:27.549
+24,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:10:17.542
+25,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.460686624920726,-0.9322744515286104,2020-03-10 16:10:08.512
+26,c0:1c:d1:73:c2:31,14,Ronald Ferrell,Marketing Specialist,1.0,employee,0,51.46043985,-0.93243722,2020-03-10 16:09:59.259
+27,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:49:31.276
+28,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:47:03.976
+29,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:46:37.797
+30,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:45:30.953
+31,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:44:30.219
+32,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:44:14.180
+33,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:43:28.274
+34,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:42:58.912
+35,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:42:32.263
+36,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:42:21.437
+37,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:41:17.201
+38,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:40:19.478
+39,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:40:05.952
+40,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:39:59.838
+41,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:39:48.015
+42,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:39:33.381
+43,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:39:26.266
+44,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:39:13.342
+45,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:39:03.319
+46,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:38:58.005
+47,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 15:38:42.068
+48,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:38:31.648
+49,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:38:24.730
+50,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:38:18.618
+51,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:38:01.182
+52,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:37:45.360
+53,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:37:35.127
+54,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:37:25.811
+55,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:37:14.887
+56,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 15:37:06.777
+57,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 15:36:52.438
+58,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:36:20.965
+59,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:36:19.861
+60,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:35:57.412
+61,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:35:47.995
+62,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:35:24.039
+63,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.460881925588,-0.9322285907212524,2019-10-17 15:35:14.619
+64,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:35:02.511
+65,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46071774,-0.93239636,2019-10-17 15:32:52.299
+66,80:58:f8:30:ef:0f,40,Alisha Garcia,IT Support Specialist,1.0,employee,0,51.46094269,-0.9321665,2019-10-17 15:32:42.275
+67,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:18:51.728
+68,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:18:46.713
+69,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:18:36.683
+70,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:18:26.651
+71,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:18:16.616
+72,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:18:06.587
+73,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:17:56.551
+74,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:17:46.519
+75,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:17:36.530
+76,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:17:26.452
+77,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:17:16.428
+78,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:17:06.388
+79,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050869,-0.93299578,2019-12-11 10:16:56.358
+80,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:18:15.294
+81,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:17:41.510
+82,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:17:03.517
+83,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:16:49.882
+84,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:16:07.257
+85,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46051623025653,-0.932744457652365,2019-10-15 12:15:55.519
+86,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:15:40.778
+87,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:15:21.122
+88,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:15:16.716
+89,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:14:50.045
+90,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:14:26.680
+91,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:14:11.043
+92,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:14:01.926
+93,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:13:51.797
+94,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:13:31.833
+95,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:13:17.799
+96,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:13:02.299
+97,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:12:58.445
+98,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46051623025653,-0.932744457652365,2019-10-15 12:12:47.611
+99,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:12:34.990
+100,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46051623025653,-0.932744457652365,2019-10-15 12:12:21.639
+101,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:12:17.632
+102,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:12:06.499
+103,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46051623025653,-0.932744457652365,2019-10-15 12:11:48.748
+104,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:11:29.302
+105,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:11:11.455
+106,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:11:02.438
+107,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:10:57.416
+108,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46051623025653,-0.932744457652365,2019-10-15 12:10:46.489
+109,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:10:22.031
+110,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:09:57.071
+111,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:09:41.931
+112,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:09:12.752
+113,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46052318,-0.93286961,2019-10-15 12:08:47.181
+114,f4:f5:24:7d:c1:73,48,Andrew Oliver,Supply Chain Analyst,0.0,employee,0,51.46050732,-0.932584,2019-10-15 12:07:57.168
+115,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:07:23.375
+116,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:07:18.357
+117,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:07:08.323
+118,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:06:58.291
+119,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:06:48.253
+120,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:06:38.218
+121,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:06:28.187
+122,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:06:18.151
+123,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:06:08.118
+124,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:05:58.089
+125,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:05:48.049
+126,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:05:38.019
+127,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46052318,-0.93286961,2019-12-17 13:05:27.979
+128,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 13:00:25.367
+129,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:58:30.652
+130,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:58:09.288
+131,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:56:41.037
+132,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:55:41.476
+133,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:55:05.063
+134,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:54:38.490
+135,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:54:09.408
+136,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:53:54.368
+137,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:52:43.471
+138,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:52:34.041
+139,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:52:29.528
+140,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46086717389584,-0.9322399276282762,2019-10-18 12:52:03.053
+141,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:51:52.830
+142,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:51:31.065
+143,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:51:17.233
+144,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:50:59.883
+145,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:50:34.013
+146,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:50:15.159
+147,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46092792207602,-0.9321763344130414,2019-10-18 12:50:08.134
+148,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:49:59.207
+149,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46092792207602,-0.9321763344130414,2019-10-18 12:49:46.674
+150,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-18 12:49:35.845
+151,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:49:11.777
+152,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:49:03.650
+153,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-18 12:48:41.995
+154,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46092792207602,-0.9321763344130414,2019-10-18 12:48:37.984
+155,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:48:08.701
+156,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:47:58.274
+157,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-18 12:47:46.141
+158,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46071774,-0.93239636,2019-10-18 12:47:37.317
+159,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:47:07.537
+160,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46069932220751,-0.93240313720475,2019-10-18 12:46:54.203
+161,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:46:04.357
+162,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:44:55.250
+163,80:58:f8:ca:47:e6,49,Richard Sutton,Biomedical Engineer,2.0,employee,0,51.46094269,-0.9321665,2019-10-18 12:42:55.219
+164,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:05:14.332
+165,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:05:09.316
+166,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:04:59.195
+167,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:04:49.167
+168,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:04:39.139
+169,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:04:29.021
+170,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:04:18.992
+171,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:04:08.964
+172,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.46052318,-0.93286961,2019-12-19 13:03:56.130
+173,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:03:43.802
+174,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.460430985090014,-0.932605801343714,2019-12-19 13:03:38.787
+175,24:46:c8:6e:d1:f1,12,Amy Jones,Network Administrator,1.0,employee,0,51.46052318,-0.93286961,2019-12-19 13:03:25.962
+176,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:46:03.044
+177,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:45:57.993
+178,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:45:47.964
+179,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:45:37.543
+180,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:45:27.517
+181,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:45:17.494
+182,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:45:07.370
+183,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:44:57.338
+184,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:44:47.316
+185,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:44:36.986
+186,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:44:26.959
+187,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:44:16.936
+188,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46092216982409,-0.9323745018588953,2019-10-11 14:44:06.622
+189,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:08:38.219
+190,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:08:28.183
+191,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:08:18.144
+192,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:08:08.109
+193,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:07:58.075
+194,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:07:48.045
+195,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:07:37.998
+196,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:07:27.964
+197,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:07:17.927
+198,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:07:07.803
+199,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:06:57.762
+200,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-12-12 11:06:47.721
+201,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:28:52.141
+202,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:28:44.219
+203,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:28:35.073
+204,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:28:24.138
+205,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:28:16.394
+206,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:28:06.671
+207,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:27:57.392
+208,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:27:48.220
+209,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:27:36.193
+210,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:27:29.288
+211,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:27:15.311
+212,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:27:09.734
+213,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:26:55.991
+214,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46035849,-0.9327721,2020-02-10 11:26:48.657
+215,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:30:19.308
+216,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:30:06.170
+217,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:29:44.809
+218,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:29:31.671
+219,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:29:24.553
+220,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:28:40.333
+221,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:28:31.905
+222,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:28:29.699
+223,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:28:10.844
+224,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:28:01.014
+225,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:27:59.809
+226,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:27:47.416
+227,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:27:37.943
+228,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:27:27.209
+229,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:27:19.492
+230,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:27:05.248
+231,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:26:57.930
+232,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:26:43.180
+233,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:26:30.243
+234,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:26:20.721
+235,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-15 09:26:17.314
+236,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46085093799821,-0.9322602546794037,2019-10-15 09:26:02.174
+237,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2019-10-15 09:25:53.248
+238,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:12:21.520
+239,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:06:46.938
+240,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:02:41.879
+241,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:02:35.162
+242,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:01:52.946
+243,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:00:45.446
+244,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 14:00:21.878
+245,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:58:46.016
+246,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:58:12.418
+247,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:57:38.624
+248,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:57:27.384
+249,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:57:16.054
+250,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:56:49.880
+251,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:56:27.717
+252,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:56:13.781
+253,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:55:39.988
+254,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:55:24.253
+255,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:55:03.393
+256,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46071774,-0.93239636,2019-10-18 13:54:57.573
+257,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:17:20.962
+258,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:17:00.504
+259,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:11:24.189
+260,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:08:07.043
+261,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:07:49.496
+262,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:07:37.468
+263,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.460779096924895,-0.9322267879002376,2019-10-18 12:07:10.091
+264,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:06:21.151
+265,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46057838880824,-0.9323731257752288,2019-10-18 12:05:48.158
+266,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:05:39.433
+267,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46076552023867,-0.9322393235400565,2019-10-18 12:05:23.192
+268,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:05:14.865
+269,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:05:04.839
+270,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:04:25.831
+271,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:04:07.678
+272,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46057838880824,-0.9323731257752288,2019-10-18 12:03:40.300
+273,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:03:31.974
+274,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:03:21.249
+275,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:03:13.827
+276,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:03:02.405
+277,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46076552023867,-0.9322393235400565,2019-10-18 12:02:45.948
+278,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.460779096924895,-0.9322267879002376,2019-10-18 12:02:32.508
+279,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:02:22.579
+280,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46076552023867,-0.9322393235400565,2019-10-18 12:02:19.872
+281,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:02:02.246
+282,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:01:53.395
+283,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 12:01:41.964
+284,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:01:33.839
+285,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 12:01:27.427
+286,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46057838880824,-0.9323731257752288,2019-10-18 12:01:15.889
+287,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.460779096924895,-0.9322267879002376,2019-10-18 12:00:59.546
+288,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:59:58.265
+289,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:59:48.539
+290,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:58:58.900
+291,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:58:48.974
+292,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:58:39.145
+293,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:58:22.095
+294,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46059815,-0.93239386,2019-10-18 11:57:31.957
+295,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46078621,-0.93222453,2019-10-18 11:55:27.104
+296,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:36:43.622
+297,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:36:38.604
+298,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:36:28.477
+299,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:36:18.258
+300,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:36:08.245
+301,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:35:58.102
+302,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:35:47.977
+303,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:35:37.845
+304,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:35:27.718
+305,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:35:17.594
+306,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:35:07.466
+307,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:34:57.246
+308,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46094269,-0.9321665,2020-01-09 10:34:47.120
+309,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:21:44.520
+310,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:21:37.952
+311,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:21:28.246
+312,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:21:14.408
+313,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:21:08.147
+314,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:20:57.779
+315,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:20:46.544
+316,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:20:39.147
+317,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:20:22.873
+318,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:20:17.582
+319,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:20:05.171
+320,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:19:57.749
+321,80:58:f8:4f:91:67,146,Anthony Stephens,Chief Technology Officer,3.0,employee,0,51.46065474,-0.93223934,2020-02-19 10:19:47.697

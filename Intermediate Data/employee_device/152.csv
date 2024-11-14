@@ -1,0 +1,165 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.46039862840888,-0.9325371690755972,2019-10-08 10:22:23.326
+1,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:22:16.203
+2,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:22:01.057
+3,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.46039862840888,-0.9325371690755972,2019-10-08 10:21:57.749
+4,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.46039862840888,-0.9325371690755972,2019-10-08 10:21:47.720
+5,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.46039862840888,-0.9325371690755972,2019-10-08 10:21:37.686
+6,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:21:20.444
+7,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:21:10.413
+8,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:21:05.389
+9,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:20:55.356
+10,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:20:49.944
+11,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.460466357266206,-0.9328193855469308,2019-10-08 10:20:39.908
+12,f0:d7:aa:58:0c:2c,13,Terry Contreras,Chief Financial Officer,1.0,employee,0,51.46039862840888,-0.9325371690755972,2019-10-08 10:20:26.971
+13,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:51:48.591
+14,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:46:34.765
+15,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:46:16.924
+16,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:45:59.969
+17,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:44:33.050
+18,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:44:06.288
+19,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:43:48.733
+20,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:43:28.178
+21,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:43:17.546
+22,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:42:59.406
+23,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:42:35.364
+24,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:42:24.025
+25,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:42:17.896
+26,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:42:06.881
+27,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:41:33.476
+28,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:41:21.646
+29,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:41:17.734
+30,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:41:03.094
+31,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:40:58.980
+32,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:40:02.344
+33,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:39:54.421
+34,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:39:46.299
+35,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:39:00.793
+36,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039435837342,-0.9326884978037538,2019-10-15 13:38:40.240
+37,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:38:11.167
+38,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:38:08.260
+39,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:37:36.979
+40,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.4603952,-0.93276948,2019-10-15 13:36:10.350
+41,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:35:55.315
+42,f4:f5:24:04:ef:b4,30,Jeffrey King,Laboratory Technician,3.0,employee,0,51.46039235,-0.93249525,2019-10-15 13:34:18.465
+43,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.4606371,-0.93246087,2019-10-22 16:16:30.439
+44,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:16:12.084
+45,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46041432,-0.93228554,2019-10-22 16:16:04.866
+46,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:15:53.237
+47,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.4606371,-0.93246087,2019-10-22 16:15:45.414
+48,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:15:34.285
+49,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:15:29.873
+50,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:15:19.246
+51,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:15:06.612
+52,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46049858581007,-0.9323518580019696,2019-10-22 16:14:57.285
+53,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.4606371,-0.93246087,2019-10-22 16:14:49.970
+54,24:46:c8:23:db:5c,12,Morgan Johnson,Sales Associate,0.0,employee,0,51.46041432,-0.93228554,2019-10-22 16:14:35.034
+55,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:49:10.375
+56,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:48:19.449
+57,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:47:35.443
+58,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:47:15.897
+59,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:46:43.818
+60,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:46:19.459
+61,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:45:48.089
+62,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:45:29.544
+63,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:44:52.563
+64,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:44:47.150
+65,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:44:32.717
+66,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:44:20.388
+67,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:44:16.779
+68,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:44:08.663
+69,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:43:32.573
+70,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:43:14.332
+71,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:42:52.681
+72,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:42:01.460
+73,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:41:54.843
+74,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:41:24.767
+75,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:41:18.047
+76,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:39:35.306
+77,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46093752,-0.93238226,2019-10-14 14:38:47.685
+78,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:16:12.614
+79,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:13:36.166
+80,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:13:28.152
+81,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:42.953
+82,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:11:35.834
+83,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:11:22.894
+84,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:11:19.586
+85,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:11:03.334
+86,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:42.476
+87,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:10:30.747
+88,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:24.434
+89,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:10:18.719
+90,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:10:09.501
+91,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:09:55.965
+92,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:09:31.403
+93,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:09:20.482
+94,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:09:18.779
+95,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:09:07.754
+96,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46087626056104,-0.9322343793991508,2019-10-14 13:08:55.923
+97,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:41.687
+98,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:39.884
+99,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:28.056
+100,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:08:06.606
+101,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:40.138
+102,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:30.917
+103,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:07:25.405
+104,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:07:03.257
+105,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:06:44.787
+106,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 13:06:06.093
+107,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:05:05.822
+108,80:58:f8:3f:6c:8c,54,Theresa White,Forklift Operator,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 13:03:34.179
+109,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:21:22.644
+110,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:21:17.904
+111,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:21:09.951
+112,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:20:54.620
+113,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:20:45.337
+114,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:20:35.342
+115,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:20:26.018
+116,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:20:16.608
+117,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:20:09.324
+118,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:19:57.654
+119,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:19:48.162
+120,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:19:33.896
+121,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,2,51.46051139080263,-0.9328091534234466,2020-02-10 13:19:29.158
+122,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:12:01.978
+123,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:11:57.279
+124,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:11:49.369
+125,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:11:39.774
+126,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:10:57.840
+127,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:10:30.159
+128,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:10:23.940
+129,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:10:14.511
+130,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:10:06.784
+131,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:09:51.337
+132,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:09:49.533
+133,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:09:18.141
+134,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:08:58.880
+135,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:08:43.727
+136,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:08:26.890
+137,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:08:18.457
+138,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:07:58.891
+139,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.460918136385565,-0.9323724633164476,2019-10-21 13:07:49.066
+140,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:07:37.326
+141,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:07:19.471
+142,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:07:08.845
+143,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-21 13:06:49.283
+144,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:05:14.687
+145,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46065474,-0.93223934,2019-10-21 13:04:29.947
+146,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:59:17.887
+147,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:59:06.971
+148,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:58:34.285
+149,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:58:04.213
+150,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:57:58.205
+151,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:56:57.479
+152,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:56:27.389
+153,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:56:08.147
+154,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:55:56.020
+155,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:55:46.601
+156,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:55:26.755
+157,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:55:17.733
+158,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:55:01.093
+159,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:54:45.755
+160,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:54:20.998
+161,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:53:55.938
+162,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:53:39.704
+163,80:58:f8:b7:56:08,55,Jeffrey Willis,Quality Assurance Specialist,0.0,employee,0,51.46093752,-0.93238226,2019-10-17 14:51:32.613

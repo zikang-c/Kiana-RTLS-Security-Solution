@@ -1,0 +1,198 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050732,-0.932584,2019-11-05 12:43:50.632
+1,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050219562251,-0.9325736133305024,2019-11-05 12:43:45.616
+2,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050219562251,-0.9325736133305024,2019-11-05 12:43:35.192
+3,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050219562251,-0.9325736133305024,2019-11-05 12:43:25.158
+4,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050732,-0.932584,2019-11-05 12:43:15.129
+5,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.4605192271094,-0.9328138522128134,2019-11-05 12:43:08.803
+6,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46052026535666,-0.9328171225291018,2019-11-05 12:42:58.677
+7,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.4605192271094,-0.9328138522128134,2019-11-05 12:42:48.344
+8,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.4605192271094,-0.9328138522128134,2019-11-05 12:42:33.297
+9,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.4605192271094,-0.9328138522128134,2019-11-05 12:42:28.285
+10,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050219562251,-0.9325736133305024,2019-11-05 12:42:19.546
+11,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050219562251,-0.9325736133305024,2019-11-05 12:42:09.415
+12,88:b4:a6:a2:1f:9a,13,Austin Boyer,Chief Technology Officer,2.0,employee,0,51.46050219562251,-0.9325736133305024,2019-11-05 12:41:59.381
+13,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:16:40.832
+14,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46045587798896,-0.9328995163480968,2019-10-08 11:16:35.513
+15,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46045587798896,-0.9328995163480968,2019-10-08 11:16:25.484
+16,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46047400198924,-0.932727241304718,2019-10-08 11:16:15.447
+17,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46045587798896,-0.9328995163480968,2019-10-08 11:16:05.321
+18,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46047400198924,-0.932727241304718,2019-10-08 11:15:55.286
+19,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46047400198924,-0.932727241304718,2019-10-08 11:15:45.251
+20,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:15:34.822
+21,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:15:29.807
+22,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:15:19.776
+23,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:15:09.739
+24,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:14:59.617
+25,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:14:49.586
+26,f0:d7:aa:c6:7a:d1,14,Katherine Jones PhD,Data Engineer,2.0,employee,0,51.46038837,-0.93313945,2019-10-08 11:14:39.548
+27,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:57:01.246
+28,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:56:56.232
+29,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:56:46.206
+30,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:56:36.178
+31,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:56:25.751
+32,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:56:15.731
+33,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:56:05.505
+34,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:55:55.478
+35,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:55:45.447
+36,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:55:35.413
+37,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:55:24.995
+38,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:55:19.980
+39,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46093752,-0.93238226,2019-12-05 13:55:09.945
+40,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46056543008186,-0.9323595289664778,2019-10-15 12:34:30.714
+41,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:33:35.669
+42,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:32:43.530
+43,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:31:45.972
+44,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:31:16.587
+45,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:31:01.746
+46,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:30:56.333
+47,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:30:32.961
+48,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46056543008186,-0.9323595289664778,2019-10-15 12:30:24.041
+49,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077815142897,-0.932231785970602,2019-10-15 12:30:16.226
+50,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:30:04.703
+51,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:29:59.273
+52,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:29:48.241
+53,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-15 12:29:39.019
+54,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:29:29.585
+55,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:29:15.745
+56,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:28:56.695
+57,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46056543008186,-0.9323595289664778,2019-10-15 12:28:43.164
+58,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:28:31.433
+59,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077069057081,-0.93223401957187,2019-10-15 12:28:20.504
+60,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077069057081,-0.93223401957187,2019-10-15 12:28:11.582
+61,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:28:02.452
+62,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077069057081,-0.93223401957187,2019-10-15 12:27:50.720
+63,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-15 12:27:48.818
+64,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-15 12:27:22.646
+65,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077069057081,-0.93223401957187,2019-10-15 12:27:17.939
+66,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:27:09.513
+67,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:26:50.068
+68,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.4607781840324,-0.9322270776792952,2019-10-15 12:26:48.267
+69,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077815142897,-0.932231785970602,2019-10-15 12:26:39.638
+70,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46077069057081,-0.93223401957187,2019-10-15 12:26:29.510
+71,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:26:16.473
+72,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46051793,-0.93230969,2019-10-15 12:26:04.139
+73,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:25:59.024
+74,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46078621,-0.93222453,2019-10-15 12:25:48.890
+75,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:25:36.260
+76,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:25:22.018
+77,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:24:55.450
+78,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:24:43.424
+79,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46059815,-0.93239386,2019-10-15 12:24:17.351
+80,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:21:33.901
+81,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:21:28.886
+82,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:21:18.765
+83,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:21:08.642
+84,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:20:58.518
+85,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:20:48.489
+86,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:20:38.365
+87,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:20:28.339
+88,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:20:18.214
+89,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:20:08.093
+90,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:19:57.973
+91,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:19:47.936
+92,80:58:f8:99:93:b3,66,Christopher Garcia,Human Resources Manager,0.0,employee,0,51.46094269,-0.9321665,2019-12-19 12:19:37.814
+93,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46047600161329,-0.933071882874046,2019-10-22 09:13:57.110
+94,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46047600161329,-0.933071882874046,2019-10-22 09:13:45.138
+95,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:13:10.404
+96,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 09:13:07.196
+97,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46047600161329,-0.933071882874046,2019-10-22 09:12:56.672
+98,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46047600161329,-0.933071882874046,2019-10-22 09:12:48.154
+99,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:12:20.595
+100,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 09:12:18.791
+101,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:11:58.648
+102,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46047600161329,-0.933071882874046,2019-10-22 09:11:38.800
+103,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:11:17.456
+104,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:11:09.535
+105,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:10:48.686
+106,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 09:10:36.262
+107,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 09:10:23.334
+108,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46047600161329,-0.933071882874046,2019-10-22 09:10:17.419
+109,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46042011,-0.93261704,2019-10-22 09:08:32.686
+110,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 09:08:15.340
+111,d0:77:14:ce:e7:9f,19,Jesse Taylor,Graphic Designer,1.0,employee,0,51.46049427,-0.93322055,2019-10-22 09:07:59.201
+112,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:49:48.147
+113,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:49:27.395
+114,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:45:56.886
+115,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:45:22.099
+116,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:45:12.724
+117,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:45:01.192
+118,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:44:48.519
+119,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:44:33.682
+120,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:44:26.061
+121,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:44:14.235
+122,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:44:05.516
+123,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:43:38.951
+124,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:43:24.116
+125,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:43:12.189
+126,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:43:07.279
+127,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:42:58.555
+128,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:42:49.030
+129,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:42:30.688
+130,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:42:22.670
+131,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:42:13.353
+132,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:42:01.179
+133,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:41:57.515
+134,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.460857603394494,-0.9322534437970272,2019-10-14 09:41:47.085
+135,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:41:12.108
+136,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:40:59.574
+137,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:40:17.171
+138,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:40:05.543
+139,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46071774,-0.93239636,2019-10-14 09:39:32.671
+140,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:39:28.460
+141,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:39:13.422
+142,80:58:f8:f2:23:7a,31,Lee Bass,IT Support Specialist,3.0,employee,0,51.46094269,-0.9321665,2019-10-14 09:38:56.182
+143,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46039855603858,-0.9325699385332388,2020-01-17 09:04:03.914
+144,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46042011,-0.93261704,2020-01-17 09:05:50.918
+145,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.4604660342901,-0.9325722161059004,2020-01-17 09:05:43.664
+146,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.460386598390336,-0.9327298781715682,2020-01-17 09:05:38.155
+147,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46043374429261,-0.9326858753446154,2020-01-17 09:05:29.637
+148,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46048690198774,-0.9326603861329572,2020-01-17 09:05:14.303
+149,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.460429814185865,-0.9325629401331345,2020-01-17 09:05:08.466
+150,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46050237840928,-0.93264268463011,2020-01-17 09:04:53.936
+151,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.460448933997895,-0.9326687576409866,2020-01-17 09:04:38.693
+152,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.460448933997895,-0.9326687576409866,2020-01-17 09:04:18.392
+153,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46043504206349,-0.932689192722702,2020-01-17 09:03:58.013
+154,f8:63:9c:d6:4f:0b,12,Jeffrey Howard,Legal Assistant,2.0,employee,0,51.46048099838927,-0.9326992403434684,2020-01-17 09:03:49.296
+155,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:07:21.410
+156,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:05:49.155
+157,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:04:43.776
+158,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:03:42.399
+159,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:01:20.612
+160,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:01:06.067
+161,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:00:56.238
+162,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:00:48.017
+163,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46077818403239,-0.932227077679295,2019-10-15 11:00:32.777
+164,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:00:23.564
+165,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:00:02.319
+166,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:59:55.684
+167,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-15 10:59:42.747
+168,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 10:59:23.500
+169,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460574460426336,-0.9323690039614264,2019-10-15 10:59:13.766
+170,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460773319121834,-0.932236136999902,2019-10-15 10:59:07.847
+171,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 10:58:58.418
+172,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:57:59.554
+173,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-15 10:57:47.723
+174,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 10:57:32.385
+175,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:57:16.037
+176,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:57:06.632
+177,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-15 10:56:54.379
+178,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460766187897,-0.9322381908187028,2019-10-15 10:56:49.366
+179,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460574460426336,-0.9323690039614264,2019-10-15 10:56:14.475
+180,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:55:43.090
+181,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.460574460426336,-0.9323690039614264,2019-10-15 10:55:26.941
+182,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 10:54:51.343
+183,80:58:f8:24:f8:ce,29,Monica Johnson,Cloud Architect,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 10:54:23.667
+184,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:12:45.682
+185,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:12:35.652
+186,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:12:25.224
+187,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:12:15.195
+188,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:12:05.069
+189,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:11:55.031
+190,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:11:44.994
+191,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:11:39.978
+192,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:11:29.948
+193,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:11:19.520
+194,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460464265508165,-0.9327703984176084,2019-10-08 11:11:04.475
+195,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460420649477285,-0.932549118451175,2019-10-08 11:10:55.349
+196,f0:d7:aa:17:02:eb,13,Carol Jordan,Chief Technology Officer,1.0,employee,0,51.460499418206496,-0.9323019807269814,2019-10-08 11:10:48.427

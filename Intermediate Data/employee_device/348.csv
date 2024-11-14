@@ -1,0 +1,41 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46034575,-0.93307374,2019-11-05 10:28:01.895
+1,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:27:58.484
+2,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:27:48.053
+3,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:27:38.026
+4,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:27:27.984
+5,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:27:17.857
+6,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:27:07.820
+7,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:26:57.793
+8,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:26:47.348
+9,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:26:37.316
+10,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.4603408474997,-0.9329996845117337,2019-11-05 10:26:29.895
+11,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:26:17.156
+12,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46046497079361,-0.9328892579827794,2019-11-05 10:26:07.119
+13,88:b4:a6:ad:f1:33,14,Joseph Garcia,Customer Service Manager,1.0,employee,0,51.46034575,-0.93307374,2019-11-05 10:25:59.690
+14,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46046454401263,-0.9328807675808952,2019-11-06 16:16:23.111
+15,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:16:15.078
+16,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:16:09.970
+17,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:15:59.539
+18,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46046454401263,-0.9328807675808952,2019-11-06 16:15:47.898
+19,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:15:39.376
+20,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:15:29.345
+21,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46046454401263,-0.9328807675808952,2019-11-06 16:15:17.205
+22,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46046454401263,-0.9328807675808952,2019-11-06 16:15:07.073
+23,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:14:53.726
+24,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:14:48.615
+25,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:14:38.579
+26,88:b4:a6:12:b1:2a,13,Eric Torres,Logistics Coordinator,2.0,employee,0,51.46043644578439,-0.9327543429908768,2019-11-06 16:14:28.453
+27,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:35:24.403
+28,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46044764179823,-0.9324166782068471,2019-10-08 08:35:10.156
+29,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:35:09.263
+30,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:34:54.207
+31,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46044764179823,-0.9324166782068471,2019-10-08 08:34:44.982
+32,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:34:38.862
+33,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.4604819816124,-0.9328235224440868,2019-10-08 08:34:28.732
+34,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:34:18.709
+35,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:34:03.575
+36,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:33:53.536
+37,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:33:43.510
+38,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46048915976005,-0.9328105166073768,2019-10-08 08:33:38.195
+39,f0:d7:aa:78:2c:de,13,Mark Johnson,Human Resources Manager,1.0,employee,0,51.46049414551011,-0.9328349774818012,2019-10-08 08:33:28.068

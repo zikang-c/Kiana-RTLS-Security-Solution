@@ -1,0 +1,73 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:47:22.643
+1,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:47:17.633
+2,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:47:07.406
+3,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46047988015487,-0.9325919416245206,2019-08-15 12:46:57.380
+4,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:46:47.399
+5,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46049816042982,-0.9324711943384684,2019-08-15 12:46:37.332
+6,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:46:27.306
+7,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:46:16.969
+8,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:46:06.643
+9,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:45:56.615
+10,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:45:46.590
+11,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:45:36.563
+12,88:b4:a6:dc:3f:83,13,Glenda Shelton,Machine Learning Engineer,3.0,employee,0,51.46050376,-0.93231244,2019-08-15 12:45:26.536
+13,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:52:46.893
+14,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 12:49:52.599
+15,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:49:22.927
+16,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:48:09.150
+17,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:47:42.295
+18,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:45:06.160
+19,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:44:54.028
+20,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:44:16.641
+21,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:44:06.718
+22,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:43:04.687
+23,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:42:58.359
+24,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 12:42:43.424
+25,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46092153700096,-0.9321805864301425,2019-10-17 12:42:35.107
+26,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:42:14.392
+27,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:41:59.522
+28,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:41:47.398
+29,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:41:37.566
+30,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46086822844277,-0.932237027780357,2019-10-17 12:41:21.629
+31,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46092153700096,-0.9321805864301425,2019-10-17 12:41:10.702
+32,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46086822844277,-0.932237027780357,2019-10-17 12:40:59.990
+33,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:40:41.741
+34,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:40:32.219
+35,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:40:22.895
+36,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46092153700096,-0.9321805864301425,2019-10-17 12:39:50.724
+37,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 12:39:17.042
+38,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 12:39:06.131
+39,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:38:24.229
+40,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:38:08.299
+41,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:37:53.291
+42,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:37:47.739
+43,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46071774,-0.93239636,2019-10-17 12:37:31.412
+44,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:37:26.893
+45,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.460881925587984,-0.932228590721252,2019-10-17 12:36:55.721
+46,80:58:f8:20:97:80,34,Samantha Wilkinson,Social Media Manager,2.0,employee,0,51.46094269,-0.9321665,2019-10-17 12:34:56.565
+47,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46044610538223,-0.932914217062542,2019-11-06 14:59:59.471
+48,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46044610538223,-0.932914217062542,2019-11-06 14:59:49.439
+49,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46045897604109,-0.9331687833897317,2019-11-06 14:59:39.009
+50,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46045897604109,-0.9331687833897317,2019-11-06 14:59:28.883
+51,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46045897604109,-0.9331687833897317,2019-11-06 14:59:18.853
+52,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.460367124319774,-0.9327167189433304,2019-11-06 14:59:04.501
+53,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.460367124319774,-0.9327167189433304,2019-11-06 14:58:59.390
+54,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46044610538223,-0.932914217062542,2019-11-06 14:58:48.653
+55,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46045897604109,-0.9331687833897317,2019-11-06 14:58:38.222
+56,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.460367124319774,-0.9327167189433304,2019-11-06 14:58:28.793
+57,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.460367124319774,-0.9327167189433304,2019-11-06 14:58:18.757
+58,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46044610538223,-0.932914217062542,2019-11-06 14:58:08.032
+59,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:30:24.561
+60,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:30:17.776
+61,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:30:03.954
+62,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:29:58.826
+63,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:29:43.267
+64,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:29:34.136
+65,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:29:24.952
+66,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:29:15.970
+67,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:29:04.326
+68,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:28:55.256
+69,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:28:46.500
+70,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46043497047862,-0.9329931453045568,2020-03-16 13:28:37.258
+71,88:b4:a6:27:34:ad,25,Sandra Oliver,Systems Analyst,3.0,employee,0,51.46041057,-0.93295959,2020-03-16 13:28:24.219

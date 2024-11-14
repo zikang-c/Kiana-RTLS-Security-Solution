@@ -1,0 +1,169 @@
+,ClientMacAddr,frequency,Name,Job_Title,security_level,classification,Level,lat,lng,localtime
+0,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:11:54.101
+1,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:11:14.213
+2,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:11:05.296
+3,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:10:50.160
+4,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:10:45.553
+5,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:10:30.121
+6,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:10:29.516
+7,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:10:19.996
+8,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:10:04.059
+9,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:51.029
+10,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:09:38.699
+11,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:09:25.671
+12,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:09:02.519
+13,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:08:55.600
+14,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:08:47.884
+15,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:08:26.143
+16,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:08:10.202
+17,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:07:59.475
+18,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46088727638634,-0.9322231231306386,2019-10-14 12:07:20.287
+19,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:07:16.375
+20,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:07:07.361
+21,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:06:58.739
+22,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:06:39.194
+23,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:06:20.047
+24,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:06:02.625
+25,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:05:49.780
+26,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:04:48.838
+27,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:04:29.998
+28,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:04:18.767
+29,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:14:54.642
+30,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:13:45.268
+31,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:13:17.603
+32,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46094269,-0.9321665,2019-10-14 12:12:43.021
+33,80:58:f8:1a:a2:c2,34,Jessica Hill,Customer Service Manager,1.0,employee,0,51.46071774,-0.93239636,2019-10-14 12:12:14.653
+34,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:08:32.818
+35,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:06:33.096
+36,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:05:53.197
+37,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:05:10.393
+38,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:04:58.967
+39,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:04:38.009
+40,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.4609053792218,-0.9322046251632692,2019-10-15 16:04:15.350
+41,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:36.955
+42,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:03:29.439
+43,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:03:01.066
+44,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:02:47.530
+45,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:02:36.299
+46,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:02:29.683
+47,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:02:07.525
+48,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:51.076
+49,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:41.947
+50,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:39.841
+51,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:01:15.484
+52,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:01:09.363
+53,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:00:56.742
+54,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 16:00:48.411
+55,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.4609053792218,-0.9322046251632692,2019-10-15 16:00:24.347
+56,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 16:00:18.333
+57,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.4609053792218,-0.9322046251632692,2019-10-15 16:00:06.395
+58,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:59:58.776
+59,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.4609053792218,-0.9322046251632692,2019-10-15 15:59:47.753
+60,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:59:32.714
+61,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:59:22.890
+62,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:58:56.328
+63,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:58:48.190
+64,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46071774,-0.93239636,2019-10-15 15:58:24.975
+65,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46094269,-0.9321665,2019-10-15 15:57:08.046
+66,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:49:35.207
+67,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:48:50.286
+68,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:47:45.710
+69,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:44:27.570
+70,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 11:44:12.815
+71,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:42:56.912
+72,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 11:42:39.145
+73,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:41:52.318
+74,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:41:40.282
+75,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:41:36.171
+76,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:41:13.515
+77,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:41:07.608
+78,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:40:55.766
+79,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46077986472042,-0.9322302433159134,2019-10-15 11:40:33.504
+80,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:40:29.992
+81,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46059815,-0.93239386,2019-10-15 11:40:12.745
+82,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-15 11:39:58.098
+83,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:39:46.671
+84,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:39:36.241
+85,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 11:39:20.906
+86,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:39:12.976
+87,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-15 11:38:59.736
+88,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46077990849698,-0.9322265302832734,2019-10-15 11:38:41.786
+89,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:38:23.632
+90,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:37:47.637
+91,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46078621,-0.93222453,2019-10-15 11:37:17.555
+92,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 11:35:40.380
+93,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46051793,-0.93230969,2019-10-15 11:35:29.751
+94,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:56:38.921
+95,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:54:33.345
+96,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:54:13.303
+97,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:53:51.952
+98,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:52:47.196
+99,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:52:09.020
+100,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:51:59.886
+101,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:51:09.582
+102,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:50:55.746
+103,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:50:45.620
+104,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:50:32.898
+105,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:49:57.416
+106,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:49:47.483
+107,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:49:19.615
+108,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:48:01.235
+109,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:47:36.282
+110,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:46:58.601
+111,80:58:f8:68:df:ff,78,Kayla Chavez,Network Administrator,1.0,employee,0,51.46093752,-0.93238226,2019-10-17 12:46:40.458
+112,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:17:20.074
+113,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46091256493668,-0.9321865612026352,2019-10-15 10:16:53.404
+114,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:16:36.063
+115,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:16:22.524
+116,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:16:17.708
+117,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:16:00.160
+118,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:15:43.918
+119,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:15:33.988
+120,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:15:25.259
+121,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:15:11.224
+122,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:15:01.704
+123,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:14:56.181
+124,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:14:44.848
+125,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:14:32.614
+126,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:14:26.799
+127,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:14:19.574
+128,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:14:02.530
+129,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:13:49.595
+130,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46071774,-0.93239636,2019-10-15 10:13:20.608
+131,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:13:11.880
+132,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46084411844929,-0.9322672230791198,2019-10-15 10:13:09.471
+133,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:12:31.470
+134,f4:f5:24:e8:2e:e0,23,Anne Thompson,Truck Driver,2.0,employee,0,51.46094269,-0.9321665,2019-10-15 10:10:04.353
+135,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 17:02:56.354
+136,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:57:23.076
+137,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:56:52.885
+138,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.460452197882894,-0.9325369307142762,2019-10-18 16:56:20.800
+139,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:55:24.847
+140,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:55:15.225
+141,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:54:54.471
+142,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:54:30.198
+143,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.460452197882894,-0.9325369307142762,2019-10-18 16:53:23.423
+144,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:53:08.170
+145,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:52:00.189
+146,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:51:46.155
+147,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032339113798,-0.9323839831233726,2019-10-18 16:51:24.289
+148,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:50:59.222
+149,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:50:47.186
+150,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:50:32.344
+151,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:50:24.525
+152,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:50:13.194
+153,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:50:09.384
+154,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.460452197882894,-0.9325369307142762,2019-10-18 16:49:57.555
+155,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032339113798,-0.9323839831233726,2019-10-18 16:49:48.025
+156,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:49:31.485
+157,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032339113798,-0.9323839831233726,2019-10-18 16:49:09.220
+158,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:48:58.389
+159,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032339113798,-0.9323839831233726,2019-10-18 16:48:43.650
+160,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:48:00.036
+161,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:47:51.215
+162,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:47:30.061
+163,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46032117,-0.93237729,2019-10-18 16:47:05.092
+164,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:46:22.075
+165,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46033351319153,-0.932388673766098,2019-10-18 16:46:08.744
+166,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:44:45.519
+167,80:58:f8:6d:8d:89,33,Tara Robinson DVM,Inventory Clerk,2.0,employee,0,51.46044905,-0.93249523,2019-10-18 16:44:30.876
